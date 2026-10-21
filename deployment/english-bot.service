@@ -1,0 +1,17 @@
+[Unit]
+Description=English in Pocket Telegram Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/my_bot/ENGLISH_V_KARMANE_BOT
+EnvironmentFile=/etc/english-bot.env
+ExecStart=/root/my_bot/ENGLISH_V_KARMANE_BOT/.venv/bin/python /root/my_bot/ENGLISH_V_KARMANE_BOT/run_bot
+Restart=on-failure
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
