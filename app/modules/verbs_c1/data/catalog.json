@@ -1,0 +1,15 @@
+{
+  "course_id": "verbs_c1_v1",
+  "course_version": "2026-07-v1",
+  "levels": {
+    "C1": 40
+  },
+  "total_cards": 40,
+  "quizzes_per_card": 1,
+  "correct_answer_distribution": {
+    "A": 10,
+    "B": 10,
+    "C": 10,
+    "D": 10
+  }
+}

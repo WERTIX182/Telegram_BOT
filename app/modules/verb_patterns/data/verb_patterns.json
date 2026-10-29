@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "vp_01",
+    "order": 1,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Verb + to-infinitive",
+    "title_ru": "Глагол + инфинитив с to",
+    "rule": "После decide, hope, plan, promise, agree, refuse, learn и ряда других глаголов обычно употребляется инфинитив с to. Эта модель часто выражает решение, намерение, обещание или отказ.",
+    "patterns": [
+      "decide / hope / plan + to do",
+      "agree / promise / refuse + to do"
+    ],
+    "examples": [
+      {
+        "en": "We decided to leave early.",
+        "ru": "Мы решили уйти рано."
+      },
+      {
+        "en": "She promised to call me.",
+        "ru": "Она пообещала позвонить мне."
+      },
+      {
+        "en": "He refused to answer.",
+        "ru": "Он отказался отвечать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I decided going home.",
+      "right": "I decided to go home.",
+      "note": "После decide нужна форма to + infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "We agreed ___ after lunch.",
+        "options": [
+          "to meet",
+          "meeting",
+          "meet",
+          "met"
+        ],
+        "correct_index": 0,
+        "explanation": "После agree используется to-infinitive: agree to meet."
+      },
+      {
+        "prompt": "She refused ___ the document.",
+        "options": [
+          "signing",
+          "to sign",
+          "sign",
+          "signed"
+        ],
+        "correct_index": 1,
+        "explanation": "После refuse используется to-infinitive: refuse to sign."
+      }
+    ]
+  },
+  {
+    "id": "vp_02",
+    "order": 2,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Verb + -ing",
+    "title_ru": "Глагол + форма -ing",
+    "rule": "После enjoy, avoid, finish, mind, consider, suggest и некоторых других глаголов используется форма -ing. Здесь -ing выполняет функцию герундия.",
+    "patterns": [
+      "enjoy / avoid / finish + doing",
+      "mind / consider + doing"
+    ],
+    "examples": [
+      {
+        "en": "I enjoy learning languages.",
+        "ru": "Мне нравится изучать языки."
+      },
+      {
+        "en": "She avoided answering the question.",
+        "ru": "Она избегала отвечать на вопрос."
+      },
+      {
+        "en": "Have you finished writing the email?",
+        "ru": "Ты закончил писать письмо?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I enjoy to read.",
+      "right": "I enjoy reading.",
+      "note": "После enjoy используется герундий, а не to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "Would you mind ___ the window?",
+        "options": [
+          "to open",
+          "open",
+          "opening",
+          "opened"
+        ],
+        "correct_index": 2,
+        "explanation": "После mind используется форма -ing: mind opening."
+      },
+      {
+        "prompt": "He avoided ___ about the mistake.",
+        "options": [
+          "to talk",
+          "talk",
+          "talked",
+          "talking"
+        ],
+        "correct_index": 3,
+        "explanation": "После avoid используется форма -ing: avoid talking."
+      }
+    ]
+  },
+  {
+    "id": "vp_03",
+    "order": 3,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Verb + object + to-infinitive",
+    "title_ru": "Глагол + дополнение + to-infinitive",
+    "rule": "После ask, tell, want, expect, remind, invite и некоторых других глаголов можно поставить дополнение, а затем инфинитив с to. Дополнение показывает, кто должен выполнить действие.",
+    "patterns": [
+      "ask / tell / remind + someone + to do",
+      "want / expect + someone + to do"
+    ],
+    "examples": [
+      {
+        "en": "The teacher told us to wait.",
+        "ru": "Учитель сказал нам подождать."
+      },
+      {
+        "en": "I want you to be careful.",
+        "ru": "Я хочу, чтобы ты был осторожен."
+      },
+      {
+        "en": "She reminded me to reply.",
+        "ru": "Она напомнила мне ответить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She told to me wait.",
+      "right": "She told me to wait.",
+      "note": "После tell сначала ставится человек без предлога, затем to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "The teacher reminded us ___ our names.",
+        "options": [
+          "to write",
+          "writing",
+          "write",
+          "written"
+        ],
+        "correct_index": 0,
+        "explanation": "Модель remind someone to do: reminded us to write."
+      },
+      {
+        "prompt": "I expect them ___ on time.",
+        "options": [
+          "arriving",
+          "to arrive",
+          "arrive",
+          "arrived"
+        ],
+        "correct_index": 1,
+        "explanation": "После expect + object используется to-infinitive: expect them to arrive."
+      }
+    ]
+  },
+  {
+    "id": "vp_04",
+    "order": 4,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Make / let + bare infinitive",
+    "title_ru": "Make и let + инфинитив без to",
+    "rule": "В активном залоге после make и let ставится дополнение и инфинитив без to. Make означает «заставить/вызвать», let — «разрешить».",
+    "patterns": [
+      "make + someone + do",
+      "let + someone + do"
+    ],
+    "examples": [
+      {
+        "en": "The news made her cry.",
+        "ru": "Новость заставила её плакать."
+      },
+      {
+        "en": "Let me explain.",
+        "ru": "Позволь мне объяснить."
+      },
+      {
+        "en": "They let us leave early.",
+        "ru": "Они разрешили нам уйти рано."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "My boss made me to stay.",
+      "right": "My boss made me stay.",
+      "note": "После make в активном залоге to не ставится."
+    },
+    "quizzes": [
+      {
+        "prompt": "The joke made everyone ___.",
+        "options": [
+          "to laugh",
+          "laughing",
+          "laugh",
+          "laughed"
+        ],
+        "correct_index": 2,
+        "explanation": "После make + object нужен bare infinitive: made everyone laugh."
+      },
+      {
+        "prompt": "Her parents let her ___ with friends.",
+        "options": [
+          "to go out",
+          "going out",
+          "went out",
+          "go out"
+        ],
+        "correct_index": 3,
+        "explanation": "После let + object употребляется инфинитив без to: let her go out."
+      }
+    ]
+  },
+  {
+    "id": "vp_05",
+    "order": 5,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Allow / permit + object + to-infinitive",
+    "title_ru": "Allow и permit с дополнением",
+    "rule": "После allow и permit, если указан человек, употребляется object + to-infinitive. Без указания человека возможна форма -ing: They do not allow smoking.",
+    "patterns": [
+      "allow / permit + someone + to do",
+      "allow / permit + doing"
+    ],
+    "examples": [
+      {
+        "en": "They allowed us to enter.",
+        "ru": "Они разрешили нам войти."
+      },
+      {
+        "en": "Visitors are not permitted to take photos.",
+        "ru": "Посетителям не разрешено фотографировать."
+      },
+      {
+        "en": "The school does not allow smoking.",
+        "ru": "В школе не разрешают курить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They allowed us enter.",
+      "right": "They allowed us to enter.",
+      "note": "После allow + object требуется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "Visitors are not allowed ___ photos here.",
+        "options": [
+          "to take",
+          "taking",
+          "take",
+          "to taking"
+        ],
+        "correct_index": 0,
+        "explanation": "После be allowed употребляется to-infinitive: are allowed to take."
+      },
+      {
+        "prompt": "The rules permit employees ___ from home twice a week.",
+        "options": [
+          "working",
+          "to work",
+          "work",
+          "worked"
+        ],
+        "correct_index": 1,
+        "explanation": "Модель permit someone to do: permit employees to work."
+      }
+    ]
+  },
+  {
+    "id": "vp_06",
+    "order": 6,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Help + (to) infinitive",
+    "title_ru": "Help с инфинитивом",
+    "rule": "После help возможны как инфинитив без to, так и to-infinitive: help someone do / help someone to do. Оба варианта нормативны; вариант без to особенно распространён в современном английском.",
+    "patterns": [
+      "help + someone + do",
+      "help + someone + to do"
+    ],
+    "examples": [
+      {
+        "en": "She helped me carry the boxes.",
+        "ru": "Она помогла мне перенести коробки."
+      },
+      {
+        "en": "This guide will help you to understand the system.",
+        "ru": "Это руководство поможет вам понять систему."
+      },
+      {
+        "en": "Can you help me find my keys?",
+        "ru": "Ты можешь помочь мне найти ключи?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He helped me carrying the bag.",
+      "right": "He helped me carry the bag.",
+      "note": "После help ставится инфинитив, а не форма -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "Which sentence is correct?",
+        "options": [
+          "She helped me carrying the boxes.",
+          "She helped me carried the boxes.",
+          "She helped me carry the boxes.",
+          "She helped me to carrying the boxes."
+        ],
+        "correct_index": 2,
+        "explanation": "После help возможен bare infinitive: helped me carry."
+      },
+      {
+        "prompt": "Which sentence is standard English?",
+        "options": [
+          "The guide helped us understanding the map.",
+          "The guide helped us understood the map.",
+          "The guide helped us to understood the map.",
+          "The guide helped us understand the map."
+        ],
+        "correct_index": 3,
+        "explanation": "После help употребляется infinitive: help us understand / to understand."
+      }
+    ]
+  },
+  {
+    "id": "vp_07",
+    "order": 7,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Would like / love / prefer + to-infinitive",
+    "title_ru": "Would like, love, prefer + to-infinitive",
+    "rule": "Would like, would love и would prefer обычно описывают конкретное желание или выбор и употребляются с to-infinitive.",
+    "patterns": [
+      "would like / love + to do",
+      "would prefer + to do"
+    ],
+    "examples": [
+      {
+        "en": "I would like to book a table.",
+        "ru": "Я хотел бы забронировать столик."
+      },
+      {
+        "en": "We would love to visit you.",
+        "ru": "Мы были бы рады вас навестить."
+      },
+      {
+        "en": "She would prefer to wait outside.",
+        "ru": "Она предпочла бы подождать снаружи."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I would like going now.",
+      "right": "I would like to go now.",
+      "note": "После would like употребляется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "I'd like ___ a room for two nights.",
+        "options": [
+          "to book",
+          "booking",
+          "book",
+          "booked"
+        ],
+        "correct_index": 0,
+        "explanation": "После would like используется to-infinitive: would like to book."
+      },
+      {
+        "prompt": "She would prefer ___ until tomorrow.",
+        "options": [
+          "waiting",
+          "to wait",
+          "wait",
+          "waited"
+        ],
+        "correct_index": 1,
+        "explanation": "После would prefer обычно используется to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "vp_08",
+    "order": 8,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Like / love / hate / prefer",
+    "title_ru": "Общие предпочтения и конкретные желания",
+    "rule": "Like, love, hate и prefer могут употребляться с -ing и с to-infinitive. Форма -ing часто подчёркивает удовольствие или отношение к занятию вообще. To-infinitive нередко описывает привычный выбор или конкретную ситуацию. Разница не всегда строгая. Для конкретного желания используется would like + to-infinitive.",
+    "patterns": [
+      "like / love / hate + doing",
+      "like / prefer + to do",
+      "would like + to do"
+    ],
+    "examples": [
+      {
+        "en": "I love cooking for friends.",
+        "ru": "Я люблю готовить для друзей."
+      },
+      {
+        "en": "I like to check my email in the morning.",
+        "ru": "Я предпочитаю проверять почту утром."
+      },
+      {
+        "en": "I would like to leave now.",
+        "ru": "Я хотел бы сейчас уйти."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I would like reading this book now.",
+      "right": "I would like to read this book now.",
+      "note": "Would like выражает конкретное желание и требует to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "Which sentence expresses enjoyment of an activity in general?",
+        "options": [
+          "I would like to read now.",
+          "I like to reading on the train.",
+          "I like reading on the train.",
+          "I am like reading on the train."
+        ],
+        "correct_index": 2,
+        "explanation": "Like + -ing естественно выражает общее удовольствие от занятия."
+      },
+      {
+        "prompt": "Which sentence expresses a present wish?",
+        "options": [
+          "I like staying at home in general.",
+          "I would like staying at home this evening.",
+          "I like to staying at home this evening.",
+          "I would like to stay at home this evening."
+        ],
+        "correct_index": 3,
+        "explanation": "Конкретное желание выражается would like + to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "vp_09",
+    "order": 9,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Start / begin / continue",
+    "title_ru": "Start, begin, continue + -ing / to-infinitive",
+    "rule": "После start, begin и continue обычно возможны и -ing, и to-infinitive без существенной разницы: It started raining / to rain. После формы Continuous чаще выбирают to-infinitive, чтобы избежать двух -ing подряд.",
+    "patterns": [
+      "start / begin / continue + doing",
+      "start / begin / continue + to do"
+    ],
+    "examples": [
+      {
+        "en": "It began to rain.",
+        "ru": "Начался дождь."
+      },
+      {
+        "en": "It began raining.",
+        "ru": "Начался дождь."
+      },
+      {
+        "en": "She is starting to understand.",
+        "ru": "Она начинает понимать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It started rain.",
+      "right": "It started raining.",
+      "note": "После start нужен -ing или to-infinitive, но не bare infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "Which pair contains two standard alternatives?",
+        "options": [
+          "It started raining / It started to rain.",
+          "It started rain / It started to raining.",
+          "It started rained / It started to rained.",
+          "It started rains / It started to rains."
+        ],
+        "correct_index": 0,
+        "explanation": "После start нормативны both -ing и to-infinitive."
+      },
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "He continued work after lunch.",
+          "He continued working after lunch.",
+          "He continued worked after lunch.",
+          "He continued to working after lunch."
+        ],
+        "correct_index": 1,
+        "explanation": "После continue возможна форма -ing: continued working."
+      }
+    ]
+  },
+  {
+    "id": "vp_10",
+    "order": 10,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Verb + preposition + -ing",
+    "title_ru": "Глагол + предлог + форма -ing",
+    "rule": "Если после глагола идёт предлог, следующий глагол обычно принимает форму -ing: apologise for doing, insist on doing, think about doing, object to doing. Здесь to является предлогом, а не частью инфинитива.",
+    "patterns": [
+      "verb + preposition + doing",
+      "object to / look forward to + doing"
+    ],
+    "examples": [
+      {
+        "en": "She apologised for being late.",
+        "ru": "Она извинилась за опоздание."
+      },
+      {
+        "en": "He insisted on paying.",
+        "ru": "Он настоял на том, чтобы заплатить."
+      },
+      {
+        "en": "I look forward to hearing from you.",
+        "ru": "Я с нетерпением жду вашего ответа."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I look forward to hear from you.",
+      "right": "I look forward to hearing from you.",
+      "note": "В look forward to слово to — предлог, поэтому после него используется -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "She apologised for ___ late.",
+        "options": [
+          "to be",
+          "be",
+          "being",
+          "been"
+        ],
+        "correct_index": 2,
+        "explanation": "После предлога for используется герундий: for being."
+      },
+      {
+        "prompt": "He insisted on ___ the bill.",
+        "options": [
+          "to pay",
+          "pay",
+          "paid",
+          "paying"
+        ],
+        "correct_index": 3,
+        "explanation": "После insist on употребляется форма -ing."
+      }
+    ]
+  },
+  {
+    "id": "vp_11",
+    "order": 11,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Adjective + to-infinitive",
+    "title_ru": "Прилагательное + to-infinitive",
+    "rule": "После многих прилагательных используется to-infinitive: happy to help, ready to start, difficult to explain, surprised to see. Конструкция описывает реакцию, готовность или оценку действия.",
+    "patterns": [
+      "adjective + to do",
+      "It is + adjective + to do"
+    ],
+    "examples": [
+      {
+        "en": "I am pleased to meet you.",
+        "ru": "Я рад с вами познакомиться."
+      },
+      {
+        "en": "The instructions are easy to follow.",
+        "ru": "Инструкции легко выполнять."
+      },
+      {
+        "en": "She was surprised to hear the news.",
+        "ru": "Она удивилась, услышав новость."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am happy helping you now.",
+      "right": "I am happy to help you now.",
+      "note": "Для реакции или готовности обычно используется adjective + to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "I was pleased ___ from you.",
+        "options": [
+          "to hear",
+          "hearing",
+          "hear",
+          "heard"
+        ],
+        "correct_index": 0,
+        "explanation": "После pleased используется to-infinitive: pleased to hear."
+      },
+      {
+        "prompt": "This rule is difficult ___.",
+        "options": [
+          "explaining",
+          "to explain",
+          "explain",
+          "explained"
+        ],
+        "correct_index": 1,
+        "explanation": "Модель adjective + to-infinitive: difficult to explain."
+      }
+    ]
+  },
+  {
+    "id": "vp_12",
+    "order": 12,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Noun + to-infinitive",
+    "title_ru": "Существительное + to-infinitive",
+    "rule": "После существительных, обозначающих решение, план, возможность, способность или попытку, часто используется to-infinitive: a decision to leave, an ability to solve, a chance to improve.",
+    "patterns": [
+      "decision / plan / attempt + to do",
+      "ability / chance / opportunity + to do"
+    ],
+    "examples": [
+      {
+        "en": "They made a decision to postpone the meeting.",
+        "ru": "Они приняли решение отложить встречу."
+      },
+      {
+        "en": "She has the ability to explain complex ideas.",
+        "ru": "Она умеет объяснять сложные идеи."
+      },
+      {
+        "en": "This is a chance to improve.",
+        "ru": "Это возможность стать лучше."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We made a decision postponing it.",
+      "right": "We made a decision to postpone it.",
+      "note": "После decision в этой модели используется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "They made a decision ___ the launch.",
+        "options": [
+          "postponing",
+          "postpone",
+          "to postpone",
+          "postponed"
+        ],
+        "correct_index": 2,
+        "explanation": "Модель a decision to do: a decision to postpone."
+      },
+      {
+        "prompt": "He has the ability ___ complex problems.",
+        "options": [
+          "solving",
+          "solve",
+          "solved",
+          "to solve"
+        ],
+        "correct_index": 3,
+        "explanation": "После ability обычно используется to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "vp_13",
+    "order": 13,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Question word + to-infinitive",
+    "title_ru": "Вопросительное слово + to-infinitive",
+    "rule": "После know, decide, explain, show, wonder и подобных глаголов можно использовать what/how/where/when/whether + to-infinitive. Конструкция сокращает придаточное предложение.",
+    "patterns": [
+      "what / how / where + to do",
+      "whether + to do"
+    ],
+    "examples": [
+      {
+        "en": "I do not know what to say.",
+        "ru": "Я не знаю, что сказать."
+      },
+      {
+        "en": "Can you show me how to use it?",
+        "ru": "Можешь показать, как этим пользоваться?"
+      },
+      {
+        "en": "We have not decided where to stay.",
+        "ru": "Мы ещё не решили, где остановиться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I do not know what say.",
+      "right": "I do not know what to say.",
+      "note": "После вопросительного слова требуется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "I do not know what ___.",
+        "options": [
+          "to say",
+          "saying",
+          "say",
+          "said"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная модель: what to say."
+      },
+      {
+        "prompt": "Please show me how ___ this app.",
+        "options": [
+          "using",
+          "to use",
+          "use",
+          "used"
+        ],
+        "correct_index": 1,
+        "explanation": "После how в сокращённой конструкции ставится to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "vp_14",
+    "order": 14,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Gerund as subject or object",
+    "title_ru": "Герундий как подлежащее или дополнение",
+    "rule": "Форма -ing может называть действие как явление. Она употребляется в роли подлежащего или дополнения: Travelling teaches patience; I enjoy travelling.",
+    "patterns": [
+      "Doing + verb ...",
+      "verb + doing"
+    ],
+    "examples": [
+      {
+        "en": "Working from home saves time.",
+        "ru": "Работа из дома экономит время."
+      },
+      {
+        "en": "Reading helps me relax.",
+        "ru": "Чтение помогает мне расслабиться."
+      },
+      {
+        "en": "She admitted breaking the vase.",
+        "ru": "Она призналась, что разбила вазу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "To smoking is harmful.",
+      "right": "Smoking is harmful.",
+      "note": "Когда действие называется как общее явление, естественно использовать герундий."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ alone can be rewarding.",
+        "options": [
+          "Travel",
+          "Travelled",
+          "Travelling",
+          "To travelling"
+        ],
+        "correct_index": 2,
+        "explanation": "Герундий может быть подлежащим: Travelling alone can be rewarding."
+      },
+      {
+        "prompt": "She admitted ___ the vase.",
+        "options": [
+          "to break",
+          "break",
+          "broken",
+          "breaking"
+        ],
+        "correct_index": 3,
+        "explanation": "После admit используется форма -ing."
+      }
+    ]
+  },
+  {
+    "id": "vp_15",
+    "order": 15,
+    "level": "A2-B1",
+    "category": "CORE",
+    "title_en": "Infinitive of purpose",
+    "title_ru": "Инфинитив цели",
+    "rule": "To-infinitive может отвечать на вопрос «зачем?»: I called to ask a question. Более формальные варианты — in order to и so as to. Отрицание: in order not to / so as not to.",
+    "patterns": [
+      "to do = in order to do",
+      "in order not to / so as not to do"
+    ],
+    "examples": [
+      {
+        "en": "I called to ask a question.",
+        "ru": "Я позвонил, чтобы задать вопрос."
+      },
+      {
+        "en": "She left early in order to avoid traffic.",
+        "ru": "Она вышла рано, чтобы избежать пробок."
+      },
+      {
+        "en": "He spoke quietly so as not to wake the baby.",
+        "ru": "Он говорил тихо, чтобы не разбудить ребёнка."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I called for ask a question.",
+      "right": "I called to ask a question.",
+      "note": "Для выражения цели используется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "I called ___ about the vacancy.",
+        "options": [
+          "to ask",
+          "asking",
+          "ask",
+          "asked"
+        ],
+        "correct_index": 0,
+        "explanation": "To-infinitive выражает цель звонка."
+      },
+      {
+        "prompt": "She left early so as not ___ the train.",
+        "options": [
+          "missing",
+          "to miss",
+          "miss",
+          "missed"
+        ],
+        "correct_index": 1,
+        "explanation": "После so as not используется to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "vp_16",
+    "order": 16,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Remember doing / remember to do",
+    "title_ru": "Remember: помнить действие или не забыть сделать",
+    "rule": "Remember doing означает помнить уже произошедшее действие. Remember to do означает не забыть выполнить действие.",
+    "patterns": [
+      "remember doing = помнить прошлое",
+      "remember to do = не забыть сделать"
+    ],
+    "examples": [
+      {
+        "en": "I remember meeting her at university.",
+        "ru": "Я помню, как встретил её в университете."
+      },
+      {
+        "en": "Remember to lock the door.",
+        "ru": "Не забудь запереть дверь."
+      },
+      {
+        "en": "Did you remember to send the file?",
+        "ru": "Ты не забыл отправить файл?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Remember locking the door before you leave.",
+      "right": "Remember to lock the door before you leave.",
+      "note": "Речь о будущем действии, поэтому нужен to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "Remember ___ the door before you leave.",
+        "options": [
+          "locking",
+          "lock",
+          "to lock",
+          "locked"
+        ],
+        "correct_index": 2,
+        "explanation": "Нужно не забыть выполнить действие: remember to lock."
+      },
+      {
+        "prompt": "I remember ___ her for the first time.",
+        "options": [
+          "to meet",
+          "meet",
+          "met",
+          "meeting"
+        ],
+        "correct_index": 3,
+        "explanation": "Речь о воспоминании о прошлом: remember meeting."
+      }
+    ]
+  },
+  {
+    "id": "vp_17",
+    "order": 17,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Forget doing / forget to do",
+    "title_ru": "Forget: забыть факт или забыть выполнить",
+    "rule": "Forget to do означает не выполнить действие, потому что вы о нём забыли. Forget doing относится к памяти о прошлом; часто встречается в отрицательной форме: I will never forget seeing it.",
+    "patterns": [
+      "forget to do = забыть сделать",
+      "forget doing = не помнить / никогда не забыть событие"
+    ],
+    "examples": [
+      {
+        "en": "I forgot to send the invoice.",
+        "ru": "Я забыл отправить счёт."
+      },
+      {
+        "en": "I will never forget seeing the ocean for the first time.",
+        "ru": "Я никогда не забуду, как впервые увидел океан."
+      },
+      {
+        "en": "She forgot to turn off the light.",
+        "ru": "Она забыла выключить свет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I forgot sending the email, so it was never sent.",
+      "right": "I forgot to send the email, so it was never sent.",
+      "note": "Невыполненное действие выражается forget to do."
+    },
+    "quizzes": [
+      {
+        "prompt": "He forgot ___ the attachment.",
+        "options": [
+          "to include",
+          "including",
+          "include",
+          "included"
+        ],
+        "correct_index": 0,
+        "explanation": "Он не выполнил действие: forgot to include."
+      },
+      {
+        "prompt": "I will never forget ___ that concert.",
+        "options": [
+          "to see",
+          "seeing",
+          "see",
+          "saw"
+        ],
+        "correct_index": 1,
+        "explanation": "Воспоминание о прошлом событии: forget seeing."
+      }
+    ]
+  },
+  {
+    "id": "vp_18",
+    "order": 18,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Stop doing / stop to do",
+    "title_ru": "Stop: прекратить или остановиться с целью",
+    "rule": "Stop doing означает прекратить действие. Stop to do означает остановить другое действие, чтобы выполнить новое.",
+    "patterns": [
+      "stop doing = прекратить",
+      "stop to do = остановиться, чтобы сделать"
+    ],
+    "examples": [
+      {
+        "en": "He stopped smoking last year.",
+        "ru": "Он бросил курить в прошлом году."
+      },
+      {
+        "en": "We stopped to have some coffee.",
+        "ru": "Мы остановились, чтобы выпить кофе."
+      },
+      {
+        "en": "She stopped talking when the manager entered.",
+        "ru": "Она перестала говорить, когда вошёл руководитель."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We stopped having coffee on the way.",
+      "right": "We stopped to have coffee on the way.",
+      "note": "Если остановились с целью выпить кофе, используется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "He stopped ___ because of his health.",
+        "options": [
+          "to smoke",
+          "smoke",
+          "smoking",
+          "smoked"
+        ],
+        "correct_index": 2,
+        "explanation": "Он прекратил привычку: stop doing."
+      },
+      {
+        "prompt": "She stopped ___ the phone.",
+        "options": [
+          "answering",
+          "answer",
+          "answered",
+          "to answer"
+        ],
+        "correct_index": 3,
+        "explanation": "Она прервала другое действие, чтобы ответить: stop to answer."
+      }
+    ]
+  },
+  {
+    "id": "vp_19",
+    "order": 19,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Try doing / try to do",
+    "title_ru": "Try: попробовать способ или постараться",
+    "rule": "Try doing означает испытать способ и посмотреть на результат. Try to do означает приложить усилие, чтобы выполнить трудное действие.",
+    "patterns": [
+      "try doing = попробовать как способ",
+      "try to do = попытаться"
+    ],
+    "examples": [
+      {
+        "en": "Try restarting the computer.",
+        "ru": "Попробуй перезагрузить компьютер."
+      },
+      {
+        "en": "I tried to lift the box, but it was too heavy.",
+        "ru": "Я попытался поднять коробку, но она была слишком тяжёлой."
+      },
+      {
+        "en": "Try adding a little more water.",
+        "ru": "Попробуй добавить немного воды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I tried restarting the box, but it was too heavy.",
+      "right": "I tried to lift the box, but it was too heavy.",
+      "note": "Усилие выполнить трудное действие выражается try to do."
+    },
+    "quizzes": [
+      {
+        "prompt": "If the app freezes, try ___ it.",
+        "options": [
+          "restarting",
+          "to restart with effort",
+          "restart",
+          "restarted"
+        ],
+        "correct_index": 0,
+        "explanation": "Совет испытать способ выражается try doing."
+      },
+      {
+        "prompt": "I tried ___ the door, but it would not move.",
+        "options": [
+          "opening as an experiment",
+          "to open",
+          "open",
+          "opened"
+        ],
+        "correct_index": 1,
+        "explanation": "Попытка выполнить трудное действие: try to open."
+      }
+    ]
+  },
+  {
+    "id": "vp_20",
+    "order": 20,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Regret doing / regret to do",
+    "title_ru": "Regret: сожалеть о прошлом или сообщать плохую новость",
+    "rule": "Regret doing означает сожалеть о совершённом. Regret to say/inform/tell употребляется в формальном сообщении неприятной новости.",
+    "patterns": [
+      "regret doing = сожалеть о сделанном",
+      "regret to inform / say = с сожалением сообщать"
+    ],
+    "examples": [
+      {
+        "en": "I regret saying that.",
+        "ru": "Я сожалею, что сказал это."
+      },
+      {
+        "en": "We regret to inform you that your application was unsuccessful.",
+        "ru": "С сожалением сообщаем, что ваша заявка отклонена."
+      },
+      {
+        "en": "She regrets leaving so early.",
+        "ru": "Она сожалеет, что ушла так рано."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We regret informing you that the flight is cancelled.",
+      "right": "We regret to inform you that the flight is cancelled.",
+      "note": "В формальной формуле сообщения используется regret to inform."
+    },
+    "quizzes": [
+      {
+        "prompt": "I regret ___ so rudely yesterday.",
+        "options": [
+          "to speak",
+          "speak",
+          "speaking",
+          "spoken"
+        ],
+        "correct_index": 2,
+        "explanation": "Сожаление о прошлом действии: regret doing."
+      },
+      {
+        "prompt": "We regret ___ you that the event has been cancelled.",
+        "options": [
+          "informing",
+          "inform",
+          "informed",
+          "to inform"
+        ],
+        "correct_index": 3,
+        "explanation": "Формальная формула плохой новости: regret to inform."
+      }
+    ]
+  },
+  {
+    "id": "vp_21",
+    "order": 21,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Mean doing / mean to do",
+    "title_ru": "Mean: предполагать последствия или намереваться",
+    "rule": "Mean doing означает «влечь за собой, предполагать». Mean to do означает «намереваться».",
+    "patterns": [
+      "mean doing = предполагать / влечь",
+      "mean to do = намереваться"
+    ],
+    "examples": [
+      {
+        "en": "This job means working at weekends.",
+        "ru": "Эта работа предполагает работу по выходным."
+      },
+      {
+        "en": "I meant to call you yesterday.",
+        "ru": "Я собирался позвонить тебе вчера."
+      },
+      {
+        "en": "Changing the plan would mean starting again.",
+        "ru": "Изменение плана означало бы начать заново."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I meant calling you, but I forgot.",
+      "right": "I meant to call you, but I forgot.",
+      "note": "Намерение выражается mean to do."
+    },
+    "quizzes": [
+      {
+        "prompt": "The promotion will mean ___ abroad.",
+        "options": [
+          "moving",
+          "to move as an intention",
+          "move",
+          "moved"
+        ],
+        "correct_index": 0,
+        "explanation": "Последствие или требование выражается mean doing."
+      },
+      {
+        "prompt": "I meant ___ you earlier.",
+        "options": [
+          "calling",
+          "to call",
+          "call",
+          "called"
+        ],
+        "correct_index": 1,
+        "explanation": "Намерение: mean to call."
+      }
+    ]
+  },
+  {
+    "id": "vp_22",
+    "order": 22,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Go on doing / go on to do",
+    "title_ru": "Go on: продолжить или перейти к следующему",
+    "rule": "Go on doing означает продолжать то же действие. Go on to do означает закончить одно и перейти к следующему.",
+    "patterns": [
+      "go on doing = продолжать",
+      "go on to do = затем перейти к другому"
+    ],
+    "examples": [
+      {
+        "en": "He went on talking for another hour.",
+        "ru": "Он продолжал говорить ещё час."
+      },
+      {
+        "en": "She explained the theory and went on to give an example.",
+        "ru": "Она объяснила теорию, а затем привела пример."
+      },
+      {
+        "en": "After university, he went on to become a doctor.",
+        "ru": "После университета он впоследствии стал врачом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He went on to talk for another hour without changing the subject.",
+      "right": "He went on talking for another hour.",
+      "note": "Продолжение того же действия выражается go on doing."
+    },
+    "quizzes": [
+      {
+        "prompt": "Despite the interruption, she went on ___.",
+        "options": [
+          "to speak about a new topic",
+          "speak",
+          "speaking",
+          "spoken"
+        ],
+        "correct_index": 2,
+        "explanation": "Продолжение того же действия: go on speaking."
+      },
+      {
+        "prompt": "He described the problem and went on ___ a solution.",
+        "options": [
+          "proposing the same action",
+          "propose",
+          "proposed",
+          "to propose"
+        ],
+        "correct_index": 3,
+        "explanation": "Переход к следующему действию: go on to propose."
+      }
+    ]
+  },
+  {
+    "id": "vp_23",
+    "order": 23,
+    "level": "B1-B2",
+    "category": "MEANING",
+    "title_en": "Need doing / need to do",
+    "title_ru": "Need: нуждаться в действии или обязанность субъекта",
+    "rule": "Need doing имеет пассивное значение: The car needs repairing = needs to be repaired. Need to do означает, что субъект должен выполнить действие.",
+    "patterns": [
+      "thing + needs doing",
+      "person + needs to do",
+      "needs to be done"
+    ],
+    "examples": [
+      {
+        "en": "The car needs repairing.",
+        "ru": "Машину нужно отремонтировать."
+      },
+      {
+        "en": "I need to repair the car.",
+        "ru": "Мне нужно отремонтировать машину."
+      },
+      {
+        "en": "These documents need to be checked.",
+        "ru": "Эти документы нужно проверить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The car needs to repair.",
+      "right": "The car needs repairing.",
+      "note": "Предмет не выполняет действие сам; нужна пассивная модель."
+    },
+    "quizzes": [
+      {
+        "prompt": "The kitchen needs ___.",
+        "options": [
+          "cleaning",
+          "to clean itself",
+          "clean",
+          "cleaned by"
+        ],
+        "correct_index": 0,
+        "explanation": "Need + -ing имеет пассивное значение: needs cleaning."
+      },
+      {
+        "prompt": "I need ___ this report today.",
+        "options": [
+          "finishing with passive meaning",
+          "to finish",
+          "finish without to",
+          "finished"
+        ],
+        "correct_index": 1,
+        "explanation": "Когда субъект выполняет действие, используется need to do."
+      }
+    ]
+  },
+  {
+    "id": "vp_24",
+    "order": 24,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "See / hear / watch + object",
+    "title_ru": "Глаголы восприятия + дополнение",
+    "rule": "После see, hear, watch, notice и feel можно использовать object + bare infinitive для целого завершённого события или object + -ing для действия в процессе.",
+    "patterns": [
+      "see / hear + someone + do",
+      "see / hear + someone + doing"
+    ],
+    "examples": [
+      {
+        "en": "I saw him cross the street.",
+        "ru": "Я видел, как он перешёл улицу целиком."
+      },
+      {
+        "en": "I saw him crossing the street.",
+        "ru": "Я видел его в процессе перехода улицы."
+      },
+      {
+        "en": "We heard someone knock at the door.",
+        "ru": "Мы услышали, как кто-то постучал в дверь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I saw him to cross the street.",
+      "right": "I saw him cross the street.",
+      "note": "После глагола восприятия в активной конструкции to не используется."
+    },
+    "quizzes": [
+      {
+        "prompt": "Which sentence presents the whole action as complete?",
+        "options": [
+          "I saw her leaving the building.",
+          "I saw her to leave the building.",
+          "I saw her leave the building.",
+          "I saw her left the building."
+        ],
+        "correct_index": 2,
+        "explanation": "Bare infinitive показывает событие как целое: saw her leave."
+      },
+      {
+        "prompt": "Which sentence focuses on an action in progress?",
+        "options": [
+          "I noticed him wait outside from start to finish.",
+          "I noticed him to wait outside.",
+          "I noticed him waited outside.",
+          "I noticed him waiting outside."
+        ],
+        "correct_index": 3,
+        "explanation": "Форма -ing показывает действие в процессе."
+      }
+    ]
+  },
+  {
+    "id": "vp_25",
+    "order": 25,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Have / get something done",
+    "title_ru": "Каузатив have/get",
+    "rule": "Have/get + object + past participle означает организовать услугу или пережить действие, выполненное кем-то другим. Get обычно звучит менее формально.",
+    "patterns": [
+      "have + object + past participle",
+      "get + object + past participle"
+    ],
+    "examples": [
+      {
+        "en": "I had my hair cut yesterday.",
+        "ru": "Вчера я постригся у парикмахера."
+      },
+      {
+        "en": "We are getting the kitchen painted.",
+        "ru": "Нам красят кухню."
+      },
+      {
+        "en": "She had her bag stolen.",
+        "ru": "У неё украли сумку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I cut my hair at the salon by a stylist.",
+      "right": "I had my hair cut at the salon.",
+      "note": "Если услугу выполняет другой человек, используется have something done."
+    },
+    "quizzes": [
+      {
+        "prompt": "I had my laptop ___ yesterday.",
+        "options": [
+          "repaired",
+          "repairing",
+          "repair",
+          "to repair"
+        ],
+        "correct_index": 0,
+        "explanation": "После have + object нужен past participle: had my laptop repaired."
+      },
+      {
+        "prompt": "We are getting the windows ___.",
+        "options": [
+          "replacing",
+          "replaced",
+          "replace",
+          "to replace"
+        ],
+        "correct_index": 1,
+        "explanation": "Каузатив get something done: getting the windows replaced."
+      }
+    ]
+  },
+  {
+    "id": "vp_26",
+    "order": 26,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Suggest / recommend / advise",
+    "title_ru": "Suggest, recommend и advise",
+    "rule": "Suggest и recommend употребляются с -ing или that-clause, но не с object + to-infinitive в стандартной модели. Advise может употребляться как advise doing или advise someone to do.",
+    "patterns": [
+      "suggest / recommend doing",
+      "suggest / recommend that ...",
+      "advise someone to do"
+    ],
+    "examples": [
+      {
+        "en": "She suggested taking a taxi.",
+        "ru": "Она предложила взять такси."
+      },
+      {
+        "en": "The doctor advised me to rest.",
+        "ru": "Врач посоветовал мне отдохнуть."
+      },
+      {
+        "en": "They recommended that we book early.",
+        "ru": "Они рекомендовали нам бронировать заранее."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She suggested me to take a taxi.",
+      "right": "She suggested taking a taxi.",
+      "note": "После suggest не используется модель object + to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "The doctor advised me ___ for a few days.",
+        "options": [
+          "resting me",
+          "rest",
+          "to rest",
+          "rested"
+        ],
+        "correct_index": 2,
+        "explanation": "Advise someone to do: advised me to rest."
+      },
+      {
+        "prompt": "She suggested ___ a taxi.",
+        "options": [
+          "to take me",
+          "take",
+          "taken",
+          "taking"
+        ],
+        "correct_index": 3,
+        "explanation": "После suggest используется -ing или that-clause."
+      }
+    ]
+  },
+  {
+    "id": "vp_27",
+    "order": 27,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Prevent / stop / keep from",
+    "title_ru": "Prevent, stop, keep + from -ing",
+    "rule": "Prevent, stop и keep могут употребляться с object + from + -ing. После prevent предлог from обычно обязателен; после stop иногда опускается в неформальном английском, но полная модель безопаснее.",
+    "patterns": [
+      "prevent / stop + someone + from doing",
+      "keep + someone + from doing"
+    ],
+    "examples": [
+      {
+        "en": "The barrier prevented us from entering.",
+        "ru": "Барьер не позволил нам войти."
+      },
+      {
+        "en": "Noise kept me from sleeping.",
+        "ru": "Шум не давал мне уснуть."
+      },
+      {
+        "en": "Nothing can stop her from trying.",
+        "ru": "Ничто не заставит её прекратить попытки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The rain prevented us to leave.",
+      "right": "The rain prevented us from leaving.",
+      "note": "После prevent + object используется from + -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "The security guard prevented us from ___.",
+        "options": [
+          "entering",
+          "to enter",
+          "enter",
+          "entered"
+        ],
+        "correct_index": 0,
+        "explanation": "После from требуется форма -ing."
+      },
+      {
+        "prompt": "The noise kept me from ___.",
+        "options": [
+          "to sleep",
+          "sleeping",
+          "sleep",
+          "slept"
+        ],
+        "correct_index": 1,
+        "explanation": "Модель keep someone from doing."
+      }
+    ]
+  },
+  {
+    "id": "vp_28",
+    "order": 28,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Insist on / apologise for / succeed in",
+    "title_ru": "Устойчивые сочетания с предлогом",
+    "rule": "После insist on, apologise for, succeed in, think of/about и некоторых других сочетаний употребляется форма -ing.",
+    "patterns": [
+      "insist on doing",
+      "apologise for doing",
+      "succeed in doing"
+    ],
+    "examples": [
+      {
+        "en": "He insisted on paying.",
+        "ru": "Он настоял на том, чтобы заплатить."
+      },
+      {
+        "en": "She apologised for interrupting.",
+        "ru": "Она извинилась за то, что перебила."
+      },
+      {
+        "en": "They succeeded in finding a solution.",
+        "ru": "Им удалось найти решение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They succeeded to find a solution.",
+      "right": "They succeeded in finding a solution.",
+      "note": "Глагол succeed требует in + -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "She insisted on ___ for dinner.",
+        "options": [
+          "to pay",
+          "pay",
+          "paying",
+          "paid"
+        ],
+        "correct_index": 2,
+        "explanation": "После insist on используется форма -ing."
+      },
+      {
+        "prompt": "They succeeded in ___ the missing data.",
+        "options": [
+          "to find",
+          "find",
+          "found",
+          "finding"
+        ],
+        "correct_index": 3,
+        "explanation": "После succeed in используется -ing."
+      }
+    ]
+  },
+  {
+    "id": "vp_29",
+    "order": 29,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Accuse / congratulate / blame",
+    "title_ru": "Глагол + дополнение + предлог + -ing",
+    "rule": "Некоторые глаголы требуют дополнение, затем определённый предлог и форму -ing: accuse someone of doing, congratulate someone on doing, blame someone for doing.",
+    "patterns": [
+      "accuse + object + of doing",
+      "congratulate + object + on doing",
+      "blame + object + for doing"
+    ],
+    "examples": [
+      {
+        "en": "They accused him of lying.",
+        "ru": "Они обвинили его во лжи."
+      },
+      {
+        "en": "We congratulated her on passing the exam.",
+        "ru": "Мы поздравили её со сдачей экзамена."
+      },
+      {
+        "en": "He blamed me for losing the key.",
+        "ru": "Он обвинил меня в потере ключа."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They accused him for lying.",
+      "right": "They accused him of lying.",
+      "note": "После accuse используется предлог of."
+    },
+    "quizzes": [
+      {
+        "prompt": "They accused him of ___ the figures.",
+        "options": [
+          "changing",
+          "to change",
+          "change",
+          "changed"
+        ],
+        "correct_index": 0,
+        "explanation": "Модель accuse someone of doing."
+      },
+      {
+        "prompt": "We congratulated her on ___ the scholarship.",
+        "options": [
+          "to win",
+          "winning",
+          "win",
+          "won"
+        ],
+        "correct_index": 1,
+        "explanation": "Модель congratulate someone on doing."
+      }
+    ]
+  },
+  {
+    "id": "vp_30",
+    "order": 30,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Used to / be used to / get used to",
+    "title_ru": "Used to и привыкание",
+    "rule": "Used to + bare infinitive описывает прошлую привычку или состояние, которых больше нет. Be used to + noun/-ing означает «быть привыкшим». Get used to + noun/-ing — «привыкать». В последних двух моделях to является предлогом.",
+    "patterns": [
+      "used to + do",
+      "be used to + doing",
+      "get used to + doing"
+    ],
+    "examples": [
+      {
+        "en": "I used to live near the sea.",
+        "ru": "Раньше я жил у моря."
+      },
+      {
+        "en": "I am used to working at night.",
+        "ru": "Я привык работать ночью."
+      },
+      {
+        "en": "You will get used to speaking in public.",
+        "ru": "Ты привыкнешь выступать на публике."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am used to work at night.",
+      "right": "I am used to working at night.",
+      "note": "В be used to слово to — предлог, поэтому нужна форма -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "I used to ___ here when I was a child.",
+        "options": [
+          "living",
+          "to live",
+          "live",
+          "lived"
+        ],
+        "correct_index": 2,
+        "explanation": "После used to употребляется bare infinitive."
+      },
+      {
+        "prompt": "She is used to ___ under pressure.",
+        "options": [
+          "work",
+          "to work",
+          "worked",
+          "working"
+        ],
+        "correct_index": 3,
+        "explanation": "После be used to употребляется noun или -ing."
+      }
+    ]
+  },
+  {
+    "id": "vp_31",
+    "order": 31,
+    "level": "B1-B2",
+    "category": "COMPLEX",
+    "title_en": "Prefer / would prefer / would rather",
+    "title_ru": "Prefer и would rather",
+    "rule": "Prefer может сочетаться с существительным или -ing: prefer walking to driving. Would prefer обычно требует to-infinitive. Would rather требует bare infinitive; для другого лица возможен Past Simple: I would rather you stayed.",
+    "patterns": [
+      "prefer doing A to doing B",
+      "would prefer to do",
+      "would rather do"
+    ],
+    "examples": [
+      {
+        "en": "I prefer walking to driving.",
+        "ru": "Я предпочитаю ходить пешком, а не ездить."
+      },
+      {
+        "en": "I would prefer to leave early.",
+        "ru": "Я предпочёл бы уйти рано."
+      },
+      {
+        "en": "I would rather stay at home.",
+        "ru": "Я бы лучше остался дома."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I would rather to stay.",
+      "right": "I would rather stay.",
+      "note": "После would rather используется инфинитив без to."
+    },
+    "quizzes": [
+      {
+        "prompt": "I would rather ___ at home tonight.",
+        "options": [
+          "stay",
+          "to stay",
+          "staying",
+          "stayed"
+        ],
+        "correct_index": 0,
+        "explanation": "После would rather используется bare infinitive."
+      },
+      {
+        "prompt": "She prefers ___ to driving.",
+        "options": [
+          "to walk than",
+          "walking",
+          "walk than",
+          "walked"
+        ],
+        "correct_index": 1,
+        "explanation": "Модель prefer doing A to doing B."
+      }
+    ]
+  },
+  {
+    "id": "vp_32",
+    "order": 32,
+    "level": "B2-C1",
+    "category": "ADVANCED",
+    "title_en": "Reporting verbs + infinitive",
+    "title_ru": "Глаголы сообщения + инфинитив",
+    "rule": "Некоторые reporting verbs употребляются с to-infinitive: agree, offer, promise, refuse, claim, appear, seem. Другие требуют object + to-infinitive: advise, persuade, remind, warn, urge, invite.",
+    "patterns": [
+      "claim / promise / refuse + to do",
+      "persuade / remind / warn + object + to do"
+    ],
+    "examples": [
+      {
+        "en": "He claimed to know the answer.",
+        "ru": "Он утверждал, что знает ответ."
+      },
+      {
+        "en": "She persuaded me to apply.",
+        "ru": "Она убедила меня подать заявку."
+      },
+      {
+        "en": "They warned us not to touch the wire.",
+        "ru": "Они предупредили нас не трогать провод."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She persuaded to me apply.",
+      "right": "She persuaded me to apply.",
+      "note": "После persuade ставится object без предлога, затем to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "The witness claimed ___ nothing unusual.",
+        "options": [
+          "seeing",
+          "see",
+          "to have seen",
+          "to seeing"
+        ],
+        "correct_index": 2,
+        "explanation": "После claim употребляется to-infinitive; perfect infinitive показывает более раннее действие."
+      },
+      {
+        "prompt": "They persuaded us ___ the proposal.",
+        "options": [
+          "reconsidering",
+          "reconsider",
+          "reconsidered",
+          "to reconsider"
+        ],
+        "correct_index": 3,
+        "explanation": "Модель persuade someone to do."
+      }
+    ]
+  },
+  {
+    "id": "vp_33",
+    "order": 33,
+    "level": "B2-C1",
+    "category": "ADVANCED",
+    "title_en": "Reporting verbs + -ing / that-clause",
+    "title_ru": "Глаголы сообщения с -ing и that-clause",
+    "rule": "Admit и deny обычно употребляются с -ing или that-clause. Suggest и recommend — с -ing или that-clause. После suggest/recommend в формальном английском возможен subjunctive: They suggested that he leave.",
+    "patterns": [
+      "admit / deny doing",
+      "suggest / recommend doing",
+      "suggest that + subject + base form"
+    ],
+    "examples": [
+      {
+        "en": "She denied taking the money.",
+        "ru": "Она отрицала, что взяла деньги."
+      },
+      {
+        "en": "He admitted that he had made a mistake.",
+        "ru": "Он признал, что допустил ошибку."
+      },
+      {
+        "en": "They suggested that we leave early.",
+        "ru": "Они предложили нам уйти пораньше."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He denied to take the money.",
+      "right": "He denied taking the money.",
+      "note": "После deny употребляется -ing или that-clause."
+    },
+    "quizzes": [
+      {
+        "prompt": "He denied ___ the confidential file.",
+        "options": [
+          "copying",
+          "to copy",
+          "copy",
+          "copied"
+        ],
+        "correct_index": 0,
+        "explanation": "После deny используется форма -ing."
+      },
+      {
+        "prompt": "They suggested that we ___ earlier.",
+        "options": [
+          "to leave",
+          "leave",
+          "leaving",
+          "left yesterday"
+        ],
+        "correct_index": 1,
+        "explanation": "После suggest that в формальном варианте возможна базовая форма leave."
+      }
+    ]
+  },
+  {
+    "id": "vp_34",
+    "order": 34,
+    "level": "B2-C1",
+    "category": "ADVANCED",
+    "title_en": "Perfect and passive infinitives",
+    "title_ru": "Perfect и passive infinitive",
+    "rule": "Perfect infinitive to have done показывает действие, произошедшее раньше основного глагола. Passive infinitive to be done показывает, что действие выполняется над субъектом. Возможна комбинация to have been done.",
+    "patterns": [
+      "to have done",
+      "to be done",
+      "to have been done"
+    ],
+    "examples": [
+      {
+        "en": "She seems to have forgotten the appointment.",
+        "ru": "Похоже, она забыла о встрече."
+      },
+      {
+        "en": "The bridge is expected to be completed next year.",
+        "ru": "Ожидается, что мост достроят в следующем году."
+      },
+      {
+        "en": "He is believed to have been injured.",
+        "ru": "Считается, что он получил травму."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She seems to forgot the appointment.",
+      "right": "She seems to have forgotten the appointment.",
+      "note": "После seems для более раннего действия нужен perfect infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "She seems ___ the appointment.",
+        "options": [
+          "to forget yesterday",
+          "having forgotten",
+          "to have forgotten",
+          "to have forget"
+        ],
+        "correct_index": 2,
+        "explanation": "Действие произошло раньше текущего впечатления: to have forgotten."
+      },
+      {
+        "prompt": "The bridge is expected ___ next year.",
+        "options": [
+          "to complete",
+          "being completed",
+          "to have complete",
+          "to be completed"
+        ],
+        "correct_index": 3,
+        "explanation": "Пассивный инфинитив: is expected to be completed."
+      }
+    ]
+  },
+  {
+    "id": "vp_35",
+    "order": 35,
+    "level": "B2-C1",
+    "category": "ADVANCED",
+    "title_en": "Perfect and passive gerunds",
+    "title_ru": "Perfect и passive gerund",
+    "rule": "Perfect gerund having done подчёркивает, что действие произошло раньше. Passive gerund being done показывает, что действие направлено на субъект. Perfect passive gerund: having been done.",
+    "patterns": [
+      "having done",
+      "being done",
+      "having been done"
+    ],
+    "examples": [
+      {
+        "en": "He denied having seen the document before.",
+        "ru": "Он отрицал, что раньше видел документ."
+      },
+      {
+        "en": "She resented being ignored.",
+        "ru": "Ей было неприятно, что её игнорировали."
+      },
+      {
+        "en": "He complained about having been treated unfairly.",
+        "ru": "Он пожаловался на то, что с ним обошлись несправедливо."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She resented to be ignored.",
+      "right": "She resented being ignored.",
+      "note": "После resent используется герундий; пассивная форма — being + past participle."
+    },
+    "quizzes": [
+      {
+        "prompt": "Which sentence correctly uses a perfect gerund to emphasise an earlier action?",
+        "options": [
+          "He denied having read the report before the meeting.",
+          "He denied to have read the report before the meeting.",
+          "He denied have read the report before the meeting.",
+          "He denied having readed the report before the meeting."
+        ],
+        "correct_index": 0,
+        "explanation": "Perfect gerund having read подчёркивает более раннее действие."
+      },
+      {
+        "prompt": "She resented ___ during the discussion.",
+        "options": [
+          "to be ignored",
+          "being ignored",
+          "ignore",
+          "been ignored"
+        ],
+        "correct_index": 1,
+        "explanation": "После resent нужна форма -ing; пассивная модель — being ignored."
+      }
+    ]
+  }
+]

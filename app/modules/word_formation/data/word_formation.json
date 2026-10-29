@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "wf_001_word_class",
+    "order": 1,
+    "level": "A2",
+    "category": "FOUNDATIONS",
+    "title": "Определяем часть речи по контексту",
+    "base_word": "WORD CLASS",
+    "focus": "Сначала определить, какая часть речи нужна в пропуске.",
+    "rule": "Артикль и притяжательное слово часто указывают на существительное; модальный глагол — на базовую форму глагола; позиция перед существительным — на прилагательное; описание действия — на наречие.",
+    "forms": [
+      { "form": "decide", "word_class": "verb", "translation": "решать" },
+      { "form": "decision", "word_class": "noun", "translation": "решение" },
+      { "form": "decisive", "word_class": "adjective", "translation": "решающий" },
+      { "form": "decisively", "word_class": "adverb", "translation": "решительно" }
+    ],
+    "spelling_note": "Не выбирайте форму только по знакомому суффиксу: сначала прочитайте всё предложение.",
+    "examples": [
+      { "en": "Her decision surprised the whole team.", "ru": "Её решение удивило всю команду." },
+      { "en": "The committee decided to postpone the vote.", "ru": "Комитет решил отложить голосование." }
+    ],
+    "common_mistake": {
+      "wrong": "They made a decide.",
+      "right": "They made a decision.",
+      "note": "После артикля a нужна форма существительного."
+    },
+    "quiz": {
+      "prompt": "The final ___ will be announced tomorrow. (DECIDE)",
+      "options": ["decision", "decide", "decisive", "decisively"],
+      "correct_index": 0,
+      "answer": "decision",
+      "explanation": "После the final требуется существительное decision."
+    }
+  },
+  {
+    "id": "wf_002_noun_slots",
+    "order": 2,
+    "level": "A2",
+    "category": "FOUNDATIONS",
+    "title": "Позиции существительного",
+    "base_word": "NOUN",
+    "focus": "Существительное после артикля, определителя или прилагательного.",
+    "rule": "После a/an/the, this/that, my/your и прилагательных обычно требуется существительное. Дополнительно проверяйте единственное или множественное число.",
+    "forms": [
+      { "form": "develop", "word_class": "verb", "translation": "развивать" },
+      { "form": "development", "word_class": "noun", "translation": "развитие" },
+      { "form": "developed", "word_class": "adjective", "translation": "развитый" },
+      { "form": "developing", "word_class": "adjective", "translation": "развивающийся" }
+    ],
+    "spelling_note": "Суффикс -ment часто образует существительные от глаголов.",
+    "examples": [
+      { "en": "The rapid development of the area created new jobs.", "ru": "Быстрое развитие района создало новые рабочие места." },
+      { "en": "This development was unexpected.", "ru": "Такое развитие событий было неожиданным." }
+    ],
+    "common_mistake": {
+      "wrong": "a rapid develop",
+      "right": "a rapid development",
+      "note": "После прилагательного rapid требуется существительное."
+    },
+    "quiz": {
+      "prompt": "The project led to a significant ___ in safety. (IMPROVE)",
+      "options": ["improve", "improvement", "improved", "improving"],
+      "correct_index": 1,
+      "answer": "improvement",
+      "explanation": "После a significant требуется существительное improvement."
+    }
+  },
+  {
+    "id": "wf_003_adjective_slots",
+    "order": 3,
+    "level": "A2",
+    "category": "FOUNDATIONS",
+    "title": "Позиции прилагательного",
+    "base_word": "ADJECTIVE",
+    "focus": "Прилагательное перед существительным и после linking verbs.",
+    "rule": "Прилагательное обычно стоит перед существительным или после be, seem, become, feel, look, sound, smell и taste, когда описывается подлежащее.",
+    "forms": [
+      { "form": "rely", "word_class": "verb", "translation": "полагаться" },
+      { "form": "reliability", "word_class": "noun", "translation": "надёжность" },
+      { "form": "reliable", "word_class": "adjective", "translation": "надёжный" },
+      { "form": "reliably", "word_class": "adverb", "translation": "надёжно" }
+    ],
+    "spelling_note": "После seem или become не ставьте наречие, если форма описывает подлежащее.",
+    "examples": [
+      { "en": "The service is reliable even during busy periods.", "ru": "Сервис надёжен даже в часы пик." },
+      { "en": "We need a reliable source of information.", "ru": "Нам нужен надёжный источник информации." }
+    ],
+    "common_mistake": {
+      "wrong": "The system seems reliably.",
+      "right": "The system seems reliable.",
+      "note": "После seems описывается system, поэтому нужно прилагательное."
+    },
+    "quiz": {
+      "prompt": "The instructions were clear and ___. (HELP)",
+      "options": ["help", "helpfully", "helpful", "helpfulness"],
+      "correct_index": 2,
+      "answer": "helpful",
+      "explanation": "В ряду clear and ... требуется второе прилагательное helpful."
+    }
+  },
+  {
+    "id": "wf_004_adverb_slots",
+    "order": 4,
+    "level": "A2",
+    "category": "FOUNDATIONS",
+    "title": "Позиции наречия",
+    "base_word": "ADVERB",
+    "focus": "Наречие описывает действие, признак или другое наречие.",
+    "rule": "Наречие часто отвечает на вопрос «как?» и может стоять после глагола или перед прилагательным. Linking verbs, напротив, обычно требуют прилагательного.",
+    "forms": [
+      { "form": "care", "word_class": "noun/verb", "translation": "забота; заботиться" },
+      { "form": "careful", "word_class": "adjective", "translation": "осторожный" },
+      { "form": "carefully", "word_class": "adverb", "translation": "осторожно" },
+      { "form": "carelessness", "word_class": "noun", "translation": "небрежность" }
+    ],
+    "spelling_note": "Большинство наречий образуется с -ly, но fast, hard, late и early требуют отдельной проверки.",
+    "examples": [
+      { "en": "Please read the contract carefully.", "ru": "Пожалуйста, внимательно прочитайте договор." },
+      { "en": "The figures were carefully checked.", "ru": "Цифры были тщательно проверены." }
+    ],
+    "common_mistake": {
+      "wrong": "She answered careful.",
+      "right": "She answered carefully.",
+      "note": "Форма описывает действие answered, поэтому нужно наречие."
+    },
+    "quiz": {
+      "prompt": "The machine must be handled ___. (CARE)",
+      "options": ["careful", "care", "carefulness", "carefully"],
+      "correct_index": 3,
+      "answer": "carefully",
+      "explanation": "Форма описывает handled, поэтому требуется наречие carefully."
+    }
+  },
+  {
+    "id": "wf_005_verb_slots",
+    "order": 5,
+    "level": "B1",
+    "category": "FOUNDATIONS",
+    "title": "Позиции глагола",
+    "base_word": "VERB",
+    "focus": "Базовая форма после модального глагола и to-infinitive.",
+    "rule": "После can, must, should и других центральных модальных глаголов используется bare infinitive. После infinitive marker to обычно нужна базовая форма глагола.",
+    "forms": [
+      { "form": "simple", "word_class": "adjective", "translation": "простой" },
+      { "form": "simplicity", "word_class": "noun", "translation": "простота" },
+      { "form": "simplify", "word_class": "verb", "translation": "упрощать" },
+      { "form": "simply", "word_class": "adverb", "translation": "просто" }
+    ],
+    "spelling_note": "Суффиксы -ise/-ize, -ify и -en часто сигнализируют глагол.",
+    "examples": [
+      { "en": "We need to simplify the application process.", "ru": "Нам нужно упростить процесс подачи заявки." },
+      { "en": "The new tool can automate routine checks.", "ru": "Новый инструмент может автоматизировать стандартные проверки." }
+    ],
+    "common_mistake": {
+      "wrong": "We should simplification the form.",
+      "right": "We should simplify the form.",
+      "note": "После should используется базовая форма глагола."
+    },
+    "quiz": {
+      "prompt": "The new rules may ___ the procedure. (SIMPLE)",
+      "options": ["simplify", "simple", "simply", "simplicity"],
+      "correct_index": 0,
+      "answer": "simplify",
+      "explanation": "После may нужна базовая форма глагола simplify."
+    }
+  },
+  {
+    "id": "wf_006_negative_context",
+    "order": 6,
+    "level": "B1",
+    "category": "FOUNDATIONS",
+    "title": "Отрицательное значение в контексте",
+    "base_word": "NEGATION",
+    "focus": "Определить, требуется ли отрицательная производная форма.",
+    "rule": "Грамматически подходящая часть речи может быть семантически неверной. Слова without, failed, despite, however и общий контраст часто подсказывают отрицательное значение.",
+    "forms": [
+      { "form": "possible", "word_class": "adjective", "translation": "возможный" },
+      { "form": "impossible", "word_class": "adjective", "translation": "невозможный" },
+      { "form": "possibility", "word_class": "noun", "translation": "возможность" },
+      { "form": "impossibility", "word_class": "noun", "translation": "невозможность" }
+    ],
+    "spelling_note": "Не все отрицания образуются с un-. Проверяйте im-, in-, il-, ir-, dis- и другие модели.",
+    "examples": [
+      { "en": "It was impossible to finish the task in five minutes.", "ru": "Было невозможно выполнить задание за пять минут." },
+      { "en": "The apparent impossibility of the plan discouraged investors.", "ru": "Кажущаяся невозможность плана отпугнула инвесторов." }
+    ],
+    "common_mistake": {
+      "wrong": "The deadline was possible to meet, so we failed.",
+      "right": "The deadline was impossible to meet, so we failed.",
+      "note": "Логика предложения требует отрицательного значения."
+    },
+    "quiz": {
+      "prompt": "Without a password, access is ___. (POSSIBLE)",
+      "options": ["possible", "impossible", "possibility", "possibly"],
+      "correct_index": 1,
+      "answer": "impossible",
+      "explanation": "Without a password задаёт отрицательный смысл: impossible."
+    }
+  },
+  {
+    "id": "wf_007_number_countability",
+    "order": 7,
+    "level": "B1",
+    "category": "FOUNDATIONS",
+    "title": "Число и исчисляемость",
+    "base_word": "NUMBER",
+    "focus": "Проверить singular/plural и countable/uncountable nouns.",
+    "rule": "После many, several и a number of требуется множественное число; после much и little — неисчисляемое существительное. Некоторые производные существительные имеют особую модель употребления.",
+    "forms": [
+      { "form": "suggestion", "word_class": "countable noun", "translation": "предложение" },
+      { "form": "suggestions", "word_class": "plural noun", "translation": "предложения" },
+      { "form": "advice", "word_class": "uncountable noun", "translation": "совет/советы" },
+      { "form": "information", "word_class": "uncountable noun", "translation": "информация" }
+    ],
+    "spelling_note": "Advice и information не употребляются с окончанием -s в стандартном значении.",
+    "examples": [
+      { "en": "Several suggestions were discussed at the meeting.", "ru": "На встрече обсудили несколько предложений." },
+      { "en": "She gave me useful advice about the interview.", "ru": "Она дала мне полезный совет по поводу собеседования." }
+    ],
+    "common_mistake": {
+      "wrong": "many useful advices",
+      "right": "a lot of useful advice",
+      "note": "Advice — неисчисляемое существительное."
+    },
+    "quiz": {
+      "prompt": "The report contains several practical ___. (RECOMMEND)",
+      "options": ["recommendation", "recommend", "recommendations", "recommended"],
+      "correct_index": 2,
+      "answer": "recommendations",
+      "explanation": "После several требуется существительное во множественном числе recommendations."
+    }
+  },
+  {
+    "id": "wf_008_exam_workflow",
+    "order": 8,
+    "level": "B1",
+    "category": "FOUNDATIONS",
+    "title": "Алгоритм Word Formation",
+    "base_word": "EXAM STRATEGY",
+    "focus": "Смысл → часть речи → аффикс → написание → повторное чтение.",
+    "rule": "Сначала прочитайте предложение и соседние строки. Затем определите часть речи и значение, образуйте слово, проверьте отрицание, число и орфографию и перечитайте весь фрагмент.",
+    "forms": [
+      { "form": "responsible", "word_class": "adjective", "translation": "ответственный" },
+      { "form": "responsibility", "word_class": "noun", "translation": "ответственность" },
+      { "form": "irresponsible", "word_class": "adjective", "translation": "безответственный" },
+      { "form": "irresponsibly", "word_class": "adverb", "translation": "безответственно" }
+    ],
+    "spelling_note": "Одна основа может потребовать одновременно префикс и суффикс.",
+    "examples": [
+      { "en": "Managers have a responsibility to protect staff.", "ru": "Руководители обязаны защищать сотрудников." },
+      { "en": "The data was handled irresponsibly.", "ru": "С данными обращались безответственно." }
+    ],
+    "common_mistake": {
+      "wrong": "выбрать первую знакомую форму",
+      "right": "проверить смысл, часть речи и написание",
+      "note": "Word formation проверяет и лексику, и грамматику контекста."
+    },
+    "quiz": {
+      "prompt": "The company denied any ___ for the loss. (RESPONSIBLE)",
+      "options": ["responsible", "irresponsible", "responsibly", "responsibility"],
+      "correct_index": 3,
+      "answer": "responsibility",
+      "explanation": "После any нужна форма существительного responsibility."
+    }
+  },
+  {
+    "id": "wf_009_noun_tion_sion",
+    "order": 9,
+    "level": "B1",
+    "category": "NOUNS",
+    "title": "Существительные на -tion / -sion",
+    "base_word": "-TION / -SION",
+    "focus": "Действие, процесс или результат.",
+    "rule": "Многие глаголы образуют существительные с -tion, -sion или -ation: inform → information, decide → decision, organise → organisation.",
+    "forms": [
+      { "form": "inform → information", "word_class": "noun family", "translation": "информировать → информация" },
+      { "form": "decide → decision", "word_class": "noun family", "translation": "решать → решение" },
+      { "form": "expand → expansion", "word_class": "noun family", "translation": "расширять → расширение" },
+      { "form": "organise → organisation", "word_class": "noun family", "translation": "организовывать → организация" }
+    ],
+    "spelling_note": "Выбор между -tion и -sion зависит от конкретной семьи слов; его нельзя определять только на слух.",
+    "examples": [
+      { "en": "The decision was based on reliable evidence.", "ru": "Решение основывалось на надёжных доказательствах." },
+      { "en": "The expansion created several new departments.", "ru": "Расширение привело к созданию нескольких новых отделов." }
+    ],
+    "common_mistake": {
+      "wrong": "decidation",
+      "right": "decision",
+      "note": "У decide закреплённая модель decide → decision."
+    },
+    "quiz": {
+      "prompt": "The museum is closed for major ___. (RENOVATE)",
+      "options": ["renovation", "renovate", "renovative", "renovating"],
+      "correct_index": 0,
+      "answer": "renovation",
+      "explanation": "После for major требуется существительное renovation."
+    }
+  },
+  {
+    "id": "wf_010_noun_ment",
+    "order": 10,
+    "level": "B1",
+    "category": "NOUNS",
+    "title": "Существительные на -ment",
+    "base_word": "-MENT",
+    "focus": "Результат, процесс или состояние.",
+    "rule": "Суффикс -ment часто присоединяется к глаголу: develop → development, achieve → achievement, improve → improvement.",
+    "forms": [
+      { "form": "develop → development", "word_class": "noun family", "translation": "развивать → развитие" },
+      { "form": "achieve → achievement", "word_class": "noun family", "translation": "достигать → достижение" },
+      { "form": "employ → employment", "word_class": "noun family", "translation": "нанимать → занятость" },
+      { "form": "arrange → arrangement", "word_class": "noun family", "translation": "организовывать → договорённость" }
+    ],
+    "spelling_note": "У arrange сохраняется e: arrangement; у argue в существительном argument e исчезает.",
+    "examples": [
+      { "en": "The improvement was visible within a month.", "ru": "Улучшение стало заметно в течение месяца." },
+      { "en": "Their arrangement allows both teams to share the space.", "ru": "Их договорённость позволяет обеим командам пользоваться помещением." }
+    ],
+    "common_mistake": {
+      "wrong": "improvment",
+      "right": "improvement",
+      "note": "В improvement сохраняется e перед -ment."
+    },
+    "quiz": {
+      "prompt": "Regular practice leads to steady ___. (IMPROVE)",
+      "options": ["improve", "improvement", "improving", "improved"],
+      "correct_index": 1,
+      "answer": "improvement",
+      "explanation": "После steady нужно существительное improvement."
+    }
+  },
+  {
+    "id": "wf_011_noun_ness",
+    "order": 11,
+    "level": "B1",
+    "category": "NOUNS",
+    "title": "Существительные на -ness",
+    "base_word": "-NESS",
+    "focus": "Качество или состояние.",
+    "rule": "-ness продуктивно образует абстрактные существительные от прилагательных: kind → kindness, aware → awareness, happy → happiness.",
+    "forms": [
+      { "form": "kind → kindness", "word_class": "noun family", "translation": "добрый → доброта" },
+      { "form": "aware → awareness", "word_class": "noun family", "translation": "осведомлённый → осведомлённость" },
+      { "form": "happy → happiness", "word_class": "noun family", "translation": "счастливый → счастье" },
+      { "form": "weak → weakness", "word_class": "noun family", "translation": "слабый → слабость" }
+    ],
+    "spelling_note": "Конечная согласная + y обычно меняется на i: happy → happiness.",
+    "examples": [
+      { "en": "Public awareness of the issue has increased.", "ru": "Осведомлённость общества о проблеме выросла." },
+      { "en": "Her kindness made the new student feel welcome.", "ru": "Её доброта помогла новому ученику почувствовать себя желанным гостем." }
+    ],
+    "common_mistake": {
+      "wrong": "happyness",
+      "right": "happiness",
+      "note": "Перед -ness конечная y меняется на i."
+    },
+    "quiz": {
+      "prompt": "The campaign aims to raise public ___. (AWARE)",
+      "options": ["aware", "unaware", "awareness", "awarely"],
+      "correct_index": 2,
+      "answer": "awareness",
+      "explanation": "После public требуется существительное awareness."
+    }
+  },
+  {
+    "id": "wf_012_noun_ity",
+    "order": 12,
+    "level": "B1",
+    "category": "NOUNS",
+    "title": "Существительные на -ity",
+    "base_word": "-ITY",
+    "focus": "Состояние, качество или характеристика.",
+    "rule": "-ity часто образует существительные от прилагательных: active → activity, possible → possibility, responsible → responsibility.",
+    "forms": [
+      { "form": "active → activity", "word_class": "noun family", "translation": "активный → деятельность" },
+      { "form": "possible → possibility", "word_class": "noun family", "translation": "возможный → возможность" },
+      { "form": "secure → security", "word_class": "noun family", "translation": "безопасный → безопасность" },
+      { "form": "responsible → responsibility", "word_class": "noun family", "translation": "ответственный → ответственность" }
+    ],
+    "spelling_note": "При добавлении -ity основа часто меняется: possible → possibility, responsible → responsibility.",
+    "examples": [
+      { "en": "Security remains our main priority.", "ru": "Безопасность остаётся нашим главным приоритетом." },
+      { "en": "There is a strong possibility of further delays.", "ru": "Существует высокая вероятность дальнейших задержек." }
+    ],
+    "common_mistake": {
+      "wrong": "possibleness",
+      "right": "possibility",
+      "note": "Нормативная форма от possible — possibility."
+    },
+    "quiz": {
+      "prompt": "The job requires considerable ___. (FLEXIBLE)",
+      "options": ["flexible", "flexibly", "inflexible", "flexibility"],
+      "correct_index": 3,
+      "answer": "flexibility",
+      "explanation": "После considerable требуется существительное flexibility."
+    }
+  },
+  {
+    "id": "wf_013_noun_ance_ence",
+    "order": 13,
+    "level": "B2",
+    "category": "NOUNS",
+    "title": "Существительные на -ance / -ence",
+    "base_word": "-ANCE / -ENCE",
+    "focus": "Состояние, действие или качество.",
+    "rule": "Частотные семьи нужно запоминать целиком: perform → performance, exist → existence, depend → dependence, attend → attendance.",
+    "forms": [
+      { "form": "perform → performance", "word_class": "noun family", "translation": "выступать → выступление" },
+      { "form": "exist → existence", "word_class": "noun family", "translation": "существовать → существование" },
+      { "form": "depend → dependence", "word_class": "noun family", "translation": "зависеть → зависимость" },
+      { "form": "attend → attendance", "word_class": "noun family", "translation": "посещать → посещаемость" }
+    ],
+    "spelling_note": "Различие -ance/-ence не всегда предсказуемо, поэтому храните форму в словарной семье.",
+    "examples": [
+      { "en": "Attendance improved after the timetable changed.", "ru": "Посещаемость улучшилась после изменения расписания." },
+      { "en": "The performance received excellent reviews.", "ru": "Выступление получило отличные отзывы." }
+    ],
+    "common_mistake": {
+      "wrong": "attendence",
+      "right": "attendance",
+      "note": "Нормативное написание — attendance через -ance."
+    },
+    "quiz": {
+      "prompt": "The continued ___ of the scheme depends on government funding. (EXIST)",
+      "options": ["existence", "existing", "existent", "exist"],
+      "correct_index": 0,
+      "answer": "existence",
+      "explanation": "После continued требуется существительное existence."
+    }
+  },
+  {
+    "id": "wf_014_person_nouns",
+    "order": 14,
+    "level": "B2",
+    "category": "NOUNS",
+    "title": "Названия людей: -er / -or / -ist / -ian",
+    "base_word": "PERSON NOUNS",
+    "focus": "Профессия, роль или специалист.",
+    "rule": "-er/-or часто обозначают исполнителя действия; -ist и -ian употребляются в названиях профессий, специалистов и последователей.",
+    "forms": [
+      { "form": "researcher", "word_class": "person noun", "translation": "исследователь" },
+      { "form": "translator", "word_class": "person noun", "translation": "переводчик" },
+      { "form": "scientist", "word_class": "person noun", "translation": "учёный" },
+      { "form": "historian", "word_class": "person noun", "translation": "историк" }
+    ],
+    "spelling_note": "У некоторых слов выбор суффикса лексически закреплён: translate → translator, science → scientist.",
+    "examples": [
+      { "en": "The researcher interviewed more than two hundred participants.", "ru": "Исследователь опросил более двухсот участников." },
+      { "en": "A qualified translator checked the final version.", "ru": "Квалифицированный переводчик проверил окончательную версию." }
+    ],
+    "common_mistake": {
+      "wrong": "a science",
+      "right": "a scientist",
+      "note": "Для обозначения человека нужна производная форма scientist."
+    },
+    "quiz": {
+      "prompt": "The exhibition was designed by a local ___. (ART)",
+      "options": ["artistic", "artist", "artistry", "artistically"],
+      "correct_index": 1,
+      "answer": "artist",
+      "explanation": "После a local требуется существительное, обозначающее человека: artist."
+    }
+  },
+  {
+    "id": "wf_015_noun_ship_hood_dom",
+    "order": 15,
+    "level": "B2",
+    "category": "NOUNS",
+    "title": "Существительные на -ship / -hood / -dom",
+    "base_word": "-SHIP / -HOOD / -DOM",
+    "focus": "Отношение, статус, период или состояние.",
+    "rule": "-ship часто обозначает отношения или статус; -hood — период жизни или состояние; -dom — состояние или область.",
+    "forms": [
+      { "form": "friendship", "word_class": "noun", "translation": "дружба" },
+      { "form": "leadership", "word_class": "noun", "translation": "руководство" },
+      { "form": "childhood", "word_class": "noun", "translation": "детство" },
+      { "form": "freedom", "word_class": "noun", "translation": "свобода" }
+    ],
+    "spelling_note": "Эти суффиксы не присоединяются свободно к любому слову; проверяйте реальную словарную форму.",
+    "examples": [
+      { "en": "Strong leadership helped the organisation recover.", "ru": "Сильное руководство помогло организации восстановиться." },
+      { "en": "They remained friends throughout adulthood.", "ru": "Они оставались друзьями на протяжении взрослой жизни." }
+    ],
+    "common_mistake": {
+      "wrong": "leaderness",
+      "right": "leadership",
+      "note": "Для значения «руководство» используется leadership."
+    },
+    "quiz": {
+      "prompt": "Their professional ___ lasted for more than a decade. (PARTNER)",
+      "options": ["partner", "partnered", "partnership", "partnering"],
+      "correct_index": 2,
+      "answer": "partnership",
+      "explanation": "После their professional требуется существительное partnership."
+    }
+  },
+  {
+    "id": "wf_016_noun_al_ure_ing",
+    "order": 16,
+    "level": "B2",
+    "category": "NOUNS",
+    "title": "Существительные на -al / -ure / -ing",
+    "base_word": "RESULT NOUNS",
+    "focus": "Событие, процесс или результат действия.",
+    "rule": "Некоторые глаголы образуют существительные с -al, -ure или -ing: arrive → arrival, fail → failure, meet → meeting. Модель определяется словарной семьёй.",
+    "forms": [
+      { "form": "arrive → arrival", "word_class": "noun family", "translation": "прибывать → прибытие" },
+      { "form": "refuse → refusal", "word_class": "noun family", "translation": "отказываться → отказ" },
+      { "form": "fail → failure", "word_class": "noun family", "translation": "терпеть неудачу → неудача" },
+      { "form": "meet → meeting", "word_class": "noun family", "translation": "встречаться → встреча" }
+    ],
+    "spelling_note": "Failure пишется с сохранением основы fail и добавлением -ure.",
+    "examples": [
+      { "en": "The late arrival delayed the opening ceremony.", "ru": "Позднее прибытие задержало церемонию открытия." },
+      { "en": "The failure affected several connected systems.", "ru": "Сбой затронул несколько связанных систем." }
+    ],
+    "common_mistake": {
+      "wrong": "arrivement",
+      "right": "arrival",
+      "note": "Нормативное существительное от arrive — arrival."
+    },
+    "quiz": {
+      "prompt": "The sudden ___ of the equipment caused a delay. (FAIL)",
+      "options": ["fail", "failed", "failing", "failure"],
+      "correct_index": 3,
+      "answer": "failure",
+      "explanation": "После sudden требуется существительное failure."
+    }
+  },
+  {
+    "id": "wf_017_adj_ful_less",
+    "order": 17,
+    "level": "B1",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -ful / -less",
+    "base_word": "-FUL / -LESS",
+    "focus": "Наличие или отсутствие качества.",
+    "rule": "-ful обычно означает «обладающий чем-либо», а -less — «без чего-либо»: useful/useless, careful/careless.",
+    "forms": [
+      { "form": "useful", "word_class": "adjective", "translation": "полезный" },
+      { "form": "useless", "word_class": "adjective", "translation": "бесполезный" },
+      { "form": "careful", "word_class": "adjective", "translation": "осторожный" },
+      { "form": "careless", "word_class": "adjective", "translation": "небрежный" }
+    ],
+    "spelling_note": "Суффикс -ful пишется с одной l, даже если отдельное слово full — с двумя.",
+    "examples": [
+      { "en": "The guide contains useful practical advice.", "ru": "Руководство содержит полезные практические советы." },
+      { "en": "A careless mistake changed the final total.", "ru": "Небрежная ошибка изменила итоговую сумму." }
+    ],
+    "common_mistake": {
+      "wrong": "usefull",
+      "right": "useful",
+      "note": "В суффиксе -ful только одна буква l."
+    },
+    "quiz": {
+      "prompt": "The map was completely ___ without street names. (USE)",
+      "options": ["useless", "useful", "usefully", "usefulness"],
+      "correct_index": 0,
+      "answer": "useless",
+      "explanation": "Without street names задаёт значение «бесполезный»: useless."
+    }
+  },
+  {
+    "id": "wf_018_adj_able_ible",
+    "order": 18,
+    "level": "B1",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -able / -ible",
+    "base_word": "-ABLE / -IBLE",
+    "focus": "Возможность или пригодность.",
+    "rule": "-able/-ible часто выражают возможность: washable, predictable, visible, accessible. Выбор окончания нередко лексически закреплён.",
+    "forms": [
+      { "form": "predictable", "word_class": "adjective", "translation": "предсказуемый" },
+      { "form": "washable", "word_class": "adjective", "translation": "пригодный для стирки" },
+      { "form": "visible", "word_class": "adjective", "translation": "видимый" },
+      { "form": "accessible", "word_class": "adjective", "translation": "доступный" }
+    ],
+    "spelling_note": "После некоторых основ конечная e исчезает: rely → reliable; у notice → noticeable e сохраняется для произношения.",
+    "examples": [
+      { "en": "The outcome was entirely predictable.", "ru": "Результат был совершенно предсказуем." },
+      { "en": "The building is accessible to wheelchair users.", "ru": "Здание доступно для пользователей инвалидных колясок." }
+    ],
+    "common_mistake": {
+      "wrong": "accessable",
+      "right": "accessible",
+      "note": "Нормативное написание — accessible через -ible."
+    },
+    "quiz": {
+      "prompt": "The information must be easily ___. (ACCESS)",
+      "options": ["access", "accessible", "accessibility", "accessibly"],
+      "correct_index": 1,
+      "answer": "accessible",
+      "explanation": "После be easily требуется прилагательное accessible."
+    }
+  },
+  {
+    "id": "wf_019_adj_ous",
+    "order": 19,
+    "level": "B1",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -ous",
+    "base_word": "-OUS",
+    "focus": "Обладающий определённым качеством.",
+    "rule": "-ous образует многие прилагательные: danger → dangerous, fame → famous, mystery → mysterious, ambition → ambitious.",
+    "forms": [
+      { "form": "dangerous", "word_class": "adjective", "translation": "опасный" },
+      { "form": "famous", "word_class": "adjective", "translation": "известный" },
+      { "form": "mysterious", "word_class": "adjective", "translation": "загадочный" },
+      { "form": "ambitious", "word_class": "adjective", "translation": "амбициозный" }
+    ],
+    "spelling_note": "Форма может заметно меняться: fame → famous; mystery → mysterious.",
+    "examples": [
+      { "en": "The route becomes dangerous after heavy rain.", "ru": "Маршрут становится опасным после сильного дождя." },
+      { "en": "They launched an ambitious research programme.", "ru": "Они запустили амбициозную исследовательскую программу." }
+    ],
+    "common_mistake": {
+      "wrong": "dangerious",
+      "right": "dangerous",
+      "note": "Нормативное написание — dangerous без i."
+    },
+    "quiz": {
+      "prompt": "The chemicals may be ___ if mixed together. (DANGER)",
+      "options": ["danger", "dangerously", "dangerous", "endanger"],
+      "correct_index": 2,
+      "answer": "dangerous",
+      "explanation": "После may be требуется прилагательное dangerous."
+    }
+  },
+  {
+    "id": "wf_020_adj_ive",
+    "order": 20,
+    "level": "B1",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -ive / -ative",
+    "base_word": "-IVE / -ATIVE",
+    "focus": "Склонность, функция или качество.",
+    "rule": "-ive/-ative образуют прилагательные от ряда глаголов и существительных: attract → attractive, create → creative, inform → informative.",
+    "forms": [
+      { "form": "attractive", "word_class": "adjective", "translation": "привлекательный" },
+      { "form": "creative", "word_class": "adjective", "translation": "творческий" },
+      { "form": "informative", "word_class": "adjective", "translation": "информативный" },
+      { "form": "effective", "word_class": "adjective", "translation": "эффективный" }
+    ],
+    "spelling_note": "У create перед -ive исчезает конечная e: creative.",
+    "examples": [
+      { "en": "The workshop was practical and informative.", "ru": "Семинар был практичным и информативным." },
+      { "en": "They are looking for a more effective solution.", "ru": "Они ищут более эффективное решение." }
+    ],
+    "common_mistake": {
+      "wrong": "effectfull",
+      "right": "effective",
+      "note": "От effect образуется effective, а не effectful в обычном учебном контексте."
+    },
+    "quiz": {
+      "prompt": "The brochure is clear, concise and highly ___. (INFORM)",
+      "options": ["information", "inform", "informatively", "informative"],
+      "correct_index": 3,
+      "answer": "informative",
+      "explanation": "В ряду прилагательных clear, concise and ... нужна форма informative."
+    }
+  },
+  {
+    "id": "wf_021_adj_al_ical",
+    "order": 21,
+    "level": "B2",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -al / -ical",
+    "base_word": "-AL / -ICAL",
+    "focus": "Отношение к области, предмету или качеству.",
+    "rule": "-al и -ical часто образуют относительные прилагательные: culture → cultural, economy → economic, history → historical. Некоторые пары различаются по значению.",
+    "forms": [
+      { "form": "cultural", "word_class": "adjective", "translation": "культурный" },
+      { "form": "economic", "word_class": "adjective", "translation": "экономический" },
+      { "form": "historical", "word_class": "adjective", "translation": "исторический" },
+      { "form": "practical", "word_class": "adjective", "translation": "практический" }
+    ],
+    "spelling_note": "Economic относится к экономике; economical обычно означает «экономный, не расточительный».",
+    "examples": [
+      { "en": "The region has a rich cultural heritage.", "ru": "У региона богатое культурное наследие." },
+      { "en": "The policy could have serious economic consequences.", "ru": "Политика может иметь серьёзные экономические последствия." }
+    ],
+    "common_mistake": {
+      "wrong": "economical policy",
+      "right": "economic policy",
+      "note": "Для значения «относящийся к экономике» обычно нужно economic."
+    },
+    "quiz": {
+      "prompt": "The museum provides detailed ___ information about the region. (HISTORY)",
+      "options": ["historical", "history", "historically", "historic"],
+      "correct_index": 0,
+      "answer": "historical",
+      "explanation": "Перед существительным information нужно прилагательное historical со значением «относящийся к истории»."
+    }
+  },
+  {
+    "id": "wf_022_adj_ic_ish_y",
+    "order": 22,
+    "level": "B2",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -ic / -ish / -y",
+    "base_word": "-IC / -ISH / -Y",
+    "focus": "Характеристика, сходство или наличие качества.",
+    "rule": "-ic часто образует книжные относительные прилагательные; -ish может обозначать принадлежность или приблизительность; -y — наличие качества.",
+    "forms": [
+      { "form": "scientific", "word_class": "adjective", "translation": "научный" },
+      { "form": "childish", "word_class": "adjective", "translation": "ребяческий" },
+      { "form": "greenish", "word_class": "adjective", "translation": "зеленоватый" },
+      { "form": "cloudy", "word_class": "adjective", "translation": "облачный" }
+    ],
+    "spelling_note": "Childish часто имеет отрицательную оценку; childlike обычно положительно описывает детскую непосредственность.",
+    "examples": [
+      { "en": "The claim is not supported by scientific evidence.", "ru": "Утверждение не подтверждается научными данными." },
+      { "en": "The sky remained cloudy throughout the afternoon.", "ru": "Небо оставалось облачным весь день." }
+    ],
+    "common_mistake": {
+      "wrong": "a science report",
+      "right": "a scientific report",
+      "note": "Перед существительным report требуется прилагательное scientific."
+    },
+    "quiz": {
+      "prompt": "The explanation should be based on ___ evidence. (SCIENCE)",
+      "options": ["science", "scientific", "scientist", "scientifically"],
+      "correct_index": 1,
+      "answer": "scientific",
+      "explanation": "Перед evidence требуется прилагательное scientific."
+    }
+  },
+  {
+    "id": "wf_023_ed_ing_adjectives",
+    "order": 23,
+    "level": "B2",
+    "category": "ADJECTIVES",
+    "title": "Прилагательные на -ed и -ing",
+    "base_word": "-ED / -ING",
+    "focus": "Чувство человека и вызывающая его причина.",
+    "rule": "Форма на -ed обычно описывает состояние человека; форма на -ing — человека, вещь или ситуацию, которые вызывают это чувство.",
+    "forms": [
+      { "form": "interested", "word_class": "adjective", "translation": "заинтересованный" },
+      { "form": "interesting", "word_class": "adjective", "translation": "интересный" },
+      { "form": "confused", "word_class": "adjective", "translation": "растерянный" },
+      { "form": "confusing", "word_class": "adjective", "translation": "запутанный" }
+    ],
+    "spelling_note": "Не ориентируйтесь только на одушевлённость: a bored audience, но a boring speaker.",
+    "examples": [
+      { "en": "The audience was confused by the final diagram.", "ru": "Аудитория была сбита с толку последней диаграммой." },
+      { "en": "The instructions were confusing and incomplete.", "ru": "Инструкции были запутанными и неполными." }
+    ],
+    "common_mistake": {
+      "wrong": "I am very interesting in history.",
+      "right": "I am very interested in history.",
+      "note": "Человек испытывает интерес, поэтому нужна форма interested."
+    },
+    "quiz": {
+      "prompt": "The documentary was both informative and ___. (ENGAGE)",
+      "options": ["engaged", "engagement", "engaging", "engagingly"],
+      "correct_index": 2,
+      "answer": "engaging",
+      "explanation": "Документальный фильм вызывает интерес, поэтому нужно engaging."
+    }
+  },
+  {
+    "id": "wf_024_compound_adjectives",
+    "order": 24,
+    "level": "B2",
+    "category": "ADJECTIVES",
+    "title": "Сложные прилагательные",
+    "base_word": "COMPOUND ADJECTIVES",
+    "focus": "Комбинации с participles и существительными.",
+    "rule": "Сложные прилагательные часто имеют модели noun + participle, adverb + participle или number + singular noun: open-minded, well-known, time-consuming, a ten-minute break.",
+    "forms": [
+      { "form": "open-minded", "word_class": "adjective", "translation": "непредвзятый" },
+      { "form": "well-known", "word_class": "adjective", "translation": "широко известный" },
+      { "form": "time-consuming", "word_class": "adjective", "translation": "трудоёмкий" },
+      { "form": "ten-minute", "word_class": "adjective", "translation": "десятиминутный" }
+    ],
+    "spelling_note": "В number + noun существительное обычно остаётся в единственном числе: a two-hour meeting.",
+    "examples": [
+      { "en": "The application process is unnecessarily time-consuming.", "ru": "Процесс подачи заявки неоправданно трудоёмкий." },
+      { "en": "She is a well-respected specialist in the field.", "ru": "Она уважаемый специалист в этой области." }
+    ],
+    "common_mistake": {
+      "wrong": "a three-hours journey",
+      "right": "a three-hour journey",
+      "note": "В сложном прилагательном hour употребляется в единственном числе."
+    },
+    "quiz": {
+      "prompt": "They introduced a more ___ booking system. (USER / FRIEND)",
+      "options": ["user-friend", "friendly-user", "user-friendliness", "user-friendly"],
+      "correct_index": 3,
+      "answer": "user-friendly",
+      "explanation": "Перед system требуется сложное прилагательное user-friendly."
+    }
+  },
+  {
+    "id": "wf_025_verb_ise_ize",
+    "order": 25,
+    "level": "B1",
+    "category": "VERBS",
+    "title": "Глаголы на -ise / -ize",
+    "base_word": "-ISE / -IZE",
+    "focus": "Превращать во что-либо или организовывать процесс.",
+    "rule": "-ise/-ize образует глаголы: modernise/modernize, organise/organize, recognise/recognize. В британском английском обе системы встречаются, но один текст должен быть последователен.",
+    "forms": [
+      { "form": "modernise", "word_class": "verb", "translation": "модернизировать" },
+      { "form": "organise", "word_class": "verb", "translation": "организовывать" },
+      { "form": "recognise", "word_class": "verb", "translation": "распознавать" },
+      { "form": "prioritise", "word_class": "verb", "translation": "расставлять приоритеты" }
+    ],
+    "spelling_note": "В одном тексте придерживайтесь одной орфографической системы.",
+    "examples": [
+      { "en": "The company plans to modernise its payment system.", "ru": "Компания планирует модернизировать платёжную систему." },
+      { "en": "We need to prioritise the most urgent cases.", "ru": "Нам нужно расставить приоритеты среди самых срочных случаев." }
+    ],
+    "common_mistake": {
+      "wrong": "to modern the system",
+      "right": "to modernise the system",
+      "note": "Для значения действия используется глагол modernise/modernize."
+    },
+    "quiz": {
+      "prompt": "The software can automatically ___ incoming requests. (CATEGORY)",
+      "options": ["categorise", "category", "categorical", "categorisation"],
+      "correct_index": 0,
+      "answer": "categorise",
+      "explanation": "После can нужна базовая форма глагола categorise."
+    }
+  },
+  {
+    "id": "wf_026_verb_ify",
+    "order": 26,
+    "level": "B1",
+    "category": "VERBS",
+    "title": "Глаголы на -ify",
+    "base_word": "-IFY",
+    "focus": "Сделать или стать каким-либо.",
+    "rule": "-ify образует глаголы со значением изменения: simple → simplify, clear → clarify, pure → purify, intense → intensify.",
+    "forms": [
+      { "form": "simplify", "word_class": "verb", "translation": "упрощать" },
+      { "form": "clarify", "word_class": "verb", "translation": "прояснять" },
+      { "form": "purify", "word_class": "verb", "translation": "очищать" },
+      { "form": "intensify", "word_class": "verb", "translation": "усиливать" }
+    ],
+    "spelling_note": "Некоторые основы меняются: clear → clarify, intense → intensify.",
+    "examples": [
+      { "en": "Could you clarify the final requirement?", "ru": "Не могли бы вы уточнить последнее требование?" },
+      { "en": "The new layout should simplify navigation.", "ru": "Новая компоновка должна упростить навигацию." }
+    ],
+    "common_mistake": {
+      "wrong": "clarificate",
+      "right": "clarify",
+      "note": "Нормативный глагол от clear в этом значении — clarify."
+    },
+    "quiz": {
+      "prompt": "The diagram helps to ___ a complex process. (SIMPLE)",
+      "options": ["simple", "simplify", "simplicity", "simply"],
+      "correct_index": 1,
+      "answer": "simplify",
+      "explanation": "После to требуется глагол simplify."
+    }
+  },
+  {
+    "id": "wf_027_verb_en_suffix",
+    "order": 27,
+    "level": "B2",
+    "category": "VERBS",
+    "title": "Глаголы на -en",
+    "base_word": "-EN",
+    "focus": "Стать или сделать более каким-либо.",
+    "rule": "-en образует ограниченную группу глаголов: wide → widen, strong → strengthen, short → shorten, bright → brighten.",
+    "forms": [
+      { "form": "widen", "word_class": "verb", "translation": "расширять" },
+      { "form": "strengthen", "word_class": "verb", "translation": "укреплять" },
+      { "form": "shorten", "word_class": "verb", "translation": "сокращать" },
+      { "form": "brighten", "word_class": "verb", "translation": "осветлять; оживлять" }
+    ],
+    "spelling_note": "Не каждое прилагательное допускает -en: нельзя механически образовать *clearen или *smallen.",
+    "examples": [
+      { "en": "The training should strengthen your analytical skills.", "ru": "Обучение должно укрепить ваши аналитические навыки." },
+      { "en": "They decided to shorten the presentation.", "ru": "Они решили сократить презентацию." }
+    ],
+    "common_mistake": {
+      "wrong": "to strong the argument",
+      "right": "to strengthen the argument",
+      "note": "От strong образуется форма strengthen."
+    },
+    "quiz": {
+      "prompt": "The new evidence may ___ their case. (STRONG)",
+      "options": ["strength", "strong", "strengthen", "strongly"],
+      "correct_index": 2,
+      "answer": "strengthen",
+      "explanation": "После may нужна базовая форма глагола strengthen."
+    }
+  },
+  {
+    "id": "wf_028_verb_en_em_prefix",
+    "order": 28,
+    "level": "B2",
+    "category": "VERBS",
+    "title": "Глагольные префиксы en- / em-",
+    "base_word": "EN- / EM-",
+    "focus": "Сделать, снабдить или поместить в состояние.",
+    "rule": "en-/em- образуют некоторые глаголы: enable, encourage, enrich, empower. Перед b, m и p часто используется em-.",
+    "forms": [
+      { "form": "enable", "word_class": "verb", "translation": "давать возможность" },
+      { "form": "encourage", "word_class": "verb", "translation": "поощрять" },
+      { "form": "enrich", "word_class": "verb", "translation": "обогащать" },
+      { "form": "empower", "word_class": "verb", "translation": "наделять полномочиями" }
+    ],
+    "spelling_note": "Формы лексически закреплены: empower, но enable.",
+    "examples": [
+      { "en": "The grant enabled the team to continue its research.", "ru": "Грант позволил команде продолжить исследование." },
+      { "en": "The programme aims to empower local communities.", "ru": "Программа направлена на расширение возможностей местных сообществ." }
+    ],
+    "common_mistake": {
+      "wrong": "power local communities",
+      "right": "empower local communities",
+      "note": "Empower означает «дать полномочия или возможности»."
+    },
+    "quiz": {
+      "prompt": "The new platform will ___ users to manage their own data. (ABLE)",
+      "options": ["ability", "able", "ably", "enable"],
+      "correct_index": 3,
+      "answer": "enable",
+      "explanation": "После will нужна базовая форма глагола enable."
+    }
+  },
+  {
+    "id": "wf_029_conversion_to_verb",
+    "order": 29,
+    "level": "B2",
+    "category": "VERBS",
+    "title": "Конверсия: слово становится глаголом",
+    "base_word": "CONVERSION",
+    "focus": "Переход в другую часть речи без аффикса.",
+    "rule": "В английском существительное или прилагательное может стать глаголом без изменения формы: email, host, access, empty. Значение определяется синтаксисом.",
+    "forms": [
+      { "form": "to email", "word_class": "verb", "translation": "отправить электронное письмо" },
+      { "form": "to host", "word_class": "verb", "translation": "проводить; принимать" },
+      { "form": "to access", "word_class": "verb", "translation": "получать доступ" },
+      { "form": "to empty", "word_class": "verb", "translation": "опустошать" }
+    ],
+    "spelling_note": "Конверсия продуктивна, но не каждое существительное естественно используется как глагол.",
+    "examples": [
+      { "en": "Please email the completed form to the coordinator.", "ru": "Пожалуйста, отправьте заполненную форму координатору по электронной почте." },
+      { "en": "The university will host the conference next year.", "ru": "В следующем году университет проведёт конференцию." }
+    ],
+    "common_mistake": {
+      "wrong": "send by an email it",
+      "right": "email it",
+      "note": "Email может употребляться как переходный глагол."
+    },
+    "quiz": {
+      "prompt": "Only authorised staff can ___ these records.",
+      "options": ["access", "accessible", "accessibility", "accessibly"],
+      "correct_index": 0,
+      "answer": "access",
+      "explanation": "После can нужна базовая форма глагола access."
+    }
+  },
+  {
+    "id": "wf_030_re_verbs",
+    "order": 30,
+    "level": "B2",
+    "category": "VERBS",
+    "title": "Префикс re- в глаголах",
+    "base_word": "RE-",
+    "focus": "Повторное действие или возвращение к прежнему состоянию.",
+    "rule": "re- часто означает «снова» или «заново»: rewrite, reconsider, reopen, rebuild. Дефис зависит от конкретного слова и риска неоднозначности.",
+    "forms": [
+      { "form": "rewrite", "word_class": "verb", "translation": "переписать" },
+      { "form": "reconsider", "word_class": "verb", "translation": "пересмотреть" },
+      { "form": "reopen", "word_class": "verb", "translation": "открыть снова" },
+      { "form": "rebuild", "word_class": "verb", "translation": "восстановить" }
+    ],
+    "spelling_note": "Большинство частотных слов с re- пишется слитно, но словарь и стиль-гайд имеют приоритет.",
+    "examples": [
+      { "en": "The editor asked her to rewrite the opening paragraph.", "ru": "Редактор попросил её переписать первый абзац." },
+      { "en": "The committee agreed to reconsider the proposal.", "ru": "Комитет согласился пересмотреть предложение." }
+    ],
+    "common_mistake": {
+      "wrong": "consider again the proposal",
+      "right": "reconsider the proposal",
+      "note": "Reconsider естественно передаёт значение повторного рассмотрения."
+    },
+    "quiz": {
+      "prompt": "After receiving new evidence, the court may ___ the case. (OPEN)",
+      "options": ["opening", "reopen", "openness", "openly"],
+      "correct_index": 1,
+      "answer": "reopen",
+      "explanation": "После may требуется глагол со значением «открыть снова»: reopen."
+    }
+  },
+  {
+    "id": "wf_031_de_dis_verbs",
+    "order": 31,
+    "level": "C1",
+    "category": "VERBS",
+    "title": "Глаголы с de- / dis-",
+    "base_word": "DE- / DIS-",
+    "focus": "Удаление, обратное действие или нарушение состояния.",
+    "rule": "de- может обозначать удаление или обратный процесс: deactivate, decentralise; dis- — разделение, отмену или отрицание: disconnect, disapprove.",
+    "forms": [
+      { "form": "deactivate", "word_class": "verb", "translation": "деактивировать" },
+      { "form": "decentralise", "word_class": "verb", "translation": "децентрализовать" },
+      { "form": "disconnect", "word_class": "verb", "translation": "отсоединять" },
+      { "form": "disapprove", "word_class": "verb", "translation": "не одобрять" }
+    ],
+    "spelling_note": "Нельзя свободно менять de- и dis-: форма закреплена за конкретным словом.",
+    "examples": [
+      { "en": "The account was automatically deactivated after twelve months.", "ru": "Учётная запись была автоматически деактивирована через двенадцать месяцев." },
+      { "en": "Please disconnect the device before cleaning it.", "ru": "Перед очисткой отключите устройство." }
+    ],
+    "common_mistake": {
+      "wrong": "deconnect the device",
+      "right": "disconnect the device",
+      "note": "Нормативная форма — disconnect."
+    },
+    "quiz": {
+      "prompt": "The system will ___ inactive accounts automatically. (ACTIVATE)",
+      "options": ["activation", "active", "deactivate", "actively"],
+      "correct_index": 2,
+      "answer": "deactivate",
+      "explanation": "Контекст требует глагол со значением обратного действия deactivate."
+    }
+  },
+  {
+    "id": "wf_032_complex_verb_families",
+    "order": 32,
+    "level": "C1",
+    "category": "VERBS",
+    "title": "Сложные глагольные семьи",
+    "base_word": "IRREGULAR VERB FAMILIES",
+    "focus": "Сочетание внутреннего изменения основы и суффикса.",
+    "rule": "Некоторые глаголы образуются не простым добавлением аффикса: strong → strengthen, long → lengthen, broad → broaden, class → classify.",
+    "forms": [
+      { "form": "strong → strengthen", "word_class": "verb family", "translation": "сильный → укреплять" },
+      { "form": "long → lengthen", "word_class": "verb family", "translation": "длинный → удлинять" },
+      { "form": "broad → broaden", "word_class": "verb family", "translation": "широкий → расширять" },
+      { "form": "class → classify", "word_class": "verb family", "translation": "класс → классифицировать" }
+    ],
+    "spelling_note": "Запоминайте всю цепочку: long → length → lengthen; strong → strength → strengthen.",
+    "examples": [
+      { "en": "The course is designed to broaden students’ perspectives.", "ru": "Курс разработан, чтобы расширить кругозор студентов." },
+      { "en": "The measures should strengthen public confidence.", "ru": "Меры должны укрепить доверие общества." }
+    ],
+    "common_mistake": {
+      "wrong": "to broad your knowledge",
+      "right": "to broaden your knowledge",
+      "note": "Для действия нужна форма broaden."
+    },
+    "quiz": {
+      "prompt": "The exercises are intended to ___ your vocabulary. (BROAD)",
+      "options": ["broad", "breadth", "broadly", "broaden"],
+      "correct_index": 3,
+      "answer": "broaden",
+      "explanation": "После to нужна глагольная форма broaden."
+    }
+  },
+  {
+    "id": "wf_033_adverb_ly",
+    "order": 33,
+    "level": "A2",
+    "category": "ADVERBS",
+    "title": "Наречия на -ly",
+    "base_word": "-LY",
+    "focus": "Образ действия и степень.",
+    "rule": "Большинство качественных прилагательных образует наречие с -ly: careful → carefully, clear → clearly, sudden → suddenly.",
+    "forms": [
+      { "form": "carefully", "word_class": "adverb", "translation": "осторожно" },
+      { "form": "clearly", "word_class": "adverb", "translation": "ясно" },
+      { "form": "suddenly", "word_class": "adverb", "translation": "внезапно" },
+      { "form": "quietly", "word_class": "adverb", "translation": "тихо" }
+    ],
+    "spelling_note": "Friendly, lovely, lively и lonely — обычно прилагательные, несмотря на -ly.",
+    "examples": [
+      { "en": "She explained the procedure clearly.", "ru": "Она ясно объяснила процедуру." },
+      { "en": "The temperature suddenly dropped below zero.", "ru": "Температура внезапно опустилась ниже нуля." }
+    ],
+    "common_mistake": {
+      "wrong": "He spoke friendly.",
+      "right": "He spoke in a friendly way.",
+      "note": "Friendly — прилагательное; для наречного значения используется in a friendly way."
+    },
+    "quiz": {
+      "prompt": "Please answer the questions ___. (HONEST)",
+      "options": ["honestly", "honest", "honesty", "dishonest"],
+      "correct_index": 0,
+      "answer": "honestly",
+      "explanation": "Форма описывает answer, поэтому требуется наречие honestly."
+    }
+  },
+  {
+    "id": "wf_034_y_to_ily",
+    "order": 34,
+    "level": "A2",
+    "category": "ADVERBS",
+    "title": "Конечная -y: -ily",
+    "base_word": "-Y → -ILY",
+    "focus": "Орфографическое изменение при образовании наречия.",
+    "rule": "Если прилагательное заканчивается на согласную + y, y обычно меняется на i перед -ly: easy → easily, happy → happily.",
+    "forms": [
+      { "form": "easy → easily", "word_class": "adverb family", "translation": "лёгкий → легко" },
+      { "form": "happy → happily", "word_class": "adverb family", "translation": "счастливый → счастливо" },
+      { "form": "angry → angrily", "word_class": "adverb family", "translation": "сердитый → сердито" },
+      { "form": "steady → steadily", "word_class": "adverb family", "translation": "устойчивый → устойчиво" }
+    ],
+    "spelling_note": "Если перед y стоит гласная, правило может не применяться: coy → coyly.",
+    "examples": [
+      { "en": "The software can be easily updated.", "ru": "Программное обеспечение можно легко обновить." },
+      { "en": "Sales have risen steadily since January.", "ru": "Продажи стабильно растут с января." }
+    ],
+    "common_mistake": {
+      "wrong": "easyly",
+      "right": "easily",
+      "note": "Конечная y меняется на i перед -ly."
+    },
+    "quiz": {
+      "prompt": "The two systems can be ___ combined. (EASY)",
+      "options": ["easy", "easily", "easiness", "uneasy"],
+      "correct_index": 1,
+      "answer": "easily",
+      "explanation": "Нужно наречие, а easy меняется на easily."
+    }
+  },
+  {
+    "id": "wf_035_le_to_ly",
+    "order": 35,
+    "level": "B1",
+    "category": "ADVERBS",
+    "title": "Прилагательные на -le: -ly",
+    "base_word": "-LE → -LY",
+    "focus": "Замена конечной e при образовании наречия.",
+    "rule": "У многих прилагательных на согласная + le конечная e исчезает перед -y: possible → possibly, simple → simply, gentle → gently.",
+    "forms": [
+      { "form": "possible → possibly", "word_class": "adverb family", "translation": "возможный → возможно" },
+      { "form": "simple → simply", "word_class": "adverb family", "translation": "простой → просто" },
+      { "form": "gentle → gently", "word_class": "adverb family", "translation": "мягкий → мягко" },
+      { "form": "comfortable → comfortably", "word_class": "adverb family", "translation": "удобный → удобно" }
+    ],
+    "spelling_note": "Не добавляйте *-ly к полной форме: не possiblely, а possibly.",
+    "examples": [
+      { "en": "The issue can possibly be resolved today.", "ru": "Возможно, проблему удастся решить сегодня." },
+      { "en": "She gently placed the glass on the table.", "ru": "Она осторожно поставила стакан на стол." }
+    ],
+    "common_mistake": {
+      "wrong": "possiblely",
+      "right": "possibly",
+      "note": "Конечная le преобразуется в ly."
+    },
+    "quiz": {
+      "prompt": "The room can ___ accommodate thirty people. (COMFORTABLE)",
+      "options": ["comfortable", "comfort", "comfortably", "comforting"],
+      "correct_index": 2,
+      "answer": "comfortably",
+      "explanation": "Нужно наречие comfortably; -able переходит в -ably."
+    }
+  },
+  {
+    "id": "wf_036_ic_to_ically",
+    "order": 36,
+    "level": "B1",
+    "category": "ADVERBS",
+    "title": "Прилагательные на -ic: -ically",
+    "base_word": "-IC → -ICALLY",
+    "focus": "Типичное наречное окончание после -ic.",
+    "rule": "Большинство прилагательных на -ic образует наречие с -ically: automatic → automatically, dramatic → dramatically, scientific → scientifically.",
+    "forms": [
+      { "form": "automatically", "word_class": "adverb", "translation": "автоматически" },
+      { "form": "dramatically", "word_class": "adverb", "translation": "резко" },
+      { "form": "scientifically", "word_class": "adverb", "translation": "с научной точки зрения" },
+      { "form": "economically", "word_class": "adverb", "translation": "экономически" }
+    ],
+    "spelling_note": "Public → publicly — частотное исключение без -al-.",
+    "examples": [
+      { "en": "The file is saved automatically every five minutes.", "ru": "Файл автоматически сохраняется каждые пять минут." },
+      { "en": "Prices rose dramatically during the shortage.", "ru": "Цены резко выросли во время дефицита." }
+    ],
+    "common_mistake": {
+      "wrong": "automaticly",
+      "right": "automatically",
+      "note": "После -ic обычно добавляется -ally."
+    },
+    "quiz": {
+      "prompt": "The claim has not been ___ proven. (SCIENCE)",
+      "options": ["scientific", "science", "scientist", "scientifically"],
+      "correct_index": 3,
+      "answer": "scientifically",
+      "explanation": "Форма описывает proven, поэтому нужно scientifically."
+    }
+  },
+  {
+    "id": "wf_037_flat_adverbs",
+    "order": 37,
+    "level": "B2",
+    "category": "ADVERBS",
+    "title": "Наречия без -ly",
+    "base_word": "FLAT ADVERBS",
+    "focus": "Одинаковая форма прилагательного и наречия.",
+    "rule": "Fast, hard, late, early, straight и long могут употребляться как наречия без -ly. Добавление -ly иногда создаёт другое слово или ошибку.",
+    "forms": [
+      { "form": "work hard", "word_class": "adverb phrase", "translation": "усердно работать" },
+      { "form": "arrive late", "word_class": "adverb phrase", "translation": "прийти поздно" },
+      { "form": "drive fast", "word_class": "adverb phrase", "translation": "ехать быстро" },
+      { "form": "go straight", "word_class": "adverb phrase", "translation": "идти прямо" }
+    ],
+    "spelling_note": "Hardly не означает «усердно»; lately не является обычным наречием от late в значении «поздно».",
+    "examples": [
+      { "en": "They worked hard to meet the deadline.", "ru": "Они усердно работали, чтобы уложиться в срок." },
+      { "en": "The train arrived late because of flooding.", "ru": "Поезд прибыл поздно из-за наводнения." }
+    ],
+    "common_mistake": {
+      "wrong": "work hardly",
+      "right": "work hard",
+      "note": "Hardly означает «едва», а не «усердно»."
+    },
+    "quiz": {
+      "prompt": "The team worked ___ to complete the project.",
+      "options": ["hard", "hardly", "hardness", "harden"],
+      "correct_index": 0,
+      "answer": "hard",
+      "explanation": "Здесь требуется наречие «усердно»: hard."
+    }
+  },
+  {
+    "id": "wf_038_adverb_pairs",
+    "order": 38,
+    "level": "B2",
+    "category": "ADVERBS",
+    "title": "Пары hard/hardly, late/lately и другие",
+    "base_word": "ADVERB PAIRS",
+    "focus": "Формы с -ly могут иметь другое значение.",
+    "rule": "Hard/hardly, late/lately, near/nearly, high/highly различаются по значению, а не только по форме.",
+    "forms": [
+      { "form": "hard", "word_class": "adverb", "translation": "усердно; сильно" },
+      { "form": "hardly", "word_class": "adverb", "translation": "едва" },
+      { "form": "near", "word_class": "adverb/preposition", "translation": "близко" },
+      { "form": "nearly", "word_class": "adverb", "translation": "почти" }
+    ],
+    "spelling_note": "Highly часто означает «в высокой степени» в переносном смысле: highly effective.",
+    "examples": [
+      { "en": "I could hardly hear the announcement.", "ru": "Я едва мог расслышать объявление." },
+      { "en": "The new treatment is highly effective.", "ru": "Новый метод лечения очень эффективен." }
+    ],
+    "common_mistake": {
+      "wrong": "I worked hardly all day.",
+      "right": "I worked hard all day.",
+      "note": "Hardly меняет значение на «едва»."
+    },
+    "quiz": {
+      "prompt": "The hall was ___ empty by the time we arrived. (NEAR)",
+      "options": ["near", "nearly", "nearness", "nearby"],
+      "correct_index": 1,
+      "answer": "nearly",
+      "explanation": "Для значения «почти пуст» требуется nearly."
+    }
+  },
+  {
+    "id": "wf_039_ably_ibly",
+    "order": 39,
+    "level": "B2",
+    "category": "ADVERBS",
+    "title": "Наречия на -ably / -ibly",
+    "base_word": "-ABLE/-IBLE → -ABLY/-IBLY",
+    "focus": "Переход от прилагательного к наречию.",
+    "rule": "Прилагательные на -able/-ible обычно образуют наречия заменой final e на y: comfortable → comfortably, responsible → responsibly, possible → possibly.",
+    "forms": [
+      { "form": "comfortably", "word_class": "adverb", "translation": "удобно" },
+      { "form": "responsibly", "word_class": "adverb", "translation": "ответственно" },
+      { "form": "possibly", "word_class": "adverb", "translation": "возможно" },
+      { "form": "reliably", "word_class": "adverb", "translation": "надёжно" }
+    ],
+    "spelling_note": "Не пишите *responsiblely или *comfortablely.",
+    "examples": [
+      { "en": "The device performed reliably throughout the test.", "ru": "Устройство работало надёжно на протяжении всего испытания." },
+      { "en": "Organisations must handle personal data responsibly.", "ru": "Организации должны ответственно обращаться с персональными данными." }
+    ],
+    "common_mistake": {
+      "wrong": "responsiblely",
+      "right": "responsibly",
+      "note": "-ible заменяется на -ibly."
+    },
+    "quiz": {
+      "prompt": "All complaints should be handled ___. (RESPONSIBLE)",
+      "options": ["responsible", "responsibility", "responsibly", "irresponsible"],
+      "correct_index": 2,
+      "answer": "responsibly",
+      "explanation": "Форма описывает handled, поэтому нужно наречие responsibly."
+    }
+  },
+  {
+    "id": "wf_040_sentence_adverbs",
+    "order": 40,
+    "level": "B2",
+    "category": "ADVERBS",
+    "title": "Наречия-комментарии к предложению",
+    "base_word": "SENTENCE ADVERBS",
+    "focus": "Оценка говорящего или организация текста.",
+    "rule": "Fortunately, apparently, surprisingly, admittedly и similarly могут комментировать всё предложение и часто отделяются запятой.",
+    "forms": [
+      { "form": "fortunately", "word_class": "sentence adverb", "translation": "к счастью" },
+      { "form": "apparently", "word_class": "sentence adverb", "translation": "по-видимому" },
+      { "form": "surprisingly", "word_class": "sentence adverb", "translation": "удивительно" },
+      { "form": "admittedly", "word_class": "sentence adverb", "translation": "надо признать" }
+    ],
+    "spelling_note": "Не путайте apparently с *apparentally; от apparent образуется apparently.",
+    "examples": [
+      { "en": "Fortunately, nobody was injured in the incident.", "ru": "К счастью, в происшествии никто не пострадал." },
+      { "en": "Admittedly, the first version was difficult to use.", "ru": "Надо признать, первая версия была сложной в использовании." }
+    ],
+    "common_mistake": {
+      "wrong": "Apparentally, the service has closed.",
+      "right": "Apparently, the service has closed.",
+      "note": "Нормативная форма — apparently."
+    },
+    "quiz": {
+      "prompt": "___, the results were better than expected. (SURPRISE)",
+      "options": ["Surprising", "Surprise", "Surprised", "Surprisingly"],
+      "correct_index": 3,
+      "answer": "Surprisingly",
+      "explanation": "В начале предложения нужен sentence adverb Surprisingly."
+    }
+  },
+  {
+    "id": "wf_041_prefix_un",
+    "order": 41,
+    "level": "B1",
+    "category": "PREFIXES",
+    "title": "Отрицательный префикс un-",
+    "base_word": "UN-",
+    "focus": "Отрицание или обратное действие.",
+    "rule": "un- образует многие отрицательные прилагательные и некоторые глаголы обратного действия: unhappy, unfair, uncertain, unlock.",
+    "forms": [
+      { "form": "unhappy", "word_class": "adjective", "translation": "несчастный" },
+      { "form": "unfair", "word_class": "adjective", "translation": "несправедливый" },
+      { "form": "uncertain", "word_class": "adjective", "translation": "неопределённый" },
+      { "form": "unlock", "word_class": "verb", "translation": "отпереть" }
+    ],
+    "spelling_note": "Un- продуктивен, но не универсален: impossible, illegal и irregular требуют других префиксов.",
+    "examples": [
+      { "en": "The final outcome remains uncertain.", "ru": "Окончательный результат остаётся неопределённым." },
+      { "en": "Staff considered the new rule unfair.", "ru": "Сотрудники сочли новое правило несправедливым." }
+    ],
+    "common_mistake": {
+      "wrong": "unpossible",
+      "right": "impossible",
+      "note": "От possible образуется impossible, а не unpossible."
+    },
+    "quiz": {
+      "prompt": "The instructions were incomplete and ___. (CLEAR)",
+      "options": ["unclear", "clear", "clearly", "clarity"],
+      "correct_index": 0,
+      "answer": "unclear",
+      "explanation": "Контекст требует отрицательное прилагательное unclear."
+    }
+  },
+  {
+    "id": "wf_042_prefix_in_im_il_ir",
+    "order": 42,
+    "level": "B1",
+    "category": "PREFIXES",
+    "title": "Префиксы in- / im- / il- / ir-",
+    "base_word": "IN- / IM- / IL- / IR-",
+    "focus": "Отрицание с фонетическими вариантами.",
+    "rule": "Перед p, b, m часто используется im-; перед l — il-; перед r — ir-; в других частотных словах — in-.",
+    "forms": [
+      { "form": "impossible", "word_class": "adjective", "translation": "невозможный" },
+      { "form": "illegal", "word_class": "adjective", "translation": "незаконный" },
+      { "form": "irregular", "word_class": "adjective", "translation": "нерегулярный" },
+      { "form": "inaccurate", "word_class": "adjective", "translation": "неточный" }
+    ],
+    "spelling_note": "Выбор формы зависит от начального звука и закреплённого написания слова.",
+    "examples": [
+      { "en": "The figures in the first report were inaccurate.", "ru": "Цифры в первом отчёте были неточными." },
+      { "en": "It is illegal to copy the material without permission.", "ru": "Копировать материал без разрешения незаконно." }
+    ],
+    "common_mistake": {
+      "wrong": "inregular",
+      "right": "irregular",
+      "note": "Перед r используется вариант ir-."
+    },
+    "quiz": {
+      "prompt": "The data was rejected because it was ___. (ACCURATE)",
+      "options": ["accurate", "inaccurate", "accuracy", "accurately"],
+      "correct_index": 1,
+      "answer": "inaccurate",
+      "explanation": "Контекст требует отрицательное прилагательное inaccurate."
+    }
+  },
+  {
+    "id": "wf_043_prefix_dis",
+    "order": 43,
+    "level": "B2",
+    "category": "PREFIXES",
+    "title": "Префикс dis-",
+    "base_word": "DIS-",
+    "focus": "Отрицание, противоположность или разделение.",
+    "rule": "dis- образует прилагательные, существительные и глаголы: dishonest, disagreement, disconnect, disapprove.",
+    "forms": [
+      { "form": "dishonest", "word_class": "adjective", "translation": "нечестный" },
+      { "form": "disagreement", "word_class": "noun", "translation": "несогласие" },
+      { "form": "disconnect", "word_class": "verb", "translation": "отсоединять" },
+      { "form": "disapprove", "word_class": "verb", "translation": "не одобрять" }
+    ],
+    "spelling_note": "Сочетание dis- и суффикса возможно: agree → disagreement.",
+    "examples": [
+      { "en": "There was considerable disagreement over the final budget.", "ru": "По поводу окончательного бюджета возникли значительные разногласия." },
+      { "en": "Customers may disconnect the service at any time.", "ru": "Клиенты могут отключить услугу в любое время." }
+    ],
+    "common_mistake": {
+      "wrong": "unagreement",
+      "right": "disagreement",
+      "note": "Нормативное существительное от disagree — disagreement."
+    },
+    "quiz": {
+      "prompt": "The proposal caused widespread ___. (AGREE)",
+      "options": ["agreement", "disagree", "disagreement", "agreeable"],
+      "correct_index": 2,
+      "answer": "disagreement",
+      "explanation": "После widespread требуется существительное с отрицательным значением disagreement."
+    }
+  },
+  {
+    "id": "wf_044_prefix_mis",
+    "order": 44,
+    "level": "B2",
+    "category": "PREFIXES",
+    "title": "Префикс mis-",
+    "base_word": "MIS-",
+    "focus": "Неправильное или ошибочное действие.",
+    "rule": "mis- означает «неправильно, ошибочно»: misunderstand, mislead, miscalculate, misinformation.",
+    "forms": [
+      { "form": "misunderstand", "word_class": "verb", "translation": "неправильно понять" },
+      { "form": "mislead", "word_class": "verb", "translation": "ввести в заблуждение" },
+      { "form": "miscalculate", "word_class": "verb", "translation": "ошибиться в расчётах" },
+      { "form": "misinformation", "word_class": "noun", "translation": "дезинформация" }
+    ],
+    "spelling_note": "Mis- обычно пишется слитно с основой.",
+    "examples": [
+      { "en": "Do not deliberately mislead customers about the price.", "ru": "Не вводите клиентов намеренно в заблуждение относительно цены." },
+      { "en": "The total was wrong because we had miscalculated the tax.", "ru": "Итог был неверным, потому что мы неправильно рассчитали налог." }
+    ],
+    "common_mistake": {
+      "wrong": "understand wrongly the message",
+      "right": "misunderstand the message",
+      "note": "Misunderstand — стандартный глагол для ошибочного понимания."
+    },
+    "quiz": {
+      "prompt": "Several users ___ the purpose of the warning. (UNDERSTAND)",
+      "options": ["understood", "misunderstanding", "understandable", "misunderstood"],
+      "correct_index": 3,
+      "answer": "misunderstood",
+      "explanation": "Контекст требует Past Simple глагола с ошибочным значением misunderstood."
+    }
+  },
+  {
+    "id": "wf_045_prefix_non_anti",
+    "order": 45,
+    "level": "B2",
+    "category": "PREFIXES",
+    "title": "Префиксы non- и anti-",
+    "base_word": "NON- / ANTI-",
+    "focus": "Отсутствие свойства и противодействие.",
+    "rule": "non- означает отсутствие или неприменимость признака; anti- выражает противодействие или направленность против чего-либо.",
+    "forms": [
+      { "form": "non-verbal", "word_class": "adjective", "translation": "невербальный" },
+      { "form": "non-profit", "word_class": "adjective/noun", "translation": "некоммерческий" },
+      { "form": "antisocial", "word_class": "adjective", "translation": "антиобщественный" },
+      { "form": "anti-inflammatory", "word_class": "adjective", "translation": "противовоспалительный" }
+    ],
+    "spelling_note": "Написание с дефисом или слитно зависит от слова и принятого стиля; проверяйте словарь.",
+    "examples": [
+      { "en": "The charity is a non-profit organisation.", "ru": "Благотворительный фонд является некоммерческой организацией." },
+      { "en": "The course examines verbal and non-verbal communication.", "ru": "Курс рассматривает вербальное и невербальное общение." }
+    ],
+    "common_mistake": {
+      "wrong": "un-profit organisation",
+      "right": "non-profit organisation",
+      "note": "Для отсутствия коммерческой цели используется non-profit."
+    },
+    "quiz": {
+      "prompt": "Facial expressions are an important form of ___ communication. (VERBAL)",
+      "options": ["non-verbal", "verbal", "verbally", "verbalise"],
+      "correct_index": 0,
+      "answer": "non-verbal",
+      "explanation": "Facial expressions передают информацию без слов: non-verbal."
+    }
+  },
+  {
+    "id": "wf_046_prefix_over_under",
+    "order": 46,
+    "level": "B2",
+    "category": "PREFIXES",
+    "title": "Префиксы over- / under-",
+    "base_word": "OVER- / UNDER-",
+    "focus": "Избыток и недостаточность.",
+    "rule": "over- может означать чрезмерность, under- — недостаточность: overestimate, overworked, underestimate, underpaid.",
+    "forms": [
+      { "form": "overestimate", "word_class": "verb", "translation": "переоценивать" },
+      { "form": "overworked", "word_class": "adjective", "translation": "перегруженный работой" },
+      { "form": "underestimate", "word_class": "verb", "translation": "недооценивать" },
+      { "form": "underpaid", "word_class": "adjective", "translation": "низкооплачиваемый" }
+    ],
+    "spelling_note": "Префикс может сочетаться с другими суффиксами: underemployment, overconfident.",
+    "examples": [
+      { "en": "We underestimated the amount of time required.", "ru": "Мы недооценили необходимое количество времени." },
+      { "en": "Many staff felt overworked and underpaid.", "ru": "Многие сотрудники считали себя перегруженными и низкооплачиваемыми." }
+    ],
+    "common_mistake": {
+      "wrong": "estimate too little the cost",
+      "right": "underestimate the cost",
+      "note": "Underestimate естественно выражает недооценку."
+    },
+    "quiz": {
+      "prompt": "The original budget seriously ___ the final cost. (ESTIMATE)",
+      "options": ["estimated", "underestimated", "estimation", "overestimated"],
+      "correct_index": 1,
+      "answer": "underestimated",
+      "explanation": "Фактическая стоимость оказалась выше, значит бюджет её underestimated."
+    }
+  },
+  {
+    "id": "wf_047_prefix_pre_post_re",
+    "order": 47,
+    "level": "C1",
+    "category": "PREFIXES",
+    "title": "Временные префиксы pre- / post- / re-",
+    "base_word": "TIME PREFIXES",
+    "focus": "До, после и повторно.",
+    "rule": "pre- указывает на предшествование, post- — на последующий период, re- — на повторение: prearranged, postgraduate, reassess.",
+    "forms": [
+      { "form": "prearranged", "word_class": "adjective", "translation": "заранее согласованный" },
+      { "form": "postgraduate", "word_class": "noun/adjective", "translation": "последипломный; магистрант или аспирант" },
+      { "form": "reassess", "word_class": "verb", "translation": "повторно оценить" },
+      { "form": "reusable", "word_class": "adjective", "translation": "многоразовый" }
+    ],
+    "spelling_note": "Дефис зависит от конкретного слова, читаемости и орфографической системы.",
+    "examples": [
+      { "en": "All interviews must be prearranged.", "ru": "Все собеседования должны быть согласованы заранее." },
+      { "en": "The team will reassess the risks next month.", "ru": "В следующем месяце команда повторно оценит риски." }
+    ],
+    "common_mistake": {
+      "wrong": "assess again the risks",
+      "right": "reassess the risks",
+      "note": "Reassess — компактная нормативная форма повторной оценки."
+    },
+    "quiz": {
+      "prompt": "The samples will be ___ after six months. (ASSESS)",
+      "options": ["assessment", "assessable", "reassessed", "preassessed"],
+      "correct_index": 2,
+      "answer": "reassessed",
+      "explanation": "Will be требует past participle, а смысл — повторная оценка: reassessed."
+    }
+  },
+  {
+    "id": "wf_048_relational_prefixes",
+    "order": 48,
+    "level": "C1",
+    "category": "PREFIXES",
+    "title": "Префиксы co- / inter- / multi- / sub-",
+    "base_word": "RELATIONAL PREFIXES",
+    "focus": "Совместность, взаимосвязь, множественность и подчинённость.",
+    "rule": "co- выражает совместность, inter- — связь между группами, multi- — множественность, sub- — нижний уровень или подразделение.",
+    "forms": [
+      { "form": "co-author", "word_class": "noun/verb", "translation": "соавтор; писать в соавторстве" },
+      { "form": "interdependent", "word_class": "adjective", "translation": "взаимозависимый" },
+      { "form": "multilingual", "word_class": "adjective", "translation": "многоязычный" },
+      { "form": "subsection", "word_class": "noun", "translation": "подраздел" }
+    ],
+    "spelling_note": "Написание с дефисом и без него варьируется по словам; придерживайтесь словаря и единого стиля.",
+    "examples": [
+      { "en": "The two systems are highly interdependent.", "ru": "Две системы сильно взаимозависимы." },
+      { "en": "The report includes a separate subsection on ethics.", "ru": "Отчёт включает отдельный подраздел об этике." }
+    ],
+    "common_mistake": {
+      "wrong": "between-dependent systems",
+      "right": "interdependent systems",
+      "note": "Interdependent — закреплённое прилагательное со значением взаимозависимости."
+    },
+    "quiz": {
+      "prompt": "The platform supports several languages and is fully ___. (LANGUAGE)",
+      "options": ["language", "linguistic", "multilingually", "multilingual"],
+      "correct_index": 3,
+      "answer": "multilingual",
+      "explanation": "После fully требуется прилагательное со значением «многоязычный»: multilingual."
+    }
+  },
+  {
+    "id": "wf_049_final_y_changes",
+    "order": 49,
+    "level": "B2",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Изменение конечной y",
+    "base_word": "FINAL Y",
+    "focus": "y → i перед некоторыми суффиксами.",
+    "rule": "После согласной конечная y часто меняется на i перед -ness, -ly, -ful и рядом других суффиксов: happy → happiness, rely → reliable. Перед -ing y обычно сохраняется.",
+    "forms": [
+      { "form": "happy → happiness", "word_class": "noun family", "translation": "счастливый → счастье" },
+      { "form": "easy → easily", "word_class": "adverb family", "translation": "лёгкий → легко" },
+      { "form": "rely → reliable", "word_class": "adjective family", "translation": "полагаться → надёжный" },
+      { "form": "study → studying", "word_class": "verb form", "translation": "изучать → изучая" }
+    ],
+    "spelling_note": "Перед -ing: studying, carrying; y не меняется на i.",
+    "examples": [
+      { "en": "Reliability is essential in emergency equipment.", "ru": "Надёжность крайне важна для аварийного оборудования." },
+      { "en": "She completed the task easily.", "ru": "Она легко выполнила задание." }
+    ],
+    "common_mistake": {
+      "wrong": "relyable",
+      "right": "reliable",
+      "note": "В этой семье y меняется на i: rely → reliable."
+    },
+    "quiz": {
+      "prompt": "The results confirmed the ___ of the method. (RELY)",
+      "options": ["reliability", "reliable", "reliably", "rely"],
+      "correct_index": 0,
+      "answer": "reliability",
+      "explanation": "После the нужна форма существительного reliability."
+    }
+  },
+  {
+    "id": "wf_050_silent_e",
+    "order": 50,
+    "level": "B2",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Конечная немая e",
+    "base_word": "FINAL E",
+    "focus": "Удаление или сохранение e перед суффиксом.",
+    "rule": "Перед суффиксом, начинающимся с гласной, конечная e часто исчезает: create → creative. Но e может сохраняться для произношения или по словарной модели: notice → noticeable.",
+    "forms": [
+      { "form": "create → creative", "word_class": "adjective family", "translation": "создавать → творческий" },
+      { "form": "use → usable", "word_class": "adjective family", "translation": "использовать → пригодный" },
+      { "form": "notice → noticeable", "word_class": "adjective family", "translation": "замечать → заметный" },
+      { "form": "argue → argument", "word_class": "noun family", "translation": "спорить → аргумент" }
+    ],
+    "spelling_note": "Argument — важная форма: e из argue исчезает.",
+    "examples": [
+      { "en": "There was a noticeable improvement in clarity.", "ru": "Наблюдалось заметное улучшение ясности." },
+      { "en": "The team proposed a creative solution.", "ru": "Команда предложила творческое решение." }
+    ],
+    "common_mistake": {
+      "wrong": "arguement",
+      "right": "argument",
+      "note": "В argument после argu- нет e."
+    },
+    "quiz": {
+      "prompt": "The speaker presented a convincing ___. (ARGUE)",
+      "options": ["argue", "argument", "argumentative", "arguably"],
+      "correct_index": 1,
+      "answer": "argument",
+      "explanation": "После a convincing требуется существительное argument."
+    }
+  },
+  {
+    "id": "wf_051_consonant_doubling",
+    "order": 51,
+    "level": "B2",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Удвоение согласной",
+    "base_word": "DOUBLE CONSONANT",
+    "focus": "Орфография при добавлении суффикса.",
+    "rule": "В некоторых словах конечная согласная удваивается перед суффиксом: permit → permission, refer → referral. Это зависит от ударения и конкретной модели.",
+    "forms": [
+      { "form": "permit → permission", "word_class": "noun family", "translation": "разрешать → разрешение" },
+      { "form": "refer → referral", "word_class": "noun family", "translation": "направлять → направление" },
+      { "form": "occur → occurrence", "word_class": "noun family", "translation": "происходить → случай; возникновение" },
+      { "form": "begin → beginner", "word_class": "person noun", "translation": "начинать → новичок" }
+    ],
+    "spelling_note": "Occurrence пишется с двойными c и r.",
+    "examples": [
+      { "en": "Written permission is required before publication.", "ru": "Перед публикацией требуется письменное разрешение." },
+      { "en": "The doctor arranged an urgent referral.", "ru": "Врач оформил срочное направление." }
+    ],
+    "common_mistake": {
+      "wrong": "occurence",
+      "right": "occurrence",
+      "note": "В occurrence две c и две r."
+    },
+    "quiz": {
+      "prompt": "The sudden ___ of the fault surprised the engineers. (OCCUR)",
+      "options": ["occur", "occurring", "occurrence", "recurrent"],
+      "correct_index": 2,
+      "answer": "occurrence",
+      "explanation": "После the sudden требуется существительное occurrence."
+    }
+  },
+  {
+    "id": "wf_052_tion_sion_spelling",
+    "order": 52,
+    "level": "B2",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Сложные семьи -tion / -sion / -ssion",
+    "base_word": "SPELLING FAMILIES",
+    "focus": "Изменение основы перед суффиксом существительного.",
+    "rule": "Формы decision, expansion, permission и admission нужно запоминать как семьи: основа и согласные могут меняться.",
+    "forms": [
+      { "form": "decide → decision", "word_class": "noun family", "translation": "решать → решение" },
+      { "form": "expand → expansion", "word_class": "noun family", "translation": "расширять → расширение" },
+      { "form": "permit → permission", "word_class": "noun family", "translation": "разрешать → разрешение" },
+      { "form": "admit → admission", "word_class": "noun family", "translation": "допускать → приём" }
+    ],
+    "spelling_note": "Не выводите написание только из произношения; используйте словарную семью.",
+    "examples": [
+      { "en": "Admission to the exhibition is free.", "ru": "Вход на выставку бесплатный." },
+      { "en": "The expansion was financed through private investment.", "ru": "Расширение финансировалось за счёт частных инвестиций." }
+    ],
+    "common_mistake": {
+      "wrong": "admittion",
+      "right": "admission",
+      "note": "Admit образует admission с -ssion."
+    },
+    "quiz": {
+      "prompt": "The university has changed its ___ requirements. (ADMIT)",
+      "options": ["admit", "admissible", "admittedly", "admission"],
+      "correct_index": 3,
+      "answer": "admission",
+      "explanation": "Перед requirements нужно существительное, используемое атрибутивно: admission."
+    }
+  },
+  {
+    "id": "wf_053_irregular_dimensions",
+    "order": 53,
+    "level": "C1",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Нерегулярные семьи размеров и свойств",
+    "base_word": "WIDTH / DEPTH / LENGTH",
+    "focus": "Смена гласных и основы.",
+    "rule": "Некоторые существительные нельзя получить простым суффиксом: wide → width, deep → depth, long → length, strong → strength.",
+    "forms": [
+      { "form": "wide → width", "word_class": "noun family", "translation": "широкий → ширина" },
+      { "form": "deep → depth", "word_class": "noun family", "translation": "глубокий → глубина" },
+      { "form": "long → length", "word_class": "noun family", "translation": "длинный → длина" },
+      { "form": "strong → strength", "word_class": "noun family", "translation": "сильный → сила" }
+    ],
+    "spelling_note": "Далее возможен глагол на -en: widen, deepen, lengthen, strengthen.",
+    "examples": [
+      { "en": "The depth of the lake varies considerably.", "ru": "Глубина озера значительно варьируется." },
+      { "en": "The bridge has a total length of two kilometres.", "ru": "Общая длина моста составляет два километра." }
+    ],
+    "common_mistake": {
+      "wrong": "the deepness of the lake",
+      "right": "the depth of the lake",
+      "note": "В нейтральном измерительном значении используется depth."
+    },
+    "quiz": {
+      "prompt": "The test measures the material’s ___. (STRONG)",
+      "options": ["strength", "strong", "strongly", "strengthen"],
+      "correct_index": 0,
+      "answer": "strength",
+      "explanation": "После possessive material’s требуется существительное strength."
+    }
+  },
+  {
+    "id": "wf_054_lexical_families",
+    "order": 54,
+    "level": "C1",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Лексические семьи с разными основами",
+    "base_word": "SUCCESS / ADVICE / EMPLOY",
+    "focus": "Формы, которые нельзя строить механически.",
+    "rule": "Частотные семьи нужно изучать блоками: succeed/success/successful/successfully; advise/advice/advisable; employ/employer/employee/employment.",
+    "forms": [
+      { "form": "succeed → success", "word_class": "word family", "translation": "добиться успеха → успех" },
+      { "form": "advise → advice", "word_class": "word family", "translation": "советовать → совет" },
+      { "form": "employ → employee", "word_class": "word family", "translation": "нанимать → сотрудник" },
+      { "form": "employ → employer", "word_class": "word family", "translation": "нанимать → работодатель" }
+    ],
+    "spelling_note": "Advice — существительное, advise — глагол; в стандартном английском они различаются и конечным звуком.",
+    "examples": [
+      { "en": "The adviser gave practical advice on funding.", "ru": "Консультант дал практический совет по финансированию." },
+      { "en": "The company employs more than five hundred people.", "ru": "Компания нанимает более пятисот человек." }
+    ],
+    "common_mistake": {
+      "wrong": "She gave me a useful advise.",
+      "right": "She gave me useful advice.",
+      "note": "После give требуется существительное advice."
+    },
+    "quiz": {
+      "prompt": "The programme has been remarkably ___. (SUCCESS)",
+      "options": ["success", "successful", "successfully", "succeed"],
+      "correct_index": 1,
+      "answer": "successful",
+      "explanation": "После has been требуется прилагательное successful."
+    }
+  },
+  {
+    "id": "wf_055_word_family_chains",
+    "order": 55,
+    "level": "C1",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Цепочки из нескольких аффиксов",
+    "base_word": "MULTIPLE AFFIXES",
+    "focus": "Префикс и суффикс в одной форме.",
+    "rule": "Экзаменационный ответ может требовать несколько операций: predict → predictable → unpredictable → unpredictability; responsible → irresponsible → irresponsibility.",
+    "forms": [
+      { "form": "predictable", "word_class": "adjective", "translation": "предсказуемый" },
+      { "form": "unpredictable", "word_class": "adjective", "translation": "непредсказуемый" },
+      { "form": "unpredictability", "word_class": "noun", "translation": "непредсказуемость" },
+      { "form": "irresponsibility", "word_class": "noun", "translation": "безответственность" }
+    ],
+    "spelling_note": "После образования слова перечитайте контекст: возможно, нужны и отрицание, и другая часть речи.",
+    "examples": [
+      { "en": "The unpredictability of demand makes planning difficult.", "ru": "Непредсказуемость спроса затрудняет планирование." },
+      { "en": "The report criticised the company’s irresponsibility.", "ru": "В отчёте критиковалась безответственность компании." }
+    ],
+    "common_mistake": {
+      "wrong": "The unresponsible behaviour...",
+      "right": "The irresponsible behaviour...",
+      "note": "От responsible образуется irresponsible с ir-."
+    },
+    "quiz": {
+      "prompt": "Investors were concerned about the market’s ___. (PREDICT)",
+      "options": ["predictable", "unpredictable", "unpredictability", "prediction"],
+      "correct_index": 2,
+      "answer": "unpredictability",
+      "explanation": "После possessive market’s нужно существительное, а concerned указывает на отрицательный смысл: unpredictability."
+    }
+  },
+  {
+    "id": "wf_056_integrated_exam_card",
+    "order": 56,
+    "level": "C1",
+    "category": "SPELLING_IRREGULAR",
+    "title": "Комплексная экзаменационная трансформация",
+    "base_word": "INTEGRATED TRANSFORMATION",
+    "focus": "Одновременно учитывать смысл, часть речи, отрицание и написание.",
+    "rule": "В сложном задании основа может измениться, получить отрицательный префикс и суффикс. Решение подтверждается только после повторного чтения всего предложения.",
+    "forms": [
+      { "form": "understand → misunderstanding", "word_class": "noun family", "translation": "понимать → недопонимание" },
+      { "form": "relevant → irrelevant", "word_class": "adjective family", "translation": "относящийся к делу → не относящийся к делу" },
+      { "form": "adequate → inadequately", "word_class": "adverb family", "translation": "достаточный → недостаточно" },
+      { "form": "likely → likelihood", "word_class": "noun family", "translation": "вероятный → вероятность" }
+    ],
+    "spelling_note": "Likely → likelihood — закреплённая семья; не *likeliness в обычном значении вероятности.",
+    "examples": [
+      { "en": "The likelihood of further disruption remains high.", "ru": "Вероятность дальнейших сбоев остаётся высокой." },
+      { "en": "The issue was inadequately addressed in the first report.", "ru": "В первом отчёте проблема была рассмотрена недостаточно полно." }
+    ],
+    "common_mistake": {
+      "wrong": "the likelyhood of delay",
+      "right": "the likelihood of delay",
+      "note": "Нормативное написание — likelihood без y."
+    },
+    "quiz": {
+      "prompt": "The evidence was dismissed as completely ___. (RELEVANT)",
+      "options": ["relevant", "relevance", "irrelevantly", "irrelevant"],
+      "correct_index": 3,
+      "answer": "irrelevant",
+      "explanation": "После as completely требуется прилагательное, а dismissed задаёт отрицательный смысл irrelevant."
+    }
+  }
+]

@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "coll_adv_001_assume_responsibility",
+    "order": 1,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "assume responsibility",
+    "translation": "взять на себя ответственность",
+    "explanation": "Формальное сочетание: принять на себя обязанность отвечать за решение, процесс или результат.",
+    "patterns": [
+      "assume responsibility for something",
+      "assume full responsibility",
+      "be prepared to assume responsibility"
+    ],
+    "related": [
+      "take responsibility — взять ответственность"
+    ],
+    "examples": [
+      {
+        "en": "The new director assumed responsibility for the entire division.",
+        "ru": "Новый директор взял на себя ответственность за всё подразделение."
+      },
+      {
+        "en": "No one was willing to assume full responsibility for the failure.",
+        "ru": "Никто не был готов полностью отвечать за неудачу."
+      },
+      {
+        "en": "Managers must be prepared to assume responsibility for difficult decisions.",
+        "ru": "Руководители должны быть готовы отвечать за сложные решения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "assume responsibility of the project",
+      "right": "assume responsibility for the project",
+      "note": "После responsibility обычно используется предлог for."
+    },
+    "quiz": {
+      "prompt": "The newly appointed director will ___ responsibility for the restructuring.",
+      "options": [
+        "assume",
+        "perform",
+        "conduct",
+        "occupy"
+      ],
+      "correct_index": 0,
+      "explanation": "После responsibility обычно используется предлог for."
+    }
+  },
+  {
+    "id": "coll_adv_002_exercise_discretion",
+    "order": 2,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "exercise discretion",
+    "translation": "действовать по собственному усмотрению",
+    "explanation": "Формальное сочетание: самостоятельно принимать взвешенное решение в пределах предоставленных полномочий.",
+    "patterns": [
+      "exercise discretion",
+      "exercise considerable discretion",
+      "be expected to exercise discretion"
+    ],
+    "related": [
+      "use sound judgement — проявлять здравое суждение"
+    ],
+    "examples": [
+      {
+        "en": "Senior staff may exercise discretion in exceptional cases.",
+        "ru": "Старшие сотрудники могут действовать по своему усмотрению в исключительных случаях."
+      },
+      {
+        "en": "The officer failed to exercise sufficient discretion.",
+        "ru": "Сотрудник не проявил достаточной осмотрительности."
+      },
+      {
+        "en": "Recruiters should exercise discretion when discussing confidential applications.",
+        "ru": "Специалистам по найму следует проявлять осмотрительность при обсуждении конфиденциальных заявок."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make discretion",
+      "right": "exercise discretion",
+      "note": "Устойчивое сочетание строится с глаголом exercise."
+    },
+    "quiz": {
+      "prompt": "Managers are expected to ___ discretion when handling confidential complaints.",
+      "options": [
+        "perform",
+        "exercise",
+        "commit",
+        "operate"
+      ],
+      "correct_index": 1,
+      "explanation": "Устойчивое сочетание строится с глаголом exercise."
+    }
+  },
+  {
+    "id": "coll_adv_003_meet_stringent_requirements",
+    "order": 3,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "meet stringent requirements",
+    "translation": "соответствовать строгим требованиям",
+    "explanation": "Выполнить жёсткие, детально установленные условия или стандарты.",
+    "patterns": [
+      "meet stringent requirements",
+      "meet strict regulatory requirements",
+      "fail to meet the requirements"
+    ],
+    "related": [
+      "comply with demanding standards — соответствовать высоким стандартам"
+    ],
+    "examples": [
+      {
+        "en": "The device meets stringent safety requirements.",
+        "ru": "Устройство соответствует строгим требованиям безопасности."
+      },
+      {
+        "en": "Applicants must meet stringent eligibility requirements.",
+        "ru": "Кандидаты должны соответствовать строгим критериям допуска."
+      },
+      {
+        "en": "The supplier failed to meet the client’s stringent requirements.",
+        "ru": "Поставщик не выполнил строгие требования клиента."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "achieve requirements",
+      "right": "meet requirements",
+      "note": "С существительным requirements стандартно употребляется meet."
+    },
+    "quiz": {
+      "prompt": "All components must ___ stringent safety requirements.",
+      "options": [
+        "reach",
+        "achieve",
+        "meet",
+        "complete"
+      ],
+      "correct_index": 2,
+      "explanation": "С существительным requirements стандартно употребляется meet."
+    }
+  },
+  {
+    "id": "coll_adv_004_shoulder_the_burden",
+    "order": 4,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "shoulder the burden",
+    "translation": "взвалить на себя бремя",
+    "explanation": "Принять на себя тяжёлую обязанность, расходы или последствия, часто несправедливо распределённые.",
+    "patterns": [
+      "shoulder the burden",
+      "shoulder a heavy financial burden",
+      "be left to shoulder the burden"
+    ],
+    "related": [
+      "bear the burden — нести бремя"
+    ],
+    "examples": [
+      {
+        "en": "Small businesses cannot shoulder the entire financial burden.",
+        "ru": "Малый бизнес не может нести всё финансовое бремя."
+      },
+      {
+        "en": "Her colleagues helped her shoulder the burden of the extra workload.",
+        "ru": "Коллеги помогли ей справиться с бременем дополнительной работы."
+      },
+      {
+        "en": "Local authorities were left to shoulder most of the cost.",
+        "ru": "Большая часть расходов легла на местные власти."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "carry the burden on one’s shoulders",
+      "right": "shoulder the burden",
+      "note": "Shoulder уже содержит образ «взвалить на плечи», поэтому дополнительная конструкция обычно не нужна."
+    },
+    "quiz": {
+      "prompt": "Local authorities were left to ___ the financial burden.",
+      "options": [
+        "lift",
+        "hold",
+        "wear",
+        "shoulder"
+      ],
+      "correct_index": 3,
+      "explanation": "Shoulder уже содержит образ «взвалить на плечи», поэтому дополнительная конструкция обычно не нужна."
+    }
+  },
+  {
+    "id": "coll_adv_005_foster_collaboration",
+    "order": 5,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "foster collaboration",
+    "translation": "способствовать сотрудничеству",
+    "explanation": "Создавать условия, при которых люди или команды эффективнее работают совместно.",
+    "patterns": [
+      "foster collaboration",
+      "foster close collaboration",
+      "foster collaboration across teams"
+    ],
+    "related": [
+      "encourage cooperation — поощрять сотрудничество"
+    ],
+    "examples": [
+      {
+        "en": "The new office layout is intended to foster collaboration.",
+        "ru": "Новая планировка офиса призвана способствовать сотрудничеству."
+      },
+      {
+        "en": "Leaders should foster collaboration across departments.",
+        "ru": "Руководителям следует развивать сотрудничество между отделами."
+      },
+      {
+        "en": "Shared goals can foster closer collaboration.",
+        "ru": "Общие цели могут способствовать более тесному взаимодействию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "grow collaboration",
+      "right": "foster collaboration",
+      "note": "В формальном английском естественно сочетание foster collaboration."
+    },
+    "quiz": {
+      "prompt": "The programme was designed to ___ collaboration across departments.",
+      "options": [
+        "foster",
+        "raise",
+        "grow",
+        "build up"
+      ],
+      "correct_index": 0,
+      "explanation": "В формальном английском естественно сочетание foster collaboration."
+    }
+  },
+  {
+    "id": "coll_adv_006_secure_funding",
+    "order": 6,
+    "level": "Advanced",
+    "category": "WORK",
+    "phrase": "secure funding",
+    "translation": "добиться финансирования",
+    "explanation": "Получить необходимое финансирование после переговоров, заявки или конкурса.",
+    "patterns": [
+      "secure funding",
+      "secure additional funding",
+      "secure funding from investors"
+    ],
+    "related": [
+      "obtain financial backing — получить финансовую поддержку"
+    ],
+    "examples": [
+      {
+        "en": "The charity secured funding for a three-year project.",
+        "ru": "Благотворительная организация получила финансирование для трёхлетнего проекта."
+      },
+      {
+        "en": "Start-ups often struggle to secure sufficient funding.",
+        "ru": "Стартапам часто трудно получить достаточное финансирование."
+      },
+      {
+        "en": "The university secured funding from two private foundations.",
+        "ru": "Университет получил финансирование от двух частных фондов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "win a funding",
+      "right": "secure funding",
+      "note": "Funding обычно неисчисляемое; естественное сочетание — secure funding без артикля a."
+    },
+    "quiz": {
+      "prompt": "The research team managed to ___ funding from two foundations.",
+      "options": [
+        "lock",
+        "secure",
+        "reserve",
+        "fix"
+      ],
+      "correct_index": 1,
+      "explanation": "Funding обычно неисчисляемое; естественное сочетание — secure funding без артикля a."
+    }
+  },
+  {
+    "id": "coll_adv_007_acquire_in_depth_knowledge",
+    "order": 7,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "acquire in-depth knowledge",
+    "translation": "приобрести глубокие знания",
+    "explanation": "Систематически получить подробное и всестороннее понимание предмета.",
+    "patterns": [
+      "acquire in-depth knowledge of",
+      "acquire specialist knowledge",
+      "acquire a thorough understanding"
+    ],
+    "related": [
+      "develop expertise — развить профессиональную компетентность"
+    ],
+    "examples": [
+      {
+        "en": "Students acquire in-depth knowledge of international law.",
+        "ru": "Студенты приобретают глубокие знания международного права."
+      },
+      {
+        "en": "The course helps participants acquire specialist knowledge.",
+        "ru": "Курс помогает участникам получить специальные знания."
+      },
+      {
+        "en": "Fieldwork allowed her to acquire a thorough understanding of the region.",
+        "ru": "Полевая работа позволила ей глубоко понять регион."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "receive deep knowledges",
+      "right": "acquire in-depth knowledge",
+      "note": "Knowledge обычно неисчисляемое; для «приобрести знания» естественно acquire knowledge."
+    },
+    "quiz": {
+      "prompt": "Students are expected to ___ in-depth knowledge of the legal framework.",
+      "options": [
+        "collect",
+        "catch",
+        "acquire",
+        "receive up"
+      ],
+      "correct_index": 2,
+      "explanation": "Knowledge обычно неисчисляемое; для «приобрести знания» естественно acquire knowledge."
+    }
+  },
+  {
+    "id": "coll_adv_008_conduct_empirical_research",
+    "order": 8,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "conduct empirical research",
+    "translation": "проводить эмпирическое исследование",
+    "explanation": "Проводить исследование, основанное на наблюдениях, измерениях или данных, а не только на теории.",
+    "patterns": [
+      "conduct empirical research",
+      "conduct a large-scale study",
+      "conduct research into something"
+    ],
+    "related": [
+      "gather and analyse evidence — собирать и анализировать данные"
+    ],
+    "examples": [
+      {
+        "en": "The team conducted empirical research across five countries.",
+        "ru": "Команда провела эмпирическое исследование в пяти странах."
+      },
+      {
+        "en": "More empirical research is needed to test the theory.",
+        "ru": "Чтобы проверить теорию, нужны дополнительные эмпирические исследования."
+      },
+      {
+        "en": "She conducts research into language acquisition.",
+        "ru": "Она исследует процесс овладения языком."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make an empirical research",
+      "right": "conduct empirical research",
+      "note": "Research обычно неисчисляемое; стандартный глагол — conduct, а не make."
+    },
+    "quiz": {
+      "prompt": "The authors ___ empirical research to test their model.",
+      "options": [
+        "carried",
+        "committed",
+        "led up",
+        "conducted"
+      ],
+      "correct_index": 3,
+      "explanation": "Research обычно неисчисляемое; стандартный глагол — conduct, а не make."
+    }
+  },
+  {
+    "id": "coll_adv_009_formulate_a_hypothesis",
+    "order": 9,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "formulate a hypothesis",
+    "translation": "сформулировать гипотезу",
+    "explanation": "Точно выразить проверяемое предположение, которое затем можно подтвердить или опровергнуть.",
+    "patterns": [
+      "formulate a hypothesis",
+      "test a hypothesis",
+      "reject a hypothesis"
+    ],
+    "related": [
+      "develop a testable prediction — выдвинуть проверяемое предположение"
+    ],
+    "examples": [
+      {
+        "en": "Researchers formulated a hypothesis before collecting the data.",
+        "ru": "Исследователи сформулировали гипотезу до сбора данных."
+      },
+      {
+        "en": "The evidence did not support the original hypothesis.",
+        "ru": "Данные не подтвердили первоначальную гипотезу."
+      },
+      {
+        "en": "A clearly formulated hypothesis guides the analysis.",
+        "ru": "Чётко сформулированная гипотеза направляет анализ."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "compose a hypothesis",
+      "right": "formulate a hypothesis",
+      "note": "Для научной гипотезы стандартно употребляется formulate."
+    },
+    "quiz": {
+      "prompt": "Before collecting data, the team had to ___ a testable hypothesis.",
+      "options": [
+        "formulate",
+        "compose",
+        "invent",
+        "arrange"
+      ],
+      "correct_index": 0,
+      "explanation": "Для научной гипотезы стандартно употребляется formulate."
+    }
+  },
+  {
+    "id": "coll_adv_010_challenge_an_assumption",
+    "order": 10,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "challenge an assumption",
+    "translation": "поставить предположение под сомнение",
+    "explanation": "Критически проверить идею, которую ранее принимали без достаточных доказательств.",
+    "patterns": [
+      "challenge an assumption",
+      "challenge a widely held belief",
+      "question the underlying assumption"
+    ],
+    "related": [
+      "call an assumption into question — поставить предположение под сомнение"
+    ],
+    "examples": [
+      {
+        "en": "The findings challenge a long-standing assumption.",
+        "ru": "Результаты ставят под сомнение давнее предположение."
+      },
+      {
+        "en": "Students were encouraged to challenge conventional assumptions.",
+        "ru": "Студентов поощряли критически оценивать общепринятые предположения."
+      },
+      {
+        "en": "The paper challenges the assumption that growth is always beneficial.",
+        "ru": "Статья оспаривает предположение, что рост всегда полезен."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fight an assumption",
+      "right": "challenge an assumption",
+      "note": "С абстрактным assumption естественно употребляется challenge."
+    },
+    "quiz": {
+      "prompt": "The new evidence may ___ a widely held assumption.",
+      "options": [
+        "fight",
+        "challenge",
+        "attack physically",
+        "compete"
+      ],
+      "correct_index": 1,
+      "explanation": "С абстрактным assumption естественно употребляется challenge."
+    }
+  },
+  {
+    "id": "coll_adv_011_draw_a_distinction",
+    "order": 11,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "draw a distinction",
+    "translation": "провести различие",
+    "explanation": "Чётко показать разницу между двумя близкими понятиями, явлениями или категориями.",
+    "patterns": [
+      "draw a distinction between A and B",
+      "draw a clear distinction",
+      "fail to draw a distinction"
+    ],
+    "related": [
+      "differentiate between — различать"
+    ],
+    "examples": [
+      {
+        "en": "The author draws a clear distinction between risk and uncertainty.",
+        "ru": "Автор чётко различает риск и неопределённость."
+      },
+      {
+        "en": "It is important to draw a distinction between correlation and causation.",
+        "ru": "Важно различать корреляцию и причинность."
+      },
+      {
+        "en": "The policy fails to draw any meaningful distinction between the two cases.",
+        "ru": "Политика не проводит значимого различия между двумя случаями."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "paint a distinction",
+      "right": "draw a distinction",
+      "note": "Устойчивое формальное сочетание — draw a distinction."
+    },
+    "quiz": {
+      "prompt": "The report carefully ___ a distinction between short-term and structural problems.",
+      "options": [
+        "paints",
+        "brings",
+        "draws",
+        "pulls"
+      ],
+      "correct_index": 2,
+      "explanation": "Устойчивое формальное сочетание — draw a distinction."
+    }
+  },
+  {
+    "id": "coll_adv_012_demonstrate_proficiency",
+    "order": 12,
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "phrase": "demonstrate proficiency",
+    "translation": "продемонстрировать владение навыком",
+    "explanation": "Показать уверенное и компетентное владение языком, методом или профессиональным навыком.",
+    "patterns": [
+      "demonstrate proficiency in",
+      "demonstrate a high level of proficiency",
+      "language proficiency"
+    ],
+    "related": [
+      "show competence — показать компетентность"
+    ],
+    "examples": [
+      {
+        "en": "Candidates must demonstrate proficiency in written English.",
+        "ru": "Кандидаты должны продемонстрировать владение письменным английским."
+      },
+      {
+        "en": "The assessment measures whether learners can demonstrate practical proficiency.",
+        "ru": "Оценивание показывает, могут ли учащиеся продемонстрировать практическое владение навыком."
+      },
+      {
+        "en": "She demonstrated a high level of proficiency in data analysis.",
+        "ru": "Она продемонстрировала высокий уровень владения анализом данных."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "demonstrate proficiency of English",
+      "right": "demonstrate proficiency in English",
+      "note": "После proficiency обычно используется предлог in."
+    },
+    "quiz": {
+      "prompt": "Applicants must ___ proficiency in at least one foreign language.",
+      "options": [
+        "expose",
+        "present out",
+        "perform up",
+        "demonstrate"
+      ],
+      "correct_index": 3,
+      "explanation": "После proficiency обычно используется предлог in."
+    }
+  },
+  {
+    "id": "coll_adv_013_impose_travel_restrictions",
+    "order": 13,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "impose travel restrictions",
+    "translation": "ввести ограничения на поездки",
+    "explanation": "Официально установить ограничения, касающиеся въезда, выезда или перемещения.",
+    "patterns": [
+      "impose travel restrictions",
+      "lift travel restrictions",
+      "tighten travel restrictions"
+    ],
+    "related": [
+      "introduce entry controls — ввести контроль на въезд"
+    ],
+    "examples": [
+      {
+        "en": "The authorities imposed temporary travel restrictions.",
+        "ru": "Власти временно ограничили поездки."
+      },
+      {
+        "en": "Several countries later lifted the travel restrictions.",
+        "ru": "Позже несколько стран сняли ограничения на поездки."
+      },
+      {
+        "en": "The government may tighten travel restrictions if conditions worsen.",
+        "ru": "Правительство может ужесточить ограничения, если ситуация ухудшится."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put travel restrictions",
+      "right": "impose travel restrictions",
+      "note": "В официальной речи ограничения обычно impose, lift или tighten."
+    },
+    "quiz": {
+      "prompt": "The government decided to ___ temporary travel restrictions.",
+      "options": [
+        "impose",
+        "deliver",
+        "charge",
+        "perform"
+      ],
+      "correct_index": 0,
+      "explanation": "В официальной речи ограничения обычно impose, lift или tighten."
+    }
+  },
+  {
+    "id": "coll_adv_014_experience_severe_disruption",
+    "order": 14,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "experience severe disruption",
+    "translation": "столкнуться с серьёзными перебоями",
+    "explanation": "Испытать значительные нарушения нормальной работы транспорта или услуг.",
+    "patterns": [
+      "experience severe disruption",
+      "cause widespread disruption",
+      "minimise disruption"
+    ],
+    "related": [
+      "face major delays — столкнуться с серьёзными задержками"
+    ],
+    "examples": [
+      {
+        "en": "Rail services experienced severe disruption after the storm.",
+        "ru": "После шторма железнодорожное сообщение было серьёзно нарушено."
+      },
+      {
+        "en": "Passengers should expect widespread disruption.",
+        "ru": "Пассажирам следует ожидать масштабных перебоев."
+      },
+      {
+        "en": "The airport introduced measures to minimise disruption.",
+        "ru": "Аэропорт принял меры, чтобы сократить перебои."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "receive severe disruption",
+      "right": "experience severe disruption",
+      "note": "С disruption естественно experience, cause, face или minimise; receive не подходит."
+    },
+    "quiz": {
+      "prompt": "Regional flights ___ severe disruption throughout the weekend.",
+      "options": [
+        "performed",
+        "experienced",
+        "received",
+        "achieved"
+      ],
+      "correct_index": 1,
+      "explanation": "С disruption естественно experience, cause, face или minimise; receive не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_015_navigate_unfamiliar_terrain",
+    "order": 15,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "navigate unfamiliar terrain",
+    "translation": "ориентироваться на незнакомой местности",
+    "explanation": "Безопасно прокладывать путь и двигаться по местности, которую человек плохо знает.",
+    "patterns": [
+      "navigate unfamiliar terrain",
+      "navigate difficult terrain",
+      "navigate safely through"
+    ],
+    "related": [
+      "find one’s way through — найти путь через"
+    ],
+    "examples": [
+      {
+        "en": "The guides helped us navigate unfamiliar terrain.",
+        "ru": "Гиды помогли нам ориентироваться на незнакомой местности."
+      },
+      {
+        "en": "Accurate maps are essential when navigating difficult terrain.",
+        "ru": "Точные карты необходимы при передвижении по сложной местности."
+      },
+      {
+        "en": "The vehicle can navigate safely through narrow mountain roads.",
+        "ru": "Машина может безопасно двигаться по узким горным дорогам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "drive a terrain",
+      "right": "navigate terrain",
+      "note": "Terrain обозначает местность; стандартное сочетание — navigate terrain."
+    },
+    "quiz": {
+      "prompt": "Experienced guides helped the group ___ unfamiliar terrain.",
+      "options": [
+        "direct",
+        "steer around",
+        "navigate",
+        "command"
+      ],
+      "correct_index": 2,
+      "explanation": "Terrain обозначает местность; стандартное сочетание — navigate terrain."
+    }
+  },
+  {
+    "id": "coll_adv_016_preserve_cultural_heritage",
+    "order": 16,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "preserve cultural heritage",
+    "translation": "сохранять культурное наследие",
+    "explanation": "Защищать исторические места, традиции и культурные ценности для будущих поколений.",
+    "patterns": [
+      "preserve cultural heritage",
+      "protect a heritage site",
+      "preserve local traditions"
+    ],
+    "related": [
+      "safeguard historic assets — защищать исторические ценности"
+    ],
+    "examples": [
+      {
+        "en": "Tourism revenue can help preserve cultural heritage.",
+        "ru": "Доходы от туризма могут помочь сохранить культурное наследие."
+      },
+      {
+        "en": "The project aims to preserve local traditions.",
+        "ru": "Проект направлен на сохранение местных традиций."
+      },
+      {
+        "en": "Strict rules protect the heritage site from damage.",
+        "ru": "Строгие правила защищают объект наследия от повреждений."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "reserve cultural heritage",
+      "right": "preserve cultural heritage",
+      "note": "Preserve означает сохранять и защищать; reserve в этом значении не употребляется."
+    },
+    "quiz": {
+      "prompt": "The restoration programme aims to ___ the region’s cultural heritage.",
+      "options": [
+        "reserve",
+        "store up",
+        "retain away",
+        "preserve"
+      ],
+      "correct_index": 3,
+      "explanation": "Preserve означает сохранять и защищать; reserve в этом значении не употребляется."
+    }
+  },
+  {
+    "id": "coll_adv_017_accommodate_fluctuating_demand",
+    "order": 17,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "accommodate fluctuating demand",
+    "translation": "учитывать колебания спроса",
+    "explanation": "Гибко приспосабливать объём услуг или ресурсов к меняющемуся спросу.",
+    "patterns": [
+      "accommodate fluctuating demand",
+      "accommodate seasonal demand",
+      "capacity to accommodate demand"
+    ],
+    "related": [
+      "adjust capacity — корректировать пропускную способность"
+    ],
+    "examples": [
+      {
+        "en": "Airlines adjust capacity to accommodate fluctuating demand.",
+        "ru": "Авиакомпании меняют количество мест с учётом колебаний спроса."
+      },
+      {
+        "en": "Hotels need flexible staffing to accommodate seasonal demand.",
+        "ru": "Отелям нужен гибкий штат, чтобы справляться с сезонным спросом."
+      },
+      {
+        "en": "The system has enough capacity to accommodate future demand.",
+        "ru": "Система обладает достаточной мощностью для будущего спроса."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "house fluctuating demand",
+      "right": "accommodate fluctuating demand",
+      "note": "Accommodate может означать «учитывать и обеспечивать» спрос; house здесь не подходит."
+    },
+    "quiz": {
+      "prompt": "Operators adjust capacity to ___ fluctuating demand.",
+      "options": [
+        "accommodate",
+        "house",
+        "lodge",
+        "tolerate"
+      ],
+      "correct_index": 0,
+      "explanation": "Accommodate может означать «учитывать и обеспечивать» спрос; house здесь не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_018_promote_sustainable_tourism",
+    "order": 18,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "promote sustainable tourism",
+    "translation": "развивать устойчивый туризм",
+    "explanation": "Поддерживать туризм, который снижает экологический ущерб и приносит пользу местным сообществам.",
+    "patterns": [
+      "promote sustainable tourism",
+      "support responsible tourism",
+      "develop sustainable tourism policies"
+    ],
+    "related": [
+      "encourage low-impact travel — поощрять экологичный туризм"
+    ],
+    "examples": [
+      {
+        "en": "The campaign promotes sustainable tourism in rural areas.",
+        "ru": "Кампания развивает устойчивый туризм в сельских районах."
+      },
+      {
+        "en": "Local authorities support responsible tourism initiatives.",
+        "ru": "Местные власти поддерживают инициативы ответственного туризма."
+      },
+      {
+        "en": "The region is developing policies to promote sustainable tourism.",
+        "ru": "Регион разрабатывает меры для развития устойчивого туризма."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "produce sustainable tourism",
+      "right": "promote sustainable tourism",
+      "note": "Для поддержки и развития практики естественно употребляется promote."
+    },
+    "quiz": {
+      "prompt": "The new strategy seeks to ___ sustainable tourism throughout the region.",
+      "options": [
+        "produce",
+        "promote",
+        "provide",
+        "perform"
+      ],
+      "correct_index": 1,
+      "explanation": "Для поддержки и развития практики естественно употребляется promote."
+    }
+  },
+  {
+    "id": "coll_adv_019_articulate_a_position",
+    "order": 19,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "articulate a position",
+    "translation": "чётко сформулировать позицию",
+    "explanation": "Ясно и последовательно выразить точку зрения, особенно в формальной дискуссии.",
+    "patterns": [
+      "articulate a position",
+      "clearly articulate a view",
+      "articulate an argument"
+    ],
+    "related": [
+      "set out one’s position — изложить позицию"
+    ],
+    "examples": [
+      {
+        "en": "The spokesperson articulated the organisation’s position clearly.",
+        "ru": "Представитель чётко изложил позицию организации."
+      },
+      {
+        "en": "Each side was invited to articulate its concerns.",
+        "ru": "Каждой стороне предложили чётко сформулировать свои опасения."
+      },
+      {
+        "en": "She struggled to articulate a coherent argument.",
+        "ru": "Ей было трудно сформулировать последовательный аргумент."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pronounce a position",
+      "right": "articulate a position",
+      "note": "Articulate означает ясно выразить сложную мысль; pronounce здесь не подходит."
+    },
+    "quiz": {
+      "prompt": "The panel asked each candidate to ___ a clear position on the issue.",
+      "options": [
+        "pronounce",
+        "recite",
+        "articulate",
+        "utter"
+      ],
+      "correct_index": 2,
+      "explanation": "Articulate означает ясно выразить сложную мысль; pronounce здесь не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_020_substantiate_a_claim",
+    "order": 20,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "substantiate a claim",
+    "translation": "подкрепить утверждение доказательствами",
+    "explanation": "Предоставить факты или данные, которые делают утверждение убедительным и проверяемым.",
+    "patterns": [
+      "substantiate a claim",
+      "substantiate an allegation",
+      "be supported by evidence"
+    ],
+    "related": [
+      "provide supporting evidence — предоставить подтверждающие данные"
+    ],
+    "examples": [
+      {
+        "en": "The report fails to substantiate its central claim.",
+        "ru": "Доклад не подкрепляет своё основное утверждение."
+      },
+      {
+        "en": "The allegation must be substantiated by evidence.",
+        "ru": "Обвинение должно быть подтверждено доказательствами."
+      },
+      {
+        "en": "She used survey data to substantiate the claim.",
+        "ru": "Она использовала данные опроса, чтобы подкрепить утверждение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "decorate a claim with facts",
+      "right": "substantiate a claim with evidence",
+      "note": "Substantiate означает подтверждать утверждение доказательствами."
+    },
+    "quiz": {
+      "prompt": "The author cites several studies to ___ the claim.",
+      "options": [
+        "decorate",
+        "announce",
+        "repeat",
+        "substantiate"
+      ],
+      "correct_index": 3,
+      "explanation": "Substantiate означает подтверждать утверждение доказательствами."
+    }
+  },
+  {
+    "id": "coll_adv_021_convey_a_nuanced_message",
+    "order": 21,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "convey a nuanced message",
+    "translation": "передать тонко сформулированную мысль",
+    "explanation": "Передать сложный смысл, содержащий оттенки и оговорки, без чрезмерного упрощения.",
+    "patterns": [
+      "convey a nuanced message",
+      "convey meaning accurately",
+      "convey a sense of"
+    ],
+    "related": [
+      "communicate subtle distinctions — передавать тонкие различия"
+    ],
+    "examples": [
+      {
+        "en": "The article conveys a nuanced message about social change.",
+        "ru": "Статья передаёт тонкую и неоднозначную мысль о социальных изменениях."
+      },
+      {
+        "en": "Tone of voice can convey meaning that words alone do not.",
+        "ru": "Интонация может передавать смысл, который не выражают одни слова."
+      },
+      {
+        "en": "The documentary conveys a strong sense of place.",
+        "ru": "Документальный фильм ярко передаёт атмосферу места."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "manufacture a nuanced message",
+      "right": "convey a nuanced message",
+      "note": "Convey означает передавать смысл, впечатление или сообщение."
+    },
+    "quiz": {
+      "prompt": "A skilled translator must ___ a nuanced message without oversimplifying it.",
+      "options": [
+        "convey",
+        "pronounce",
+        "manufacture",
+        "exchange"
+      ],
+      "correct_index": 0,
+      "explanation": "Convey означает передавать смысл, впечатление или сообщение."
+    }
+  },
+  {
+    "id": "coll_adv_022_address_a_concern",
+    "order": 22,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "address a concern",
+    "translation": "рассмотреть проблему или опасение",
+    "explanation": "Прямо отреагировать на вопрос, опасение или недостаток и предложить объяснение либо решение.",
+    "patterns": [
+      "address a concern",
+      "address serious concerns",
+      "take steps to address"
+    ],
+    "related": [
+      "respond to an issue — отреагировать на проблему"
+    ],
+    "examples": [
+      {
+        "en": "The revised policy addresses several public concerns.",
+        "ru": "Пересмотренная политика учитывает несколько общественных опасений."
+      },
+      {
+        "en": "The minister failed to address the central issue.",
+        "ru": "Министр не рассмотрел главный вопрос."
+      },
+      {
+        "en": "Immediate action is needed to address safety concerns.",
+        "ru": "Чтобы снять опасения по поводу безопасности, нужны срочные меры."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "speak a concern",
+      "right": "address a concern",
+      "note": "Address a concern означает рассмотреть его по существу; speak не употребляется так."
+    },
+    "quiz": {
+      "prompt": "The updated guidance is intended to ___ concerns about data security.",
+      "options": [
+        "locate",
+        "address",
+        "direct",
+        "speak"
+      ],
+      "correct_index": 1,
+      "explanation": "Address a concern означает рассмотреть его по существу; speak не употребляется так."
+    }
+  },
+  {
+    "id": "coll_adv_023_reach_a_consensus",
+    "order": 23,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "reach a consensus",
+    "translation": "достичь консенсуса",
+    "explanation": "Прийти к общему решению, которое готовы принять все или большинство участников.",
+    "patterns": [
+      "reach a consensus",
+      "broad consensus emerged",
+      "fail to reach consensus"
+    ],
+    "related": [
+      "arrive at a shared position — прийти к общей позиции"
+    ],
+    "examples": [
+      {
+        "en": "After several hours, the committee reached a consensus.",
+        "ru": "Через несколько часов комитет достиг консенсуса."
+      },
+      {
+        "en": "A broad consensus emerged around the proposal.",
+        "ru": "Вокруг предложения сформировался широкий консенсус."
+      },
+      {
+        "en": "The parties failed to reach consensus on funding.",
+        "ru": "Стороны не смогли договориться о финансировании."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "arrive a consensus",
+      "right": "reach a consensus",
+      "note": "После arrive нужен at, а устойчивое сочетание без предлога — reach a consensus."
+    },
+    "quiz": {
+      "prompt": "The negotiators eventually ___ a consensus on the main principles.",
+      "options": [
+        "arrived",
+        "touched",
+        "reached",
+        "approached"
+      ],
+      "correct_index": 2,
+      "explanation": "После arrive нужен at, а устойчивое сочетание без предлога — reach a consensus."
+    }
+  },
+  {
+    "id": "coll_adv_024_issue_a_clarification",
+    "order": 24,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "issue a clarification",
+    "translation": "выпустить разъяснение",
+    "explanation": "Официально опубликовать дополнительное объяснение, чтобы устранить неясность или неверное толкование.",
+    "patterns": [
+      "issue a clarification",
+      "seek clarification",
+      "provide further clarification"
+    ],
+    "related": [
+      "publish an explanatory statement — опубликовать пояснение"
+    ],
+    "examples": [
+      {
+        "en": "The agency issued a clarification later that day.",
+        "ru": "Позже в тот же день ведомство выпустило разъяснение."
+      },
+      {
+        "en": "Journalists sought clarification of the new rules.",
+        "ru": "Журналисты запросили разъяснение новых правил."
+      },
+      {
+        "en": "The company provided further clarification in writing.",
+        "ru": "Компания дала дополнительные письменные разъяснения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "build a clarification",
+      "right": "issue a clarification",
+      "note": "Официальный орган или организация issue a clarification."
+    },
+    "quiz": {
+      "prompt": "The regulator later ___ a clarification about the new reporting rules.",
+      "options": [
+        "built",
+        "raised",
+        "drew",
+        "issued"
+      ],
+      "correct_index": 3,
+      "explanation": "Официальный орган или организация issue a clarification."
+    }
+  },
+  {
+    "id": "coll_adv_025_harbour_resentment",
+    "order": 25,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "harbour resentment",
+    "translation": "таить обиду",
+    "explanation": "Продолжительное время сохранять чувство обиды или недовольства, часто не выражая его открыто.",
+    "patterns": [
+      "harbour resentment towards",
+      "deeply harboured resentment",
+      "continue to harbour resentment"
+    ],
+    "related": [
+      "bear a grudge — держать обиду"
+    ],
+    "examples": [
+      {
+        "en": "He still harbours resentment towards his former employer.",
+        "ru": "Он всё ещё таит обиду на бывшего работодателя."
+      },
+      {
+        "en": "Years of unequal treatment had created deep resentment.",
+        "ru": "Годы неравного отношения породили глубокую обиду."
+      },
+      {
+        "en": "She denied harbouring any resentment.",
+        "ru": "Она отрицала, что таит какую-либо обиду."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "park resentment",
+      "right": "harbour resentment",
+      "note": "Harbour употребляется образно: «таить, удерживать внутри» чувство или мысль."
+    },
+    "quiz": {
+      "prompt": "Some employees continued to ___ resentment after the restructuring.",
+      "options": [
+        "harbour",
+        "park",
+        "shelter physically",
+        "save"
+      ],
+      "correct_index": 0,
+      "explanation": "Harbour употребляется образно: «таить, удерживать внутри» чувство или мысль."
+    }
+  },
+  {
+    "id": "coll_adv_026_experience_profound_relief",
+    "order": 26,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "experience profound relief",
+    "translation": "испытать глубокое облегчение",
+    "explanation": "Почувствовать очень сильное облегчение после завершения опасной или напряжённой ситуации.",
+    "patterns": [
+      "experience profound relief",
+      "a profound sense of relief",
+      "feel immense relief"
+    ],
+    "related": [
+      "be greatly relieved — испытать большое облегчение"
+    ],
+    "examples": [
+      {
+        "en": "She experienced profound relief when the results arrived.",
+        "ru": "Она испытала глубокое облегчение, когда пришли результаты."
+      },
+      {
+        "en": "There was a profound sense of relief among the passengers.",
+        "ru": "Пассажиры испытали огромное облегчение."
+      },
+      {
+        "en": "He felt immense relief after the operation.",
+        "ru": "После операции он почувствовал огромное облегчение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "achieve profound relief",
+      "right": "experience profound relief",
+      "note": "Эмоцию обычно experience или feel; achieve здесь не подходит."
+    },
+    "quiz": {
+      "prompt": "The announcement brought the families a sense of ___ relief.",
+      "options": [
+        "performed",
+        "profound",
+        "obtained",
+        "achieved"
+      ],
+      "correct_index": 1,
+      "explanation": "Эмоцию обычно experience или feel; achieve здесь не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_027_suppress_an_impulse",
+    "order": 27,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "suppress an impulse",
+    "translation": "подавить порыв",
+    "explanation": "Сознательно не поддаться внезапному желанию что-либо сделать или сказать.",
+    "patterns": [
+      "suppress an impulse",
+      "resist the impulse to",
+      "control an emotional response"
+    ],
+    "related": [
+      "restrain oneself — сдержаться"
+    ],
+    "examples": [
+      {
+        "en": "She suppressed the impulse to interrupt him.",
+        "ru": "Она подавила желание его перебить."
+      },
+      {
+        "en": "He could not resist the impulse to laugh.",
+        "ru": "Он не смог сдержать желание рассмеяться."
+      },
+      {
+        "en": "Training helped them control their immediate emotional response.",
+        "ru": "Подготовка помогла им контролировать немедленную эмоциональную реакцию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "press an impulse",
+      "right": "suppress an impulse",
+      "note": "Suppress означает сознательно подавлять чувство, реакцию или импульс."
+    },
+    "quiz": {
+      "prompt": "She had to ___ the impulse to respond angrily.",
+      "options": [
+        "press",
+        "silence physically",
+        "suppress",
+        "reduce down"
+      ],
+      "correct_index": 2,
+      "explanation": "Suppress означает сознательно подавлять чувство, реакцию или импульс."
+    }
+  },
+  {
+    "id": "coll_adv_028_derive_satisfaction_from",
+    "order": 28,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "derive satisfaction from",
+    "translation": "получать удовлетворение от",
+    "explanation": "Испытывать удовлетворение благодаря деятельности, результату или вкладу во что-либо.",
+    "patterns": [
+      "derive satisfaction from",
+      "derive considerable pleasure from",
+      "a source of satisfaction"
+    ],
+    "related": [
+      "take pride in — гордиться"
+    ],
+    "examples": [
+      {
+        "en": "Many volunteers derive satisfaction from helping others.",
+        "ru": "Многие волонтёры получают удовлетворение от помощи другим."
+      },
+      {
+        "en": "She derived considerable pleasure from teaching.",
+        "ru": "Она получала большое удовольствие от преподавания."
+      },
+      {
+        "en": "Completing the project was a major source of satisfaction.",
+        "ru": "Завершение проекта стало важным источником удовлетворения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "derive satisfaction of",
+      "right": "derive satisfaction from",
+      "note": "После derive satisfaction используется предлог from."
+    },
+    "quiz": {
+      "prompt": "Many professionals ___ satisfaction from solving complex problems.",
+      "options": [
+        "remove",
+        "produce",
+        "collect",
+        "derive"
+      ],
+      "correct_index": 3,
+      "explanation": "После derive satisfaction используется предлог from."
+    }
+  },
+  {
+    "id": "coll_adv_029_arouse_suspicion",
+    "order": 29,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "arouse suspicion",
+    "translation": "вызвать подозрение",
+    "explanation": "Заставить людей начать сомневаться в чьих-либо действиях, мотивах или правдивости.",
+    "patterns": [
+      "arouse suspicion",
+      "arouse public concern",
+      "arouse intense curiosity"
+    ],
+    "related": [
+      "give rise to suspicion — породить подозрение"
+    ],
+    "examples": [
+      {
+        "en": "The unexplained payment aroused suspicion.",
+        "ru": "Необъяснимый платёж вызвал подозрение."
+      },
+      {
+        "en": "His sudden departure aroused public concern.",
+        "ru": "Его внезапный отъезд вызвал общественное беспокойство."
+      },
+      {
+        "en": "The discovery aroused intense curiosity among researchers.",
+        "ru": "Открытие вызвало огромный интерес у исследователей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "wake suspicion",
+      "right": "arouse suspicion",
+      "note": "Arouse употребляется с suspicion, concern, curiosity и другими реакциями."
+    },
+    "quiz": {
+      "prompt": "The inconsistencies in the report began to ___ suspicion.",
+      "options": [
+        "arouse",
+        "wake",
+        "activate",
+        "lift"
+      ],
+      "correct_index": 0,
+      "explanation": "Arouse употребляется с suspicion, concern, curiosity и другими реакциями."
+    }
+  },
+  {
+    "id": "coll_adv_030_display_remarkable_resilience",
+    "order": 30,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "phrase": "display remarkable resilience",
+    "translation": "проявить поразительную стойкость",
+    "explanation": "Показать способность восстанавливаться и продолжать действовать после серьёзных трудностей.",
+    "patterns": [
+      "display remarkable resilience",
+      "show emotional resilience",
+      "build resilience"
+    ],
+    "related": [
+      "cope exceptionally well — исключительно хорошо справляться"
+    ],
+    "examples": [
+      {
+        "en": "The community displayed remarkable resilience after the floods.",
+        "ru": "После наводнения сообщество проявило поразительную стойкость."
+      },
+      {
+        "en": "Children can show considerable emotional resilience.",
+        "ru": "Дети могут проявлять значительную эмоциональную устойчивость."
+      },
+      {
+        "en": "Supportive relationships help people build resilience.",
+        "ru": "Поддерживающие отношения помогают развивать стойкость."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "perform resilience",
+      "right": "display resilience",
+      "note": "С абстрактным качеством resilience естественны display, show или demonstrate."
+    },
+    "quiz": {
+      "prompt": "Despite repeated setbacks, the team ___ remarkable resilience.",
+      "options": [
+        "performed",
+        "displayed",
+        "operated",
+        "practised"
+      ],
+      "correct_index": 1,
+      "explanation": "С абстрактным качеством resilience естественны display, show или demonstrate."
+    }
+  },
+  {
+    "id": "coll_adv_031_establish_mutual_trust",
+    "order": 31,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "establish mutual trust",
+    "translation": "установить взаимное доверие",
+    "explanation": "Постепенно создать отношения, в которых обе стороны считают друг друга надёжными и честными.",
+    "patterns": [
+      "establish mutual trust",
+      "build a relationship of trust",
+      "trust is gradually established"
+    ],
+    "related": [
+      "develop mutual confidence — развить взаимную уверенность"
+    ],
+    "examples": [
+      {
+        "en": "Open communication helps establish mutual trust.",
+        "ru": "Открытое общение помогает установить взаимное доверие."
+      },
+      {
+        "en": "It took time to build a relationship of trust.",
+        "ru": "Потребовалось время, чтобы выстроить доверительные отношения."
+      },
+      {
+        "en": "Trust must be established before sensitive information is shared.",
+        "ru": "До обмена конфиденциальной информацией необходимо установить доверие."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "install mutual trust",
+      "right": "establish mutual trust",
+      "note": "С отношениями и доверием употребляется establish, build или develop, но не install."
+    },
+    "quiz": {
+      "prompt": "Regular and honest communication can ___ mutual trust.",
+      "options": [
+        "install",
+        "set mechanically",
+        "establish",
+        "found legally"
+      ],
+      "correct_index": 2,
+      "explanation": "С отношениями и доверием употребляется establish, build или develop, но не install."
+    }
+  },
+  {
+    "id": "coll_adv_032_maintain_professional_boundaries",
+    "order": 32,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "maintain professional boundaries",
+    "translation": "соблюдать профессиональные границы",
+    "explanation": "Сохранять уместную дистанцию и ясные роли в профессиональных отношениях.",
+    "patterns": [
+      "maintain professional boundaries",
+      "set clear boundaries",
+      "cross a boundary"
+    ],
+    "related": [
+      "preserve an appropriate distance — сохранять уместную дистанцию"
+    ],
+    "examples": [
+      {
+        "en": "Therapists must maintain professional boundaries.",
+        "ru": "Психотерапевты должны соблюдать профессиональные границы."
+      },
+      {
+        "en": "Managers should set clear boundaries from the outset.",
+        "ru": "Руководителям следует с самого начала обозначить ясные границы."
+      },
+      {
+        "en": "The message risked crossing a professional boundary.",
+        "ru": "Это сообщение могло нарушить профессиональную границу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "continue professional boundaries",
+      "right": "maintain professional boundaries",
+      "note": "Maintain означает поддерживать границы в установленном состоянии."
+    },
+    "quiz": {
+      "prompt": "Staff are trained to ___ professional boundaries at all times.",
+      "options": [
+        "continue",
+        "remain",
+        "support up",
+        "maintain"
+      ],
+      "correct_index": 3,
+      "explanation": "Maintain означает поддерживать границы в установленном состоянии."
+    }
+  },
+  {
+    "id": "coll_adv_033_resolve_a_conflict",
+    "order": 33,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "resolve a conflict",
+    "translation": "урегулировать конфликт",
+    "explanation": "Найти решение разногласия и восстановить рабочее или личное взаимодействие.",
+    "patterns": [
+      "resolve a conflict",
+      "resolve a long-running dispute",
+      "conflict resolution"
+    ],
+    "related": [
+      "settle a disagreement — уладить разногласие"
+    ],
+    "examples": [
+      {
+        "en": "A neutral mediator helped resolve the conflict.",
+        "ru": "Нейтральный посредник помог урегулировать конфликт."
+      },
+      {
+        "en": "The two departments resolved a long-running dispute.",
+        "ru": "Два отдела урегулировали давний спор."
+      },
+      {
+        "en": "Good listening skills are essential for conflict resolution.",
+        "ru": "Умение слушать необходимо для разрешения конфликтов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "close a conflict",
+      "right": "resolve a conflict",
+      "note": "Для нахождения решения естественно resolve a conflict."
+    },
+    "quiz": {
+      "prompt": "A mediator was brought in to ___ the conflict.",
+      "options": [
+        "resolve",
+        "remove",
+        "finish off",
+        "close"
+      ],
+      "correct_index": 0,
+      "explanation": "Для нахождения решения естественно resolve a conflict."
+    }
+  },
+  {
+    "id": "coll_adv_034_sever_ties",
+    "order": 34,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "sever ties",
+    "translation": "разорвать связи",
+    "explanation": "Полностью прекратить личные, деловые или дипломатические отношения.",
+    "patterns": [
+      "sever ties with",
+      "sever diplomatic relations",
+      "cut all contact"
+    ],
+    "related": [
+      "break off relations — прекратить отношения"
+    ],
+    "examples": [
+      {
+        "en": "The company severed ties with the supplier.",
+        "ru": "Компания разорвала связи с поставщиком."
+      },
+      {
+        "en": "The two states threatened to sever diplomatic relations.",
+        "ru": "Два государства пригрозили разорвать дипломатические отношения."
+      },
+      {
+        "en": "She decided to cut all contact with him.",
+        "ru": "Она решила полностью прекратить с ним общение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "divide ties",
+      "right": "sever ties",
+      "note": "Sever означает резко и полностью разорвать существующую связь."
+    },
+    "quiz": {
+      "prompt": "The organisation decided to ___ ties with the controversial sponsor.",
+      "options": [
+        "tear",
+        "sever",
+        "divide",
+        "split"
+      ],
+      "correct_index": 1,
+      "explanation": "Sever означает резко и полностью разорвать существующую связь."
+    }
+  },
+  {
+    "id": "coll_adv_035_forge_a_close_bond",
+    "order": 35,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "forge a close bond",
+    "translation": "сформировать тесную связь",
+    "explanation": "Создать сильную эмоциональную или рабочую связь через общий опыт и доверие.",
+    "patterns": [
+      "forge a close bond",
+      "forge strong links",
+      "a bond develops"
+    ],
+    "related": [
+      "form a lasting connection — создать прочную связь"
+    ],
+    "examples": [
+      {
+        "en": "The experience helped the group forge a close bond.",
+        "ru": "Этот опыт помог группе сформировать тесную связь."
+      },
+      {
+        "en": "The universities forged strong links over many years.",
+        "ru": "За многие годы университеты установили прочные связи."
+      },
+      {
+        "en": "A strong bond developed between the two colleagues.",
+        "ru": "Между двумя коллегами возникла прочная связь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "manufacture a bond",
+      "right": "forge a bond",
+      "note": "Forge употребляется образно в значении «создать прочную связь»."
+    },
+    "quiz": {
+      "prompt": "Working under pressure helped the team ___ a close bond.",
+      "options": [
+        "manufacture",
+        "weld literally",
+        "forge",
+        "produce"
+      ],
+      "correct_index": 2,
+      "explanation": "Forge употребляется образно в значении «создать прочную связь»."
+    }
+  },
+  {
+    "id": "coll_adv_036_exert_undue_influence",
+    "order": 36,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "phrase": "exert undue influence",
+    "translation": "оказывать чрезмерное влияние",
+    "explanation": "Использовать влияние в степени, которая считается несправедливой, неуместной или манипулятивной.",
+    "patterns": [
+      "exert undue influence over",
+      "exert pressure on",
+      "be subject to influence"
+    ],
+    "related": [
+      "exercise improper control — осуществлять неуместный контроль"
+    ],
+    "examples": [
+      {
+        "en": "The donor was accused of exerting undue influence over the board.",
+        "ru": "Донора обвинили в чрезмерном влиянии на совет."
+      },
+      {
+        "en": "Officials denied exerting pressure on the investigators.",
+        "ru": "Чиновники отрицали давление на следователей."
+      },
+      {
+        "en": "The decision must be free from outside influence.",
+        "ru": "Решение должно приниматься без внешнего влияния."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "apply undue influence on",
+      "right": "exert undue influence over",
+      "note": "Стандартное сочетание — exert influence over someone or something."
+    },
+    "quiz": {
+      "prompt": "Critics claimed that the sponsor had ___ undue influence over the committee.",
+      "options": [
+        "pushed",
+        "imposed",
+        "applied",
+        "exerted"
+      ],
+      "correct_index": 3,
+      "explanation": "Стандартное сочетание — exert influence over someone or something."
+    }
+  },
+  {
+    "id": "coll_adv_037_pose_a_serious_health_risk",
+    "order": 37,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "pose a serious health risk",
+    "translation": "представлять серьёзный риск для здоровья",
+    "explanation": "Создавать вероятность значительного вреда здоровью человека или группы людей.",
+    "patterns": [
+      "pose a serious health risk",
+      "pose a threat to health",
+      "reduce the risk"
+    ],
+    "related": [
+      "constitute a danger — представлять опасность"
+    ],
+    "examples": [
+      {
+        "en": "Long-term exposure may pose a serious health risk.",
+        "ru": "Длительное воздействие может представлять серьёзный риск для здоровья."
+      },
+      {
+        "en": "Contaminated water poses a threat to public health.",
+        "ru": "Загрязнённая вода угрожает общественному здоровью."
+      },
+      {
+        "en": "The measures are designed to reduce the risk of infection.",
+        "ru": "Меры направлены на снижение риска заражения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put a health risk",
+      "right": "pose a health risk",
+      "note": "С risk и threat в значении «представлять опасность» часто употребляется pose."
+    },
+    "quiz": {
+      "prompt": "Prolonged exposure may ___ a serious health risk.",
+      "options": [
+        "pose",
+        "place",
+        "put",
+        "stand"
+      ],
+      "correct_index": 0,
+      "explanation": "С risk и threat в значении «представлять опасность» часто употребляется pose."
+    }
+  },
+  {
+    "id": "coll_adv_038_alleviate_symptoms",
+    "order": 38,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "alleviate symptoms",
+    "translation": "облегчить симптомы",
+    "explanation": "Сделать симптомы менее выраженными, не обязательно устраняя причину заболевания.",
+    "patterns": [
+      "alleviate symptoms",
+      "alleviate pain",
+      "provide symptomatic relief"
+    ],
+    "related": [
+      "ease discomfort — уменьшить дискомфорт"
+    ],
+    "examples": [
+      {
+        "en": "The medication can alleviate mild symptoms.",
+        "ru": "Лекарство может облегчить лёгкие симптомы."
+      },
+      {
+        "en": "Regular stretching may alleviate back pain.",
+        "ru": "Регулярная растяжка может уменьшить боль в спине."
+      },
+      {
+        "en": "The treatment provides temporary symptomatic relief.",
+        "ru": "Лечение временно облегчает симптомы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cancel symptoms",
+      "right": "alleviate symptoms",
+      "note": "Alleviate означает уменьшить выраженность боли, симптомов или проблемы."
+    },
+    "quiz": {
+      "prompt": "The treatment is intended to ___ symptoms rather than cure the condition.",
+      "options": [
+        "erase",
+        "alleviate",
+        "cancel",
+        "release"
+      ],
+      "correct_index": 1,
+      "explanation": "Alleviate означает уменьшить выраженность боли, симптомов или проблемы."
+    }
+  },
+  {
+    "id": "coll_adv_039_undergo_extensive_treatment",
+    "order": 39,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "undergo extensive treatment",
+    "translation": "пройти длительное или серьёзное лечение",
+    "explanation": "Быть пациентом, проходящим сложный, продолжительный или интенсивный курс лечения.",
+    "patterns": [
+      "undergo extensive treatment",
+      "undergo surgery",
+      "receive specialist care"
+    ],
+    "related": [
+      "complete a course of treatment — пройти курс лечения"
+    ],
+    "examples": [
+      {
+        "en": "She underwent extensive treatment after the accident.",
+        "ru": "После аварии она прошла длительное лечение."
+      },
+      {
+        "en": "The patient may need to undergo further surgery.",
+        "ru": "Пациенту, возможно, потребуется дополнительная операция."
+      },
+      {
+        "en": "He received specialist care at a regional hospital.",
+        "ru": "Он получил специализированную помощь в областной больнице."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pass extensive treatment",
+      "right": "undergo extensive treatment",
+      "note": "Пациент undergoes treatment, surgery или tests; pass здесь не подходит."
+    },
+    "quiz": {
+      "prompt": "The patient had to ___ extensive treatment over several months.",
+      "options": [
+        "cross",
+        "suffer through",
+        "undergo",
+        "pass"
+      ],
+      "correct_index": 2,
+      "explanation": "Пациент undergoes treatment, surgery или tests; pass здесь не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_040_suffer_adverse_effects",
+    "order": 40,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "suffer adverse effects",
+    "translation": "испытывать неблагоприятные последствия",
+    "explanation": "Столкнуться с нежелательными или вредными последствиями лекарства, среды или воздействия.",
+    "patterns": [
+      "suffer adverse effects",
+      "experience side effects",
+      "have a detrimental effect on"
+    ],
+    "related": [
+      "be negatively affected — испытать негативное воздействие"
+    ],
+    "examples": [
+      {
+        "en": "Some patients suffered adverse effects.",
+        "ru": "У некоторых пациентов возникли неблагоприятные последствия."
+      },
+      {
+        "en": "The drug may cause serious side effects.",
+        "ru": "Препарат может вызывать серьёзные побочные эффекты."
+      },
+      {
+        "en": "Sleep deprivation has a detrimental effect on concentration.",
+        "ru": "Недостаток сна отрицательно влияет на концентрацию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "carry adverse effects",
+      "right": "suffer adverse effects",
+      "note": "Люди suffer или experience adverse effects; вещество может cause them."
+    },
+    "quiz": {
+      "prompt": "A small number of participants ___ adverse effects.",
+      "options": [
+        "carried",
+        "obtained",
+        "performed",
+        "suffered"
+      ],
+      "correct_index": 3,
+      "explanation": "Люди suffer или experience adverse effects; вещество может cause them."
+    }
+  },
+  {
+    "id": "coll_adv_041_prevent_the_spread_of_disease",
+    "order": 41,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "prevent the spread of disease",
+    "translation": "предотвратить распространение заболевания",
+    "explanation": "Не допустить передачи заболевания от одного человека или места к другим.",
+    "patterns": [
+      "prevent the spread of disease",
+      "limit transmission",
+      "contain an outbreak"
+    ],
+    "related": [
+      "reduce infection rates — снизить уровень заражения"
+    ],
+    "examples": [
+      {
+        "en": "Basic hygiene helps prevent the spread of disease.",
+        "ru": "Базовая гигиена помогает предотвратить распространение заболеваний."
+      },
+      {
+        "en": "The measures were introduced to limit transmission.",
+        "ru": "Меры были введены для ограничения передачи инфекции."
+      },
+      {
+        "en": "Rapid testing helped contain the outbreak.",
+        "ru": "Быстрое тестирование помогло локализовать вспышку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "avoid the spread of disease",
+      "right": "prevent the spread of disease",
+      "note": "Prevent означает не допустить распространения; avoid обычно относится к тому, чего избегает субъект."
+    },
+    "quiz": {
+      "prompt": "Good ventilation can help ___ the spread of infection.",
+      "options": [
+        "prevent",
+        "protect",
+        "avoid",
+        "refuse"
+      ],
+      "correct_index": 0,
+      "explanation": "Prevent означает не допустить распространения; avoid обычно относится к тому, чего избегает субъект."
+    }
+  },
+  {
+    "id": "coll_adv_042_lead_a_sedentary_lifestyle",
+    "order": 42,
+    "level": "Advanced",
+    "category": "HEALTH",
+    "phrase": "lead a sedentary lifestyle",
+    "translation": "вести малоподвижный образ жизни",
+    "explanation": "Проводить большую часть времени сидя и иметь недостаточный уровень физической активности.",
+    "patterns": [
+      "lead a sedentary lifestyle",
+      "a largely sedentary routine",
+      "reduce sedentary behaviour"
+    ],
+    "related": [
+      "be physically inactive — быть физически неактивным"
+    ],
+    "examples": [
+      {
+        "en": "Many office workers lead a sedentary lifestyle.",
+        "ru": "Многие офисные сотрудники ведут малоподвижный образ жизни."
+      },
+      {
+        "en": "A largely sedentary routine can affect long-term health.",
+        "ru": "В основном сидячий образ жизни может влиять на здоровье в долгосрочной перспективе."
+      },
+      {
+        "en": "Short walking breaks reduce sedentary behaviour.",
+        "ru": "Короткие прогулки сокращают время малоподвижности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "conduct a sedentary lifestyle",
+      "right": "lead a sedentary lifestyle",
+      "note": "С lifestyle стандартно употребляется lead или live, но не conduct."
+    },
+    "quiz": {
+      "prompt": "People who ___ a sedentary lifestyle should take regular movement breaks.",
+      "options": [
+        "guide",
+        "lead",
+        "conduct",
+        "direct"
+      ],
+      "correct_index": 1,
+      "explanation": "С lifestyle стандартно употребляется lead или live, но не conduct."
+    }
+  },
+  {
+    "id": "coll_adv_043_safeguard_sensitive_data",
+    "order": 43,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "safeguard sensitive data",
+    "translation": "защищать конфиденциальные данные",
+    "explanation": "Предотвращать утечку, повреждение или несанкционированное использование важных данных.",
+    "patterns": [
+      "safeguard sensitive data",
+      "safeguard personal information",
+      "data safeguards"
+    ],
+    "related": [
+      "protect confidential information — защищать конфиденциальную информацию"
+    ],
+    "examples": [
+      {
+        "en": "Encryption helps safeguard sensitive data.",
+        "ru": "Шифрование помогает защищать конфиденциальные данные."
+      },
+      {
+        "en": "Organisations must safeguard personal information.",
+        "ru": "Организации обязаны защищать персональные данные."
+      },
+      {
+        "en": "The audit identified weaknesses in existing data safeguards.",
+        "ru": "Аудит выявил недостатки в существующих мерах защиты данных."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "reserve sensitive data",
+      "right": "safeguard sensitive data",
+      "note": "Safeguard означает защищать от вреда или неправомерного доступа."
+    },
+    "quiz": {
+      "prompt": "Strong access controls help ___ sensitive data.",
+      "options": [
+        "reserve",
+        "decorate",
+        "safeguard",
+        "manufacture"
+      ],
+      "correct_index": 2,
+      "explanation": "Safeguard означает защищать от вреда или неправомерного доступа."
+    }
+  },
+  {
+    "id": "coll_adv_044_deploy_cutting_edge_technology",
+    "order": 44,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "deploy cutting-edge technology",
+    "translation": "внедрять передовую технологию",
+    "explanation": "Вводить в практическое использование новейшую и высокоразвитую технологию.",
+    "patterns": [
+      "deploy cutting-edge technology",
+      "deploy a new system",
+      "rapid deployment"
+    ],
+    "related": [
+      "implement advanced tools — внедрять передовые инструменты"
+    ],
+    "examples": [
+      {
+        "en": "The hospital deployed cutting-edge diagnostic technology.",
+        "ru": "Больница внедрила передовые диагностические технологии."
+      },
+      {
+        "en": "The company plans to deploy the new system nationwide.",
+        "ru": "Компания планирует развернуть новую систему по всей стране."
+      },
+      {
+        "en": "Rapid deployment reduced service interruptions.",
+        "ru": "Быстрое внедрение сократило перебои в обслуживании."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "station cutting-edge technology",
+      "right": "deploy cutting-edge technology",
+      "note": "В технологиях deploy означает развернуть или внедрить систему в работу."
+    },
+    "quiz": {
+      "prompt": "The laboratory plans to ___ cutting-edge imaging technology.",
+      "options": [
+        "station",
+        "distribute randomly",
+        "arrange",
+        "deploy"
+      ],
+      "correct_index": 3,
+      "explanation": "В технологиях deploy означает развернуть или внедрить систему в работу."
+    }
+  },
+  {
+    "id": "coll_adv_045_mitigate_cyber_risk",
+    "order": 45,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "mitigate cyber risk",
+    "translation": "снижать киберриск",
+    "explanation": "Уменьшать вероятность или последствия кибератаки, утечки или технической уязвимости.",
+    "patterns": [
+      "mitigate cyber risk",
+      "mitigate potential harm",
+      "risk-mitigation measures"
+    ],
+    "related": [
+      "reduce exposure to attack — снизить уязвимость к атаке"
+    ],
+    "examples": [
+      {
+        "en": "Regular updates help mitigate cyber risk.",
+        "ru": "Регулярные обновления помогают снижать киберриск."
+      },
+      {
+        "en": "The controls are designed to mitigate potential harm.",
+        "ru": "Эти меры предназначены для снижения потенциального ущерба."
+      },
+      {
+        "en": "The company introduced additional risk-mitigation measures.",
+        "ru": "Компания ввела дополнительные меры снижения риска."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "negotiate cyber risk",
+      "right": "mitigate cyber risk",
+      "note": "Mitigate означает уменьшить серьёзность риска или вреда."
+    },
+    "quiz": {
+      "prompt": "Multi-factor authentication can significantly ___ cyber risk.",
+      "options": [
+        "mitigate",
+        "negotiate",
+        "calculate",
+        "transfer"
+      ],
+      "correct_index": 0,
+      "explanation": "Mitigate означает уменьшить серьёзность риска или вреда."
+    }
+  },
+  {
+    "id": "coll_adv_046_bridge_the_digital_divide",
+    "order": 46,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "bridge the digital divide",
+    "translation": "сократить цифровой разрыв",
+    "explanation": "Уменьшить неравенство в доступе к интернету, устройствам и цифровым навыкам.",
+    "patterns": [
+      "bridge the digital divide",
+      "widen the digital divide",
+      "improve digital inclusion"
+    ],
+    "related": [
+      "expand equitable access — расширить равный доступ"
+    ],
+    "examples": [
+      {
+        "en": "Public libraries can help bridge the digital divide.",
+        "ru": "Публичные библиотеки могут помочь сократить цифровой разрыв."
+      },
+      {
+        "en": "High costs may widen the digital divide.",
+        "ru": "Высокие расходы могут увеличить цифровой разрыв."
+      },
+      {
+        "en": "The programme aims to improve digital inclusion.",
+        "ru": "Программа направлена на повышение цифровой доступности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cross the digital divide",
+      "right": "bridge the digital divide",
+      "note": "В устойчивом выражении используется bridge the digital divide."
+    },
+    "quiz": {
+      "prompt": "Affordable broadband is essential to ___ the digital divide.",
+      "options": [
+        "cross",
+        "bridge",
+        "connect",
+        "cover"
+      ],
+      "correct_index": 1,
+      "explanation": "В устойчивом выражении используется bridge the digital divide."
+    }
+  },
+  {
+    "id": "coll_adv_047_gain_unauthorised_access",
+    "order": 47,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "gain unauthorised access",
+    "translation": "получить несанкционированный доступ",
+    "explanation": "Войти в систему, файл или сеть без законного разрешения.",
+    "patterns": [
+      "gain unauthorised access to",
+      "attempt to gain access",
+      "deny access"
+    ],
+    "related": [
+      "breach a protected system — взломать защищённую систему"
+    ],
+    "examples": [
+      {
+        "en": "Attackers gained unauthorised access to customer records.",
+        "ru": "Злоумышленники получили несанкционированный доступ к данным клиентов."
+      },
+      {
+        "en": "The suspect attempted to gain access to the server.",
+        "ru": "Подозреваемый пытался получить доступ к серверу."
+      },
+      {
+        "en": "Users without clearance are denied access.",
+        "ru": "Пользователям без допуска доступ запрещён."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "earn unauthorised access",
+      "right": "gain unauthorised access",
+      "note": "С access естественно gain, obtain, grant или deny; earn здесь не подходит."
+    },
+    "quiz": {
+      "prompt": "The attackers managed to ___ unauthorised access to the network.",
+      "options": [
+        "win",
+        "earn",
+        "gain",
+        "collect"
+      ],
+      "correct_index": 2,
+      "explanation": "С access естественно gain, obtain, grant или deny; earn здесь не подходит."
+    }
+  },
+  {
+    "id": "coll_adv_048_raise_privacy_concerns",
+    "order": 48,
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "phrase": "raise privacy concerns",
+    "translation": "вызывать опасения по поводу конфиденциальности",
+    "explanation": "Заставлять людей сомневаться в том, насколько безопасно и этично собираются или используются данные.",
+    "patterns": [
+      "raise privacy concerns",
+      "serious privacy concerns",
+      "address privacy concerns"
+    ],
+    "related": [
+      "prompt questions about data use — вызвать вопросы об использовании данных"
+    ],
+    "examples": [
+      {
+        "en": "The facial-recognition system raises privacy concerns.",
+        "ru": "Система распознавания лиц вызывает опасения по поводу конфиденциальности."
+      },
+      {
+        "en": "Researchers expressed serious privacy concerns.",
+        "ru": "Исследователи выразили серьёзные опасения по поводу конфиденциальности."
+      },
+      {
+        "en": "The company revised the policy to address those concerns.",
+        "ru": "Компания пересмотрела политику, чтобы учесть эти опасения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "rise privacy concerns",
+      "right": "raise privacy concerns",
+      "note": "Raise — переходный глагол: что-то raises concerns. Rise не принимает прямое дополнение."
+    },
+    "quiz": {
+      "prompt": "The proposal is likely to ___ privacy concerns.",
+      "options": [
+        "lift",
+        "rise",
+        "grow",
+        "raise"
+      ],
+      "correct_index": 3,
+      "explanation": "Raise — переходный глагол: что-то raises concerns. Rise не принимает прямое дополнение."
+    }
+  },
+  {
+    "id": "coll_adv_049_face_mounting_pressure",
+    "order": 49,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "face mounting pressure",
+    "translation": "сталкиваться с растущим давлением",
+    "explanation": "Испытывать давление, которое постепенно усиливается со стороны обстоятельств, общества или требований.",
+    "patterns": [
+      "face mounting pressure",
+      "come under increasing pressure",
+      "pressure continues to mount"
+    ],
+    "related": [
+      "experience growing demands — сталкиваться с растущими требованиями"
+    ],
+    "examples": [
+      {
+        "en": "The organisation faces mounting pressure to reform.",
+        "ru": "Организация сталкивается с растущим давлением провести реформы."
+      },
+      {
+        "en": "Officials came under increasing pressure to respond.",
+        "ru": "Чиновники столкнулись с усиливающимся требованием отреагировать."
+      },
+      {
+        "en": "Pressure continued to mount as the deadline approached.",
+        "ru": "По мере приближения срока давление продолжало расти."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "watch mounting pressure",
+      "right": "face mounting pressure",
+      "note": "Face pressure означает непосредственно сталкиваться с ним."
+    },
+    "quiz": {
+      "prompt": "Local services are ___ mounting pressure as demand increases.",
+      "options": [
+        "facing",
+        "looking",
+        "seeing",
+        "watching"
+      ],
+      "correct_index": 0,
+      "explanation": "Face pressure означает непосредственно сталкиваться с ним."
+    }
+  },
+  {
+    "id": "coll_adv_050_allocate_scarce_resources",
+    "order": 50,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "allocate scarce resources",
+    "translation": "распределять ограниченные ресурсы",
+    "explanation": "Осознанно распределять недостаточные деньги, время, персонал или материалы между конкурирующими потребностями.",
+    "patterns": [
+      "allocate scarce resources",
+      "allocate resources efficiently",
+      "resource allocation"
+    ],
+    "related": [
+      "set priorities — расставлять приоритеты"
+    ],
+    "examples": [
+      {
+        "en": "Governments must decide how to allocate scarce resources.",
+        "ru": "Правительства должны решать, как распределять ограниченные ресурсы."
+      },
+      {
+        "en": "The hospital allocated resources according to clinical need.",
+        "ru": "Больница распределила ресурсы в соответствии с медицинской необходимостью."
+      },
+      {
+        "en": "Transparent resource allocation improves public trust.",
+        "ru": "Прозрачное распределение ресурсов повышает общественное доверие."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "locate scarce resources",
+      "right": "allocate scarce resources",
+      "note": "Allocate означает официально распределить ресурс для определённой цели."
+    },
+    "quiz": {
+      "prompt": "The committee must ___ scarce resources among competing projects.",
+      "options": [
+        "locate",
+        "allocate",
+        "arrange",
+        "select"
+      ],
+      "correct_index": 1,
+      "explanation": "Allocate означает официально распределить ресурс для определённой цели."
+    }
+  },
+  {
+    "id": "coll_adv_051_reach_a_tentative_agreement",
+    "order": 51,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "reach a tentative agreement",
+    "translation": "достичь предварительной договорённости",
+    "explanation": "Прийти к соглашению, которое ещё не окончательно и может быть изменено после дальнейших переговоров.",
+    "patterns": [
+      "reach a tentative agreement",
+      "a provisional agreement",
+      "subject to final approval"
+    ],
+    "related": [
+      "agree in principle — договориться в принципе"
+    ],
+    "examples": [
+      {
+        "en": "The parties reached a tentative agreement overnight.",
+        "ru": "Ночью стороны достигли предварительной договорённости."
+      },
+      {
+        "en": "They signed a provisional agreement on funding.",
+        "ru": "Они подписали предварительное соглашение о финансировании."
+      },
+      {
+        "en": "The deal remains subject to final approval.",
+        "ru": "Сделка всё ещё требует окончательного утверждения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "arrive a tentative agreement",
+      "right": "reach a tentative agreement",
+      "note": "Устойчивое сочетание — reach an agreement; arrive требует at."
+    },
+    "quiz": {
+      "prompt": "The negotiators finally ___ a tentative agreement.",
+      "options": [
+        "touched",
+        "met",
+        "reached",
+        "arrived"
+      ],
+      "correct_index": 2,
+      "explanation": "Устойчивое сочетание — reach an agreement; arrive требует at."
+    }
+  },
+  {
+    "id": "coll_adv_052_bear_little_resemblance_to",
+    "order": 52,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "bear little resemblance to",
+    "translation": "почти не иметь сходства с",
+    "explanation": "Быть очень непохожим на другой объект, описание, план или прежнюю версию.",
+    "patterns": [
+      "bear little resemblance to",
+      "bear a striking resemblance to",
+      "closely resemble"
+    ],
+    "related": [
+      "have very little in common with — иметь мало общего с"
+    ],
+    "examples": [
+      {
+        "en": "The final product bears little resemblance to the original design.",
+        "ru": "Конечный продукт почти не похож на первоначальный проект."
+      },
+      {
+        "en": "She bears a striking resemblance to her grandmother.",
+        "ru": "Она поразительно похожа на бабушку."
+      },
+      {
+        "en": "The two versions closely resemble each other.",
+        "ru": "Две версии очень похожи друг на друга."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "carry little resemblance with",
+      "right": "bear little resemblance to",
+      "note": "Стандартная модель: bear resemblance to someone or something."
+    },
+    "quiz": {
+      "prompt": "The final policy ___ little resemblance to the original proposal.",
+      "options": [
+        "carries",
+        "holds",
+        "wears",
+        "bears"
+      ],
+      "correct_index": 3,
+      "explanation": "Стандартная модель: bear resemblance to someone or something."
+    }
+  },
+  {
+    "id": "coll_adv_053_take_precedence_over",
+    "order": 53,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "take precedence over",
+    "translation": "иметь приоритет над",
+    "explanation": "Считаться более важным и поэтому получать преимущество перед другой задачей или принципом.",
+    "patterns": [
+      "take precedence over",
+      "give priority to",
+      "precedence is given to"
+    ],
+    "related": [
+      "rank above — стоять выше по приоритету"
+    ],
+    "examples": [
+      {
+        "en": "Public safety must take precedence over convenience.",
+        "ru": "Общественная безопасность должна иметь приоритет над удобством."
+      },
+      {
+        "en": "The policy gives priority to vulnerable groups.",
+        "ru": "Политика отдаёт приоритет уязвимым группам."
+      },
+      {
+        "en": "In emergencies, precedence is given to urgent cases.",
+        "ru": "В чрезвычайных ситуациях приоритет получают срочные случаи."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make precedence over",
+      "right": "take precedence over",
+      "note": "Устойчивое сочетание — take precedence over."
+    },
+    "quiz": {
+      "prompt": "In this case, safety must ___ precedence over speed.",
+      "options": [
+        "take",
+        "make",
+        "give",
+        "hold"
+      ],
+      "correct_index": 0,
+      "explanation": "Устойчивое сочетание — take precedence over."
+    }
+  },
+  {
+    "id": "coll_adv_054_strike_a_delicate_balance",
+    "order": 54,
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "phrase": "strike a delicate balance",
+    "translation": "найти тонкий баланс",
+    "explanation": "Добиться равновесия между двумя важными, но потенциально противоречащими целями.",
+    "patterns": [
+      "strike a delicate balance between",
+      "maintain a careful balance",
+      "balance competing interests"
+    ],
+    "related": [
+      "find the right compromise — найти правильный компромисс"
+    ],
+    "examples": [
+      {
+        "en": "The law must strike a delicate balance between security and privacy.",
+        "ru": "Закон должен найти тонкий баланс между безопасностью и конфиденциальностью."
+      },
+      {
+        "en": "Managers must maintain a careful balance between control and flexibility.",
+        "ru": "Руководителям нужно сохранять баланс между контролем и гибкостью."
+      },
+      {
+        "en": "The proposal attempts to balance competing interests.",
+        "ru": "Предложение пытается уравновесить конкурирующие интересы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hit a delicate balance",
+      "right": "strike a delicate balance",
+      "note": "В устойчивом выражении используется strike a balance."
+    },
+    "quiz": {
+      "prompt": "The policy seeks to ___ a delicate balance between access and protection.",
+      "options": [
+        "hit",
+        "strike",
+        "knock",
+        "beat"
+      ],
+      "correct_index": 1,
+      "explanation": "В устойчивом выражении используется strike a balance."
+    }
+  }
+]

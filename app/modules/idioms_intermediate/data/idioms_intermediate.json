@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "idiom_01",
+    "order": 1,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "a piece of cake",
+    "translation": "проще простого",
+    "explanation": "Something that is very easy to do.",
+    "register": "informal",
+    "literal_image": "кусок торта",
+    "patterns": [
+      "be a piece of cake",
+      "find something a piece of cake"
+    ],
+    "related": [
+      "easy",
+      "straightforward"
+    ],
+    "examples": [
+      {
+        "en": "The online form was a piece of cake to complete.",
+        "ru": "Заполнить онлайн-форму было проще простого."
+      },
+      {
+        "en": "Don’t worry about the quiz — it should be a piece of cake.",
+        "ru": "Не переживай из-за теста — он должен быть очень лёгким."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The task was piece of cake.",
+      "right": "The task was a piece of cake.",
+      "note": "Обычно нужен артикль a: a piece of cake."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что задание оказалось очень лёгким?",
+      "options": [
+        "a piece of cake",
+        "hit a dead end",
+        "be on edge",
+        "tighten your belt"
+      ],
+      "correct_index": 0,
+      "explanation": "«a piece of cake» означает: проще простого. Something that is very easy to do."
+    }
+  },
+  {
+    "id": "idiom_02",
+    "order": 2,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "under the weather",
+    "translation": "неважно себя чувствовать",
+    "explanation": "Feeling slightly ill or lacking energy.",
+    "register": "informal",
+    "literal_image": "оказаться под погодой",
+    "patterns": [
+      "feel under the weather",
+      "be a little under the weather"
+    ],
+    "related": [
+      "feel unwell",
+      "not feel oneself"
+    ],
+    "examples": [
+      {
+        "en": "I’m staying home because I’m feeling under the weather.",
+        "ru": "Я остаюсь дома, потому что неважно себя чувствую."
+      },
+      {
+        "en": "She looked under the weather during the meeting.",
+        "ru": "На встрече она выглядела нездоровой."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am under weather today.",
+      "right": "I am under the weather today.",
+      "note": "Выражение употребляется с the: under the weather."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «слегка приболеть»?",
+      "options": [
+        "over the moon",
+        "under the weather",
+        "on the go",
+        "in the black"
+      ],
+      "correct_index": 1,
+      "explanation": "«under the weather» означает: неважно себя чувствовать. Feeling slightly ill or lacking energy."
+    }
+  },
+  {
+    "id": "idiom_03",
+    "order": 3,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "once in a blue moon",
+    "translation": "крайне редко",
+    "explanation": "Very rarely; almost never.",
+    "register": "informal",
+    "literal_image": "один раз при голубой луне",
+    "patterns": [
+      "do something once in a blue moon",
+      "happen once in a blue moon"
+    ],
+    "related": [
+      "very rarely",
+      "hardly ever"
+    ],
+    "examples": [
+      {
+        "en": "We eat out only once in a blue moon.",
+        "ru": "Мы ходим куда-нибудь поесть крайне редко."
+      },
+      {
+        "en": "Once in a blue moon, he takes a full day off.",
+        "ru": "Изредка он берёт целый выходной."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I go there one in a blue moon.",
+      "right": "I go there once in a blue moon.",
+      "note": "Фиксированная форма: once in a blue moon."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что событие происходит чрезвычайно редко?",
+      "options": [
+        "just around the corner",
+        "out of the blue",
+        "once in a blue moon",
+        "on the same page"
+      ],
+      "correct_index": 2,
+      "explanation": "«once in a blue moon» означает: крайне редко. Very rarely; almost never."
+    }
+  },
+  {
+    "id": "idiom_04",
+    "order": 4,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "just around the corner",
+    "translation": "совсем скоро; совсем рядом",
+    "explanation": "Very near in time or place.",
+    "register": "neutral",
+    "literal_image": "сразу за углом",
+    "patterns": [
+      "be just around the corner",
+      "right around the corner"
+    ],
+    "related": [
+      "very soon",
+      "nearby"
+    ],
+    "examples": [
+      {
+        "en": "The holidays are just around the corner.",
+        "ru": "Праздники уже совсем скоро."
+      },
+      {
+        "en": "There’s a pharmacy right around the corner.",
+        "ru": "Аптека находится совсем рядом, за углом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The exam is around corner.",
+      "right": "The exam is just around the corner.",
+      "note": "Обычно нужен артикль the: around the corner."
+    },
+    "quiz": {
+      "prompt": "Какое выражение подходит, если отпуск уже совсем скоро?",
+      "options": [
+        "once in a blue moon",
+        "back to square one",
+        "get on someone's nerves",
+        "just around the corner"
+      ],
+      "correct_index": 3,
+      "explanation": "«just around the corner» означает: совсем скоро; совсем рядом. Very near in time or place."
+    }
+  },
+  {
+    "id": "idiom_05",
+    "order": 5,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "on the go",
+    "translation": "в постоянном движении; очень занят",
+    "explanation": "Busy and active, often moving from place to place.",
+    "register": "informal",
+    "literal_image": "на ходу",
+    "patterns": [
+      "be on the go",
+      "eat something on the go"
+    ],
+    "related": [
+      "busy",
+      "active"
+    ],
+    "examples": [
+      {
+        "en": "I’ve been on the go since seven this morning.",
+        "ru": "Я в движении с семи утра."
+      },
+      {
+        "en": "She often has lunch on the go.",
+        "ru": "Она часто обедает на ходу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am in the go all day.",
+      "right": "I am on the go all day.",
+      "note": "Фиксированный предлог: on the go."
+    },
+    "quiz": {
+      "prompt": "Как описать человека, который весь день занят и постоянно куда-то спешит?",
+      "options": [
+        "on the go",
+        "down in the dumps",
+        "in the red",
+        "hit a dead end"
+      ],
+      "correct_index": 0,
+      "explanation": "«on the go» означает: в постоянном движении; очень занят. Busy and active, often moving from place to place."
+    }
+  },
+  {
+    "id": "idiom_06",
+    "order": 6,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "out of the blue",
+    "translation": "совершенно неожиданно",
+    "explanation": "Suddenly and without warning.",
+    "register": "informal",
+    "literal_image": "из синевы",
+    "patterns": [
+      "happen out of the blue",
+      "call someone out of the blue"
+    ],
+    "related": [
+      "unexpectedly",
+      "without warning"
+    ],
+    "examples": [
+      {
+        "en": "He called me out of the blue after ten years.",
+        "ru": "Он неожиданно позвонил мне спустя десять лет."
+      },
+      {
+        "en": "The job offer came out of the blue.",
+        "ru": "Предложение о работе появилось совершенно неожиданно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It happened from the blue.",
+      "right": "It happened out of the blue.",
+      "note": "Фиксированная форма: out of the blue."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что новость появилась совершенно неожиданно?",
+      "options": [
+        "on the right track",
+        "out of the blue",
+        "by word of mouth",
+        "under the weather"
+      ],
+      "correct_index": 1,
+      "explanation": "«out of the blue» означает: совершенно неожиданно. Suddenly and without warning."
+    }
+  },
+  {
+    "id": "idiom_07",
+    "order": 7,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "the last straw",
+    "translation": "последняя капля",
+    "explanation": "The final problem in a series that makes a situation impossible to accept.",
+    "register": "informal",
+    "literal_image": "последняя соломинка",
+    "patterns": [
+      "be the last straw",
+      "that was the last straw"
+    ],
+    "related": [
+      "final provocation",
+      "breaking point"
+    ],
+    "examples": [
+      {
+        "en": "When the bus broke down again, it was the last straw.",
+        "ru": "Когда автобус снова сломался, это стало последней каплей."
+      },
+      {
+        "en": "His rude message was the last straw for me.",
+        "ru": "Его грубое сообщение стало для меня последней каплей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It was last straw.",
+      "right": "It was the last straw.",
+      "note": "Обычно употребляется с the: the last straw."
+    },
+    "quiz": {
+      "prompt": "Как назвать последнюю проблему, после которой терпение закончилось?",
+      "options": [
+        "a piece of cake",
+        "have a soft spot for someone",
+        "the last straw",
+        "on a shoestring"
+      ],
+      "correct_index": 2,
+      "explanation": "«the last straw» означает: последняя капля. The final problem in a series that makes a situation impossible to accept."
+    }
+  },
+  {
+    "id": "idiom_08",
+    "order": 8,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "get the hang of something",
+    "translation": "наловчиться; понять, как это делается",
+    "explanation": "Learn how to do or use something, especially after some practice.",
+    "register": "informal",
+    "literal_image": "поймать способ чего-либо",
+    "patterns": [
+      "get the hang of it",
+      "soon get the hang of something"
+    ],
+    "related": [
+      "learn how",
+      "become familiar with"
+    ],
+    "examples": [
+      {
+        "en": "You’ll get the hang of the software after a few days.",
+        "ru": "Через несколько дней ты освоишь эту программу."
+      },
+      {
+        "en": "It took me a while to get the hang of driving on the left.",
+        "ru": "Мне понадобилось время, чтобы привыкнуть ездить по левой стороне."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I got the hang to use it.",
+      "right": "I got the hang of using it.",
+      "note": "После hang нужен of: get the hang of something/doing something."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек постепенно освоил новую программу?",
+      "options": [
+        "face the music",
+        "lose your temper",
+        "save for a rainy day",
+        "get the hang of something"
+      ],
+      "correct_index": 3,
+      "explanation": "«get the hang of something» означает: наловчиться; понять, как это делается. Learn how to do or use something, especially after some practice."
+    }
+  },
+  {
+    "id": "idiom_09",
+    "order": 9,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "hit the books",
+    "translation": "засесть за учёбу",
+    "explanation": "Start studying seriously.",
+    "register": "informal",
+    "literal_image": "ударить по книгам",
+    "patterns": [
+      "have to hit the books",
+      "hit the books tonight"
+    ],
+    "related": [
+      "study hard",
+      "revise"
+    ],
+    "examples": [
+      {
+        "en": "I can’t go out tonight; I need to hit the books.",
+        "ru": "Сегодня я не могу пойти гулять: мне нужно засесть за учёбу."
+      },
+      {
+        "en": "She hit the books before her final exams.",
+        "ru": "Перед выпускными экзаменами она серьёзно взялась за учёбу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I hit books every evening.",
+      "right": "I hit the books every evening.",
+      "note": "Фиксированная форма обычно включает the: hit the books."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «серьёзно начать готовиться к экзамену»?",
+      "options": [
+        "hit the books",
+        "call it a day",
+        "feel blue",
+        "be in hot water"
+      ],
+      "correct_index": 0,
+      "explanation": "«hit the books» означает: засесть за учёбу. Start studying seriously."
+    }
+  },
+  {
+    "id": "idiom_10",
+    "order": 10,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "learn the ropes",
+    "translation": "освоить основы работы",
+    "explanation": "Learn how a job or activity is done.",
+    "register": "informal",
+    "literal_image": "выучить канаты",
+    "patterns": [
+      "learn the ropes",
+      "show someone the ropes"
+    ],
+    "related": [
+      "learn the basics",
+      "get oriented"
+    ],
+    "examples": [
+      {
+        "en": "It took me a month to learn the ropes at my new job.",
+        "ru": "Мне понадобился месяц, чтобы освоиться на новой работе."
+      },
+      {
+        "en": "Maya showed the new assistant the ropes.",
+        "ru": "Майя ввела нового ассистента в курс дела."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He learned ropes quickly.",
+      "right": "He learned the ropes quickly.",
+      "note": "Обычно употребляется the ropes."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что новый сотрудник осваивает основные процессы?",
+      "options": [
+        "speak your mind",
+        "learn the ropes",
+        "cost an arm and a leg",
+        "bury the hatchet"
+      ],
+      "correct_index": 1,
+      "explanation": "«learn the ropes» означает: освоить основы работы. Learn how a job or activity is done."
+    }
+  },
+  {
+    "id": "idiom_11",
+    "order": 11,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "be on the right track",
+    "translation": "двигаться в правильном направлении",
+    "explanation": "Be following a course that is likely to succeed.",
+    "register": "neutral",
+    "literal_image": "быть на правильном пути",
+    "patterns": [
+      "be on the right track",
+      "put someone on the right track"
+    ],
+    "related": [
+      "make good progress",
+      "head in the right direction"
+    ],
+    "examples": [
+      {
+        "en": "Your analysis is on the right track.",
+        "ru": "Твой анализ движется в правильном направлении."
+      },
+      {
+        "en": "The first results suggest we’re on the right track.",
+        "ru": "Первые результаты показывают, что мы идём верным путём."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We are in the right track.",
+      "right": "We are on the right track.",
+      "note": "Нужен предлог on: on the right track."
+    },
+    "quiz": {
+      "prompt": "Как похвалить подход, который, вероятно, приведёт к успеху?",
+      "options": [
+        "back to square one",
+        "get cold feet",
+        "be on the right track",
+        "be in the red"
+      ],
+      "correct_index": 2,
+      "explanation": "«be on the right track» означает: двигаться в правильном направлении. Be following a course that is likely to succeed."
+    }
+  },
+  {
+    "id": "idiom_12",
+    "order": 12,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "go the extra mile",
+    "translation": "сделать больше, чем требуется",
+    "explanation": "Make a special effort beyond what is expected.",
+    "register": "neutral",
+    "literal_image": "пройти лишнюю милю",
+    "patterns": [
+      "go the extra mile",
+      "be willing to go the extra mile"
+    ],
+    "related": [
+      "make an extra effort",
+      "do more than expected"
+    ],
+    "examples": [
+      {
+        "en": "Our support team always goes the extra mile for customers.",
+        "ru": "Наша служба поддержки всегда делает для клиентов больше ожидаемого."
+      },
+      {
+        "en": "She went the extra mile to help the project succeed.",
+        "ru": "Она приложила дополнительные усилия, чтобы проект удался."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He made the extra mile for us.",
+      "right": "He went the extra mile for us.",
+      "note": "Устойчивый глагол — go: go the extra mile."
+    },
+    "quiz": {
+      "prompt": "Как описать сотрудника, который делает больше, чем от него ожидают?",
+      "options": [
+        "call it a day",
+        "read between the lines",
+        "tighten your belt",
+        "go the extra mile"
+      ],
+      "correct_index": 3,
+      "explanation": "«go the extra mile» означает: сделать больше, чем требуется. Make a special effort beyond what is expected."
+    }
+  },
+  {
+    "id": "idiom_13",
+    "order": 13,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "call it a day",
+    "translation": "закончить работу на сегодня",
+    "explanation": "Stop working on something for the rest of the day.",
+    "register": "informal",
+    "literal_image": "назвать это днём",
+    "patterns": [
+      "let’s call it a day",
+      "decide to call it a day"
+    ],
+    "related": [
+      "stop for today",
+      "finish up"
+    ],
+    "examples": [
+      {
+        "en": "We’ve done enough; let’s call it a day.",
+        "ru": "Мы сделали достаточно; давайте на сегодня закончим."
+      },
+      {
+        "en": "At six, the team called it a day.",
+        "ru": "В шесть часов команда закончила работу на сегодня."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Let’s call the day.",
+      "right": "Let’s call it a day.",
+      "note": "В выражении обязательно it: call it a day."
+    },
+    "quiz": {
+      "prompt": "Как предложить закончить работу до завтра?",
+      "options": [
+        "call it a day",
+        "hit the books",
+        "take the bull by the horns",
+        "be on the go"
+      ],
+      "correct_index": 0,
+      "explanation": "«call it a day» означает: закончить работу на сегодня. Stop working on something for the rest of the day."
+    }
+  },
+  {
+    "id": "idiom_14",
+    "order": 14,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "back to square one",
+    "translation": "снова с самого начала",
+    "explanation": "Back to the starting point after an attempt has failed.",
+    "register": "informal",
+    "literal_image": "назад к первому квадрату",
+    "patterns": [
+      "be back to square one",
+      "go back to square one"
+    ],
+    "related": [
+      "start again",
+      "return to the beginning"
+    ],
+    "examples": [
+      {
+        "en": "The experiment failed, so we’re back to square one.",
+        "ru": "Эксперимент не удался, поэтому мы снова в самом начале."
+      },
+      {
+        "en": "Losing the file sent us back to square one.",
+        "ru": "Потеря файла отбросила нас к исходной точке."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We returned to the square one.",
+      "right": "We went back to square one.",
+      "note": "Артикль перед square one обычно не ставится."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что после неудачи приходится начинать заново?",
+      "options": [
+        "on the right track",
+        "back to square one",
+        "over the moon",
+        "in the same boat"
+      ],
+      "correct_index": 1,
+      "explanation": "«back to square one» означает: снова с самого начала. Back to the starting point after an attempt has failed."
+    }
+  },
+  {
+    "id": "idiom_15",
+    "order": 15,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "think outside the box",
+    "translation": "мыслить нестандартно",
+    "explanation": "Think creatively and consider unusual solutions.",
+    "register": "informal",
+    "literal_image": "думать за пределами коробки",
+    "patterns": [
+      "think outside the box",
+      "encourage someone to think outside the box"
+    ],
+    "related": [
+      "think creatively",
+      "take a fresh approach"
+    ],
+    "examples": [
+      {
+        "en": "We need to think outside the box to reduce costs.",
+        "ru": "Нам нужно мыслить нестандартно, чтобы сократить расходы."
+      },
+      {
+        "en": "Her solution showed that she could think outside the box.",
+        "ru": "Её решение показало, что она умеет мыслить нестандартно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Think out of the box.",
+      "right": "Think outside the box.",
+      "note": "Наиболее распространённая форма — outside the box."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «искать необычное, творческое решение»?",
+      "options": [
+        "read between the lines",
+        "make ends meet",
+        "think outside the box",
+        "feel blue"
+      ],
+      "correct_index": 2,
+      "explanation": "«think outside the box» означает: мыслить нестандартно. Think creatively and consider unusual solutions."
+    }
+  },
+  {
+    "id": "idiom_16",
+    "order": 16,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "have a lot on your plate",
+    "translation": "иметь слишком много дел",
+    "explanation": "Have many tasks or responsibilities to deal with.",
+    "register": "informal",
+    "literal_image": "иметь много на тарелке",
+    "patterns": [
+      "have a lot on your plate",
+      "have enough on your plate"
+    ],
+    "related": [
+      "be overloaded",
+      "have many responsibilities"
+    ],
+    "examples": [
+      {
+        "en": "I can’t take on another task; I already have a lot on my plate.",
+        "ru": "Я не могу взять ещё одну задачу: у меня и так слишком много дел."
+      },
+      {
+        "en": "She has enough on her plate this week.",
+        "ru": "На этой неделе у неё и без того много забот."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have many things in my plate.",
+      "right": "I have a lot on my plate.",
+      "note": "Фиксированный предлог — on: on your plate."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что у человека уже слишком много обязанностей?",
+      "options": [
+        "a piece of cake",
+        "on a shoestring",
+        "out of the blue",
+        "have a lot on your plate"
+      ],
+      "correct_index": 3,
+      "explanation": "«have a lot on your plate» означает: иметь слишком много дел. Have many tasks or responsibilities to deal with."
+    }
+  },
+  {
+    "id": "idiom_17",
+    "order": 17,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "get straight to the point",
+    "translation": "сразу перейти к сути",
+    "explanation": "Say the most important thing without unnecessary detail.",
+    "register": "neutral",
+    "literal_image": "прямо добраться до точки",
+    "patterns": [
+      "get straight to the point",
+      "come straight to the point"
+    ],
+    "related": [
+      "be direct",
+      "skip the introduction"
+    ],
+    "examples": [
+      {
+        "en": "I’ll get straight to the point: we need more time.",
+        "ru": "Сразу перейду к сути: нам нужно больше времени."
+      },
+      {
+        "en": "Could you come to the point, please?",
+        "ru": "Не могли бы вы перейти к сути?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Let me get straight to point.",
+      "right": "Let me get straight to the point.",
+      "note": "Обычно требуется the: to the point."
+    },
+    "quiz": {
+      "prompt": "Как начать разговор без долгого вступления и сразу перейти к главному?",
+      "options": [
+        "get straight to the point",
+        "put it in a nutshell",
+        "read between the lines",
+        "keep someone in the loop"
+      ],
+      "correct_index": 0,
+      "explanation": "«get straight to the point» означает: сразу перейти к сути. Say the most important thing without unnecessary detail."
+    }
+  },
+  {
+    "id": "idiom_18",
+    "order": 18,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "read between the lines",
+    "translation": "читать между строк",
+    "explanation": "Understand an implied meaning that is not stated directly.",
+    "register": "neutral",
+    "literal_image": "читать между строк",
+    "patterns": [
+      "read between the lines",
+      "if you read between the lines"
+    ],
+    "related": [
+      "infer",
+      "notice the hidden meaning"
+    ],
+    "examples": [
+      {
+        "en": "If you read between the lines, the email is quite critical.",
+        "ru": "Если читать между строк, письмо довольно критичное."
+      },
+      {
+        "en": "She never said she was leaving, but I read between the lines.",
+        "ru": "Она не сказала прямо, что уходит, но я понял скрытый смысл."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Read between lines.",
+      "right": "Read between the lines.",
+      "note": "В устойчивом выражении нужен артикль the."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что вы поняли скрытый смысл сообщения?",
+      "options": [
+        "speak your mind",
+        "read between the lines",
+        "by word of mouth",
+        "call it a day"
+      ],
+      "correct_index": 1,
+      "explanation": "«read between the lines» означает: читать между строк. Understand an implied meaning that is not stated directly."
+    }
+  },
+  {
+    "id": "idiom_19",
+    "order": 19,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "speak your mind",
+    "translation": "откровенно высказать своё мнение",
+    "explanation": "Say honestly what you think, even if others may disagree.",
+    "register": "neutral",
+    "literal_image": "говорить свой разум",
+    "patterns": [
+      "speak your mind",
+      "be afraid to speak your mind"
+    ],
+    "related": [
+      "be frank",
+      "say what you think"
+    ],
+    "examples": [
+      {
+        "en": "Don’t be afraid to speak your mind in the meeting.",
+        "ru": "Не бойся откровенно высказать своё мнение на встрече."
+      },
+      {
+        "en": "He spoke his mind, but he remained polite.",
+        "ru": "Он высказался откровенно, но остался вежливым."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She said her mind.",
+      "right": "She spoke her mind.",
+      "note": "Устойчивый глагол — speak: speak your mind."
+    },
+    "quiz": {
+      "prompt": "Как описать честное и прямое высказывание своего мнения?",
+      "options": [
+        "take something with a pinch of salt",
+        "be on the same page",
+        "speak your mind",
+        "get cold feet"
+      ],
+      "correct_index": 2,
+      "explanation": "«speak your mind» означает: откровенно высказать своё мнение. Say honestly what you think, even if others may disagree."
+    }
+  },
+  {
+    "id": "idiom_20",
+    "order": 20,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "be on the same page",
+    "translation": "одинаково понимать ситуацию",
+    "explanation": "Share the same understanding or goals.",
+    "register": "informal",
+    "literal_image": "быть на одной странице",
+    "patterns": [
+      "be on the same page",
+      "make sure everyone is on the same page"
+    ],
+    "related": [
+      "agree on the basics",
+      "share an understanding"
+    ],
+    "examples": [
+      {
+        "en": "Let’s make sure we’re all on the same page.",
+        "ru": "Давайте убедимся, что все понимают ситуацию одинаково."
+      },
+      {
+        "en": "The two departments are not yet on the same page.",
+        "ru": "Два отдела пока не пришли к общему пониманию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We are in the same page.",
+      "right": "We are on the same page.",
+      "note": "Нужен предлог on: on the same page."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что команда одинаково понимает цели проекта?",
+      "options": [
+        "see eye to eye",
+        "give someone the cold shoulder",
+        "hit a dead end",
+        "be on the same page"
+      ],
+      "correct_index": 3,
+      "explanation": "«be on the same page» означает: одинаково понимать ситуацию. Share the same understanding or goals."
+    }
+  },
+  {
+    "id": "idiom_21",
+    "order": 21,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "keep someone in the loop",
+    "translation": "держать кого-либо в курсе",
+    "explanation": "Keep someone informed about developments or decisions.",
+    "register": "informal",
+    "literal_image": "держать кого-то в петле",
+    "patterns": [
+      "keep me in the loop",
+      "keep everyone in the loop"
+    ],
+    "related": [
+      "keep informed",
+      "provide updates"
+    ],
+    "examples": [
+      {
+        "en": "Please keep me in the loop about any changes.",
+        "ru": "Пожалуйста, держи меня в курсе любых изменений."
+      },
+      {
+        "en": "We need to keep the client in the loop.",
+        "ru": "Нам нужно держать клиента в курсе событий."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Keep me on the loop.",
+      "right": "Keep me in the loop.",
+      "note": "Фиксированный предлог — in: in the loop."
+    },
+    "quiz": {
+      "prompt": "Как попросить, чтобы вам сообщали обо всех изменениях?",
+      "options": [
+        "keep someone in the loop",
+        "by word of mouth",
+        "under the weather",
+        "tighten your belt"
+      ],
+      "correct_index": 0,
+      "explanation": "«keep someone in the loop» означает: держать кого-либо в курсе. Keep someone informed about developments or decisions."
+    }
+  },
+  {
+    "id": "idiom_22",
+    "order": 22,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "by word of mouth",
+    "translation": "из уст в уста; по личным рекомендациям",
+    "explanation": "Through people talking to one another rather than through advertising.",
+    "register": "neutral",
+    "literal_image": "словом изо рта",
+    "patterns": [
+      "spread by word of mouth",
+      "hear about something by word of mouth"
+    ],
+    "related": [
+      "through recommendations",
+      "person to person"
+    ],
+    "examples": [
+      {
+        "en": "Most customers heard about us by word of mouth.",
+        "ru": "Большинство клиентов узнали о нас по личным рекомендациям."
+      },
+      {
+        "en": "The news spread quickly by word of mouth.",
+        "ru": "Новость быстро распространилась из уст в уста."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I heard it from word of mouth.",
+      "right": "I heard about it by word of mouth.",
+      "note": "Обычная модель: hear about something by word of mouth."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что клиенты узнали о компании через личные рекомендации?",
+      "options": [
+        "out of the blue",
+        "by word of mouth",
+        "get straight to the point",
+        "in the black"
+      ],
+      "correct_index": 1,
+      "explanation": "«by word of mouth» означает: из уст в уста; по личным рекомендациям. Through people talking to one another rather than through advertising."
+    }
+  },
+  {
+    "id": "idiom_23",
+    "order": 23,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "put it in a nutshell",
+    "translation": "выразить кратко; в двух словах",
+    "explanation": "Summarise something in a few clear words.",
+    "register": "informal",
+    "literal_image": "положить это в ореховую скорлупу",
+    "patterns": [
+      "to put it in a nutshell",
+      "put the idea in a nutshell"
+    ],
+    "related": [
+      "in short",
+      "briefly"
+    ],
+    "examples": [
+      {
+        "en": "To put it in a nutshell, the plan is too expensive.",
+        "ru": "Если кратко, план слишком дорогой."
+      },
+      {
+        "en": "Can you put the proposal in a nutshell?",
+        "ru": "Можешь изложить предложение в двух словах?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "To say it in a nutshell...",
+      "right": "To put it in a nutshell...",
+      "note": "Наиболее устойчивый глагол — put."
+    },
+    "quiz": {
+      "prompt": "Как ввести очень краткое резюме длинного объяснения?",
+      "options": [
+        "get straight to the point",
+        "go the extra mile",
+        "put it in a nutshell",
+        "feel blue"
+      ],
+      "correct_index": 2,
+      "explanation": "«put it in a nutshell» означает: выразить кратко; в двух словах. Summarise something in a few clear words."
+    }
+  },
+  {
+    "id": "idiom_24",
+    "order": 24,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "take something with a pinch of salt",
+    "translation": "относиться к информации с долей сомнения",
+    "explanation": "Not completely believe something because it may be exaggerated or unreliable.",
+    "register": "informal, mainly UK",
+    "literal_image": "взять что-то с щепоткой соли",
+    "patterns": [
+      "take it with a pinch of salt",
+      "US: take it with a grain of salt"
+    ],
+    "related": [
+      "be sceptical",
+      "not take literally"
+    ],
+    "examples": [
+      {
+        "en": "Take his predictions with a pinch of salt.",
+        "ru": "Отнесись к его прогнозам с долей сомнения."
+      },
+      {
+        "en": "I’d take that online review with a grain of salt.",
+        "ru": "Я бы не стал полностью доверять этому онлайн-отзыву."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Take it with pinch of salt.",
+      "right": "Take it with a pinch of salt.",
+      "note": "Нужен артикль a: with a pinch of salt."
+    },
+    "quiz": {
+      "prompt": "Как посоветовать не верить сообщению полностью?",
+      "options": [
+        "read between the lines",
+        "speak your mind",
+        "over the moon",
+        "take something with a pinch of salt"
+      ],
+      "correct_index": 3,
+      "explanation": "«take something with a pinch of salt» означает: относиться к информации с долей сомнения. Not completely believe something because it may be exaggerated or unreliable."
+    }
+  },
+  {
+    "id": "idiom_25",
+    "order": 25,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "over the moon",
+    "translation": "на седьмом небе от счастья",
+    "explanation": "Extremely happy and delighted.",
+    "register": "informal",
+    "literal_image": "над луной",
+    "patterns": [
+      "be over the moon",
+      "be over the moon about something"
+    ],
+    "related": [
+      "delighted",
+      "thrilled"
+    ],
+    "examples": [
+      {
+        "en": "She was over the moon about her exam result.",
+        "ru": "Она была на седьмом небе от результата экзамена."
+      },
+      {
+        "en": "We’re over the moon to hear your news.",
+        "ru": "Мы безумно рады услышать твою новость."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She is over moon.",
+      "right": "She is over the moon.",
+      "note": "Нужен артикль the: over the moon."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек чрезвычайно счастлив?",
+      "options": [
+        "over the moon",
+        "down in the dumps",
+        "on edge",
+        "under the weather"
+      ],
+      "correct_index": 0,
+      "explanation": "«over the moon» означает: на седьмом небе от счастья. Extremely happy and delighted."
+    }
+  },
+  {
+    "id": "idiom_26",
+    "order": 26,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "down in the dumps",
+    "translation": "в подавленном настроении",
+    "explanation": "Unhappy, discouraged or depressed.",
+    "register": "informal",
+    "literal_image": "внизу на свалках",
+    "patterns": [
+      "feel down in the dumps",
+      "be a bit down in the dumps"
+    ],
+    "related": [
+      "feel low",
+      "be miserable"
+    ],
+    "examples": [
+      {
+        "en": "He’s been down in the dumps since the interview.",
+        "ru": "После собеседования он ходит подавленный."
+      },
+      {
+        "en": "I felt a little down in the dumps yesterday.",
+        "ru": "Вчера я был немного не в духе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am down in dumps.",
+      "right": "I am down in the dumps.",
+      "note": "Устойчивое выражение включает the."
+    },
+    "quiz": {
+      "prompt": "Как описать человека, который выглядит грустным и подавленным?",
+      "options": [
+        "over the moon",
+        "down in the dumps",
+        "on the go",
+        "in the black"
+      ],
+      "correct_index": 1,
+      "explanation": "«down in the dumps» означает: в подавленном настроении. Unhappy, discouraged or depressed."
+    }
+  },
+  {
+    "id": "idiom_27",
+    "order": 27,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "get cold feet",
+    "translation": "струсить в последний момент",
+    "explanation": "Become nervous or afraid just before doing something planned.",
+    "register": "informal",
+    "literal_image": "получить холодные ноги",
+    "patterns": [
+      "get cold feet",
+      "have cold feet about something"
+    ],
+    "related": [
+      "lose courage",
+      "have second thoughts"
+    ],
+    "examples": [
+      {
+        "en": "He got cold feet before the presentation.",
+        "ru": "Перед презентацией он струсил."
+      },
+      {
+        "en": "Don’t get cold feet now — you’re ready.",
+        "ru": "Не трусь сейчас — ты готов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He got a cold feet.",
+      "right": "He got cold feet.",
+      "note": "Артикль перед cold feet не ставится."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек испугался прямо перед важным событием?",
+      "options": [
+        "keep your cool",
+        "lose your temper",
+        "get cold feet",
+        "go the extra mile"
+      ],
+      "correct_index": 2,
+      "explanation": "«get cold feet» означает: струсить в последний момент. Become nervous or afraid just before doing something planned."
+    }
+  },
+  {
+    "id": "idiom_28",
+    "order": 28,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "keep your cool",
+    "translation": "сохранять спокойствие",
+    "explanation": "Remain calm in a difficult or tense situation.",
+    "register": "informal",
+    "literal_image": "сохранять свою прохладу",
+    "patterns": [
+      "keep your cool",
+      "try to keep cool"
+    ],
+    "related": [
+      "stay calm",
+      "remain composed"
+    ],
+    "examples": [
+      {
+        "en": "She kept her cool during the argument.",
+        "ru": "Во время спора она сохранила спокойствие."
+      },
+      {
+        "en": "It’s important to keep your cool under pressure.",
+        "ru": "Под давлением важно не терять самообладание."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Keep your cold.",
+      "right": "Keep your cool.",
+      "note": "Идиома использует существительное cool, а не cold."
+    },
+    "quiz": {
+      "prompt": "Как посоветовать человеку не паниковать под давлением?",
+      "options": [
+        "lose your temper",
+        "feel blue",
+        "bite the bullet",
+        "keep your cool"
+      ],
+      "correct_index": 3,
+      "explanation": "«keep your cool» означает: сохранять спокойствие. Remain calm in a difficult or tense situation."
+    }
+  },
+  {
+    "id": "idiom_29",
+    "order": 29,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "lose your temper",
+    "translation": "выйти из себя",
+    "explanation": "Suddenly become angry and stop controlling your behaviour.",
+    "register": "neutral",
+    "literal_image": "потерять свой характер",
+    "patterns": [
+      "lose your temper",
+      "try not to lose your temper"
+    ],
+    "related": [
+      "get angry",
+      "fly off the handle"
+    ],
+    "examples": [
+      {
+        "en": "He lost his temper when the computer crashed again.",
+        "ru": "Он вышел из себя, когда компьютер снова завис."
+      },
+      {
+        "en": "I’m sorry I lost my temper.",
+        "ru": "Прости, что я вспылил."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He lost the temper.",
+      "right": "He lost his temper.",
+      "note": "Обычно используется притяжательное местоимение: lose your temper."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек внезапно сильно рассердился?",
+      "options": [
+        "lose your temper",
+        "keep your cool",
+        "be on the same page",
+        "save for a rainy day"
+      ],
+      "correct_index": 0,
+      "explanation": "«lose your temper» означает: выйти из себя. Suddenly become angry and stop controlling your behaviour."
+    }
+  },
+  {
+    "id": "idiom_30",
+    "order": 30,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "feel blue",
+    "translation": "грустить; хандрить",
+    "explanation": "Feel sad or low.",
+    "register": "informal",
+    "literal_image": "чувствовать синий цвет",
+    "patterns": [
+      "feel blue",
+      "be feeling a bit blue"
+    ],
+    "related": [
+      "feel sad",
+      "feel low"
+    ],
+    "examples": [
+      {
+        "en": "I always feel a little blue after the holidays.",
+        "ru": "После праздников мне всегда немного грустно."
+      },
+      {
+        "en": "She was feeling blue, so we invited her out.",
+        "ru": "Она хандрила, поэтому мы пригласили её прогуляться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I feel myself blue.",
+      "right": "I feel blue.",
+      "note": "После feel в этой идиоме возвратное местоимение не нужно."
+    },
+    "quiz": {
+      "prompt": "Как неформально сказать, что вам немного грустно?",
+      "options": [
+        "over the moon",
+        "feel blue",
+        "on the right track",
+        "in the black"
+      ],
+      "correct_index": 1,
+      "explanation": "«feel blue» означает: грустить; хандрить. Feel sad or low."
+    }
+  },
+  {
+    "id": "idiom_31",
+    "order": 31,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "be fed up with something",
+    "translation": "быть сытым по горло",
+    "explanation": "Be annoyed or bored because a situation has continued too long.",
+    "register": "informal",
+    "literal_image": "быть накормленным доверху",
+    "patterns": [
+      "be fed up with something",
+      "get fed up with doing something"
+    ],
+    "related": [
+      "be tired of",
+      "have had enough"
+    ],
+    "examples": [
+      {
+        "en": "I’m fed up with these constant delays.",
+        "ru": "Мне надоели эти постоянные задержки."
+      },
+      {
+        "en": "She got fed up with waiting.",
+        "ru": "Ей надоело ждать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am fed up from this noise.",
+      "right": "I am fed up with this noise.",
+      "note": "После fed up обычно нужен предлог with."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что длительная ситуация вам окончательно надоела?",
+      "options": [
+        "have a soft spot for someone",
+        "be on edge",
+        "be fed up with something",
+        "on the go"
+      ],
+      "correct_index": 2,
+      "explanation": "«be fed up with something» означает: быть сытым по горло. Be annoyed or bored because a situation has continued too long."
+    }
+  },
+  {
+    "id": "idiom_32",
+    "order": 32,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "be on edge",
+    "translation": "быть на взводе",
+    "explanation": "Feel nervous, tense or unable to relax.",
+    "register": "neutral",
+    "literal_image": "быть на краю",
+    "patterns": [
+      "be on edge",
+      "feel on edge"
+    ],
+    "related": [
+      "be tense",
+      "be anxious"
+    ],
+    "examples": [
+      {
+        "en": "Everyone was on edge before the announcement.",
+        "ru": "Перед объявлением все были на взводе."
+      },
+      {
+        "en": "Too much coffee makes me feel on edge.",
+        "ru": "Из-за избытка кофе я чувствую напряжение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am at edge today.",
+      "right": "I am on edge today.",
+      "note": "Фиксированный предлог — on."
+    },
+    "quiz": {
+      "prompt": "Как описать нервное состояние, когда трудно расслабиться?",
+      "options": [
+        "under the weather",
+        "over the moon",
+        "a piece of cake",
+        "be on edge"
+      ],
+      "correct_index": 3,
+      "explanation": "«be on edge» означает: быть на взводе. Feel nervous, tense or unable to relax."
+    }
+  },
+  {
+    "id": "idiom_33",
+    "order": 33,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "hit it off",
+    "translation": "сразу поладить; быстро найти общий язык",
+    "explanation": "Like someone and become friendly with them immediately.",
+    "register": "informal",
+    "literal_image": "точного буквального образа в современном употреблении нет",
+    "patterns": [
+      "hit it off",
+      "hit it off with someone"
+    ],
+    "related": [
+      "get along well",
+      "become friendly quickly"
+    ],
+    "examples": [
+      {
+        "en": "I introduced them, and they hit it off immediately.",
+        "ru": "Я их познакомил, и они сразу нашли общий язык."
+      },
+      {
+        "en": "She really hit it off with her new colleague.",
+        "ru": "Она сразу прекрасно поладила с новым коллегой."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They hit off immediately.",
+      "right": "They hit it off immediately.",
+      "note": "В устойчивом выражении обязательно местоимение it: hit it off."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что два человека сразу понравились друг другу и быстро подружились?",
+      "options": [
+        "hit it off",
+        "give someone the cold shoulder",
+        "be in the same boat",
+        "be on edge"
+      ],
+      "correct_index": 0,
+      "explanation": "«hit it off» означает: сразу поладить, быстро найти общий язык. Это неформальное выражение уровня B2."
+    }
+  },
+  {
+    "id": "idiom_34",
+    "order": 34,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "see eye to eye",
+    "translation": "быть полностью согласными",
+    "explanation": "Agree with someone about an issue.",
+    "register": "neutral",
+    "literal_image": "видеть глаз в глаз",
+    "patterns": [
+      "see eye to eye",
+      "see eye to eye with someone on something"
+    ],
+    "related": [
+      "agree",
+      "share the same view"
+    ],
+    "examples": [
+      {
+        "en": "We don’t always see eye to eye on money.",
+        "ru": "Мы не всегда согласны в вопросах денег."
+      },
+      {
+        "en": "The managers finally saw eye to eye.",
+        "ru": "Руководители наконец пришли к согласию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We see eyes to eyes.",
+      "right": "We see eye to eye.",
+      "note": "Форма единственного числа: eye to eye."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что люди полностью согласны по вопросу?",
+      "options": [
+        "speak your mind",
+        "see eye to eye",
+        "read between the lines",
+        "face the music"
+      ],
+      "correct_index": 1,
+      "explanation": "«see eye to eye» означает: быть полностью согласными. Agree with someone about an issue."
+    }
+  },
+  {
+    "id": "idiom_35",
+    "order": 35,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "have a soft spot for someone",
+    "translation": "испытывать особую симпатию",
+    "explanation": "Feel particular affection for someone or something.",
+    "register": "informal",
+    "literal_image": "иметь мягкое место для кого-то",
+    "patterns": [
+      "have a soft spot for someone",
+      "always have a soft spot for something"
+    ],
+    "related": [
+      "be fond of",
+      "feel affectionate towards"
+    ],
+    "examples": [
+      {
+        "en": "I’ve always had a soft spot for my old teacher.",
+        "ru": "Я всегда особенно тепло относился к своему старому учителю."
+      },
+      {
+        "en": "She has a soft spot for stray animals.",
+        "ru": "Она питает особую слабость к бездомным животным."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have a soft point for him.",
+      "right": "I have a soft spot for him.",
+      "note": "Устойчивое существительное — spot, не point."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что вы испытываете к кому-то особую тёплую симпатию?",
+      "options": [
+        "give someone the cold shoulder",
+        "lose your temper",
+        "have a soft spot for someone",
+        "in the red"
+      ],
+      "correct_index": 2,
+      "explanation": "«have a soft spot for someone» означает: испытывать особую симпатию. Feel particular affection for someone or something."
+    }
+  },
+  {
+    "id": "idiom_36",
+    "order": 36,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "give someone the cold shoulder",
+    "translation": "демонстративно игнорировать",
+    "explanation": "Deliberately behave in an unfriendly way towards someone.",
+    "register": "informal",
+    "literal_image": "дать кому-то холодное плечо",
+    "patterns": [
+      "give someone the cold shoulder",
+      "get the cold shoulder"
+    ],
+    "related": [
+      "ignore",
+      "treat coldly"
+    ],
+    "examples": [
+      {
+        "en": "She gave me the cold shoulder at the party.",
+        "ru": "На вечеринке она демонстративно меня игнорировала."
+      },
+      {
+        "en": "After the argument, he got the cold shoulder from his friends.",
+        "ru": "После ссоры друзья стали относиться к нему холодно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She showed me a cold shoulder.",
+      "right": "She gave me the cold shoulder.",
+      "note": "Наиболее устойчивый глагол — give."
+    },
+    "quiz": {
+      "prompt": "Как описать намеренно холодное и недружелюбное отношение?",
+      "options": [
+        "clear the air",
+        "hit it off",
+        "go the extra mile",
+        "give someone the cold shoulder"
+      ],
+      "correct_index": 3,
+      "explanation": "«give someone the cold shoulder» означает: демонстративно игнорировать. Deliberately behave in an unfriendly way towards someone."
+    }
+  },
+  {
+    "id": "idiom_37",
+    "order": 37,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "clear the air",
+    "translation": "прояснить ситуацию и снять напряжение",
+    "explanation": "Discuss a problem openly so that tension or misunderstanding disappears.",
+    "register": "neutral",
+    "literal_image": "очистить воздух",
+    "patterns": [
+      "clear the air",
+      "have a talk to clear the air"
+    ],
+    "related": [
+      "resolve tension",
+      "talk things through"
+    ],
+    "examples": [
+      {
+        "en": "We met for coffee to clear the air.",
+        "ru": "Мы встретились за кофе, чтобы всё прояснить и снять напряжение."
+      },
+      {
+        "en": "An honest conversation might clear the air.",
+        "ru": "Честный разговор может разрядить обстановку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We cleaned the air after the argument.",
+      "right": "We cleared the air after the argument.",
+      "note": "В идиоме используется clear, а не clean."
+    },
+    "quiz": {
+      "prompt": "Как назвать откровенный разговор, который снимает напряжение?",
+      "options": [
+        "clear the air",
+        "bury the hatchet",
+        "read between the lines",
+        "call it a day"
+      ],
+      "correct_index": 0,
+      "explanation": "«clear the air» означает: прояснить ситуацию и снять напряжение. Discuss a problem openly so that tension or misunderstanding disappears."
+    }
+  },
+  {
+    "id": "idiom_38",
+    "order": 38,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "bury the hatchet",
+    "translation": "помириться; прекратить вражду",
+    "explanation": "End a disagreement and become friendly again.",
+    "register": "informal",
+    "literal_image": "закопать топор",
+    "patterns": [
+      "bury the hatchet",
+      "decide to bury the hatchet"
+    ],
+    "related": [
+      "make peace",
+      "reconcile"
+    ],
+    "examples": [
+      {
+        "en": "After years of arguing, they finally buried the hatchet.",
+        "ru": "После многих лет споров они наконец помирились."
+      },
+      {
+        "en": "Let’s bury the hatchet and start again.",
+        "ru": "Давай забудем ссору и начнём заново."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They buried a hatchet.",
+      "right": "They buried the hatchet.",
+      "note": "Обычно употребляется the: bury the hatchet."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что бывшие соперники решили прекратить ссору?",
+      "options": [
+        "give someone the cold shoulder",
+        "bury the hatchet",
+        "be in hot water",
+        "hit the books"
+      ],
+      "correct_index": 1,
+      "explanation": "«bury the hatchet» означает: помириться; прекратить вражду. End a disagreement and become friendly again."
+    }
+  },
+  {
+    "id": "idiom_39",
+    "order": 39,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on someone's nerves",
+    "translation": "сильно раздражать кого-либо",
+    "explanation": "Annoy someone a lot, especially through repeated behaviour.",
+    "register": "informal",
+    "literal_image": "действовать кому-то на нервы",
+    "patterns": [
+      "get on my/your/his/her nerves",
+      "really get on someone's nerves"
+    ],
+    "related": [
+      "annoy",
+      "irritate"
+    ],
+    "examples": [
+      {
+        "en": "That constant tapping is getting on my nerves.",
+        "ru": "Это постоянное постукивание действует мне на нервы."
+      },
+      {
+        "en": "We got on each other’s nerves during the long trip.",
+        "ru": "Во время долгой поездки мы начали сильно раздражать друг друга."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It gets in my nerves.",
+      "right": "It gets on my nerves.",
+      "note": "Фиксированный предлог — on: get on someone’s nerves."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что повторяющееся поведение человека вас сильно раздражает?",
+      "options": [
+        "once in a blue moon",
+        "out of the blue",
+        "get on someone's nerves",
+        "on a shoestring"
+      ],
+      "correct_index": 2,
+      "explanation": "«get on someone’s nerves» означает: сильно раздражать кого-либо. Cambridge маркирует это выражение как B2."
+    }
+  },
+  {
+    "id": "idiom_40",
+    "order": 40,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "be in the same boat",
+    "translation": "оказаться в одинаковой трудной ситуации",
+    "explanation": "Be in the same difficult situation as other people.",
+    "register": "informal",
+    "literal_image": "быть в одной лодке",
+    "patterns": [
+      "be in the same boat",
+      "we’re all in the same boat"
+    ],
+    "related": [
+      "share the same problem",
+      "face the same difficulty"
+    ],
+    "examples": [
+      {
+        "en": "Don’t blame yourself; we’re all in the same boat.",
+        "ru": "Не вини себя: мы все в одинаковой ситуации."
+      },
+      {
+        "en": "Small businesses are in the same boat right now.",
+        "ru": "Сейчас малый бизнес сталкивается с одной и той же проблемой."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We are on the same boat.",
+      "right": "We are in the same boat.",
+      "note": "В идиоме используется in, не on."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что несколько людей столкнулись с одной и той же проблемой?",
+      "options": [
+        "be on the same page",
+        "over the moon",
+        "cost an arm and a leg",
+        "be in the same boat"
+      ],
+      "correct_index": 3,
+      "explanation": "«be in the same boat» означает: оказаться в одинаковой трудной ситуации. Be in the same difficult situation as other people."
+    }
+  },
+  {
+    "id": "idiom_41",
+    "order": 41,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "cost an arm and a leg",
+    "translation": "стоить целое состояние",
+    "explanation": "Be extremely expensive.",
+    "register": "informal",
+    "literal_image": "стоить руки и ноги",
+    "patterns": [
+      "cost an arm and a leg",
+      "pay an arm and a leg for something"
+    ],
+    "related": [
+      "cost a fortune",
+      "be very expensive"
+    ],
+    "examples": [
+      {
+        "en": "That tiny apartment costs an arm and a leg.",
+        "ru": "Эта крошечная квартира стоит целое состояние."
+      },
+      {
+        "en": "We paid an arm and a leg for the tickets.",
+        "ru": "Мы заплатили за билеты огромные деньги."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It costs arm and leg.",
+      "right": "It costs an arm and a leg.",
+      "note": "Нужны оба артикля: an arm and a leg."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что покупка была чрезвычайно дорогой?",
+      "options": [
+        "cost an arm and a leg",
+        "on a shoestring",
+        "make ends meet",
+        "in the black"
+      ],
+      "correct_index": 0,
+      "explanation": "«cost an arm and a leg» означает: стоить целое состояние. Be extremely expensive."
+    }
+  },
+  {
+    "id": "idiom_42",
+    "order": 42,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "make ends meet",
+    "translation": "сводить концы с концами",
+    "explanation": "Have just enough money to pay for basic needs.",
+    "register": "neutral",
+    "literal_image": "свести концы вместе",
+    "patterns": [
+      "struggle to make ends meet",
+      "manage to make ends meet"
+    ],
+    "related": [
+      "cover basic expenses",
+      "get by financially"
+    ],
+    "examples": [
+      {
+        "en": "Many families are struggling to make ends meet.",
+        "ru": "Многие семьи с трудом сводят концы с концами."
+      },
+      {
+        "en": "She took a second job to make ends meet.",
+        "ru": "Она устроилась на вторую работу, чтобы оплачивать основные расходы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make the ends meet",
+      "right": "make ends meet",
+      "note": "В устойчивой форме артикль перед ends не нужен."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что денег едва хватает на основные расходы?",
+      "options": [
+        "cost an arm and a leg",
+        "make ends meet",
+        "over the moon",
+        "out of the blue"
+      ],
+      "correct_index": 1,
+      "explanation": "«make ends meet» означает: сводить концы с концами. Have just enough money to pay for basic needs."
+    }
+  },
+  {
+    "id": "idiom_43",
+    "order": 43,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "save for a rainy day",
+    "translation": "откладывать на чёрный день",
+    "explanation": "Save money for a future time when it may be needed.",
+    "register": "informal",
+    "literal_image": "копить на дождливый день",
+    "patterns": [
+      "save for a rainy day",
+      "put money aside for a rainy day"
+    ],
+    "related": [
+      "build an emergency fund",
+      "save for emergencies"
+    ],
+    "examples": [
+      {
+        "en": "Try to save a little money for a rainy day.",
+        "ru": "Старайся откладывать немного денег на чёрный день."
+      },
+      {
+        "en": "They keep some cash for a rainy day.",
+        "ru": "Они держат немного наличных на случай трудностей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "save to a rainy day",
+      "right": "save for a rainy day",
+      "note": "Нужен предлог for."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «откладывать деньги на будущие трудности»?",
+      "options": [
+        "tighten your belt",
+        "on the go",
+        "save for a rainy day",
+        "read between the lines"
+      ],
+      "correct_index": 2,
+      "explanation": "«save for a rainy day» означает: откладывать на чёрный день. Save money for a future time when it may be needed."
+    }
+  },
+  {
+    "id": "idiom_44",
+    "order": 44,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "tighten your belt",
+    "translation": "сократить расходы",
+    "explanation": "Spend less money because finances are limited.",
+    "register": "informal",
+    "literal_image": "затянуть ремень",
+    "patterns": [
+      "have to tighten your belt",
+      "families are tightening their belts"
+    ],
+    "related": [
+      "cut spending",
+      "economise"
+    ],
+    "examples": [
+      {
+        "en": "We’ll have to tighten our belts this month.",
+        "ru": "В этом месяце нам придётся сократить расходы."
+      },
+      {
+        "en": "The company tightened its belt during the downturn.",
+        "ru": "Во время спада компания урезала расходы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "tighten the belt",
+      "right": "tighten your belt",
+      "note": "Обычно используется притяжательное местоимение."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что из-за нехватки денег нужно меньше тратить?",
+      "options": [
+        "save for a rainy day",
+        "go the extra mile",
+        "be on edge",
+        "tighten your belt"
+      ],
+      "correct_index": 3,
+      "explanation": "«tighten your belt» означает: сократить расходы. Spend less money because finances are limited."
+    }
+  },
+  {
+    "id": "idiom_45",
+    "order": 45,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "be in the red",
+    "translation": "быть в долгах; нести убытки",
+    "explanation": "Owe money or be spending more than you earn.",
+    "register": "neutral, finance",
+    "literal_image": "быть в красном",
+    "patterns": [
+      "be in the red",
+      "go into the red"
+    ],
+    "related": [
+      "owe money",
+      "operate at a loss"
+    ],
+    "examples": [
+      {
+        "en": "The business has been in the red for three months.",
+        "ru": "Компания несёт убытки уже три месяца."
+      },
+      {
+        "en": "My account went into the red after the payment.",
+        "ru": "После платежа на моём счёте образовался минус."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The company is on the red.",
+      "right": "The company is in the red.",
+      "note": "Фиксированный предлог — in."
+    },
+    "quiz": {
+      "prompt": "Как описать компанию, которая тратит больше, чем зарабатывает?",
+      "options": [
+        "be in the red",
+        "be in the black",
+        "on a shoestring",
+        "a piece of cake"
+      ],
+      "correct_index": 0,
+      "explanation": "«be in the red» означает: быть в долгах; нести убытки. Owe money or be spending more than you earn."
+    }
+  },
+  {
+    "id": "idiom_46",
+    "order": 46,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "be in the black",
+    "translation": "быть прибыльным; иметь положительный баланс",
+    "explanation": "Have money available or make a profit rather than a loss.",
+    "register": "neutral, finance",
+    "literal_image": "быть в чёрном",
+    "patterns": [
+      "be in the black",
+      "move back into the black"
+    ],
+    "related": [
+      "make a profit",
+      "have a positive balance"
+    ],
+    "examples": [
+      {
+        "en": "The café is finally back in the black.",
+        "ru": "Кафе наконец снова стало прибыльным."
+      },
+      {
+        "en": "We need higher sales to stay in the black.",
+        "ru": "Чтобы оставаться в плюсе, нам нужны более высокие продажи."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The firm is at the black.",
+      "right": "The firm is in the black.",
+      "note": "Фиксированный предлог — in."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что бизнес снова приносит прибыль?",
+      "options": [
+        "be in the red",
+        "be in the black",
+        "make ends meet",
+        "under the weather"
+      ],
+      "correct_index": 1,
+      "explanation": "«be in the black» означает: быть прибыльным; иметь положительный баланс. Have money available or make a profit rather than a loss."
+    }
+  },
+  {
+    "id": "idiom_47",
+    "order": 47,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "on a shoestring",
+    "translation": "с очень небольшим бюджетом",
+    "explanation": "With very little money available.",
+    "register": "informal",
+    "literal_image": "на шнурке",
+    "patterns": [
+      "do something on a shoestring",
+      "run a project on a shoestring"
+    ],
+    "related": [
+      "on a tiny budget",
+      "with very little money"
+    ],
+    "examples": [
+      {
+        "en": "They made the film on a shoestring.",
+        "ru": "Они сняли фильм с очень маленьким бюджетом."
+      },
+      {
+        "en": "We travelled around the country on a shoestring.",
+        "ru": "Мы путешествовали по стране почти без денег."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "with a shoestring budget only",
+      "right": "on a shoestring",
+      "note": "Устойчивое выражение обычно вводится предлогом on."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что проект сделали с минимальным бюджетом?",
+      "options": [
+        "cost an arm and a leg",
+        "in the black",
+        "on a shoestring",
+        "over the moon"
+      ],
+      "correct_index": 2,
+      "explanation": "«on a shoestring» означает: с очень небольшим бюджетом. With very little money available."
+    }
+  },
+  {
+    "id": "idiom_48",
+    "order": 48,
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "money doesn’t grow on trees",
+    "translation": "деньги не растут на деревьях",
+    "explanation": "A reminder that money is limited and should not be wasted.",
+    "register": "informal saying",
+    "literal_image": "деньги не растут на деревьях",
+    "patterns": [
+      "remember that money doesn’t grow on trees",
+      "as if money grew on trees"
+    ],
+    "related": [
+      "money is limited",
+      "do not waste money"
+    ],
+    "examples": [
+      {
+        "en": "You can’t buy everything you see — money doesn’t grow on trees.",
+        "ru": "Нельзя покупать всё подряд — деньги не растут на деревьях."
+      },
+      {
+        "en": "He spends as if money grew on trees.",
+        "ru": "Он тратит так, будто деньги растут на деревьях."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Money don’t grow on trees.",
+      "right": "Money doesn’t grow on trees.",
+      "note": "Money — неисчисляемое существительное, поэтому нужен doesn’t."
+    },
+    "quiz": {
+      "prompt": "Как напомнить человеку, что деньги ограничены и их нельзя бездумно тратить?",
+      "options": [
+        "make ends meet",
+        "once in a blue moon",
+        "clear the air",
+        "money doesn’t grow on trees"
+      ],
+      "correct_index": 3,
+      "explanation": "«money doesn’t grow on trees» означает: деньги не растут на деревьях. A reminder that money is limited and should not be wasted."
+    }
+  },
+  {
+    "id": "idiom_49",
+    "order": 49,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite the bullet",
+    "translation": "собраться с духом и сделать неприятное",
+    "explanation": "Face a difficult or unpleasant situation with courage.",
+    "register": "informal",
+    "literal_image": "укусить пулю",
+    "patterns": [
+      "bite the bullet",
+      "decide to bite the bullet"
+    ],
+    "related": [
+      "face it",
+      "do the difficult thing"
+    ],
+    "examples": [
+      {
+        "en": "I finally bit the bullet and called the bank.",
+        "ru": "Я наконец собрался с духом и позвонил в банк."
+      },
+      {
+        "en": "We may have to bite the bullet and raise prices.",
+        "ru": "Возможно, нам придётся принять неприятное решение и поднять цены."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bite a bullet",
+      "right": "bite the bullet",
+      "note": "Обычно употребляется определённый артикль the."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что нужно мужественно сделать неприятное, но необходимое дело?",
+      "options": [
+        "bite the bullet",
+        "get cold feet",
+        "call it a day",
+        "feel blue"
+      ],
+      "correct_index": 0,
+      "explanation": "«bite the bullet» означает: собраться с духом и сделать неприятное. Face a difficult or unpleasant situation with courage."
+    }
+  },
+  {
+    "id": "idiom_50",
+    "order": 50,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "face the music",
+    "translation": "ответить за последствия",
+    "explanation": "Accept criticism or punishment for something you have done.",
+    "register": "informal",
+    "literal_image": "встретиться с музыкой",
+    "patterns": [
+      "face the music",
+      "be ready to face the music"
+    ],
+    "related": [
+      "accept the consequences",
+      "take responsibility"
+    ],
+    "examples": [
+      {
+        "en": "He knew he had to face the music.",
+        "ru": "Он понимал, что придётся отвечать за последствия."
+      },
+      {
+        "en": "It’s time to face the music and admit the mistake.",
+        "ru": "Пора принять последствия и признать ошибку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "meet the music",
+      "right": "face the music",
+      "note": "Устойчивый глагол — face."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человеку придётся отвечать за свой поступок?",
+      "options": [
+        "bite the bullet",
+        "face the music",
+        "think outside the box",
+        "on the go"
+      ],
+      "correct_index": 1,
+      "explanation": "«face the music» означает: ответить за последствия. Accept criticism or punishment for something you have done."
+    }
+  },
+  {
+    "id": "idiom_51",
+    "order": 51,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite off more than you can chew",
+    "translation": "взяться за непосильную задачу",
+    "explanation": "Try to do something that is too difficult or demanding.",
+    "register": "informal",
+    "literal_image": "откусить больше, чем можешь прожевать",
+    "patterns": [
+      "bite off more than you can chew",
+      "realise you have bitten off too much"
+    ],
+    "related": [
+      "take on too much",
+      "overcommit"
+    ],
+    "examples": [
+      {
+        "en": "I think I’ve bitten off more than I can chew with this project.",
+        "ru": "Похоже, с этим проектом я взялся за слишком многое."
+      },
+      {
+        "en": "Don’t bite off more than you can chew.",
+        "ru": "Не бери на себя больше, чем можешь выполнить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bite more than you can chew",
+      "right": "bite off more than you can chew",
+      "note": "В устойчивой форме нужен фразовый глагол bite off."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек взял на себя слишком сложную задачу?",
+      "options": [
+        "a piece of cake",
+        "go the extra mile",
+        "bite off more than you can chew",
+        "be on the right track"
+      ],
+      "correct_index": 2,
+      "explanation": "«bite off more than you can chew» означает: взяться за непосильную задачу. Try to do something that is too difficult or demanding."
+    }
+  },
+  {
+    "id": "idiom_52",
+    "order": 52,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be in hot water",
+    "translation": "попасть в неприятности",
+    "explanation": "Be in a difficult situation, especially because you have done something wrong.",
+    "register": "informal",
+    "literal_image": "быть в горячей воде",
+    "patterns": [
+      "be in hot water",
+      "get into hot water"
+    ],
+    "related": [
+      "be in trouble",
+      "face criticism"
+    ],
+    "examples": [
+      {
+        "en": "He’s in hot water for missing the deadline.",
+        "ru": "У него неприятности из-за сорванного срока."
+      },
+      {
+        "en": "The company got into hot water over the false claim.",
+        "ru": "Компания попала в неприятности из-за ложного заявления."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be in the hot water",
+      "right": "be in hot water",
+      "note": "Артикль перед hot water в идиоме не ставится."
+    },
+    "quiz": {
+      "prompt": "Как описать человека, у которого неприятности из-за ошибки?",
+      "options": [
+        "be in the black",
+        "over the moon",
+        "on a shoestring",
+        "be in hot water"
+      ],
+      "correct_index": 3,
+      "explanation": "«be in hot water» означает: попасть в неприятности. Be in a difficult situation, especially because you have done something wrong."
+    }
+  },
+  {
+    "id": "idiom_53",
+    "order": 53,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "hit a dead end",
+    "translation": "зайти в тупик",
+    "explanation": "Reach a point where no further progress is possible.",
+    "register": "neutral",
+    "literal_image": "удариться в тупик",
+    "patterns": [
+      "hit a dead end",
+      "the investigation has hit a dead end"
+    ],
+    "related": [
+      "reach an impasse",
+      "make no further progress"
+    ],
+    "examples": [
+      {
+        "en": "Our search for cheaper premises hit a dead end.",
+        "ru": "Наш поиск более дешёвого помещения зашёл в тупик."
+      },
+      {
+        "en": "The investigation appears to have hit a dead end.",
+        "ru": "Похоже, расследование зашло в тупик."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "come to dead end",
+      "right": "hit a dead end",
+      "note": "Устойчивое сочетание часто использует hit и артикль a."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что работа больше не может продвигаться вперёд?",
+      "options": [
+        "hit a dead end",
+        "be on the right track",
+        "out of the blue",
+        "get on someone's nerves"
+      ],
+      "correct_index": 0,
+      "explanation": "«hit a dead end» означает: зайти в тупик. Reach a point where no further progress is possible."
+    }
+  },
+  {
+    "id": "idiom_54",
+    "order": 54,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "cross that bridge when you come to it",
+    "translation": "решать проблему, когда она действительно возникнет",
+    "explanation": "Not worry now about a possible future problem; deal with it later if necessary.",
+    "register": "informal",
+    "literal_image": "перейти тот мост, когда дойдёшь до него",
+    "patterns": [
+      "we’ll cross that bridge when we come to it",
+      "I’ll cross that bridge if I come to it"
+    ],
+    "related": [
+      "deal with it later",
+      "not worry yet"
+    ],
+    "examples": [
+      {
+        "en": "What if the plan fails? We’ll cross that bridge when we come to it.",
+        "ru": "А если план провалится? Будем решать эту проблему, когда она возникнет."
+      },
+      {
+        "en": "Let’s not worry about next year; we can cross that bridge later.",
+        "ru": "Не будем сейчас переживать о следующем годе; разберёмся позже."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cross the bridge when it comes",
+      "right": "cross that bridge when you come to it",
+      "note": "Важно сохранить местоименную структуру выражения."
+    },
+    "quiz": {
+      "prompt": "Как ответить на тревогу о будущей проблеме, которую пока рано решать?",
+      "options": [
+        "take the bull by the horns",
+        "cross that bridge when you come to it",
+        "weigh up the pros and cons",
+        "call it a day"
+      ],
+      "correct_index": 1,
+      "explanation": "«cross that bridge when you come to it» означает: решать проблему, когда она действительно возникнет. Not worry now about a possible future problem; deal with it later if necessary."
+    }
+  },
+  {
+    "id": "idiom_55",
+    "order": 55,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "weigh up the pros and cons",
+    "translation": "взвесить все плюсы и минусы",
+    "explanation": "Consider the advantages and disadvantages before deciding.",
+    "register": "neutral, mainly UK",
+    "literal_image": "взвесить плюсы и минусы",
+    "patterns": [
+      "weigh up the pros and cons",
+      "US often: weigh the pros and cons"
+    ],
+    "related": [
+      "consider both sides",
+      "evaluate advantages and disadvantages"
+    ],
+    "examples": [
+      {
+        "en": "We need to weigh up the pros and cons before moving.",
+        "ru": "Перед переездом нам нужно взвесить все плюсы и минусы."
+      },
+      {
+        "en": "She carefully weighed the pros and cons of the offer.",
+        "ru": "Она тщательно оценила преимущества и недостатки предложения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "weight up the pros and cons",
+      "right": "weigh up the pros and cons",
+      "note": "Глагол weigh пишется без t."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что перед решением нужно оценить преимущества и недостатки?",
+      "options": [
+        "take something with a pinch of salt",
+        "put it in a nutshell",
+        "weigh up the pros and cons",
+        "get cold feet"
+      ],
+      "correct_index": 2,
+      "explanation": "«weigh up the pros and cons» означает: взвесить все плюсы и минусы. Consider the advantages and disadvantages before deciding."
+    }
+  },
+  {
+    "id": "idiom_56",
+    "order": 56,
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "take the bull by the horns",
+    "translation": "решительно взяться за проблему",
+    "explanation": "Deal with a difficult situation directly and confidently.",
+    "register": "informal",
+    "literal_image": "взять быка за рога",
+    "patterns": [
+      "take the bull by the horns",
+      "decide to take the bull by the horns"
+    ],
+    "related": [
+      "deal with it directly",
+      "take decisive action"
+    ],
+    "examples": [
+      {
+        "en": "She took the bull by the horns and spoke to the manager.",
+        "ru": "Она решительно взялась за дело и поговорила с руководителем."
+      },
+      {
+        "en": "It’s time to take the bull by the horns.",
+        "ru": "Пора действовать решительно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take a bull by its horns",
+      "right": "take the bull by the horns",
+      "note": "Устойчивое выражение обычно употребляется с the."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек решил прямо и решительно разобраться с проблемой?",
+      "options": [
+        "cross that bridge when you come to it",
+        "get cold feet",
+        "read between the lines",
+        "take the bull by the horns"
+      ],
+      "correct_index": 3,
+      "explanation": "«take the bull by the horns» означает: решительно взяться за проблему. Deal with a difficult situation directly and confidently."
+    }
+  }
+]

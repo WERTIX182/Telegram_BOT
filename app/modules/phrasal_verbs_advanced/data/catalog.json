@@ -1,0 +1,394 @@
+[
+  {
+    "order": 1,
+    "id": "pv_adv_001_do_away_with",
+    "category": "DAILY",
+    "phrase": "do away with",
+    "translation": "отменить; устранить; покончить с чем-либо"
+  },
+  {
+    "order": 2,
+    "id": "pv_adv_002_make_do_with",
+    "category": "DAILY",
+    "phrase": "make do with",
+    "translation": "обходиться тем, что есть"
+  },
+  {
+    "order": 3,
+    "id": "pv_adv_003_fall_back_on",
+    "category": "DAILY",
+    "phrase": "fall back on",
+    "translation": "прибегнуть к запасному варианту"
+  },
+  {
+    "order": 4,
+    "id": "pv_adv_004_cut_back_on",
+    "category": "DAILY",
+    "phrase": "cut back on",
+    "translation": "сократить потребление или расходы"
+  },
+  {
+    "order": 5,
+    "id": "pv_adv_005_stock_up_on",
+    "category": "DAILY",
+    "phrase": "stock up on",
+    "translation": "запастись чем-либо"
+  },
+  {
+    "order": 6,
+    "id": "pv_adv_006_splash_out_on",
+    "category": "DAILY",
+    "phrase": "splash out on",
+    "translation": "потратиться на что-либо дорогое"
+  },
+  {
+    "order": 7,
+    "id": "pv_adv_007_live_off",
+    "category": "DAILY",
+    "phrase": "live off",
+    "translation": "жить за счёт; питаться преимущественно чем-либо"
+  },
+  {
+    "order": 8,
+    "id": "pv_adv_008_go_without",
+    "category": "DAILY",
+    "phrase": "go without",
+    "translation": "обходиться без чего-либо"
+  },
+  {
+    "order": 9,
+    "id": "pv_adv_009_draw_up",
+    "category": "WORK_STUDY",
+    "phrase": "draw up",
+    "translation": "составить официальный документ или план"
+  },
+  {
+    "order": 10,
+    "id": "pv_adv_010_take_on",
+    "category": "WORK_STUDY",
+    "phrase": "take on",
+    "translation": "взять на себя; нанять; приобрести качество"
+  },
+  {
+    "order": 11,
+    "id": "pv_adv_011_step_down",
+    "category": "WORK_STUDY",
+    "phrase": "step down",
+    "translation": "уйти с должности"
+  },
+  {
+    "order": 12,
+    "id": "pv_adv_012_phase_in",
+    "category": "WORK_STUDY",
+    "phrase": "phase in",
+    "translation": "вводить постепенно"
+  },
+  {
+    "order": 13,
+    "id": "pv_adv_013_phase_out",
+    "category": "WORK_STUDY",
+    "phrase": "phase out",
+    "translation": "постепенно выводить из употребления"
+  },
+  {
+    "order": 14,
+    "id": "pv_adv_014_follow_through_on",
+    "category": "WORK_STUDY",
+    "phrase": "follow through on",
+    "translation": "довести обещание или план до конца"
+  },
+  {
+    "order": 15,
+    "id": "pv_adv_015_iron_out",
+    "category": "WORK_STUDY",
+    "phrase": "iron out",
+    "translation": "устранить мелкие трудности; уладить детали"
+  },
+  {
+    "order": 16,
+    "id": "pv_adv_016_hand_over",
+    "category": "WORK_STUDY",
+    "phrase": "hand over",
+    "translation": "передать контроль, ответственность или предмет"
+  },
+  {
+    "order": 17,
+    "id": "pv_adv_017_head_off",
+    "category": "TRAVEL",
+    "phrase": "head off",
+    "translation": "отправиться; предотвратить"
+  },
+  {
+    "order": 18,
+    "id": "pv_adv_018_see_off",
+    "category": "TRAVEL",
+    "phrase": "see off",
+    "translation": "проводить уезжающего"
+  },
+  {
+    "order": 19,
+    "id": "pv_adv_019_touch_down",
+    "category": "TRAVEL",
+    "phrase": "touch down",
+    "translation": "приземлиться"
+  },
+  {
+    "order": 20,
+    "id": "pv_adv_020_pull_in",
+    "category": "TRAVEL",
+    "phrase": "pull in",
+    "translation": "прибыть и остановиться; съехать к краю"
+  },
+  {
+    "order": 21,
+    "id": "pv_adv_021_pull_out",
+    "category": "TRAVEL",
+    "phrase": "pull out",
+    "translation": "отправиться со станции; выехать"
+  },
+  {
+    "order": 22,
+    "id": "pv_adv_022_hold_up",
+    "category": "TRAVEL",
+    "phrase": "hold up",
+    "translation": "задержать; ограбить"
+  },
+  {
+    "order": 23,
+    "id": "pv_adv_023_get_around",
+    "category": "TRAVEL",
+    "phrase": "get around",
+    "translation": "передвигаться; обходить препятствие; распространяться"
+  },
+  {
+    "order": 24,
+    "id": "pv_adv_024_wind_up_in",
+    "category": "TRAVEL",
+    "phrase": "wind up in",
+    "translation": "в итоге оказаться в месте или ситуации"
+  },
+  {
+    "order": 25,
+    "id": "pv_adv_025_spell_out",
+    "category": "COMMUNICATION",
+    "phrase": "spell out",
+    "translation": "ясно и подробно объяснить"
+  },
+  {
+    "order": 26,
+    "id": "pv_adv_026_put_across",
+    "category": "COMMUNICATION",
+    "phrase": "put across",
+    "translation": "ясно донести мысль"
+  },
+  {
+    "order": 27,
+    "id": "pv_adv_027_talk_down_to",
+    "category": "COMMUNICATION",
+    "phrase": "talk down to",
+    "translation": "разговаривать свысока"
+  },
+  {
+    "order": 28,
+    "id": "pv_adv_028_brush_aside",
+    "category": "COMMUNICATION",
+    "phrase": "brush aside",
+    "translation": "отмахнуться; проигнорировать"
+  },
+  {
+    "order": 29,
+    "id": "pv_adv_029_play_down",
+    "category": "COMMUNICATION",
+    "phrase": "play down",
+    "translation": "преуменьшать значение"
+  },
+  {
+    "order": 30,
+    "id": "pv_adv_030_dwell_on",
+    "category": "COMMUNICATION",
+    "phrase": "dwell on",
+    "translation": "подробно или слишком долго останавливаться на"
+  },
+  {
+    "order": 31,
+    "id": "pv_adv_031_touch_on",
+    "category": "COMMUNICATION",
+    "phrase": "touch on",
+    "translation": "кратко затронуть тему"
+  },
+  {
+    "order": 32,
+    "id": "pv_adv_032_sum_up",
+    "category": "COMMUNICATION",
+    "phrase": "sum up",
+    "translation": "подвести итог; кратко резюмировать"
+  },
+  {
+    "order": 33,
+    "id": "pv_adv_033_bottle_up",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "bottle up",
+    "translation": "подавлять и скрывать эмоции"
+  },
+  {
+    "order": 34,
+    "id": "pv_adv_034_lash_out_at",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "lash out at",
+    "translation": "резко наброситься словами или действиями"
+  },
+  {
+    "order": 35,
+    "id": "pv_adv_035_open_up_to",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "open up to",
+    "translation": "открыться кому-либо"
+  },
+  {
+    "order": 36,
+    "id": "pv_adv_036_grow_apart",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "grow apart",
+    "translation": "постепенно отдалиться друг от друга"
+  },
+  {
+    "order": 37,
+    "id": "pv_adv_037_patch_things_up",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "patch things up",
+    "translation": "помириться; восстановить отношения"
+  },
+  {
+    "order": 38,
+    "id": "pv_adv_038_stand_up_to",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "stand up to",
+    "translation": "противостоять; не позволять запугивать себя"
+  },
+  {
+    "order": 39,
+    "id": "pv_adv_039_look_down_on",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "look down on",
+    "translation": "смотреть свысока; считать хуже себя"
+  },
+  {
+    "order": 40,
+    "id": "pv_adv_040_live_up_to",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "live up to",
+    "translation": "оправдать ожидания; соответствовать стандарту"
+  },
+  {
+    "order": 41,
+    "id": "pv_adv_041_branch_off",
+    "category": "MOVEMENT",
+    "phrase": "branch off",
+    "translation": "ответвляться; свернуть с основной дороги"
+  },
+  {
+    "order": 42,
+    "id": "pv_adv_042_veer_off",
+    "category": "MOVEMENT",
+    "phrase": "veer off",
+    "translation": "резко отклониться от курса"
+  },
+  {
+    "order": 43,
+    "id": "pv_adv_043_double_back",
+    "category": "MOVEMENT",
+    "phrase": "double back",
+    "translation": "вернуться тем же путём"
+  },
+  {
+    "order": 44,
+    "id": "pv_adv_044_close_in_on",
+    "category": "MOVEMENT",
+    "phrase": "close in on",
+    "translation": "приближаться и окружать"
+  },
+  {
+    "order": 45,
+    "id": "pv_adv_045_draw_back",
+    "category": "MOVEMENT",
+    "phrase": "draw back",
+    "translation": "отступить; отпрянуть"
+  },
+  {
+    "order": 46,
+    "id": "pv_adv_046_press_ahead",
+    "category": "MOVEMENT",
+    "phrase": "press ahead",
+    "translation": "решительно продолжать движение или работу"
+  },
+  {
+    "order": 47,
+    "id": "pv_adv_047_bear_down_on",
+    "category": "MOVEMENT",
+    "phrase": "bear down on",
+    "translation": "быстро и угрожающе приближаться; давить"
+  },
+  {
+    "order": 48,
+    "id": "pv_adv_048_filter_through",
+    "category": "MOVEMENT",
+    "phrase": "filter through",
+    "translation": "постепенно проходить или распространяться"
+  },
+  {
+    "order": 49,
+    "id": "pv_adv_049_narrow_down",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "narrow down",
+    "translation": "сузить выбор или круг причин"
+  },
+  {
+    "order": 50,
+    "id": "pv_adv_050_rule_out",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "rule out",
+    "translation": "исключить возможность"
+  },
+  {
+    "order": 51,
+    "id": "pv_adv_051_account_for",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "account for",
+    "translation": "объяснять; составлять долю"
+  },
+  {
+    "order": 52,
+    "id": "pv_adv_052_make_up_for",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "make up for",
+    "translation": "компенсировать недостаток или потерю"
+  },
+  {
+    "order": 53,
+    "id": "pv_adv_053_crack_down_on",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "crack down on",
+    "translation": "жёстко пресечь; усилить меры против"
+  },
+  {
+    "order": 54,
+    "id": "pv_adv_054_fend_off",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "fend off",
+    "translation": "отразить угрозу; временно предотвратить"
+  },
+  {
+    "order": 55,
+    "id": "pv_adv_055_bail_out",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "bail out",
+    "translation": "выручить финансово; покинуть ситуацию"
+  },
+  {
+    "order": 56,
+    "id": "pv_adv_056_tide_over",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "tide over",
+    "translation": "помочь пережить трудный период"
+  }
+]

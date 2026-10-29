@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "verb_026_assume_suppose",
+    "order": 26,
+    "level": "B2",
+    "category": "Reasoning",
+    "title_en": "assume / suppose",
+    "title_ru": "предполагать",
+    "rule": "Assume означает принять что-либо за истину без достаточного доказательства и часто звучит формальнее. Suppose выражает мнение, догадку или гипотезу и часто встречается в разговорной речи.",
+    "forms": [
+      "assume that ...",
+      "assume something to be ...",
+      "suppose that ... / I suppose so"
+    ],
+    "meanings": [
+      "исходить из предположения",
+      "допускать без доказательств",
+      "полагать, предполагать"
+    ],
+    "contrast": "Assume может подразумевать риск ошибочного допущения; suppose часто мягче и менее категорично.",
+    "examples": [
+      {
+        "en": "We assumed that the data was accurate.",
+        "ru": "Мы исходили из того, что данные точны."
+      },
+      {
+        "en": "I suppose he may be delayed.",
+        "ru": "Полагаю, он может задержаться."
+      },
+      {
+        "en": "Do not assume everyone agrees with you.",
+        "ru": "Не считай без оснований, что все с тобой согласны."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am supposing the meeting is cancelled.",
+      "right": "I suppose the meeting is cancelled.",
+      "note": "В значении мнения suppose обычно не употребляется в Continuous."
+    },
+    "quiz": {
+      "prompt": "Complete: The calculation ___ that inflation remains stable.",
+      "options": [
+        "assumes",
+        "waits",
+        "accepts to"
+      ],
+      "correct_index": 0,
+      "explanation": "В расчёте задают исходное допущение: assume that."
+    }
+  },
+  {
+    "id": "verb_027_indicate_show_suggest",
+    "order": 27,
+    "level": "B2",
+    "category": "Evidence",
+    "title_en": "indicate / show / suggest",
+    "title_ru": "указывать, показывать и свидетельствовать",
+    "rule": "Show — нейтральный глагол для ясного доказательства или демонстрации. Indicate формальнее и означает служить признаком. Suggest часто выражает вероятный, но не окончательный вывод по данным.",
+    "forms": [
+      "show that ...",
+      "indicate a trend / indicate that ...",
+      "suggest that ..."
+    ],
+    "meanings": [
+      "показывать явно",
+      "указывать как признак",
+      "свидетельствовать предположительно"
+    ],
+    "contrast": "Suggest здесь не означает «предлагать»: с данными и признаками он означает «наводить на мысль».",
+    "examples": [
+      {
+        "en": "The results show that the treatment works.",
+        "ru": "Результаты показывают, что лечение работает."
+      },
+      {
+        "en": "A red light indicates a fault.",
+        "ru": "Красный свет указывает на неисправность."
+      },
+      {
+        "en": "The evidence suggests that the decline is temporary.",
+        "ru": "Данные позволяют предположить, что спад временный."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The data suggest us that demand is falling.",
+      "right": "The data suggest that demand is falling.",
+      "note": "В этом значении после suggest не ставится объект us."
+    },
+    "quiz": {
+      "prompt": "Complete: Early figures ___ that sales may recover next month.",
+      "options": [
+        "suggest",
+        "recommend us",
+        "warn to"
+      ],
+      "correct_index": 0,
+      "explanation": "May показывает осторожный вывод; suggest that подходит лучше всего."
+    }
+  },
+  {
+    "id": "verb_028_affect_influence",
+    "order": 28,
+    "level": "B2",
+    "category": "Influence",
+    "title_en": "affect / influence",
+    "title_ru": "влиять",
+    "rule": "Affect — обычно глагол со значением «воздействовать на». Influence может быть глаголом или существительным и часто подразумевает изменение поведения, решения или развития.",
+    "forms": [
+      "affect someone/something",
+      "influence a decision/person/process",
+      "have an influence on"
+    ],
+    "meanings": [
+      "воздействовать",
+      "оказывать влияние",
+      "влияние как фактор"
+    ],
+    "contrast": "Effect чаще существительное «результат, эффект»; affect — глагол. Influence может описывать более длительное или направленное воздействие.",
+    "examples": [
+      {
+        "en": "The weather affected our plans.",
+        "ru": "Погода повлияла на наши планы."
+      },
+      {
+        "en": "Her teacher influenced her career choice.",
+        "ru": "Учитель повлиял на выбор её профессии."
+      },
+      {
+        "en": "Stress can affect sleep quality.",
+        "ru": "Стресс может влиять на качество сна."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The change effected everyone badly.",
+      "right": "The change affected everyone badly.",
+      "note": "В значении «повлиял» нужен глагол affect."
+    },
+    "quiz": {
+      "prompt": "Complete: Social expectations can strongly ___ the way people behave.",
+      "options": [
+        "effect",
+        "influence",
+        "result"
+      ],
+      "correct_index": 1,
+      "explanation": "Influence naturally describes an effect on behaviour."
+    }
+  },
+  {
+    "id": "verb_029_assure_ensure_reassure",
+    "order": 29,
+    "level": "B2",
+    "category": "Certainty",
+    "title_en": "assure / ensure / reassure",
+    "title_ru": "заверять, обеспечивать и успокаивать",
+    "rule": "Assure означает уверить человека в истинности. Ensure — сделать так, чтобы результат обязательно произошёл. Reassure — вернуть человеку спокойствие и уверенность.",
+    "forms": [
+      "assure someone that ...",
+      "ensure that ... / ensure something",
+      "reassure someone about/that ..."
+    ],
+    "meanings": [
+      "заверить человека",
+      "обеспечить результат",
+      "успокоить, обнадёжить"
+    ],
+    "contrast": "Assure и reassure требуют человека; ensure обычно принимает результат, условие или that-clause.",
+    "examples": [
+      {
+        "en": "She assured me that the payment was safe.",
+        "ru": "Она заверила меня, что платёж безопасен."
+      },
+      {
+        "en": "Please ensure that all doors are locked.",
+        "ru": "Убедитесь, что все двери заперты."
+      },
+      {
+        "en": "The doctor reassured him about the test results.",
+        "ru": "Врач успокоил его по поводу результатов анализов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "This check assures the data is correct.",
+      "right": "This check ensures that the data is correct.",
+      "note": "Когда действие гарантирует результат, используется ensure."
+    },
+    "quiz": {
+      "prompt": "Complete: The company tried to ___ customers that their data was secure.",
+      "options": [
+        "ensure",
+        "reassure",
+        "insure"
+      ],
+      "correct_index": 1,
+      "explanation": "Нужно успокоить людей: reassure customers that ..."
+    }
+  },
+  {
+    "id": "verb_030_convince_persuade",
+    "order": 30,
+    "level": "B2",
+    "category": "Persuasion",
+    "title_en": "convince / persuade",
+    "title_ru": "убеждать",
+    "rule": "Convince обычно используется с that-clause или of + noun и меняет мнение человека. Persuade someone to do означает склонить человека к действию.",
+    "forms": [
+      "convince someone that ...",
+      "convince someone of something",
+      "persuade someone to do"
+    ],
+    "meanings": [
+      "убедить в истинности",
+      "изменить мнение",
+      "уговорить действовать"
+    ],
+    "contrast": "В современном английском convince someone to do встречается, особенно в американском варианте, но для чёткого учебного различия полезно сохранять модель persuade someone to do.",
+    "examples": [
+      {
+        "en": "She convinced me that the plan was realistic.",
+        "ru": "Она убедила меня, что план реалистичен."
+      },
+      {
+        "en": "They persuaded him to apply for the job.",
+        "ru": "Они уговорили его подать заявку на работу."
+      },
+      {
+        "en": "The evidence convinced the jury of his innocence.",
+        "ru": "Доказательства убедили присяжных в его невиновности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He persuaded me that he was right.",
+      "right": "He convinced me that he was right.",
+      "note": "Когда меняется убеждение о факте, стандартная учебная модель — convince someone that."
+    },
+    "quiz": {
+      "prompt": "Complete: We finally ___ the landlord to repair the heating.",
+      "options": [
+        "convinced that",
+        "persuaded",
+        "assured"
+      ],
+      "correct_index": 1,
+      "explanation": "Речь о том, чтобы человек совершил действие: persuade someone to do."
+    }
+  },
+  {
+    "id": "verb_031_accuse_blame",
+    "order": 31,
+    "level": "B2",
+    "category": "Responsibility",
+    "title_en": "accuse / blame",
+    "title_ru": "обвинять и возлагать вину",
+    "rule": "Accuse someone of doing означает официально или прямо обвинить человека в проступке. Blame someone for something означает считать его ответственным; также можно blame something on someone.",
+    "forms": [
+      "accuse someone of something/doing",
+      "blame someone for something/doing",
+      "blame something on someone"
+    ],
+    "meanings": [
+      "обвинять в проступке",
+      "винить за результат",
+      "возлагать причину на"
+    ],
+    "contrast": "После accuse используется of; после blame someone — for.",
+    "examples": [
+      {
+        "en": "They accused him of leaking the document.",
+        "ru": "Его обвинили в утечке документа."
+      },
+      {
+        "en": "Do not blame me for the delay.",
+        "ru": "Не вини меня за задержку."
+      },
+      {
+        "en": "She blamed the mistake on poor communication.",
+        "ru": "Она объяснила ошибку плохой коммуникацией, возложив вину на неё."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He was accused for cheating.",
+      "right": "He was accused of cheating.",
+      "note": "Устойчивое управление: accuse someone of doing."
+    },
+    "quiz": {
+      "prompt": "Complete: The report ___ management for failing to act sooner.",
+      "options": [
+        "accused of",
+        "blamed",
+        "robbed"
+      ],
+      "correct_index": 1,
+      "explanation": "Модель blame someone for doing: blamed management for failing."
+    }
+  },
+  {
+    "id": "verb_032_apologize_regret",
+    "order": 32,
+    "level": "B2",
+    "category": "Regret",
+    "title_en": "apologize / regret",
+    "title_ru": "извиняться и сожалеть",
+    "rule": "Apologize выражает извинение перед человеком за действие. Regret выражает сожаление. Regret doing относится к прошлому; regret to inform — формальная формула перед неприятной информацией.",
+    "forms": [
+      "apologize to someone for doing",
+      "regret doing something",
+      "regret to inform/tell you"
+    ],
+    "meanings": [
+      "извиняться",
+      "сожалеть о прошлом действии",
+      "с сожалением сообщать"
+    ],
+    "contrast": "После apologize указывают человека с to, а причину с for.",
+    "examples": [
+      {
+        "en": "I apologized to Marta for interrupting her.",
+        "ru": "Я извинился перед Мартой за то, что перебил её."
+      },
+      {
+        "en": "He regretted leaving the course.",
+        "ru": "Он пожалел, что бросил курс."
+      },
+      {
+        "en": "We regret to inform you that your application was unsuccessful.",
+        "ru": "С сожалением сообщаем, что ваша заявка не прошла."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I apologized him for being late.",
+      "right": "I apologized to him for being late.",
+      "note": "Перед человеком после apologize нужен предлог to."
+    },
+    "quiz": {
+      "prompt": "Complete: I ___ saying those words; they were unfair.",
+      "options": [
+        "apologize to",
+        "regret",
+        "regret to say now"
+      ],
+      "correct_index": 1,
+      "explanation": "Regret doing относится к уже совершённому действию."
+    }
+  },
+  {
+    "id": "verb_033_admit_confess",
+    "order": 33,
+    "level": "B2",
+    "category": "Admission",
+    "title_en": "admit / confess",
+    "title_ru": "признавать и сознаваться",
+    "rule": "Admit означает признать факт, ошибку или действие. Confess сильнее и часто связано с секретом, виной или правонарушением; после него употребляется to + noun/-ing.",
+    "forms": [
+      "admit something / admit doing / admit that ...",
+      "confess to something/doing",
+      "confess that ..."
+    ],
+    "meanings": [
+      "признать факт",
+      "признать совершённое",
+      "сознаваться"
+    ],
+    "contrast": "После admit обычно -ing без to; после confess — to + -ing.",
+    "examples": [
+      {
+        "en": "She admitted making a serious mistake.",
+        "ru": "Она признала, что допустила серьёзную ошибку."
+      },
+      {
+        "en": "He confessed to taking the money.",
+        "ru": "Он сознался, что взял деньги."
+      },
+      {
+        "en": "They admitted that the estimate was inaccurate.",
+        "ru": "Они признали, что оценка была неточной."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He admitted to steal the file.",
+      "right": "He admitted stealing the file.",
+      "note": "Стандартная модель: admit doing. После confess возможно confess to doing."
+    },
+    "quiz": {
+      "prompt": "Complete: The employee eventually ___ to sharing the password.",
+      "options": [
+        "admitted to share",
+        "confessed",
+        "refused doing"
+      ],
+      "correct_index": 1,
+      "explanation": "Confess to doing: confessed to sharing."
+    }
+  },
+  {
+    "id": "verb_034_claim_state_mention",
+    "order": 34,
+    "level": "B2",
+    "category": "Reporting",
+    "title_en": "claim / state / mention",
+    "title_ru": "утверждать, заявлять и упоминать",
+    "rule": "Claim выражает утверждение, которое может нуждаться в доказательстве. State — ясно и официально сообщить. Mention — кратко назвать или затронуть информацию без подробного объяснения.",
+    "forms": [
+      "claim that ... / claim to do/be",
+      "state that ... / state a fact",
+      "mention something / mention doing / mention that ..."
+    ],
+    "meanings": [
+      "утверждать",
+      "официально заявлять",
+      "упоминать"
+    ],
+    "contrast": "После mention не нужен предлог about: mention the issue, а не *mention about the issue.",
+    "examples": [
+      {
+        "en": "The company claims that the product is completely safe.",
+        "ru": "Компания утверждает, что продукт полностью безопасен."
+      },
+      {
+        "en": "The policy clearly states that refunds are limited.",
+        "ru": "В правилах ясно сказано, что возвраты ограничены."
+      },
+      {
+        "en": "She mentioned meeting him once before.",
+        "ru": "Она упомянула, что однажды уже встречала его."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He mentioned about the delay.",
+      "right": "He mentioned the delay.",
+      "note": "Mention принимает прямое дополнение без about."
+    },
+    "quiz": {
+      "prompt": "Complete: The witness ___ to have seen the car leave at midnight.",
+      "options": [
+        "claimed",
+        "mentioned about",
+        "stated him"
+      ],
+      "correct_index": 0,
+      "explanation": "Claim to have done — утверждать, что действие произошло раньше."
+    }
+  },
+  {
+    "id": "verb_035_demand_request_require",
+    "order": 35,
+    "level": "B2",
+    "category": "Obligation",
+    "title_en": "demand / request / require",
+    "title_ru": "требовать и запрашивать",
+    "rule": "Demand выражает сильное требование. Request — вежливая или официальная просьба. Require означает устанавливать необходимость по правилу, условию или ситуации.",
+    "forms": [
+      "demand something / demand that ...",
+      "request something / request that ...",
+      "require something / require someone to do"
+    ],
+    "meanings": [
+      "настойчиво требовать",
+      "официально просить",
+      "требовать как условие"
+    ],
+    "contrast": "Не говорят demand someone to do в формальном стандартном варианте; лучше demand that someone do или require someone to do.",
+    "examples": [
+      {
+        "en": "Residents demanded that the road be repaired.",
+        "ru": "Жители потребовали отремонтировать дорогу."
+      },
+      {
+        "en": "You may request a copy of the report.",
+        "ru": "Вы можете запросить копию отчёта."
+      },
+      {
+        "en": "The job requires applicants to travel.",
+        "ru": "Работа требует от кандидатов готовности путешествовать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They demanded us to leave.",
+      "right": "They demanded that we leave.",
+      "note": "После demand естественна that-clause; для object + to-infinitive используйте require."
+    },
+    "quiz": {
+      "prompt": "Complete: The regulations ___ all visitors to show identification.",
+      "options": [
+        "demand",
+        "require",
+        "request that visitors to"
+      ],
+      "correct_index": 1,
+      "explanation": "Модель require someone to do."
+    }
+  },
+  {
+    "id": "verb_036_object_to_oppose",
+    "order": 36,
+    "level": "B2",
+    "category": "Opposition",
+    "title_en": "object to / oppose",
+    "title_ru": "возражать и выступать против",
+    "rule": "Object to выражает несогласие и требует существительного или формы -ing. Oppose — переходный глагол без to, означающий активно выступать против идеи, плана или действия.",
+    "forms": [
+      "object to something/doing",
+      "oppose something/doing",
+      "be opposed to something/doing"
+    ],
+    "meanings": [
+      "возражать против",
+      "противостоять",
+      "быть настроенным против"
+    ],
+    "contrast": "В object to и be opposed to слово to — предлог, поэтому после него используется -ing.",
+    "examples": [
+      {
+        "en": "Several neighbours objected to building the tower.",
+        "ru": "Несколько соседей возразили против строительства башни."
+      },
+      {
+        "en": "The union opposed the proposed cuts.",
+        "ru": "Профсоюз выступил против предложенных сокращений."
+      },
+      {
+        "en": "She is opposed to changing the schedule.",
+        "ru": "Она против изменения расписания."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They objected to change the rules.",
+      "right": "They objected to changing the rules.",
+      "note": "После предлога to в object to нужна форма -ing."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Many residents oppose to the plan.",
+        "Many residents oppose the plan.",
+        "Many residents object the plan."
+      ],
+      "correct_index": 1,
+      "explanation": "Oppose принимает прямое дополнение без to."
+    }
+  },
+  {
+    "id": "verb_037_contribute_donate",
+    "order": 37,
+    "level": "B2",
+    "category": "Contribution",
+    "title_en": "contribute / donate",
+    "title_ru": "вносить вклад и жертвовать",
+    "rule": "Contribute означает внести деньги, время, идеи или усилия в общее дело. Donate обычно означает безвозмездно передать деньги, кровь, вещи или имущество благотворительной организации или нуждающимся.",
+    "forms": [
+      "contribute to something",
+      "contribute money/time/ideas",
+      "donate something to someone/an organisation"
+    ],
+    "meanings": [
+      "вносить вклад",
+      "участвовать ресурсами",
+      "жертвовать безвозмездно"
+    ],
+    "contrast": "После contribute нужен to перед проектом или результатом; donate фокусируется на переданном даре.",
+    "examples": [
+      {
+        "en": "Several experts contributed to the report.",
+        "ru": "Несколько экспертов внесли вклад в отчёт."
+      },
+      {
+        "en": "Everyone contributed ideas during the meeting.",
+        "ru": "На встрече каждый предложил свои идеи."
+      },
+      {
+        "en": "The company donated computers to a local school.",
+        "ru": "Компания пожертвовала компьютеры местной школе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She contributed money for the charity.",
+      "right": "She contributed money to the charity.",
+      "note": "После contribute перед получателем или делом употребляется to."
+    },
+    "quiz": {
+      "prompt": "Complete: Hundreds of people ___ blood after the emergency.",
+      "options": [
+        "contributed to",
+        "donated",
+        "supplied with"
+      ],
+      "correct_index": 1,
+      "explanation": "Кровь безвозмездно сдают с donate blood."
+    }
+  },
+  {
+    "id": "verb_038_adapt_adopt",
+    "order": 38,
+    "level": "B2",
+    "category": "Change",
+    "title_en": "adapt / adopt",
+    "title_ru": "адаптировать и принимать",
+    "rule": "Adapt означает изменить что-либо под новые условия или приспособиться. Adopt — принять метод, идею, политику или официально усыновить ребёнка.",
+    "forms": [
+      "adapt to something",
+      "adapt something for/to a purpose",
+      "adopt a method/policy/approach"
+    ],
+    "meanings": [
+      "приспосабливаться",
+      "адаптировать",
+      "принимать и внедрять"
+    ],
+    "contrast": "Adapt связано с изменением; adopt — с выбором и принятием уже существующего решения или подхода.",
+    "examples": [
+      {
+        "en": "It took time to adapt to the new system.",
+        "ru": "Потребовалось время, чтобы привыкнуть к новой системе."
+      },
+      {
+        "en": "The material was adapted for younger learners.",
+        "ru": "Материал адаптировали для более юных учащихся."
+      },
+      {
+        "en": "The company adopted a more flexible policy.",
+        "ru": "Компания приняла более гибкую политику."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We adapted a new strategy.",
+      "right": "We adopted a new strategy.",
+      "note": "Стратегию принимают с adopt; adapt означает изменить под условия."
+    },
+    "quiz": {
+      "prompt": "Complete: Small firms must ___ quickly to changes in demand.",
+      "options": [
+        "adopt",
+        "adapt",
+        "accept into"
+      ],
+      "correct_index": 1,
+      "explanation": "Приспособиться к изменениям — adapt to changes."
+    }
+  },
+  {
+    "id": "verb_039_reduce_decrease_decline",
+    "order": 39,
+    "level": "B2",
+    "category": "Change in amount",
+    "title_en": "reduce / decrease / decline",
+    "title_ru": "сокращать, уменьшаться и снижаться",
+    "rule": "Reduce — переходный глагол: кто-то уменьшает количество, стоимость или риск. Decrease может быть переходным и непереходным. Decline обычно непереходный и часто описывает постепенное или заметное снижение показателя; также может означать вежливо отказаться.",
+    "forms": [
+      "reduce something",
+      "something decreases / decrease something",
+      "something declines / decline an offer"
+    ],
+    "meanings": [
+      "сокращать объект",
+      "уменьшать или уменьшаться",
+      "снижаться; отклонять предложение"
+    ],
+    "contrast": "Если подлежащее само становится меньше, используйте decrease или decline. Reduce обычно требует объект.",
+    "examples": [
+      {
+        "en": "The new system reduced waiting times.",
+        "ru": "Новая система сократила время ожидания."
+      },
+      {
+        "en": "Demand decreased slightly in May.",
+        "ru": "В мае спрос немного снизился."
+      },
+      {
+        "en": "The number of complaints has declined.",
+        "ru": "Количество жалоб сократилось."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Prices reduced by ten per cent.",
+      "right": "Prices decreased by ten per cent.",
+      "note": "Когда цены снижаются сами, нужен непереходный decrease или decline."
+    },
+    "quiz": {
+      "prompt": "Complete: The company introduced measures to ___ energy use.",
+      "options": [
+        "decline",
+        "reduce",
+        "fall"
+      ],
+      "correct_index": 1,
+      "explanation": "Кто-то целенаправленно уменьшает объект energy use: reduce."
+    }
+  },
+  {
+    "id": "verb_040_rob_steal",
+    "order": 40,
+    "level": "B2",
+    "category": "Crime",
+    "title_en": "rob / steal",
+    "title_ru": "грабить и красть",
+    "rule": "Rob фокусируется на человеке или месте, у которого отняли имущество. Steal фокусируется на украденной вещи.",
+    "forms": [
+      "rob someone/a place",
+      "rob someone of something",
+      "steal something from someone/a place"
+    ],
+    "meanings": [
+      "ограбить человека или место",
+      "лишить имущества",
+      "украсть предмет"
+    ],
+    "contrast": "Нельзя *steal a person или *rob a thing в обычном значении.",
+    "examples": [
+      {
+        "en": "Two men robbed the bank.",
+        "ru": "Двое мужчин ограбили банк."
+      },
+      {
+        "en": "Someone stole my bicycle.",
+        "ru": "Кто-то украл мой велосипед."
+      },
+      {
+        "en": "They robbed the traveller of his passport.",
+        "ru": "Они отняли у путешественника паспорт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Someone robbed my phone.",
+      "right": "Someone stole my phone.",
+      "note": "Предмет крадут с steal; человека или место грабят с rob."
+    },
+    "quiz": {
+      "prompt": "Complete: The thieves ___ several laptops from the office.",
+      "options": [
+        "robbed",
+        "stole",
+        "robbed of"
+      ],
+      "correct_index": 1,
+      "explanation": "Фокус на украденных предметах: steal something from a place."
+    }
+  },
+  {
+    "id": "verb_041_discuss_argue_debate",
+    "order": 41,
+    "level": "B2",
+    "category": "Discussion",
+    "title_en": "discuss / argue / debate",
+    "title_ru": "обсуждать, спорить и дебатировать",
+    "rule": "Discuss означает рассматривать тему вместе и не требует about. Argue часто выражает спор или обоснование позиции. Debate — формально рассматривать противоположные стороны вопроса.",
+    "forms": [
+      "discuss something",
+      "argue with someone about something",
+      "argue that ... / debate an issue"
+    ],
+    "meanings": [
+      "обсуждать",
+      "спорить или доказывать",
+      "дебатировать"
+    ],
+    "contrast": "После discuss не нужен about. Debate может быть существительным и глаголом.",
+    "examples": [
+      {
+        "en": "We discussed the budget at length.",
+        "ru": "Мы подробно обсудили бюджет."
+      },
+      {
+        "en": "They argued about who should pay.",
+        "ru": "Они спорили о том, кто должен платить."
+      },
+      {
+        "en": "Parliament debated the proposal.",
+        "ru": "Парламент обсуждал предложение в формате дебатов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We discussed about the problem.",
+      "right": "We discussed the problem.",
+      "note": "Discuss принимает прямое дополнение без about."
+    },
+    "quiz": {
+      "prompt": "Complete: The article ___ that the current policy is ineffective.",
+      "options": [
+        "discusses about",
+        "argues",
+        "debates with"
+      ],
+      "correct_index": 1,
+      "explanation": "Argue that вводит обоснованную позицию автора."
+    }
+  },
+  {
+    "id": "verb_042_form_constitute",
+    "order": 42,
+    "level": "B2",
+    "category": "Composition",
+    "title_en": "form / constitute",
+    "title_ru": "образовывать и составлять",
+    "rule": "Form — нейтральный глагол «образовывать, формировать». Constitute — более формальный глагол со значением «составлять целое или являться его существенной частью». Оба принимают прямое дополнение.",
+    "forms": [
+      "form a group/pattern/partnership",
+      "items form a whole",
+      "constitute a majority/risk/offence"
+    ],
+    "meanings": [
+      "образовывать структуру",
+      "формировать целое",
+      "составлять, представлять собой"
+    ],
+    "contrast": "Constitute часто встречается в официальных, академических и юридических контекстах; после него не нужен предлог of.",
+    "examples": [
+      {
+        "en": "The volunteers formed a small working group.",
+        "ru": "Волонтёры сформировали небольшую рабочую группу."
+      },
+      {
+        "en": "These islands form part of a protected area.",
+        "ru": "Эти острова образуют часть охраняемой территории."
+      },
+      {
+        "en": "Women constitute 60 per cent of the workforce.",
+        "ru": "Женщины составляют 60 процентов рабочей силы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "These costs constitute of half the budget.",
+      "right": "These costs constitute half the budget.",
+      "note": "Constitute принимает прямое дополнение без of."
+    },
+    "quiz": {
+      "prompt": "Complete: Taken together, these changes ___ a major improvement.",
+      "options": [
+        "constitute",
+        "consist of as",
+        "contain"
+      ],
+      "correct_index": 0,
+      "explanation": "Constitute означает «в совокупности составлять, представлять собой»."
+    }
+  },
+  {
+    "id": "verb_043_cause_lead_to_result_in",
+    "order": 43,
+    "level": "B2",
+    "category": "Causation",
+    "title_en": "cause / lead to / result in",
+    "title_ru": "вызывать и приводить к результату",
+    "rule": "Cause принимает прямое дополнение или модель cause someone/something to do. Lead to и result in требуют существительного или формы -ing и показывают последствие.",
+    "forms": [
+      "cause a problem / cause someone to do",
+      "lead to something/doing",
+      "result in something/doing"
+    ],
+    "meanings": [
+      "вызывать причину",
+      "приводить к",
+      "заканчиваться результатом"
+    ],
+    "contrast": "После lead to и result in слово to/in — предлог, поэтому далее возможна форма -ing.",
+    "examples": [
+      {
+        "en": "The fault caused the system to shut down.",
+        "ru": "Неисправность привела к отключению системы."
+      },
+      {
+        "en": "Poor planning can lead to higher costs.",
+        "ru": "Плохое планирование может привести к более высоким расходам."
+      },
+      {
+        "en": "The delay resulted in the company losing the contract.",
+        "ru": "Из-за задержки компания потеряла контракт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The error led to lose the data.",
+      "right": "The error led to losing the data.",
+      "note": "После lead to используется существительное или -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: A lack of sleep can ___ people to make poor decisions.",
+      "options": [
+        "lead to people make",
+        "cause",
+        "result people in"
+      ],
+      "correct_index": 1,
+      "explanation": "Модель cause someone to do."
+    }
+  },
+  {
+    "id": "verb_044_result_from_stem_from",
+    "order": 44,
+    "level": "B2",
+    "category": "Origins",
+    "title_en": "result from / stem from",
+    "title_ru": "быть результатом и происходить из",
+    "rule": "Result from указывает непосредственную причину результата. Stem from означает иметь более глубокое происхождение или основу и часто звучит формальнее.",
+    "forms": [
+      "result from something/doing",
+      "stem from something",
+      "be caused by"
+    ],
+    "meanings": [
+      "возникать в результате",
+      "проистекать из",
+      "быть вызванным"
+    ],
+    "contrast": "Не путайте result in (приводить к результату) и result from (быть вызванным причиной).",
+    "examples": [
+      {
+        "en": "The damage resulted from a design fault.",
+        "ru": "Повреждение возникло из-за ошибки проектирования."
+      },
+      {
+        "en": "Many conflicts stem from poor communication.",
+        "ru": "Многие конфликты возникают из-за плохой коммуникации."
+      },
+      {
+        "en": "The confusion resulted from using two different systems.",
+        "ru": "Путаница возникла из-за использования двух разных систем."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The accident resulted from several injuries.",
+      "right": "The accident resulted in several injuries.",
+      "note": "Травмы — результат, поэтому result in. Result from вводит причину."
+    },
+    "quiz": {
+      "prompt": "Complete: Most of the delays ___ a shortage of trained staff.",
+      "options": [
+        "result in",
+        "stem from",
+        "lead staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Shortage is the underlying cause: stem from."
+    }
+  },
+  {
+    "id": "verb_045_distinguish_differentiate",
+    "order": 45,
+    "level": "B2",
+    "category": "Comparison",
+    "title_en": "distinguish / differentiate",
+    "title_ru": "различать и дифференцировать",
+    "rule": "Distinguish означает увидеть или объяснить различие. Differentiate может также означать сделать продукты, роли или группы отличными друг от друга.",
+    "forms": [
+      "distinguish between A and B",
+      "distinguish A from B",
+      "differentiate between/from / differentiate a product"
+    ],
+    "meanings": [
+      "различать",
+      "отличать одно от другого",
+      "создавать различие"
+    ],
+    "contrast": "Оба употребляются с between или from; differentiate чаще встречается в аналитическом и деловом контексте.",
+    "examples": [
+      {
+        "en": "Children learn to distinguish right from wrong.",
+        "ru": "Дети учатся отличать добро от зла."
+      },
+      {
+        "en": "It is difficult to differentiate between the two versions.",
+        "ru": "Трудно различить две версии."
+      },
+      {
+        "en": "Good service differentiates the brand from its competitors.",
+        "ru": "Хороший сервис отличает бренд от конкурентов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I cannot distinguish these two versions from.",
+      "right": "I cannot distinguish between these two versions.",
+      "note": "Для двух сопоставляемых объектов используйте distinguish between."
+    },
+    "quiz": {
+      "prompt": "Complete: The test is designed to ___ temporary stress from a longer-term disorder.",
+      "options": [
+        "distinguish",
+        "contain",
+        "assume"
+      ],
+      "correct_index": 0,
+      "explanation": "Модель distinguish A from B."
+    }
+  },
+  {
+    "id": "verb_046_estimate_assess_evaluate",
+    "order": 46,
+    "level": "B2",
+    "category": "Judgement",
+    "title_en": "estimate / assess / evaluate",
+    "title_ru": "оценивать",
+    "rule": "Estimate приблизительно вычисляет количество, стоимость или время. Assess определяет состояние, риск, качество или потребность. Evaluate систематически рассматривает ценность, эффективность или результаты.",
+    "forms": [
+      "estimate a cost/time/number",
+      "assess a risk/situation/need",
+      "evaluate performance/effectiveness/options"
+    ],
+    "meanings": [
+      "дать приблизительную числовую оценку",
+      "оценить состояние или риск",
+      "провести системную оценку"
+    ],
+    "contrast": "Estimate часто даёт число; assess и evaluate дают аналитическое суждение.",
+    "examples": [
+      {
+        "en": "We estimated the cost at €5,000.",
+        "ru": "Мы оценили стоимость примерно в 5000 евро."
+      },
+      {
+        "en": "Doctors assessed the patient’s condition.",
+        "ru": "Врачи оценили состояние пациента."
+      },
+      {
+        "en": "The team evaluated three possible solutions.",
+        "ru": "Команда оценила три возможных решения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We evaluated the journey at three hours.",
+      "right": "We estimated the journey would take three hours.",
+      "note": "Приблизительное время выражается estimate."
+    },
+    "quiz": {
+      "prompt": "Complete: Before lending money, the bank must ___ the level of risk.",
+      "options": [
+        "estimate at",
+        "assess",
+        "mention"
+      ],
+      "correct_index": 1,
+      "explanation": "Risk is analysed and judged: assess the risk."
+    }
+  },
+  {
+    "id": "verb_047_intend_plan_mean",
+    "order": 47,
+    "level": "B2",
+    "category": "Intentions",
+    "title_en": "intend / plan / mean",
+    "title_ru": "намереваться и планировать",
+    "rule": "Intend to do выражает намерение, часто формальнее. Plan to do означает подготовленный замысел. Mean to do означает намереваться, а mean doing — подразумевать или повлечь за собой.",
+    "forms": [
+      "intend to do",
+      "plan to do / plan something",
+      "mean to do / mean doing"
+    ],
+    "meanings": [
+      "намереваться",
+      "планировать",
+      "иметь намерение или подразумевать"
+    ],
+    "contrast": "Разница между mean to do и mean doing меняет смысл: намерение против последствия.",
+    "examples": [
+      {
+        "en": "We intend to expand the service next year.",
+        "ru": "Мы намерены расширить сервис в следующем году."
+      },
+      {
+        "en": "They plan to move in September.",
+        "ru": "Они планируют переехать в сентябре."
+      },
+      {
+        "en": "Working remotely may mean changing your routine.",
+        "ru": "Удалённая работа может означать изменение привычного распорядка."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I did not mean hurting you.",
+      "right": "I did not mean to hurt you.",
+      "note": "Когда речь о намерении, после mean используется to-infinitive."
+    },
+    "quiz": {
+      "prompt": "Complete: Accepting the role would ___ travelling every week.",
+      "options": [
+        "mean",
+        "intend",
+        "plan to"
+      ],
+      "correct_index": 0,
+      "explanation": "Mean doing = подразумевать, влечь за собой."
+    }
+  },
+  {
+    "id": "verb_048_fail_miss",
+    "order": 48,
+    "level": "B2",
+    "category": "Failure",
+    "title_en": "fail / miss",
+    "title_ru": "не суметь и пропустить",
+    "rule": "Fail to do означает не выполнить действие или не достичь стандарта. Miss означает опоздать на транспорт, пропустить событие, срок или возможность либо испытывать нехватку человека/вещи.",
+    "forms": [
+      "fail to do / fail an exam",
+      "miss a bus/meeting/deadline/opportunity",
+      "miss someone/something"
+    ],
+    "meanings": [
+      "не суметь, провалить",
+      "пропустить или опоздать",
+      "скучать, ощущать отсутствие"
+    ],
+    "contrast": "Нельзя *fail the bus; транспорт и срок пропускают с miss.",
+    "examples": [
+      {
+        "en": "The company failed to meet the deadline.",
+        "ru": "Компания не смогла уложиться в срок."
+      },
+      {
+        "en": "I missed the last train home.",
+        "ru": "Я опоздал на последний поезд домой."
+      },
+      {
+        "en": "Do not miss the opportunity to ask questions.",
+        "ru": "Не упустите возможность задать вопросы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We failed the flight because of traffic.",
+      "right": "We missed the flight because of traffic.",
+      "note": "На транспорт опаздывают с miss."
+    },
+    "quiz": {
+      "prompt": "Complete: The report ___ to explain how the figures were calculated.",
+      "options": [
+        "missed",
+        "failed",
+        "lost"
+      ],
+      "correct_index": 1,
+      "explanation": "Fail to do = не выполнить необходимое действие."
+    }
+  },
+  {
+    "id": "verb_049_seek_look_for",
+    "order": 49,
+    "level": "B2",
+    "category": "Search",
+    "title_en": "seek / look for",
+    "title_ru": "искать и стремиться получить",
+    "rule": "Look for — обычный разговорный глагол поиска. Seek формальнее; он может означать искать предмет, помощь, решение или стремиться добиться цели. После seek to do выражается попытка или цель.",
+    "forms": [
+      "look for someone/something",
+      "seek help/advice/approval",
+      "seek to do something"
+    ],
+    "meanings": [
+      "искать физически",
+      "обращаться за помощью или добиваться",
+      "стремиться сделать"
+    ],
+    "contrast": "Seek не требует for перед прямым дополнением: seek advice, но look for advice.",
+    "examples": [
+      {
+        "en": "I am looking for my keys.",
+        "ru": "Я ищу свои ключи."
+      },
+      {
+        "en": "You should seek professional advice.",
+        "ru": "Вам следует обратиться за профессиональной консультацией."
+      },
+      {
+        "en": "The reforms seek to reduce inequality.",
+        "ru": "Реформы направлены на сокращение неравенства."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They are seeking for a solution.",
+      "right": "They are seeking a solution.",
+      "note": "Seek принимает прямое дополнение без for."
+    },
+    "quiz": {
+      "prompt": "Complete: The organisation is ___ to attract more volunteers.",
+      "options": [
+        "looking for to",
+        "seeking",
+        "searching it"
+      ],
+      "correct_index": 1,
+      "explanation": "Seek to do — стремиться сделать."
+    }
+  },
+  {
+    "id": "verb_050_observe_notice_watch",
+    "order": 50,
+    "level": "B2",
+    "category": "Observation",
+    "title_en": "observe / notice / watch",
+    "title_ru": "наблюдать, замечать и смотреть",
+    "rule": "Watch означает намеренно смотреть на развивающееся действие. Notice — неожиданно осознать деталь. Observe — внимательно или систематически наблюдать; в формальном контексте также «отмечать».",
+    "forms": [
+      "watch someone/something doing",
+      "notice something / notice that ...",
+      "observe someone/something / observe that ..."
+    ],
+    "meanings": [
+      "следить глазами",
+      "заметить",
+      "наблюдать систематически"
+    ],
+    "contrast": "Observe обычно формальнее watch и может подразумевать исследовательскую цель.",
+    "examples": [
+      {
+        "en": "We watched the children play.",
+        "ru": "Мы наблюдали, как дети играют."
+      },
+      {
+        "en": "I noticed that the door was open.",
+        "ru": "Я заметил, что дверь открыта."
+      },
+      {
+        "en": "Researchers observed how participants reacted.",
+        "ru": "Исследователи наблюдали, как реагировали участники."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I was noticing the birds for an hour.",
+      "right": "I was watching the birds for an hour.",
+      "note": "Намеренное длительное наблюдение выражается watch, а notice — момент осознания."
+    },
+    "quiz": {
+      "prompt": "Complete: During the experiment, scientists carefully ___ changes in behaviour.",
+      "options": [
+        "noticed by chance",
+        "observed",
+        "looked"
+      ],
+      "correct_index": 1,
+      "explanation": "Систематическое научное наблюдение — observe."
+    }
+  }
+]

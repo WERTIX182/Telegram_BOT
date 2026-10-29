@@ -1,0 +1,2634 @@
+[
+  {
+    "id": "pv_int_001_wake_up",
+    "order": 1,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "wake up",
+    "translation": "просыпаться; будить",
+    "explanation": "Перестать спать или заставить другого человека проснуться.",
+    "patterns": [
+      "wake up",
+      "wake somebody up",
+      "wake up early/late"
+    ],
+    "related": [
+      "awake — бодрствующий; не спящий"
+    ],
+    "examples": [
+      {
+        "en": "I usually wake up before the alarm rings.",
+        "ru": "Я обычно просыпаюсь до звонка будильника."
+      },
+      {
+        "en": "Please wake me up at seven.",
+        "ru": "Пожалуйста, разбуди меня в семь."
+      },
+      {
+        "en": "The noise woke the baby up.",
+        "ru": "Шум разбудил ребёнка."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "wake up me",
+      "right": "wake me up",
+      "note": "С местоимением дополнение ставится между wake и up."
+    },
+    "quiz": {
+      "prompt": "I was still asleep and did not ___ until nine.",
+      "options": [
+        "wake up",
+        "get over",
+        "turn on",
+        "come back"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: wake up. Фразовый глагол wake up означает «просыпаться; будить». С местоимением дополнение ставится между wake и up."
+    }
+  },
+  {
+    "id": "pv_int_002_get_up",
+    "order": 2,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "get up",
+    "translation": "вставать с постели",
+    "explanation": "Подняться с постели после сна; не означает само пробуждение.",
+    "patterns": [
+      "get up",
+      "get up early",
+      "get up from bed"
+    ],
+    "related": [
+      "wake up — проснуться"
+    ],
+    "examples": [
+      {
+        "en": "I woke up at six but did not get up until half past six.",
+        "ru": "Я проснулся в шесть, но встал только в половине седьмого."
+      },
+      {
+        "en": "What time do you get up on weekdays?",
+        "ru": "Во сколько ты встаёшь по будням?"
+      },
+      {
+        "en": "He got up quietly and left the room.",
+        "ru": "Он тихо встал и вышел из комнаты."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get up someone",
+      "right": "get someone up",
+      "note": "В значении «поднять кого-то с постели» дополнение ставится после get."
+    },
+    "quiz": {
+      "prompt": "I was awake at six, but I did not ___ until half past six.",
+      "options": [
+        "wake up",
+        "get up",
+        "put on",
+        "check out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: get up. Фразовый глагол get up означает «вставать с постели». В значении «поднять кого-то с постели» дополнение ставится после get."
+    }
+  },
+  {
+    "id": "pv_int_003_put_on",
+    "order": 3,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "put on",
+    "translation": "надевать; включать",
+    "explanation": "Поместить одежду на себя; также включить устройство или музыку в некоторых контекстах.",
+    "patterns": [
+      "put on clothes",
+      "put something on",
+      "put it on"
+    ],
+    "related": [
+      "wear — быть одетым во что-то"
+    ],
+    "examples": [
+      {
+        "en": "Put on a jacket; it is cold outside.",
+        "ru": "Надень куртку: на улице холодно."
+      },
+      {
+        "en": "She put her glasses on to read the label.",
+        "ru": "Она надела очки, чтобы прочитать этикетку."
+      },
+      {
+        "en": "Could you put on some music?",
+        "ru": "Не мог бы ты включить музыку?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put on it",
+      "right": "put it on",
+      "note": "С местоимением объект ставится между put и on."
+    },
+    "quiz": {
+      "prompt": "It was raining, so she ___ her waterproof coat.",
+      "options": [
+        "took off",
+        "hung up",
+        "put on",
+        "turned off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: put on. Фразовый глагол put on означает «надевать; включать». С местоимением объект ставится между put и on."
+    }
+  },
+  {
+    "id": "pv_int_004_take_off",
+    "order": 4,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "take off",
+    "translation": "снимать; взлетать",
+    "explanation": "Снять одежду или обувь; о самолёте — оторваться от земли.",
+    "patterns": [
+      "take off a coat",
+      "take something off",
+      "the plane takes off"
+    ],
+    "related": [
+      "remove — снять, удалить"
+    ],
+    "examples": [
+      {
+        "en": "Please take off your shoes at the door.",
+        "ru": "Пожалуйста, снимите обувь у двери."
+      },
+      {
+        "en": "He took his wet jacket off.",
+        "ru": "Он снял мокрую куртку."
+      },
+      {
+        "en": "Our flight took off twenty minutes late.",
+        "ru": "Наш самолёт взлетел на двадцать минут позже."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take off them",
+      "right": "take them off",
+      "note": "С местоимением объект ставится между take и off."
+    },
+    "quiz": {
+      "prompt": "The room was warm, so I ___ my sweater.",
+      "options": [
+        "put on",
+        "turned off",
+        "cleaned up",
+        "took off"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: took off. Фразовый глагол take off означает «снимать; взлетать». С местоимением объект ставится между take и off."
+    }
+  },
+  {
+    "id": "pv_int_005_turn_on",
+    "order": 5,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "turn on",
+    "translation": "включать",
+    "explanation": "Запустить электрическое устройство, свет, воду или систему.",
+    "patterns": [
+      "turn on the light",
+      "turn something on",
+      "turn it on"
+    ],
+    "related": [
+      "switch on — включить"
+    ],
+    "examples": [
+      {
+        "en": "Could you turn on the kitchen light?",
+        "ru": "Не мог бы ты включить свет на кухне?"
+      },
+      {
+        "en": "She turned the computer on and checked her email.",
+        "ru": "Она включила компьютер и проверила почту."
+      },
+      {
+        "en": "Do not turn on the tap yet.",
+        "ru": "Пока не открывай кран."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "turn on it",
+      "right": "turn it on",
+      "note": "С местоимением объект ставится между turn и on."
+    },
+    "quiz": {
+      "prompt": "It was getting dark, so Ben ___ the lamp.",
+      "options": [
+        "turned on",
+        "turned off",
+        "put off",
+        "took off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: turned on. Фразовый глагол turn on означает «включать». С местоимением объект ставится между turn и on."
+    }
+  },
+  {
+    "id": "pv_int_006_turn_off",
+    "order": 6,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "turn off",
+    "translation": "выключать",
+    "explanation": "Остановить работу устройства, света, воды или системы.",
+    "patterns": [
+      "turn off the TV",
+      "turn something off",
+      "turn it off"
+    ],
+    "related": [
+      "switch off — выключить"
+    ],
+    "examples": [
+      {
+        "en": "Turn off the oven when the timer rings.",
+        "ru": "Выключи духовку, когда прозвенит таймер."
+      },
+      {
+        "en": "I turned my phone off during the meeting.",
+        "ru": "Я выключил телефон во время встречи."
+      },
+      {
+        "en": "Please turn the water off completely.",
+        "ru": "Пожалуйста, полностью перекрой воду."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "turn off it",
+      "right": "turn it off",
+      "note": "Местоимение ставится между turn и off."
+    },
+    "quiz": {
+      "prompt": "Before leaving the office, remember to ___ all the lights.",
+      "options": [
+        "turn on",
+        "turn off",
+        "put on",
+        "take off"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: turn off. Фразовый глагол turn off означает «выключать». Местоимение ставится между turn и off."
+    }
+  },
+  {
+    "id": "pv_int_007_clean_up",
+    "order": 7,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "clean up",
+    "translation": "убирать; приводить в порядок",
+    "explanation": "Сделать место чистым и аккуратным; убрать беспорядок.",
+    "patterns": [
+      "clean up the kitchen",
+      "clean something up",
+      "clean up after someone"
+    ],
+    "related": [
+      "tidy up — прибраться"
+    ],
+    "examples": [
+      {
+        "en": "We need to clean up after the party.",
+        "ru": "Нам нужно убрать после вечеринки."
+      },
+      {
+        "en": "The children cleaned their room up before lunch.",
+        "ru": "Дети убрали свою комнату до обеда."
+      },
+      {
+        "en": "Could you help me clean up the kitchen?",
+        "ru": "Не мог бы ты помочь мне убрать кухню?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "clean up it",
+      "right": "clean it up",
+      "note": "С коротким местоимением объект обычно ставится между clean и up."
+    },
+    "quiz": {
+      "prompt": "After the art class, please ___ the tables.",
+      "options": [
+        "break down",
+        "check in",
+        "clean up",
+        "set off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: clean up. Фразовый глагол clean up означает «убирать; приводить в порядок». С коротким местоимением объект обычно ставится между clean и up."
+    }
+  },
+  {
+    "id": "pv_int_008_run_out_of",
+    "order": 8,
+    "level": "Intermediate",
+    "category": "DAILY",
+    "phrase": "run out of",
+    "translation": "исчерпать запас; остаться без",
+    "explanation": "Полностью использовать запас чего-либо, так что ничего не остаётся.",
+    "patterns": [
+      "run out of milk/money/time",
+      "be running out of something",
+      "have run out of something"
+    ],
+    "related": [
+      "use up — израсходовать полностью"
+    ],
+    "examples": [
+      {
+        "en": "We have run out of coffee.",
+        "ru": "У нас закончился кофе."
+      },
+      {
+        "en": "I am running out of time.",
+        "ru": "У меня заканчивается время."
+      },
+      {
+        "en": "The car ran out of petrol on the motorway.",
+        "ru": "У машины закончился бензин на автомагистрали."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "run out milk",
+      "right": "run out of milk",
+      "note": "Перед существительным требуется предлог of."
+    },
+    "quiz": {
+      "prompt": "We need to go shopping because we have ___ bread.",
+      "options": [
+        "got over",
+        "looked after",
+        "come up with",
+        "run out of"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: run out of. Фразовый глагол run out of означает «исчерпать запас; остаться без». Перед существительным требуется предлог of."
+    }
+  },
+  {
+    "id": "pv_int_009_hand_in",
+    "order": 9,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "hand in",
+    "translation": "сдавать работу или документ",
+    "explanation": "Передать преподавателю или ответственному лицу выполненную работу или официальный документ.",
+    "patterns": [
+      "hand in an assignment",
+      "hand something in",
+      "hand it in"
+    ],
+    "related": [
+      "submit — представить, сдать"
+    ],
+    "examples": [
+      {
+        "en": "You must hand in the essay by Friday.",
+        "ru": "Вы должны сдать эссе к пятнице."
+      },
+      {
+        "en": "I handed my application in yesterday.",
+        "ru": "Я подал заявление вчера."
+      },
+      {
+        "en": "Do not forget to hand it in on time.",
+        "ru": "Не забудь сдать это вовремя."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hand in it",
+      "right": "hand it in",
+      "note": "С местоимением объект ставится между hand и in."
+    },
+    "quiz": {
+      "prompt": "All students must ___ their projects before the end of the lesson.",
+      "options": [
+        "hand in",
+        "carry out",
+        "look up",
+        "put off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: hand in. Фразовый глагол hand in означает «сдавать работу или документ». С местоимением объект ставится между hand и in."
+    }
+  },
+  {
+    "id": "pv_int_010_look_up",
+    "order": 10,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "look up",
+    "translation": "искать информацию в справочнике или системе",
+    "explanation": "Найти слово, факт, адрес или другую информацию в словаре, книге или интернете.",
+    "patterns": [
+      "look up a word",
+      "look something up",
+      "look it up"
+    ],
+    "related": [
+      "search for information — искать информацию"
+    ],
+    "examples": [
+      {
+        "en": "I looked up the word in an online dictionary.",
+        "ru": "Я посмотрел это слово в онлайн-словаре."
+      },
+      {
+        "en": "Can you look the train times up?",
+        "ru": "Ты можешь посмотреть расписание поездов?"
+      },
+      {
+        "en": "If you do not know the answer, look it up.",
+        "ru": "Если не знаешь ответа, найди его."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "look up it",
+      "right": "look it up",
+      "note": "С местоимением объект ставится между look и up."
+    },
+    "quiz": {
+      "prompt": "If you do not know the meaning, ___ the word in a dictionary.",
+      "options": [
+        "bring up",
+        "look up",
+        "fill in",
+        "point out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: look up. Фразовый глагол look up означает «искать информацию в справочнике или системе». С местоимением объект ставится между look и up."
+    }
+  },
+  {
+    "id": "pv_int_011_find_out",
+    "order": 11,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "find out",
+    "translation": "выяснять; узнавать",
+    "explanation": "Получить информацию, которой раньше не было, обычно после поиска, вопроса или наблюдения.",
+    "patterns": [
+      "find out the truth",
+      "find out about something",
+      "find out that..."
+    ],
+    "related": [
+      "discover — обнаружить, узнать"
+    ],
+    "examples": [
+      {
+        "en": "We need to find out why the system failed.",
+        "ru": "Нам нужно выяснить, почему система дала сбой."
+      },
+      {
+        "en": "I found out about the course through a friend.",
+        "ru": "Я узнал о курсе от друга."
+      },
+      {
+        "en": "She found out that the meeting had been cancelled.",
+        "ru": "Она узнала, что встречу отменили."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "find about the problem",
+      "right": "find out about the problem",
+      "note": "В значении «узнать» используется частица out."
+    },
+    "quiz": {
+      "prompt": "Could you call the library and ___ whether it is open on Sunday?",
+      "options": [
+        "point out",
+        "bring up",
+        "find out",
+        "hand in"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: find out. Фразовый глагол find out означает «выяснять; узнавать». В значении «узнать» используется частица out."
+    }
+  },
+  {
+    "id": "pv_int_012_work_out",
+    "order": 12,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "work out",
+    "translation": "решить; вычислить; разобраться",
+    "explanation": "Найти решение задачи, понять причину или рассчитать результат.",
+    "patterns": [
+      "work out a problem",
+      "work something out",
+      "work out how/why..."
+    ],
+    "related": [
+      "solve — решить"
+    ],
+    "examples": [
+      {
+        "en": "We finally worked out the answer.",
+        "ru": "Мы наконец нашли ответ."
+      },
+      {
+        "en": "Can you work out how much we owe?",
+        "ru": "Ты можешь рассчитать, сколько мы должны?"
+      },
+      {
+        "en": "I cannot work out why the printer is not responding.",
+        "ru": "Я не могу понять, почему принтер не отвечает."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "work out it",
+      "right": "work it out",
+      "note": "С местоимением объект ставится между work и out."
+    },
+    "quiz": {
+      "prompt": "After studying the map, we eventually ___ the best route.",
+      "options": [
+        "carried out",
+        "checked out",
+        "put off",
+        "worked out"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: worked out. Фразовый глагол work out означает «решить; вычислить; разобраться». С местоимением объект ставится между work и out."
+    }
+  },
+  {
+    "id": "pv_int_013_carry_out",
+    "order": 13,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "carry out",
+    "translation": "проводить; выполнять",
+    "explanation": "Выполнить план, исследование, проверку или официальную задачу.",
+    "patterns": [
+      "carry out research",
+      "carry out an investigation",
+      "carry something out"
+    ],
+    "related": [
+      "conduct — проводить"
+    ],
+    "examples": [
+      {
+        "en": "The university carried out a large survey.",
+        "ru": "Университет провёл крупный опрос."
+      },
+      {
+        "en": "Engineers will carry out safety checks tomorrow.",
+        "ru": "Инженеры завтра проведут проверку безопасности."
+      },
+      {
+        "en": "The experiment was carried out under controlled conditions.",
+        "ru": "Эксперимент проводился в контролируемых условиях."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make a research",
+      "right": "carry out research",
+      "note": "С research обычно употребляются carry out или conduct; research обычно неисчисляемое."
+    },
+    "quiz": {
+      "prompt": "The team will ___ a detailed investigation into the incident.",
+      "options": [
+        "carry out",
+        "bring up",
+        "put off",
+        "look up"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: carry out. Фразовый глагол carry out означает «проводить; выполнять». С research обычно употребляются carry out или conduct; research обычно неисчисляемое."
+    }
+  },
+  {
+    "id": "pv_int_014_keep_up_with",
+    "order": 14,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "keep up with",
+    "translation": "не отставать от; успевать следить за",
+    "explanation": "Поддерживать тот же темп или оставаться в курсе быстрых изменений.",
+    "patterns": [
+      "keep up with the class",
+      "keep up with technology",
+      "struggle to keep up with"
+    ],
+    "related": [
+      "stay up to date with — быть в курсе"
+    ],
+    "examples": [
+      {
+        "en": "She reads every day to keep up with the course.",
+        "ru": "Она читает каждый день, чтобы не отставать от курса."
+      },
+      {
+        "en": "It is difficult to keep up with changes in technology.",
+        "ru": "Трудно успевать за изменениями в технологиях."
+      },
+      {
+        "en": "He walked too fast for me to keep up with him.",
+        "ru": "Он шёл слишком быстро, и я не мог за ним поспевать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep up the class",
+      "right": "keep up with the class",
+      "note": "Перед человеком, группой или развитием требуется with."
+    },
+    "quiz": {
+      "prompt": "The lectures move quickly, so I revise every evening to ___ the class.",
+      "options": [
+        "put off",
+        "keep up with",
+        "break down",
+        "check out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: keep up with. Фразовый глагол keep up with означает «не отставать от; успевать следить за». Перед человеком, группой или развитием требуется with."
+    }
+  },
+  {
+    "id": "pv_int_015_catch_up_on",
+    "order": 15,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "catch up on",
+    "translation": "наверстать; сделать накопившееся",
+    "explanation": "Выполнить работу, чтение или другие дела, которые были отложены и накопились.",
+    "patterns": [
+      "catch up on work",
+      "catch up on reading",
+      "catch up on sleep"
+    ],
+    "related": [
+      "get up to date with — наверстать"
+    ],
+    "examples": [
+      {
+        "en": "I spent Sunday catching up on emails.",
+        "ru": "Я провёл воскресенье, разбирая накопившиеся письма."
+      },
+      {
+        "en": "She needs to catch up on the lessons she missed.",
+        "ru": "Ей нужно наверстать пропущенные уроки."
+      },
+      {
+        "en": "The holiday gave me time to catch up on sleep.",
+        "ru": "Отпуск дал мне возможность выспаться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "catch up my homework",
+      "right": "catch up on my homework",
+      "note": "Перед делами или материалом, который нужно наверстать, употребляется on."
+    },
+    "quiz": {
+      "prompt": "After being ill for a week, Marta had to ___ her schoolwork.",
+      "options": [
+        "come over",
+        "drop off",
+        "catch up on",
+        "turn on"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: catch up on. Фразовый глагол catch up on означает «наверстать; сделать накопившееся». Перед делами или материалом, который нужно наверстать, употребляется on."
+    }
+  },
+  {
+    "id": "pv_int_016_put_off",
+    "order": 16,
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "phrase": "put off",
+    "translation": "откладывать",
+    "explanation": "Перенести действие, встречу или решение на более позднее время.",
+    "patterns": [
+      "put off a meeting",
+      "put something off",
+      "put it off until Monday"
+    ],
+    "related": [
+      "postpone — отложить"
+    ],
+    "examples": [
+      {
+        "en": "They put off the meeting until next week.",
+        "ru": "Они отложили встречу до следующей недели."
+      },
+      {
+        "en": "Do not put the decision off for too long.",
+        "ru": "Не откладывай решение слишком надолго."
+      },
+      {
+        "en": "We had to put it off because two people were absent.",
+        "ru": "Нам пришлось это отложить, потому что двое отсутствовали."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put off it",
+      "right": "put it off",
+      "note": "С местоимением объект ставится между put и off."
+    },
+    "quiz": {
+      "prompt": "Heavy snow forced the organisers to ___ the outdoor event.",
+      "options": [
+        "carry out",
+        "set off",
+        "check in",
+        "put off"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: put off. Фразовый глагол put off означает «откладывать». С местоимением объект ставится между put и off."
+    }
+  },
+  {
+    "id": "pv_int_017_set_off",
+    "order": 17,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "set off",
+    "translation": "отправляться в путь",
+    "explanation": "Начать поездку или путешествие, особенно в определённое время.",
+    "patterns": [
+      "set off early",
+      "set off for a place",
+      "set off on a journey"
+    ],
+    "related": [
+      "set out — отправиться"
+    ],
+    "examples": [
+      {
+        "en": "We set off before sunrise.",
+        "ru": "Мы отправились в путь до восхода солнца."
+      },
+      {
+        "en": "They set off for the coast after breakfast.",
+        "ru": "После завтрака они отправились к побережью."
+      },
+      {
+        "en": "What time are you planning to set off?",
+        "ru": "Во сколько вы планируете отправиться?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "set off to the coast",
+      "right": "set off for the coast",
+      "note": "С пунктом назначения после set off обычно употребляется for."
+    },
+    "quiz": {
+      "prompt": "To avoid the traffic, we decided to ___ at five in the morning.",
+      "options": [
+        "set off",
+        "check out",
+        "fall out",
+        "turn off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: set off. Фразовый глагол set off означает «отправляться в путь». С пунктом назначения после set off обычно употребляется for."
+    }
+  },
+  {
+    "id": "pv_int_018_check_in",
+    "order": 18,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "check in",
+    "translation": "регистрироваться в отеле или на рейс",
+    "explanation": "Сообщить о прибытии и пройти регистрацию перед заселением или полётом.",
+    "patterns": [
+      "check in at a hotel",
+      "check in for a flight",
+      "check in online"
+    ],
+    "related": [
+      "register — зарегистрироваться"
+    ],
+    "examples": [
+      {
+        "en": "You can check in online twenty-four hours before the flight.",
+        "ru": "Вы можете зарегистрироваться онлайн за двадцать четыре часа до рейса."
+      },
+      {
+        "en": "We checked in at the hotel just after three.",
+        "ru": "Мы зарегистрировались в отеле сразу после трёх."
+      },
+      {
+        "en": "Passengers should check in at least two hours early.",
+        "ru": "Пассажирам следует зарегистрироваться как минимум за два часа."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "check in the hotel",
+      "right": "check in at the hotel",
+      "note": "Перед отелем обычно употребляется at; перед рейсом — for."
+    },
+    "quiz": {
+      "prompt": "We arrived at the airport early enough to ___ without rushing.",
+      "options": [
+        "check out",
+        "check in",
+        "set off",
+        "get on"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: check in. Фразовый глагол check in означает «регистрироваться в отеле или на рейс». Перед отелем обычно употребляется at; перед рейсом — for."
+    }
+  },
+  {
+    "id": "pv_int_019_check_out",
+    "order": 19,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "check out",
+    "translation": "выписываться из отеля",
+    "explanation": "Оформить отъезд из отеля и обычно оплатить счёт.",
+    "patterns": [
+      "check out of a hotel",
+      "check out by noon",
+      "late check-out"
+    ],
+    "related": [
+      "leave the hotel — покинуть отель"
+    ],
+    "examples": [
+      {
+        "en": "Guests must check out by eleven.",
+        "ru": "Гости должны выписаться до одиннадцати."
+      },
+      {
+        "en": "We checked out of the hotel and left our bags at reception.",
+        "ru": "Мы выписались из отеля и оставили сумки на стойке регистрации."
+      },
+      {
+        "en": "Can we check out a little later?",
+        "ru": "Можно нам выписаться немного позже?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "check out from the hotel",
+      "right": "check out of the hotel",
+      "note": "В значении «выписаться» обычно употребляется check out of."
+    },
+    "quiz": {
+      "prompt": "Our train leaves at one, so we will ___ of the hotel at eleven.",
+      "options": [
+        "check in",
+        "stop over",
+        "check out",
+        "set off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: check out. Фразовый глагол check out означает «выписываться из отеля». В значении «выписаться» обычно употребляется check out of."
+    }
+  },
+  {
+    "id": "pv_int_020_get_on",
+    "order": 20,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "get on",
+    "translation": "садиться в транспорт; входить",
+    "explanation": "Войти в автобус, поезд, самолёт или другой крупный общественный транспорт.",
+    "patterns": [
+      "get on a bus/train/plane",
+      "get on at a stop",
+      "get on board"
+    ],
+    "related": [
+      "board — сесть на транспорт"
+    ],
+    "examples": [
+      {
+        "en": "We got on the train at platform six.",
+        "ru": "Мы сели на поезд на шестой платформе."
+      },
+      {
+        "en": "More passengers got on at the next stop.",
+        "ru": "На следующей остановке вошло ещё больше пассажиров."
+      },
+      {
+        "en": "Hurry up or we will not get on the plane in time.",
+        "ru": "Поторопись, иначе мы не успеем сесть на самолёт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get in the bus",
+      "right": "get on the bus",
+      "note": "С автобусами, поездами и самолётами обычно употребляется on; с машиной — in."
+    },
+    "quiz": {
+      "prompt": "The doors were closing as we tried to ___ the train.",
+      "options": [
+        "get off",
+        "check in",
+        "set off",
+        "get on"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: get on. Фразовый глагол get on означает «садиться в транспорт; входить». С автобусами, поездами и самолётами обычно употребляется on; с машиной — in."
+    }
+  },
+  {
+    "id": "pv_int_021_get_off",
+    "order": 21,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "get off",
+    "translation": "выходить из транспорта",
+    "explanation": "Покинуть автобус, поезд, самолёт или другой крупный транспорт.",
+    "patterns": [
+      "get off a bus/train",
+      "get off at a stop",
+      "get off here"
+    ],
+    "related": [
+      "leave the bus/train — выйти из транспорта"
+    ],
+    "examples": [
+      {
+        "en": "We get off at the next station.",
+        "ru": "Мы выходим на следующей станции."
+      },
+      {
+        "en": "She got off the bus near the museum.",
+        "ru": "Она вышла из автобуса возле музея."
+      },
+      {
+        "en": "Do not forget your bag when you get off.",
+        "ru": "Не забудь сумку, когда будешь выходить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get out the train",
+      "right": "get off the train",
+      "note": "С поездом, автобусом и самолётом употребляется off; с машиной — out of."
+    },
+    "quiz": {
+      "prompt": "This is our stop, so we need to ___ now.",
+      "options": [
+        "get off",
+        "get on",
+        "check out",
+        "stop over"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: get off. Фразовый глагол get off означает «выходить из транспорта». С поездом, автобусом и самолётом употребляется off; с машиной — out of."
+    }
+  },
+  {
+    "id": "pv_int_022_pick_up",
+    "order": 22,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "pick up",
+    "translation": "забирать; подбирать",
+    "explanation": "Приехать за человеком на машине или взять кого-то или что-то по пути.",
+    "patterns": [
+      "pick somebody up",
+      "pick up a passenger",
+      "pick someone up from a place"
+    ],
+    "related": [
+      "collect — забрать"
+    ],
+    "examples": [
+      {
+        "en": "I will pick you up outside the station.",
+        "ru": "Я заберу тебя у вокзала."
+      },
+      {
+        "en": "The shuttle picks passengers up every half hour.",
+        "ru": "Шаттл забирает пассажиров каждые полчаса."
+      },
+      {
+        "en": "Can you pick up the tickets on your way home?",
+        "ru": "Ты можешь забрать билеты по дороге домой?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pick up me",
+      "right": "pick me up",
+      "note": "С местоимением объект ставится между pick и up."
+    },
+    "quiz": {
+      "prompt": "Our host offered to ___ at the airport.",
+      "options": [
+        "drop us off",
+        "pick us up",
+        "check us in",
+        "cut us off"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: pick us up. Фразовый глагол pick up означает «забирать; подбирать». С местоимением объект ставится между pick и up."
+    }
+  },
+  {
+    "id": "pv_int_023_drop_off",
+    "order": 23,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "drop off",
+    "translation": "высаживать; доставлять по пути",
+    "explanation": "Подвезти человека или вещь до места и оставить там.",
+    "patterns": [
+      "drop somebody off",
+      "drop something off",
+      "drop someone off at a place"
+    ],
+    "related": [
+      "take someone to — отвезти кого-то"
+    ],
+    "examples": [
+      {
+        "en": "Could you drop me off near the entrance?",
+        "ru": "Не мог бы ты высадить меня возле входа?"
+      },
+      {
+        "en": "She dropped the children off at school.",
+        "ru": "Она отвезла детей в школу."
+      },
+      {
+        "en": "I need to drop this parcel off on my way to work.",
+        "ru": "Мне нужно занести эту посылку по дороге на работу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "drop off them",
+      "right": "drop them off",
+      "note": "С местоимением объект ставится между drop и off."
+    },
+    "quiz": {
+      "prompt": "The taxi will ___ directly outside the hotel.",
+      "options": [
+        "pick us up",
+        "check us in",
+        "drop us off",
+        "get us on"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: drop us off. Фразовый глагол drop off означает «высаживать; доставлять по пути». С местоимением объект ставится между drop и off."
+    }
+  },
+  {
+    "id": "pv_int_024_stop_over",
+    "order": 24,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "stop over",
+    "translation": "останавливаться в пути на короткое время",
+    "explanation": "Сделать короткую остановку в городе или стране во время более длинного путешествия.",
+    "patterns": [
+      "stop over in a city",
+      "stop over for a night",
+      "a stopover"
+    ],
+    "related": [
+      "break the journey — прервать путь остановкой"
+    ],
+    "examples": [
+      {
+        "en": "We stopped over in Dubai on the way to Australia.",
+        "ru": "Мы сделали остановку в Дубае по пути в Австралию."
+      },
+      {
+        "en": "They stopped over for one night before continuing north.",
+        "ru": "Они остановились на одну ночь, прежде чем продолжить путь на север."
+      },
+      {
+        "en": "Is it worth stopping over in Singapore?",
+        "ru": "Стоит ли сделать остановку в Сингапуре?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "stop over at Paris",
+      "right": "stop over in Paris",
+      "note": "С городами и странами обычно употребляется in."
+    },
+    "quiz": {
+      "prompt": "Our flight includes a chance to ___ in Istanbul for two days.",
+      "options": [
+        "check in",
+        "set off",
+        "get off",
+        "stop over"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: stop over. Фразовый глагол stop over означает «останавливаться в пути на короткое время». С городами и странами обычно употребляется in."
+    }
+  },
+  {
+    "id": "pv_int_025_speak_up",
+    "order": 25,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "speak up",
+    "translation": "говорить громче; высказываться",
+    "explanation": "Говорить громче, чтобы вас услышали, либо открыто выразить мнение.",
+    "patterns": [
+      "speak up",
+      "speak up for someone",
+      "speak up about something"
+    ],
+    "related": [
+      "raise your voice — говорить громче"
+    ],
+    "examples": [
+      {
+        "en": "Could you speak up? I cannot hear you.",
+        "ru": "Не могли бы вы говорить громче? Я вас не слышу."
+      },
+      {
+        "en": "Employees should feel able to speak up about safety concerns.",
+        "ru": "Сотрудники должны иметь возможность открыто говорить о проблемах безопасности."
+      },
+      {
+        "en": "She spoke up for a colleague who had been treated unfairly.",
+        "ru": "Она вступилась за коллегу, с которым поступили несправедливо."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "speak more up",
+      "right": "speak up",
+      "note": "Частица up уже передаёт идею более громкой или открытой речи."
+    },
+    "quiz": {
+      "prompt": "The microphone was not working, so the speaker had to ___.",
+      "options": [
+        "speak up",
+        "hang up",
+        "call back",
+        "cut off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: speak up. Фразовый глагол speak up означает «говорить громче; высказываться». Частица up уже передаёт идею более громкой или открытой речи."
+    }
+  },
+  {
+    "id": "pv_int_026_point_out",
+    "order": 26,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "point out",
+    "translation": "указывать; обращать внимание",
+    "explanation": "Сообщить важный факт или обратить внимание на деталь, которую могли не заметить.",
+    "patterns": [
+      "point out a mistake",
+      "point something out",
+      "point out that..."
+    ],
+    "related": [
+      "draw attention to — обратить внимание на"
+    ],
+    "examples": [
+      {
+        "en": "She pointed out a mistake in the report.",
+        "ru": "Она указала на ошибку в отчёте."
+      },
+      {
+        "en": "I should point out that the figures are preliminary.",
+        "ru": "Следует отметить, что эти цифры предварительные."
+      },
+      {
+        "en": "Thank you for pointing it out.",
+        "ru": "Спасибо, что обратили на это внимание."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "point out it",
+      "right": "point it out",
+      "note": "С местоимением объект ставится между point и out."
+    },
+    "quiz": {
+      "prompt": "The editor was the first person to ___ the inconsistency.",
+      "options": [
+        "fill in",
+        "point out",
+        "get across",
+        "call back"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: point out. Фразовый глагол point out означает «указывать; обращать внимание». С местоимением объект ставится между point и out."
+    }
+  },
+  {
+    "id": "pv_int_027_bring_up",
+    "order": 27,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "bring up",
+    "translation": "поднимать тему",
+    "explanation": "Начать разговор о теме, особенно важной, сложной или неожиданной.",
+    "patterns": [
+      "bring up a subject",
+      "bring something up",
+      "bring it up in a meeting"
+    ],
+    "related": [
+      "raise a topic — поднять тему"
+    ],
+    "examples": [
+      {
+        "en": "She brought up the budget during the meeting.",
+        "ru": "Она подняла вопрос бюджета во время встречи."
+      },
+      {
+        "en": "I did not want to bring the problem up at dinner.",
+        "ru": "Я не хотел поднимать эту проблему за ужином."
+      },
+      {
+        "en": "Why did you bring it up now?",
+        "ru": "Почему ты заговорил об этом сейчас?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bring up it",
+      "right": "bring it up",
+      "note": "С местоимением объект ставится между bring и up."
+    },
+    "quiz": {
+      "prompt": "Nobody wanted to ___ the subject of money.",
+      "options": [
+        "hang up",
+        "get on",
+        "bring up",
+        "clean up"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: bring up. Фразовый глагол bring up означает «поднимать тему». С местоимением объект ставится между bring и up."
+    }
+  },
+  {
+    "id": "pv_int_028_get_across",
+    "order": 28,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "get across",
+    "translation": "ясно донести мысль",
+    "explanation": "Сделать идею, сообщение или чувство понятным другим людям.",
+    "patterns": [
+      "get a message across",
+      "get something across to someone",
+      "get across clearly"
+    ],
+    "related": [
+      "communicate clearly — ясно сообщить"
+    ],
+    "examples": [
+      {
+        "en": "The diagram helps get the main idea across.",
+        "ru": "Схема помогает ясно донести основную идею."
+      },
+      {
+        "en": "He struggled to get his point across in English.",
+        "ru": "Ему было трудно донести свою мысль на английском."
+      },
+      {
+        "en": "What message are you trying to get across to the audience?",
+        "ru": "Какую мысль вы пытаетесь донести до аудитории?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get across to people your point",
+      "right": "get your point across to people",
+      "note": "Наиболее естественный порядок: get + object + across + to someone."
+    },
+    "quiz": {
+      "prompt": "Use a simple example so that you can ___ clearly.",
+      "options": [
+        "bring the topic up",
+        "point the error out",
+        "cut the speaker off",
+        "get your message across"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: get your message across. Фразовый глагол get across означает «ясно донести мысль». Наиболее естественный порядок: get + object + across + to someone."
+    }
+  },
+  {
+    "id": "pv_int_029_call_back",
+    "order": 29,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "call back",
+    "translation": "перезванивать",
+    "explanation": "Позвонить человеку в ответ или повторно после пропущенного звонка.",
+    "patterns": [
+      "call somebody back",
+      "call back later",
+      "ask someone to call back"
+    ],
+    "related": [
+      "return a call — перезвонить"
+    ],
+    "examples": [
+      {
+        "en": "I am in a meeting; can I call you back?",
+        "ru": "Я на встрече; можно я тебе перезвоню?"
+      },
+      {
+        "en": "She called the customer back within ten minutes.",
+        "ru": "Она перезвонила клиенту в течение десяти минут."
+      },
+      {
+        "en": "Please leave a message and I will call back later.",
+        "ru": "Пожалуйста, оставьте сообщение, и я перезвоню позже."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "call back him",
+      "right": "call him back",
+      "note": "С местоимением объект ставится между call и back."
+    },
+    "quiz": {
+      "prompt": "I missed Anna’s call, so I will ___ after lunch.",
+      "options": [
+        "call her back",
+        "hang up on her",
+        "fill her in",
+        "cut her off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: call her back. Фразовый глагол call back означает «перезванивать». С местоимением объект ставится между call и back."
+    }
+  },
+  {
+    "id": "pv_int_030_hang_up",
+    "order": 30,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "hang up",
+    "translation": "заканчивать телефонный разговор",
+    "explanation": "Завершить телефонный разговор, положив трубку или нажав кнопку завершения.",
+    "patterns": [
+      "hang up",
+      "hang up the phone",
+      "hang up on someone"
+    ],
+    "related": [
+      "end the call — закончить звонок"
+    ],
+    "examples": [
+      {
+        "en": "Do not hang up; I need to ask one more question.",
+        "ru": "Не вешай трубку: мне нужно задать ещё один вопрос."
+      },
+      {
+        "en": "He hung up before I could reply.",
+        "ru": "Он положил трубку, прежде чем я успел ответить."
+      },
+      {
+        "en": "She was angry because he hung up on her.",
+        "ru": "Она разозлилась, потому что он бросил трубку во время разговора с ней."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hang off the phone",
+      "right": "hang up the phone",
+      "note": "Для завершения звонка используется up, а не off."
+    },
+    "quiz": {
+      "prompt": "The line went silent because the caller had ___.",
+      "options": [
+        "called back",
+        "hung up",
+        "spoken up",
+        "checked in"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: hung up. Фразовый глагол hang up означает «заканчивать телефонный разговор». Для завершения звонка используется up, а не off."
+    }
+  },
+  {
+    "id": "pv_int_031_cut_off",
+    "order": 31,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "cut off",
+    "translation": "прерывать; разъединять",
+    "explanation": "Внезапно прервать разговор, связь или речь; часто из-за технической проблемы.",
+    "patterns": [
+      "cut somebody off",
+      "be cut off",
+      "the call was cut off"
+    ],
+    "related": [
+      "disconnect — разъединить"
+    ],
+    "examples": [
+      {
+        "en": "We were cut off in the middle of the call.",
+        "ru": "Связь оборвалась в середине разговора."
+      },
+      {
+        "en": "Please do not cut me off while I am explaining.",
+        "ru": "Пожалуйста, не перебивай меня, пока я объясняю."
+      },
+      {
+        "en": "The storm cut off phone service in several villages.",
+        "ru": "Из-за шторма телефонная связь пропала в нескольких деревнях."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cut off me",
+      "right": "cut me off",
+      "note": "С местоимением объект ставится между cut и off."
+    },
+    "quiz": {
+      "prompt": "The poor signal suddenly ___ during the interview.",
+      "options": [
+        "called us back",
+        "filled us in",
+        "cut us off",
+        "brought us up"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: cut us off. Фразовый глагол cut off означает «прерывать; разъединять». С местоимением объект ставится между cut и off."
+    }
+  },
+  {
+    "id": "pv_int_032_fill_in",
+    "order": 32,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "fill in",
+    "translation": "ввести в курс дела",
+    "explanation": "В конструкции fill somebody in — сообщить человеку недостающую информацию о событии или ситуации.",
+    "patterns": [
+      "fill somebody in",
+      "fill someone in on something",
+      "be filled in on the details"
+    ],
+    "related": [
+      "brief someone — кратко проинформировать"
+    ],
+    "examples": [
+      {
+        "en": "Can you fill me in on what happened?",
+        "ru": "Можешь ввести меня в курс того, что произошло?"
+      },
+      {
+        "en": "I will fill the new manager in before the meeting.",
+        "ru": "Я введу нового руководителя в курс дела перед встречей."
+      },
+      {
+        "en": "She had already been filled in on the changes.",
+        "ru": "Её уже проинформировали об изменениях."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fill in me on the news",
+      "right": "fill me in on the news",
+      "note": "Человек ставится между fill и in; тема вводится предлогом on."
+    },
+    "quiz": {
+      "prompt": "I missed the first half of the meeting, so could you ___?",
+      "options": [
+        "call me back",
+        "cut me off",
+        "point me out",
+        "fill me in"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: fill me in. Фразовый глагол fill in означает «ввести в курс дела». Человек ставится между fill и in; тема вводится предлогом on."
+    }
+  },
+  {
+    "id": "pv_int_033_get_along_with",
+    "order": 33,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "get along with",
+    "translation": "ладить с кем-либо",
+    "explanation": "Иметь хорошие или по крайней мере спокойные отношения с человеком.",
+    "patterns": [
+      "get along with someone",
+      "get along well",
+      "not get along"
+    ],
+    "related": [
+      "get on with — ладить с"
+    ],
+    "examples": [
+      {
+        "en": "I get along well with my neighbours.",
+        "ru": "Я хорошо лажу с соседями."
+      },
+      {
+        "en": "Do you get along with your new manager?",
+        "ru": "Ты ладишь со своим новым руководителем?"
+      },
+      {
+        "en": "The two brothers have never really got along.",
+        "ru": "Эти два брата никогда особенно не ладили."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get along someone",
+      "right": "get along with someone",
+      "note": "Перед человеком требуется with."
+    },
+    "quiz": {
+      "prompt": "Although they have different personalities, they ___ each other very well.",
+      "options": [
+        "get along with",
+        "fall out with",
+        "let down",
+        "run into"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: get along with. Фразовый глагол get along with означает «ладить с кем-либо». Перед человеком требуется with."
+    }
+  },
+  {
+    "id": "pv_int_034_fall_out_with",
+    "order": 34,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "fall out with",
+    "translation": "поссориться с кем-либо",
+    "explanation": "Перестать дружить или временно испортить отношения из-за ссоры.",
+    "patterns": [
+      "fall out with someone",
+      "fall out over something",
+      "have a falling-out"
+    ],
+    "related": [
+      "have an argument with — поссориться с"
+    ],
+    "examples": [
+      {
+        "en": "She fell out with a close friend over money.",
+        "ru": "Она поссорилась с близкой подругой из-за денег."
+      },
+      {
+        "en": "They had fallen out and were not speaking.",
+        "ru": "Они поссорились и не разговаривали."
+      },
+      {
+        "en": "Why did you fall out with him?",
+        "ru": "Почему ты с ним поссорился?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fall out someone",
+      "right": "fall out with someone",
+      "note": "Перед человеком требуется with; причина часто вводится over."
+    },
+    "quiz": {
+      "prompt": "Leo and Sam ___ each other after a disagreement about the project.",
+      "options": [
+        "made up with",
+        "fell out with",
+        "got along with",
+        "stood by"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: fell out with. Фразовый глагол fall out with означает «поссориться с кем-либо». Перед человеком требуется with; причина часто вводится over."
+    }
+  },
+  {
+    "id": "pv_int_035_make_up",
+    "order": 35,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "make up",
+    "translation": "помириться",
+    "explanation": "Восстановить хорошие отношения после ссоры.",
+    "patterns": [
+      "make up",
+      "make up with someone",
+      "kiss and make up"
+    ],
+    "related": [
+      "reconpvle — помириться"
+    ],
+    "examples": [
+      {
+        "en": "They argued in the morning but made up by lunchtime.",
+        "ru": "Они поссорились утром, но к обеду помирились."
+      },
+      {
+        "en": "I hope you make up with your sister soon.",
+        "ru": "Надеюсь, ты скоро помиришься с сестрой."
+      },
+      {
+        "en": "It took them several weeks to make up.",
+        "ru": "Им потребовалось несколько недель, чтобы помириться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make up someone after an argument",
+      "right": "make up with someone after an argument",
+      "note": "В значении «помириться с кем-либо» требуется with."
+    },
+    "quiz": {
+      "prompt": "After talking honestly, the two friends finally ___.",
+      "options": [
+        "fell out",
+        "broke down",
+        "made up",
+        "gave up"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: made up. Фразовый глагол make up означает «помириться». В значении «помириться с кем-либо» требуется with."
+    }
+  },
+  {
+    "id": "pv_int_036_cheer_up",
+    "order": 36,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "cheer up",
+    "translation": "взбодриться; подбодрить",
+    "explanation": "Стать счастливее или помочь другому человеку почувствовать себя лучше.",
+    "patterns": [
+      "cheer up",
+      "cheer somebody up",
+      "cheer yourself up"
+    ],
+    "related": [
+      "feel better — почувствовать себя лучше"
+    ],
+    "examples": [
+      {
+        "en": "Cheer up; things may improve tomorrow.",
+        "ru": "Не унывай: завтра всё может стать лучше."
+      },
+      {
+        "en": "The message from her friend cheered her up.",
+        "ru": "Сообщение от подруги подняло ей настроение."
+      },
+      {
+        "en": "We bought him a small gift to cheer him up.",
+        "ru": "Мы купили ему небольшой подарок, чтобы подбодрить его."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cheer up her",
+      "right": "cheer her up",
+      "note": "С местоимением объект ставится между cheer и up."
+    },
+    "quiz": {
+      "prompt": "When I feel sad, a walk in the sunshine usually helps me ___.",
+      "options": [
+        "calm down",
+        "give up",
+        "get over",
+        "cheer up"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: cheer up. Фразовый глагол cheer up означает «взбодриться; подбодрить». С местоимением объект ставится между cheer и up."
+    }
+  },
+  {
+    "id": "pv_int_037_calm_down",
+    "order": 37,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "calm down",
+    "translation": "успокаиваться; успокаивать",
+    "explanation": "Стать менее расстроенным, сердитым или возбуждённым либо помочь кому-то успокоиться.",
+    "patterns": [
+      "calm down",
+      "calm somebody down",
+      "take time to calm down"
+    ],
+    "related": [
+      "settle down — успокоиться"
+    ],
+    "examples": [
+      {
+        "en": "Take a few deep breaths and calm down.",
+        "ru": "Сделай несколько глубоких вдохов и успокойся."
+      },
+      {
+        "en": "It took several minutes to calm the child down.",
+        "ru": "Потребовалось несколько минут, чтобы успокоить ребёнка."
+      },
+      {
+        "en": "She waited until everyone had calmed down.",
+        "ru": "Она подождала, пока все успокоятся."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "calm down him",
+      "right": "calm him down",
+      "note": "С местоимением объект ставится между calm и down."
+    },
+    "quiz": {
+      "prompt": "The patient was panicking, so the nurse spoke quietly to help him ___.",
+      "options": [
+        "calm down",
+        "cheer up",
+        "run into",
+        "set off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: calm down. Фразовый глагол calm down означает «успокаиваться; успокаивать». С местоимением объект ставится между calm и down."
+    }
+  },
+  {
+    "id": "pv_int_038_look_after",
+    "order": 38,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "look after",
+    "translation": "заботиться; присматривать",
+    "explanation": "Нести ответственность за человека, животное или вещь и заботиться о них.",
+    "patterns": [
+      "look after a child",
+      "look after yourself",
+      "look after someone’s pet"
+    ],
+    "related": [
+      "take care of — заботиться о"
+    ],
+    "examples": [
+      {
+        "en": "Could you look after my cat this weekend?",
+        "ru": "Не мог бы ты присмотреть за моей кошкой в эти выходные?"
+      },
+      {
+        "en": "She stayed home to look after her father.",
+        "ru": "Она осталась дома, чтобы ухаживать за отцом."
+      },
+      {
+        "en": "You need to look after yourself as well.",
+        "ru": "Тебе также нужно заботиться о себе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "look after to the baby",
+      "right": "look after the baby",
+      "note": "После look after дополнительный предлог не нужен."
+    },
+    "quiz": {
+      "prompt": "Our neighbours agreed to ___ the dog while we were away.",
+      "options": [
+        "let down",
+        "look after",
+        "turn out",
+        "hand in"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: look after. Фразовый глагол look after означает «заботиться; присматривать». После look after дополнительный предлог не нужен."
+    }
+  },
+  {
+    "id": "pv_int_039_stand_by",
+    "order": 39,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "stand by",
+    "translation": "поддерживать; оставаться верным",
+    "explanation": "Продолжать поддерживать человека, особенно в трудной ситуации.",
+    "patterns": [
+      "stand by someone",
+      "stand by a decision",
+      "stand by your word"
+    ],
+    "related": [
+      "support — поддерживать"
+    ],
+    "examples": [
+      {
+        "en": "Her family stood by her throughout the trial.",
+        "ru": "Семья поддерживала её на протяжении всего судебного процесса."
+      },
+      {
+        "en": "I will stand by you whatever happens.",
+        "ru": "Я буду рядом и поддержу тебя, что бы ни случилось."
+      },
+      {
+        "en": "The company said it stood by its original decision.",
+        "ru": "Компания заявила, что придерживается первоначального решения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "stand someone by",
+      "right": "stand by someone",
+      "note": "В этом значении фразовый глагол не разделяется."
+    },
+    "quiz": {
+      "prompt": "True friends ___ you when life becomes difficult.",
+      "options": [
+        "let down",
+        "fall out with",
+        "stand by",
+        "cut off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: stand by. Фразовый глагол stand by означает «поддерживать; оставаться верным». В этом значении фразовый глагол не разделяется."
+    }
+  },
+  {
+    "id": "pv_int_040_let_down",
+    "order": 40,
+    "level": "Intermediate",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "let down",
+    "translation": "подвести; разочаровать",
+    "explanation": "Не выполнить обещание или ожидание и тем самым разочаровать человека.",
+    "patterns": [
+      "let somebody down",
+      "feel let down",
+      "never let someone down"
+    ],
+    "related": [
+      "disappoint — разочаровать"
+    ],
+    "examples": [
+      {
+        "en": "I am sorry I let you down.",
+        "ru": "Мне жаль, что я тебя подвёл."
+      },
+      {
+        "en": "The supplier let us down at the last minute.",
+        "ru": "Поставщик подвёл нас в последний момент."
+      },
+      {
+        "en": "She felt badly let down by the organisation.",
+        "ru": "Она почувствовала, что организация сильно её подвела."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "let down me",
+      "right": "let me down",
+      "note": "С местоимением объект ставится между let и down."
+    },
+    "quiz": {
+      "prompt": "He promised to help, and I hope he does not ___ us.",
+      "options": [
+        "stand by",
+        "make up",
+        "look after",
+        "let down"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: let down. Фразовый глагол let down означает «подвести; разочаровать». С местоимением объект ставится между let и down."
+    }
+  },
+  {
+    "id": "pv_int_041_come_in",
+    "order": 41,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "come in",
+    "translation": "входить",
+    "explanation": "Переместиться внутрь помещения или пространства по направлению к говорящему.",
+    "patterns": [
+      "come in",
+      "come in through the door",
+      "invite someone to come in"
+    ],
+    "related": [
+      "enter — войти"
+    ],
+    "examples": [
+      {
+        "en": "Come in and take a seat.",
+        "ru": "Входите и садитесь."
+      },
+      {
+        "en": "A cold wind came in through the open window.",
+        "ru": "Холодный ветер проник через открытое окно."
+      },
+      {
+        "en": "She knocked before coming in.",
+        "ru": "Она постучала, прежде чем войти."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "come in the room",
+      "right": "come into the room / come in",
+      "note": "С названным местом обычно употребляется into; без дополнения достаточно come in."
+    },
+    "quiz": {
+      "prompt": "Someone is knocking; ask them to ___.",
+      "options": [
+        "come in",
+        "go out",
+        "move out",
+        "get off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: come in. Фразовый глагол come in означает «входить». С названным местом обычно употребляется into; без дополнения достаточно come in."
+    }
+  },
+  {
+    "id": "pv_int_042_go_out",
+    "order": 42,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "go out",
+    "translation": "выходить; идти куда-либо развлекаться",
+    "explanation": "Покинуть помещение либо пойти в ресторан, кино или другое место для отдыха.",
+    "patterns": [
+      "go out",
+      "go out with friends",
+      "go out for dinner"
+    ],
+    "related": [
+      "leave the house — выйти из дома"
+    ],
+    "examples": [
+      {
+        "en": "We rarely go out during the week.",
+        "ru": "Мы редко куда-либо ходим по будням."
+      },
+      {
+        "en": "She went out for dinner with colleagues.",
+        "ru": "Она пошла ужинать с коллегами."
+      },
+      {
+        "en": "Do not go out without a coat.",
+        "ru": "Не выходи без пальто."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "go out from the house",
+      "right": "go out of the house",
+      "note": "Если указывается место, используется out of; без места достаточно go out."
+    },
+    "quiz": {
+      "prompt": "It is Friday evening, so we are planning to ___ for a meal.",
+      "options": [
+        "come in",
+        "go out",
+        "move in",
+        "hand in"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: go out. Фразовый глагол go out означает «выходить; идти куда-либо развлекаться». Если указывается место, используется out of; без места достаточно go out."
+    }
+  },
+  {
+    "id": "pv_int_043_come_back",
+    "order": 43,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "come back",
+    "translation": "возвращаться к говорящему или исходной точке",
+    "explanation": "Вернуться в место, где находится говорящий, или в место, воспринимаемое как текущая точка отсчёта.",
+    "patterns": [
+      "come back",
+      "come back home",
+      "come back from a trip"
+    ],
+    "related": [
+      "return — вернуться"
+    ],
+    "examples": [
+      {
+        "en": "What time will you come back?",
+        "ru": "Во сколько ты вернёшься?"
+      },
+      {
+        "en": "She came back from Spain on Monday.",
+        "ru": "Она вернулась из Испании в понедельник."
+      },
+      {
+        "en": "Please come back and see us soon.",
+        "ru": "Пожалуйста, приезжай к нам снова."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "come back to home",
+      "right": "come back home",
+      "note": "Перед home обычно не употребляется to."
+    },
+    "quiz": {
+      "prompt": "Take the keys with you and ___ home before midnight.",
+      "options": [
+        "go out",
+        "move out",
+        "come back",
+        "set off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: come back. Фразовый глагол come back означает «возвращаться к говорящему или исходной точке». Перед home обычно не употребляется to."
+    }
+  },
+  {
+    "id": "pv_int_044_go_back",
+    "order": 44,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "go back",
+    "translation": "возвращаться туда",
+    "explanation": "Вернуться в другое, ранее покинутое место; направление обычно рассматривается как удаление от говорящего.",
+    "patterns": [
+      "go back",
+      "go back to work",
+      "go back home"
+    ],
+    "related": [
+      "return — вернуться"
+    ],
+    "examples": [
+      {
+        "en": "I need to go back to the office.",
+        "ru": "Мне нужно вернуться в офис."
+      },
+      {
+        "en": "They went back home after the concert.",
+        "ru": "Они вернулись домой после концерта."
+      },
+      {
+        "en": "Would you ever go back to that hotel?",
+        "ru": "Ты бы когда-нибудь вернулся в тот отель?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "go back to home",
+      "right": "go back home",
+      "note": "Перед home предлог to обычно опускается."
+    },
+    "quiz": {
+      "prompt": "I left my wallet at the café, so I had to ___.",
+      "options": [
+        "come in",
+        "drop off",
+        "speak up",
+        "go back"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: go back. Фразовый глагол go back означает «возвращаться туда». Перед home предлог to обычно опускается."
+    }
+  },
+  {
+    "id": "pv_int_045_move_in",
+    "order": 45,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "move in",
+    "translation": "въезжать в новое жильё",
+    "explanation": "Начать жить в новом доме или квартире, перевезя туда свои вещи.",
+    "patterns": [
+      "move in",
+      "move in with someone",
+      "move into a flat"
+    ],
+    "related": [
+      "settle into a new home — обустроиться в новом доме"
+    ],
+    "examples": [
+      {
+        "en": "The new tenants move in next Saturday.",
+        "ru": "Новые жильцы въезжают в следующую субботу."
+      },
+      {
+        "en": "She moved in with a friend while looking for a flat.",
+        "ru": "Она поселилась у подруги, пока искала квартиру."
+      },
+      {
+        "en": "We moved into this house three years ago.",
+        "ru": "Мы въехали в этот дом три года назад."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "move in a new flat",
+      "right": "move into a new flat",
+      "note": "Перед конкретным помещением употребляется into; move in может использоваться без объекта."
+    },
+    "quiz": {
+      "prompt": "The apartment is ready, so we can ___ next week.",
+      "options": [
+        "move in",
+        "move out",
+        "go out",
+        "hang up"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: move in. Фразовый глагол move in означает «въезжать в новое жильё». Перед конкретным помещением употребляется into; move in может использоваться без объекта."
+    }
+  },
+  {
+    "id": "pv_int_046_move_out",
+    "order": 46,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "move out",
+    "translation": "съезжать из жилья",
+    "explanation": "Перестать жить в доме или квартире и перевезти вещи в другое место.",
+    "patterns": [
+      "move out",
+      "move out of a flat",
+      "move out next month"
+    ],
+    "related": [
+      "leave a property — съехать"
+    ],
+    "examples": [
+      {
+        "en": "Our neighbours moved out last week.",
+        "ru": "Наши соседи съехали на прошлой неделе."
+      },
+      {
+        "en": "He is moving out of the flat at the end of June.",
+        "ru": "Он съезжает из квартиры в конце июня."
+      },
+      {
+        "en": "When did you decide to move out?",
+        "ru": "Когда ты решил съехать?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "move out from the flat",
+      "right": "move out of the flat",
+      "note": "С конкретным жильём обычно используется out of."
+    },
+    "quiz": {
+      "prompt": "The rent became too expensive, so they decided to ___.",
+      "options": [
+        "move in",
+        "move out",
+        "come over",
+        "get on"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: move out. Фразовый глагол move out означает «съезжать из жилья». С конкретным жильём обычно используется out of."
+    }
+  },
+  {
+    "id": "pv_int_047_come_over",
+    "order": 47,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "come over",
+    "translation": "заходить в гости",
+    "explanation": "Прийти или приехать к кому-либо домой, обычно ненадолго и неформально.",
+    "patterns": [
+      "come over",
+      "come over for dinner",
+      "come over to someone’s house"
+    ],
+    "related": [
+      "visit — навестить"
+    ],
+    "examples": [
+      {
+        "en": "Would you like to come over for coffee?",
+        "ru": "Хочешь зайти на кофе?"
+      },
+      {
+        "en": "Some friends are coming over tonight.",
+        "ru": "Сегодня вечером к нам придут друзья."
+      },
+      {
+        "en": "She came over to help me pack.",
+        "ru": "Она пришла помочь мне собраться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "come over at my house",
+      "right": "come over to my house",
+      "note": "С конкретным домом употребляется to; без места достаточно come over."
+    },
+    "quiz": {
+      "prompt": "We are cooking dinner tonight; why don't you ___?",
+      "options": [
+        "move out",
+        "check in",
+        "come over",
+        "turn off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: come over. Фразовый глагол come over означает «заходить в гости». С конкретным домом употребляется to; без места достаточно come over."
+    }
+  },
+  {
+    "id": "pv_int_048_run_into",
+    "order": 48,
+    "level": "Intermediate",
+    "category": "MOVEMENT",
+    "phrase": "run into",
+    "translation": "случайно встретить",
+    "explanation": "Неожиданно встретить знакомого человека без предварительной договорённости.",
+    "patterns": [
+      "run into someone",
+      "run into an old friend",
+      "happen to run into"
+    ],
+    "related": [
+      "bump into — случайно встретить"
+    ],
+    "examples": [
+      {
+        "en": "I ran into an old classmate at the station.",
+        "ru": "Я случайно встретил старого одноклассника на вокзале."
+      },
+      {
+        "en": "Guess who I ran into yesterday.",
+        "ru": "Угадай, кого я вчера случайно встретил."
+      },
+      {
+        "en": "She often runs into clients near the office.",
+        "ru": "Она часто случайно встречает клиентов возле офиса."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "run into with someone",
+      "right": "run into someone",
+      "note": "После run into дополнительный предлог with не нужен."
+    },
+    "quiz": {
+      "prompt": "While shopping, I ___ a former colleague I had not seen for years.",
+      "options": [
+        "looked after",
+        "fell out with",
+        "ran out of",
+        "ran into"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: ran into. Фразовый глагол run into означает «случайно встретить». После run into дополнительный предлог with не нужен."
+    }
+  },
+  {
+    "id": "pv_int_049_deal_with",
+    "order": 49,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "deal with",
+    "translation": "иметь дело с; решать проблему",
+    "explanation": "Предпринимать необходимые действия в отношении проблемы, задачи или человека.",
+    "patterns": [
+      "deal with a problem",
+      "deal with a complaint",
+      "be difficult to deal with"
+    ],
+    "related": [
+      "handle — справляться с"
+    ],
+    "examples": [
+      {
+        "en": "We need to deal with this complaint quickly.",
+        "ru": "Нам нужно быстро разобраться с этой жалобой."
+      },
+      {
+        "en": "She deals with customer enquiries.",
+        "ru": "Она занимается запросами клиентов."
+      },
+      {
+        "en": "How would you deal with a difficult colleague?",
+        "ru": "Как бы вы поступили со сложным коллегой?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "deal a problem",
+      "right": "deal with a problem",
+      "note": "Перед объектом требуется with."
+    },
+    "quiz": {
+      "prompt": "The support team is trained to ___ technical problems.",
+      "options": [
+        "deal with",
+        "give up",
+        "run into",
+        "carry on"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: deal with. Фразовый глагол deal with означает «иметь дело с; решать проблему». Перед объектом требуется with."
+    }
+  },
+  {
+    "id": "pv_int_050_sort_out",
+    "order": 50,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "sort out",
+    "translation": "разобраться; уладить",
+    "explanation": "Решить проблему, организовать сложную ситуацию или привести что-то в порядок.",
+    "patterns": [
+      "sort out a problem",
+      "sort something out",
+      "sort it out"
+    ],
+    "related": [
+      "resolve — уладить"
+    ],
+    "examples": [
+      {
+        "en": "We need to sort out the payment problem.",
+        "ru": "Нам нужно решить проблему с оплатой."
+      },
+      {
+        "en": "Do not worry; I will sort it out.",
+        "ru": "Не волнуйся, я всё улажу."
+      },
+      {
+        "en": "They are trying to sort out their differences.",
+        "ru": "Они пытаются уладить свои разногласия."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "sort out it",
+      "right": "sort it out",
+      "note": "С местоимением объект ставится между sort и out."
+    },
+    "quiz": {
+      "prompt": "There is a mistake in the booking, but the hotel has promised to ___.",
+      "options": [
+        "put it off",
+        "sort it out",
+        "break it down",
+        "give it up"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: sort it out. Фразовый глагол sort out означает «разобраться; уладить». С местоимением объект ставится между sort и out."
+    }
+  },
+  {
+    "id": "pv_int_051_figure_out",
+    "order": 51,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "figure out",
+    "translation": "понять; найти решение",
+    "explanation": "Понять что-либо после размышления или найти способ решить задачу.",
+    "patterns": [
+      "figure out a problem",
+      "figure something out",
+      "figure out how/why..."
+    ],
+    "related": [
+      "work out — разобраться"
+    ],
+    "examples": [
+      {
+        "en": "I cannot figure out how this app works.",
+        "ru": "Я не могу понять, как работает это приложение."
+      },
+      {
+        "en": "We finally figured the problem out.",
+        "ru": "Мы наконец разобрались с проблемой."
+      },
+      {
+        "en": "She is trying to figure out what went wrong.",
+        "ru": "Она пытается понять, что пошло не так."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "figure out it",
+      "right": "figure it out",
+      "note": "С местоимением объект ставится между figure и out."
+    },
+    "quiz": {
+      "prompt": "Give me a moment; I am trying to ___ the best route.",
+      "options": [
+        "bring up",
+        "carry out",
+        "figure out",
+        "get over"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: figure out. Фразовый глагол figure out означает «понять; найти решение». С местоимением объект ставится между figure и out."
+    }
+  },
+  {
+    "id": "pv_int_052_give_up",
+    "order": 52,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "give up",
+    "translation": "сдаваться; прекращать попытки",
+    "explanation": "Перестать пытаться сделать что-либо либо отказаться от привычки или занятия.",
+    "patterns": [
+      "give up",
+      "give up doing something",
+      "give something up"
+    ],
+    "related": [
+      "quit — бросить, прекратить"
+    ],
+    "examples": [
+      {
+        "en": "Do not give up after one mistake.",
+        "ru": "Не сдавайся после одной ошибки."
+      },
+      {
+        "en": "He gave up smoking last year.",
+        "ru": "В прошлом году он бросил курить."
+      },
+      {
+        "en": "The puzzle was difficult, but she refused to give it up.",
+        "ru": "Головоломка была сложной, но она отказалась бросить попытки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "give up to learn",
+      "right": "give up learning",
+      "note": "После give up в значении прекращения действия употребляется форма -ing."
+    },
+    "quiz": {
+      "prompt": "The first solution failed, but the team did not ___.",
+      "options": [
+        "carry out",
+        "check in",
+        "move out",
+        "give up"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: give up. Фразовый глагол give up означает «сдаваться; прекращать попытки». После give up в значении прекращения действия употребляется форма -ing."
+    }
+  },
+  {
+    "id": "pv_int_053_carry_on",
+    "order": 53,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "carry on",
+    "translation": "продолжать",
+    "explanation": "Продолжать действие, несмотря на трудность, паузу или помеху.",
+    "patterns": [
+      "carry on",
+      "carry on doing something",
+      "carry on with something"
+    ],
+    "related": [
+      "continue — продолжать"
+    ],
+    "examples": [
+      {
+        "en": "Please carry on with your work.",
+        "ru": "Пожалуйста, продолжайте работу."
+      },
+      {
+        "en": "She carried on talking despite the interruption.",
+        "ru": "Она продолжала говорить, несмотря на помеху."
+      },
+      {
+        "en": "It was raining, but the match carried on.",
+        "ru": "Шёл дождь, но матч продолжался."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "carry on to work",
+      "right": "carry on working / carry on with the work",
+      "note": "После carry on обычно употребляется форма -ing или конструкция with + существительное."
+    },
+    "quiz": {
+      "prompt": "The lights went out, but the speaker decided to ___ with the presentation.",
+      "options": [
+        "carry on",
+        "give up",
+        "check out",
+        "turn off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: carry on. Фразовый глагол carry on означает «продолжать». После carry on обычно употребляется форма -ing или конструкция with + существительное."
+    }
+  },
+  {
+    "id": "pv_int_054_get_over",
+    "order": 54,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "get over",
+    "translation": "оправиться; преодолеть",
+    "explanation": "Восстановиться после болезни, неприятного события или сильного чувства.",
+    "patterns": [
+      "get over an illness",
+      "get over a disappointment",
+      "find it hard to get over"
+    ],
+    "related": [
+      "recover from — оправиться от"
+    ],
+    "examples": [
+      {
+        "en": "It took him weeks to get over the flu.",
+        "ru": "Ему потребовались недели, чтобы оправиться от гриппа."
+      },
+      {
+        "en": "She has not fully got over the disappointment.",
+        "ru": "Она ещё не полностью оправилась от разочарования."
+      },
+      {
+        "en": "You will get over the shock in time.",
+        "ru": "Со временем ты оправишься от шока."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get over from the illness",
+      "right": "get over the illness",
+      "note": "После get over дополнительный предлог from не нужен."
+    },
+    "quiz": {
+      "prompt": "It took Maya several months to ___ the injury.",
+      "options": [
+        "run out of",
+        "get over",
+        "put on",
+        "hand in"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: get over. Фразовый глагол get over означает «оправиться; преодолеть». После get over дополнительный предлог from не нужен."
+    }
+  },
+  {
+    "id": "pv_int_055_break_down",
+    "order": 55,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "break down",
+    "translation": "ломаться; переставать работать",
+    "explanation": "О машине или устройстве: неожиданно перестать работать; также о человеке — потерять эмоциональный контроль.",
+    "patterns": [
+      "a car breaks down",
+      "the system broke down",
+      "break down in tears"
+    ],
+    "related": [
+      "stop working — перестать работать"
+    ],
+    "examples": [
+      {
+        "en": "Our car broke down on the way home.",
+        "ru": "Наша машина сломалась по дороге домой."
+      },
+      {
+        "en": "The heating system has broken down again.",
+        "ru": "Система отопления снова сломалась."
+      },
+      {
+        "en": "She broke down in tears after hearing the news.",
+        "ru": "Услышав новость, она расплакалась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "the car was broken down yesterday",
+      "right": "the car broke down yesterday",
+      "note": "Для неожиданной поломки обычно используется непереходная активная форма break down."
+    },
+    "quiz": {
+      "prompt": "The lift ___ between the third and fourth floors.",
+      "options": [
+        "turned on",
+        "carried out",
+        "broke down",
+        "made up"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: broke down. Фразовый глагол break down означает «ломаться; переставать работать». Для неожиданной поломки обычно используется непереходная активная форма break down."
+    }
+  },
+  {
+    "id": "pv_int_056_come_up_with",
+    "order": 56,
+    "level": "Intermediate",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "come up with",
+    "translation": "придумывать; предлагать",
+    "explanation": "Создать идею, план, ответ или решение после размышления.",
+    "patterns": [
+      "come up with an idea",
+      "come up with a solution",
+      "come up with a name"
+    ],
+    "related": [
+      "think of — придумать"
+    ],
+    "examples": [
+      {
+        "en": "We need to come up with a better plan.",
+        "ru": "Нам нужно придумать план получше."
+      },
+      {
+        "en": "She came up with an elegant solution.",
+        "ru": "Она предложила изящное решение."
+      },
+      {
+        "en": "Can anyone come up with a suitable name?",
+        "ru": "Кто-нибудь может придумать подходящее название?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "come up an idea",
+      "right": "come up with an idea",
+      "note": "Перед объектом требуется with."
+    },
+    "quiz": {
+      "prompt": "After a long discussion, the team ___ a practical solution.",
+      "options": [
+        "gave up",
+        "broke down",
+        "carried on",
+        "came up with"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: came up with. Фразовый глагол come up with означает «придумывать; предлагать». Перед объектом требуется with."
+    }
+  }
+]

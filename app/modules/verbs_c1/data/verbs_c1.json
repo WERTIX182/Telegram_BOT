@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "verb_c1_001_acknowledge",
+    "order": 1,
+    "level": "C1",
+    "category": "Formal recognition",
+    "title_en": "acknowledge",
+    "title_ru": "признавать, подтверждать",
+    "rule": "Acknowledge употребляется, когда говорящий официально или нейтрально признаёт факт, проблему, заслугу или получение чего-либо. Возможны модели с существительным, that-clause и формой -ing.",
+    "forms": [
+      "acknowledge something",
+      "acknowledge that ...",
+      "acknowledge doing something / be acknowledged as ..."
+    ],
+    "meanings": [
+      "признать факт или проблему",
+      "подтвердить получение",
+      "признать чей-либо статус или заслугу"
+    ],
+    "contrast": "Admit чаще подчёркивает неохотное признание ошибки или вины; acknowledge может быть нейтральным и официальным.",
+    "examples": [
+      {
+        "en": "The report acknowledges that the reform created new risks.",
+        "ru": "В отчёте признаётся, что реформа создала новые риски."
+      },
+      {
+        "en": "She acknowledged receiving the documents.",
+        "ru": "Она подтвердила получение документов."
+      },
+      {
+        "en": "He is widely acknowledged as a leading expert.",
+        "ru": "Его широко признают ведущим специалистом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The committee acknowledged about the problem.",
+      "right": "The committee acknowledged the problem.",
+      "note": "После acknowledge прямое дополнение употребляется без about."
+    },
+    "quiz": {
+      "prompt": "Complete: The review ___ that the original estimate was too optimistic.",
+      "options": [
+        "acknowledges",
+        "advocates",
+        "elicits",
+        "allocates"
+      ],
+      "correct_index": 0,
+      "explanation": "Acknowledge that означает прямо признать факт или вывод."
+    }
+  },
+  {
+    "id": "verb_c1_002_advocate",
+    "order": 2,
+    "level": "C1",
+    "category": "Policy and argument",
+    "title_en": "advocate",
+    "title_ru": "отстаивать, выступать за",
+    "rule": "Advocate означает публично или последовательно поддерживать идею, политику или действие. После глагола обычно употребляется существительное или форма -ing.",
+    "forms": [
+      "advocate something",
+      "advocate doing something",
+      "advocate that ... should ..."
+    ],
+    "meanings": [
+      "выступать за идею или реформу",
+      "отстаивать определённый подход"
+    ],
+    "contrast": "Recommend часто относится к практическому совету; advocate выражает более устойчивую публичную позицию.",
+    "examples": [
+      {
+        "en": "Several experts advocate reducing the tax burden on small firms.",
+        "ru": "Несколько экспертов выступают за снижение налоговой нагрузки на малые фирмы."
+      },
+      {
+        "en": "The organisation advocates greater transparency.",
+        "ru": "Организация выступает за большую прозрачность."
+      },
+      {
+        "en": "She advocated that the decision should be reviewed.",
+        "ru": "Она настаивала на пересмотре решения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They advocate to introduce a phased transition.",
+      "right": "They advocate introducing a phased transition.",
+      "note": "После advocate в значении «выступать за действие» употребляется форма -ing."
+    },
+    "quiz": {
+      "prompt": "Choose the verb meaning “publicly support”: The committee ___ introducing a phased transition.",
+      "options": [
+        "anticipated",
+        "advocated",
+        "conceded",
+        "hampered"
+      ],
+      "correct_index": 1,
+      "explanation": "Advocated introducing — нормативная модель для выражения поддержки предлагаемого действия."
+    }
+  },
+  {
+    "id": "verb_c1_003_allege",
+    "order": 3,
+    "level": "C1",
+    "category": "Reporting claims",
+    "title_en": "allege",
+    "title_ru": "утверждать без доказательств",
+    "rule": "Allege употребляется в формальном стиле, когда сообщается обвинение или утверждение, истинность которого ещё не доказана. Часто встречается в пассивной конструкции.",
+    "forms": [
+      "allege that ...",
+      "be alleged to do / to have done",
+      "allegedly"
+    ],
+    "meanings": [
+      "утверждать без окончательных доказательств",
+      "выдвигать обвинение"
+    ],
+    "contrast": "Claim нейтральнее и шире; allege подчёркивает, что утверждение спорно или не доказано.",
+    "examples": [
+      {
+        "en": "The newspaper alleged that officials had concealed the figures.",
+        "ru": "Газета утверждала, что чиновники скрыли данные."
+      },
+      {
+        "en": "The company is alleged to have breached the agreement.",
+        "ru": "Утверждается, что компания нарушила соглашение."
+      },
+      {
+        "en": "He allegedly received confidential information.",
+        "ru": "Предположительно он получил конфиденциальную информацию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They alleged him that he had accepted a bribe.",
+      "right": "They alleged that he had accepted a bribe.",
+      "note": "После allege обычно следует that-clause; модель allege someone that неверна."
+    },
+    "quiz": {
+      "prompt": "Complete: The prosecution ___ that the records had been altered.",
+      "options": [
+        "acknowledged",
+        "fostered",
+        "alleged",
+        "stipulated"
+      ],
+      "correct_index": 2,
+      "explanation": "Alleged that вводит недоказанное обвинение, что соответствует контексту прокуратуры."
+    }
+  },
+  {
+    "id": "verb_c1_004_anticipate",
+    "order": 4,
+    "level": "C1",
+    "category": "Prediction and planning",
+    "title_en": "anticipate",
+    "title_ru": "предвидеть, ожидать заранее",
+    "rule": "Anticipate означает ожидать событие заранее и часто предполагает подготовку к нему. После anticipate употребляется существительное, that-clause или форма -ing.",
+    "forms": [
+      "anticipate something",
+      "anticipate that ...",
+      "anticipate doing / anticipate something happening"
+    ],
+    "meanings": [
+      "предвидеть развитие событий",
+      "заранее учитывать ожидаемую ситуацию"
+    ],
+    "contrast": "Expect — более нейтральное «ожидать»; anticipate часто связано с предварительным расчётом или подготовкой.",
+    "examples": [
+      {
+        "en": "We anticipate demand rising sharply in the autumn.",
+        "ru": "Мы ожидаем резкого роста спроса осенью."
+      },
+      {
+        "en": "The team had anticipated that negotiations would take longer.",
+        "ru": "Команда заранее предполагала, что переговоры займут больше времени."
+      },
+      {
+        "en": "The system is designed to anticipate potential failures.",
+        "ru": "Система предназначена для прогнозирования возможных сбоев."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We anticipate to face some resistance.",
+      "right": "We anticipate facing some resistance.",
+      "note": "После anticipate действие обычно выражается формой -ing, а не to-infinitive."
+    },
+    "quiz": {
+      "prompt": "Complete: We ___ demand rising sharply once the restrictions are lifted.",
+      "options": [
+        "stipulate",
+        "attribute",
+        "uphold",
+        "anticipate"
+      ],
+      "correct_index": 3,
+      "explanation": "Anticipate something happening — естественная модель для прогнозируемого изменения."
+    }
+  },
+  {
+    "id": "verb_c1_005_ascertain",
+    "order": 5,
+    "level": "C1",
+    "category": "Investigation",
+    "title_en": "ascertain",
+    "title_ru": "установить, выяснить точно",
+    "rule": "Ascertain — формальный глагол со значением «установить с достаточной уверенностью». Обычно относится к фактам, причинам, личности или тому, произошло ли событие.",
+    "forms": [
+      "ascertain something",
+      "ascertain whether / how / why ...",
+      "ascertain that ..."
+    ],
+    "meanings": [
+      "точно установить факт",
+      "выяснить на основании проверки"
+    ],
+    "contrast": "Find out нейтральнее и разговорнее; ascertain подчёркивает систематическую проверку.",
+    "examples": [
+      {
+        "en": "Investigators are trying to ascertain the cause of the failure.",
+        "ru": "Следователи пытаются установить причину сбоя."
+      },
+      {
+        "en": "We could not ascertain whether the data had been verified.",
+        "ru": "Мы не смогли выяснить, были ли данные проверены."
+      },
+      {
+        "en": "The audit ascertained that several payments were duplicated.",
+        "ru": "Аудит установил, что несколько платежей были продублированы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They tried to ascertain about whether the claim was true.",
+      "right": "They tried to ascertain whether the claim was true.",
+      "note": "После ascertain whether предлог about не нужен."
+    },
+    "quiz": {
+      "prompt": "Complete: The inquiry aims to ___ whether any procedures were ignored.",
+      "options": [
+        "ascertain",
+        "evoke",
+        "allocate",
+        "concede"
+      ],
+      "correct_index": 0,
+      "explanation": "Ascertain whether означает установить, имел ли место определённый факт."
+    }
+  },
+  {
+    "id": "verb_c1_006_attribute",
+    "order": 6,
+    "level": "C1",
+    "category": "Causation and credit",
+    "title_en": "attribute",
+    "title_ru": "приписывать, объяснять причиной",
+    "rule": "Attribute связывает результат, качество, цитату или заслугу с определённой причиной или источником. Основная модель — attribute X to Y.",
+    "forms": [
+      "attribute something to something/someone",
+      "be attributed to ...",
+      "an attribute of ..."
+    ],
+    "meanings": [
+      "объяснять результат определённой причиной",
+      "приписывать авторство или заслугу"
+    ],
+    "contrast": "Allocate означает распределять ресурсы; attribute — устанавливать предполагаемую связь или источник.",
+    "examples": [
+      {
+        "en": "Researchers attribute the decline to several interacting factors.",
+        "ru": "Исследователи объясняют спад несколькими взаимосвязанными факторами."
+      },
+      {
+        "en": "The quotation is often attributed to Einstein.",
+        "ru": "Эту цитату часто приписывают Эйнштейну."
+      },
+      {
+        "en": "She attributed her success to careful preparation.",
+        "ru": "Она объясняла свой успех тщательной подготовкой."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The improvement was attributed by better training.",
+      "right": "The improvement was attributed to better training.",
+      "note": "В пассивной конструкции используется be attributed to."
+    },
+    "quiz": {
+      "prompt": "Complete: Analysts ___ the fall in demand to higher borrowing costs.",
+      "options": [
+        "allocated",
+        "attributed",
+        "elicited",
+        "advocated"
+      ],
+      "correct_index": 1,
+      "explanation": "Attribute X to Y — стандартная модель для объяснения причины результата."
+    }
+  },
+  {
+    "id": "verb_c1_007_bolster",
+    "order": 7,
+    "level": "C1",
+    "category": "Support and evidence",
+    "title_en": "bolster",
+    "title_ru": "укреплять, поддерживать",
+    "rule": "Bolster означает сделать позицию, уверенность, систему или показатель сильнее. Глагол часто употребляется с evidence, confidence, argument, economy и support.",
+    "forms": [
+      "bolster confidence",
+      "bolster an argument / a case",
+      "bolster the economy / support"
+    ],
+    "meanings": [
+      "укреплять доказательную базу",
+      "поддерживать уверенность или устойчивость"
+    ],
+    "contrast": "Reinforce близок по значению, но bolster особенно часто относится к дополнительной поддержке уже существующей позиции.",
+    "examples": [
+      {
+        "en": "The new evidence bolsters the case for reform.",
+        "ru": "Новые доказательства укрепляют аргументы в пользу реформы."
+      },
+      {
+        "en": "The announcement was intended to bolster investor confidence.",
+        "ru": "Объявление должно было укрепить доверие инвесторов."
+      },
+      {
+        "en": "Emergency funding helped bolster the regional economy.",
+        "ru": "Экстренное финансирование помогло поддержать региональную экономику."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The figures bolstered up their argument.",
+      "right": "The figures bolstered their argument.",
+      "note": "Bolster обычно не требует частицы up."
+    },
+    "quiz": {
+      "prompt": "Complete: Fresh evidence would ___ the argument that the policy is effective.",
+      "options": [
+        "preclude",
+        "reconcile",
+        "bolster",
+        "yield"
+      ],
+      "correct_index": 2,
+      "explanation": "Bolster an argument означает усилить его дополнительными данными."
+    }
+  },
+  {
+    "id": "verb_c1_008_cease",
+    "order": 8,
+    "level": "C1",
+    "category": "Formal stopping",
+    "title_en": "cease",
+    "title_ru": "прекращать",
+    "rule": "Cease — формальный эквивалент stop. Он употребляется с существительным, формой -ing и to-infinitive; в официальных сообщениях часто встречается cease operations или cease to exist.",
+    "forms": [
+      "cease something / operations",
+      "cease doing something",
+      "cease to do / cease to exist"
+    ],
+    "meanings": [
+      "прекратить деятельность или действие",
+      "перестать существовать или функционировать"
+    ],
+    "contrast": "Stop нейтральнее; cease характерен для официального, юридического и академического стиля.",
+    "examples": [
+      {
+        "en": "The company ceased operations in March.",
+        "ru": "Компания прекратила деятельность в марте."
+      },
+      {
+        "en": "The two sides agreed to cease fighting.",
+        "ru": "Стороны договорились прекратить боевые действия."
+      },
+      {
+        "en": "The distinction has largely ceased to matter.",
+        "ru": "Это различие в значительной степени перестало иметь значение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The manufacturer ceased from producing the model.",
+      "right": "The manufacturer ceased producing the model.",
+      "note": "В современном нейтральном английском после cease обычно используется -ing без from."
+    },
+    "quiz": {
+      "prompt": "Complete: The manufacturer ___ production after repeated safety failures.",
+      "options": [
+        "elicited",
+        "warranted",
+        "fostered",
+        "ceased"
+      ],
+      "correct_index": 3,
+      "explanation": "Ceased production — формальная и естественная конструкция для прекращения выпуска."
+    }
+  },
+  {
+    "id": "verb_c1_009_compel",
+    "order": 9,
+    "level": "C1",
+    "category": "Obligation and force",
+    "title_en": "compel",
+    "title_ru": "вынуждать",
+    "rule": "Compel означает заставить человека действовать из-за закона, обстоятельств или сильного давления. После дополнения используется to-infinitive.",
+    "forms": [
+      "compel someone to do something",
+      "be compelled to do something",
+      "compelling evidence / reason"
+    ],
+    "meanings": [
+      "вынуждать к действию",
+      "создавать непреодолимую необходимость"
+    ],
+    "contrast": "Prompt означает побудить или вызвать реакцию; compel сильнее и подразумевает отсутствие реального выбора.",
+    "examples": [
+      {
+        "en": "The court compelled the agency to release the files.",
+        "ru": "Суд обязал ведомство опубликовать документы."
+      },
+      {
+        "en": "She felt compelled to respond.",
+        "ru": "Она почувствовала, что обязана ответить."
+      },
+      {
+        "en": "The evidence was compelling enough to reopen the case.",
+        "ru": "Доказательства были достаточно убедительными, чтобы возобновить дело."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The regulation compelled firms changing their procedures.",
+      "right": "The regulation compelled firms to change their procedures.",
+      "note": "После compel someone нужен инфинитив с to."
+    },
+    "quiz": {
+      "prompt": "Complete: The court order ___ the agency to disclose the records.",
+      "options": [
+        "compelled",
+        "yielded",
+        "stipulated",
+        "retained"
+      ],
+      "correct_index": 0,
+      "explanation": "Compel someone to do something выражает юридическое принуждение."
+    }
+  },
+  {
+    "id": "verb_c1_010_concede",
+    "order": 10,
+    "level": "C1",
+    "category": "Argument and negotiation",
+    "title_en": "concede",
+    "title_ru": "признать неохотно, уступить",
+    "rule": "Concede употребляется, когда говорящий неохотно признаёт факт, аргумент, поражение или уступает определённый пункт.",
+    "forms": [
+      "concede that ...",
+      "concede a point / defeat",
+      "concede something to someone"
+    ],
+    "meanings": [
+      "неохотно признать правоту или факт",
+      "уступить позицию, право или преимущество"
+    ],
+    "contrast": "Acknowledge может быть нейтральным; concede обычно подразумевает сопротивление или уступку.",
+    "examples": [
+      {
+        "en": "She conceded that the original estimate had been unrealistic.",
+        "ru": "Она признала, что первоначальная оценка была нереалистичной."
+      },
+      {
+        "en": "The minister refused to concede defeat.",
+        "ru": "Министр отказался признать поражение."
+      },
+      {
+        "en": "The company conceded several points during negotiations.",
+        "ru": "Компания уступила по нескольким пунктам в ходе переговоров."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He conceded about being wrong.",
+      "right": "He conceded that he was wrong.",
+      "note": "После concede обычно используется прямое дополнение или that-clause, без about."
+    },
+    "quiz": {
+      "prompt": "Complete: After reviewing the evidence, she ___ that her initial assumption was wrong.",
+      "options": [
+        "hampered",
+        "conceded",
+        "allocated",
+        "elicited"
+      ],
+      "correct_index": 1,
+      "explanation": "Conceded that передаёт неохотное признание ошибочного предположения."
+    }
+  },
+  {
+    "id": "verb_c1_011_deem",
+    "order": 11,
+    "level": "C1",
+    "category": "Formal assessment",
+    "title_en": "deem",
+    "title_ru": "считать, признавать",
+    "rule": "Deem — формальный глагол со значением «считать, признавать». Часто используется в пассиве, особенно в правовых, административных и экспертных текстах.",
+    "forms": [
+      "deem something necessary / acceptable",
+      "deem someone/something to be ...",
+      "be deemed ..."
+    ],
+    "meanings": [
+      "официально считать или классифицировать",
+      "признавать соответствующим критерию"
+    ],
+    "contrast": "Consider нейтральнее; deem звучит более официально и категорично.",
+    "examples": [
+      {
+        "en": "The application was deemed incomplete.",
+        "ru": "Заявка была признана неполной."
+      },
+      {
+        "en": "The measures were deemed necessary to protect public safety.",
+        "ru": "Меры сочли необходимыми для защиты общественной безопасности."
+      },
+      {
+        "en": "The court deemed the evidence inadmissible.",
+        "ru": "Суд признал доказательства недопустимыми."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The panel deemed the proposal as unacceptable.",
+      "right": "The panel deemed the proposal unacceptable.",
+      "note": "После deem дополнение обычно непосредственно соединяется с именной частью без as."
+    },
+    "quiz": {
+      "prompt": "Complete: The evidence was ___ insufficient to support the allegation.",
+      "options": [
+        "elicited",
+        "bolstered",
+        "deemed",
+        "allocated"
+      ],
+      "correct_index": 2,
+      "explanation": "Be deemed + adjective — типичная формальная конструкция оценки."
+    }
+  },
+  {
+    "id": "verb_c1_012_deter",
+    "order": 12,
+    "level": "C1",
+    "category": "Prevention through consequence",
+    "title_en": "deter",
+    "title_ru": "удерживать, отпугивать",
+    "rule": "Deter означает удержать человека от действия с помощью риска, наказания или ожидаемых негативных последствий. Основная модель — deter someone from doing.",
+    "forms": [
+      "deter someone from doing something",
+      "deter crime / investment",
+      "act as a deterrent"
+    ],
+    "meanings": [
+      "отпугивать от действия",
+      "снижать вероятность поведения из-за последствий"
+    ],
+    "contrast": "Prevent физически или фактически не даёт событию произойти; deter влияет на решение человека.",
+    "examples": [
+      {
+        "en": "Higher fines may deter firms from breaking the rules.",
+        "ru": "Более высокие штрафы могут удержать компании от нарушения правил."
+      },
+      {
+        "en": "The uncertainty has deterred investment.",
+        "ru": "Неопределённость сдержала инвестиции."
+      },
+      {
+        "en": "Visible security measures can act as a deterrent.",
+        "ru": "Заметные меры безопасности могут служить сдерживающим фактором."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The penalty deterred them to repeat the offence.",
+      "right": "The penalty deterred them from repeating the offence.",
+      "note": "После deter someone используется from + -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: Stronger penalties may ___ companies from concealing breaches.",
+      "options": [
+        "facilitate",
+        "evoke",
+        "retain",
+        "deter"
+      ],
+      "correct_index": 3,
+      "explanation": "Deter someone from doing — нормативная модель для сдерживания поведения."
+    }
+  },
+  {
+    "id": "verb_c1_013_discern",
+    "order": 13,
+    "level": "C1",
+    "category": "Perception and analysis",
+    "title_en": "discern",
+    "title_ru": "различать, распознавать",
+    "rule": "Discern означает заметить или понять нечто неочевидное, особенно закономерность, различие, мотив или значение.",
+    "forms": [
+      "discern a pattern / difference",
+      "discern whether / how ...",
+      "be difficult to discern"
+    ],
+    "meanings": [
+      "распознать тонкое различие",
+      "выявить скрытую закономерность или смысл"
+    ],
+    "contrast": "Notice относится к самому факту восприятия; discern подчёркивает сложность аналитического распознавания.",
+    "examples": [
+      {
+        "en": "It is difficult to discern a clear pattern in the results.",
+        "ru": "В результатах трудно выявить чёткую закономерность."
+      },
+      {
+        "en": "She could discern no significant difference between the groups.",
+        "ru": "Она не смогла обнаружить существенной разницы между группами."
+      },
+      {
+        "en": "Readers may discern a subtle shift in tone.",
+        "ru": "Читатели могут заметить тонкое изменение тона."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The researchers discerned about a pattern in the data.",
+      "right": "The researchers discerned a pattern in the data.",
+      "note": "Discern — переходный глагол и обычно не требует about."
+    },
+    "quiz": {
+      "prompt": "Complete: Analysts could barely ___ a consistent pattern in the figures.",
+      "options": [
+        "discern",
+        "allocate",
+        "advocate",
+        "trigger"
+      ],
+      "correct_index": 0,
+      "explanation": "Discern a pattern означает распознать неочевидную закономерность."
+    }
+  },
+  {
+    "id": "verb_c1_014_entail",
+    "order": 14,
+    "level": "C1",
+    "category": "Necessary consequence",
+    "title_en": "entail",
+    "title_ru": "влечь за собой, предполагать",
+    "rule": "Entail означает включать что-либо как необходимую часть или неизбежное следствие. После него употребляется существительное или форма -ing.",
+    "forms": [
+      "entail something",
+      "entail doing something",
+      "entail significant costs / risks"
+    ],
+    "meanings": [
+      "неизбежно включать действие или условие",
+      "влечь последствия"
+    ],
+    "contrast": "Involve шире и нейтральнее; entail подчёркивает необходимый или логически следующий компонент.",
+    "examples": [
+      {
+        "en": "The reform would entail restructuring several departments.",
+        "ru": "Реформа потребовала бы реорганизации нескольких отделов."
+      },
+      {
+        "en": "The role entails frequent travel.",
+        "ru": "Эта должность предполагает частые поездки."
+      },
+      {
+        "en": "Failure to comply may entail legal consequences.",
+        "ru": "Несоблюдение требований может повлечь юридические последствия."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The change will entail to revise the entire process.",
+      "right": "The change will entail revising the entire process.",
+      "note": "После entail действие выражается формой -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: The proposal would ___ a complete review of the funding model.",
+      "options": [
+        "retain",
+        "entail",
+        "bolster",
+        "stipulate"
+      ],
+      "correct_index": 1,
+      "explanation": "Entail a review означает включать её как необходимое последствие."
+    }
+  },
+  {
+    "id": "verb_c1_015_elicit",
+    "order": 15,
+    "level": "C1",
+    "category": "Response and information",
+    "title_en": "elicit",
+    "title_ru": "вызывать, извлекать ответ",
+    "rule": "Elicit означает вызвать реакцию, ответ или получить информацию с помощью вопроса, действия или стимула.",
+    "forms": [
+      "elicit a response / reaction",
+      "elicit information from someone",
+      "elicit an answer"
+    ],
+    "meanings": [
+      "вызвать реакцию",
+      "добиться получения информации или ответа"
+    ],
+    "contrast": "Evoke чаще относится к эмоциям и воспоминаниям; elicit — к наблюдаемому ответу или полученной информации.",
+    "examples": [
+      {
+        "en": "The question elicited a surprisingly candid response.",
+        "ru": "Вопрос вызвал неожиданно откровенный ответ."
+      },
+      {
+        "en": "The interviewer tried to elicit more detail from the witness.",
+        "ru": "Интервьюер попытался получить от свидетеля больше подробностей."
+      },
+      {
+        "en": "The announcement elicited widespread criticism.",
+        "ru": "Объявление вызвало широкую критику."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The survey elicited the participants to explain their views.",
+      "right": "The survey elicited detailed responses from the participants.",
+      "note": "Elicit обычно относится к ответу или информации, а не строится как elicit someone to do."
+    },
+    "quiz": {
+      "prompt": "Complete: Open questions are more likely to ___ detailed responses.",
+      "options": [
+        "infer",
+        "preclude",
+        "elicit",
+        "allocate"
+      ],
+      "correct_index": 2,
+      "explanation": "Elicit a response — устойчивое сочетание для получения развёрнутого ответа."
+    }
+  },
+  {
+    "id": "verb_c1_016_evoke",
+    "order": 16,
+    "level": "C1",
+    "category": "Memory and emotion",
+    "title_en": "evoke",
+    "title_ru": "вызывать воспоминания или чувства",
+    "rule": "Evoke означает пробуждать эмоцию, образ, воспоминание или ассоциацию, не обязательно вызывая прямой словесный ответ.",
+    "forms": [
+      "evoke memories / emotions",
+      "evoke an image / atmosphere",
+      "evoke a sense of ..."
+    ],
+    "meanings": [
+      "пробуждать воспоминания",
+      "создавать образ или эмоциональную реакцию"
+    ],
+    "contrast": "Invoke означает ссылаться на закон, принцип или авторитет; evoke — вызывать чувство или образ.",
+    "examples": [
+      {
+        "en": "The photograph evoked memories of her childhood.",
+        "ru": "Фотография вызвала у неё воспоминания о детстве."
+      },
+      {
+        "en": "The music evokes a sense of unease.",
+        "ru": "Музыка создаёт ощущение тревоги."
+      },
+      {
+        "en": "His description vividly evoked the atmosphere of the city.",
+        "ru": "Его описание ярко передало атмосферу города."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The speech invoked memories of the crisis.",
+      "right": "The speech evoked memories of the crisis.",
+      "note": "Для воспоминаний и чувств обычно употребляется evoke, а не invoke."
+    },
+    "quiz": {
+      "prompt": "Complete: The old building ___ memories of a very different era.",
+      "options": [
+        "stipulated",
+        "ascertained",
+        "allocated",
+        "evoked"
+      ],
+      "correct_index": 3,
+      "explanation": "Evoked memories — естественное сочетание для пробуждения воспоминаний."
+    }
+  },
+  {
+    "id": "verb_c1_017_facilitate",
+    "order": 17,
+    "level": "C1",
+    "category": "Process improvement",
+    "title_en": "facilitate",
+    "title_ru": "облегчать, содействовать",
+    "rule": "Facilitate — формальный глагол со значением «сделать процесс легче или возможнее». После него обычно следует существительное или форма -ing.",
+    "forms": [
+      "facilitate something",
+      "facilitate doing something",
+      "facilitate communication / access / cooperation"
+    ],
+    "meanings": [
+      "облегчать процесс",
+      "создавать условия для взаимодействия или доступа"
+    ],
+    "contrast": "Enable подчёркивает возможность; facilitate — уменьшение препятствий и упрощение процесса.",
+    "examples": [
+      {
+        "en": "The platform facilitates collaboration between remote teams.",
+        "ru": "Платформа облегчает сотрудничество между удалёнными командами."
+      },
+      {
+        "en": "Clear guidelines can facilitate decision-making.",
+        "ru": "Чёткие инструкции могут облегчить принятие решений."
+      },
+      {
+        "en": "The agreement facilitated access to the regional market.",
+        "ru": "Соглашение облегчило доступ к региональному рынку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The software facilitates users to share files.",
+      "right": "The software facilitates file sharing.",
+      "note": "После facilitate естественнее использовать существительное или -ing, а не модель someone to do."
+    },
+    "quiz": {
+      "prompt": "Complete: The new procedure is intended to ___ cooperation across departments.",
+      "options": [
+        "facilitate",
+        "deter",
+        "concede",
+        "yield"
+      ],
+      "correct_index": 0,
+      "explanation": "Facilitate cooperation означает создать условия для более лёгкого взаимодействия."
+    }
+  },
+  {
+    "id": "verb_c1_018_foster",
+    "order": 18,
+    "level": "C1",
+    "category": "Long-term development",
+    "title_en": "foster",
+    "title_ru": "способствовать развитию",
+    "rule": "Foster означает постепенно поощрять развитие отношения, качества, среды или процесса.",
+    "forms": [
+      "foster trust / innovation",
+      "foster a culture of ...",
+      "foster cooperation / growth"
+    ],
+    "meanings": [
+      "способствовать развитию",
+      "создавать благоприятную среду"
+    ],
+    "contrast": "Trigger вызывает конкретное событие; foster поддерживает постепенное и длительное развитие.",
+    "examples": [
+      {
+        "en": "The programme is designed to foster trust between the two communities.",
+        "ru": "Программа направлена на укрепление доверия между двумя сообществами."
+      },
+      {
+        "en": "Good leadership can foster a culture of openness.",
+        "ru": "Хорошее руководство может сформировать культуру открытости."
+      },
+      {
+        "en": "The policy may foster innovation in the sector.",
+        "ru": "Политика может способствовать инновациям в отрасли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The initiative aims to foster up cooperation.",
+      "right": "The initiative aims to foster cooperation.",
+      "note": "Foster обычно употребляется без частицы up."
+    },
+    "quiz": {
+      "prompt": "Complete: Regular dialogue can ___ mutual understanding.",
+      "options": [
+        "preclude",
+        "foster",
+        "scrutinise",
+        "stipulate"
+      ],
+      "correct_index": 1,
+      "explanation": "Foster understanding означает постепенно способствовать его развитию."
+    }
+  },
+  {
+    "id": "verb_c1_019_gauge",
+    "order": 19,
+    "level": "C1",
+    "category": "Measurement and judgement",
+    "title_en": "gauge",
+    "title_ru": "оценивать, определять приблизительно",
+    "rule": "Gauge означает приблизительно оценить степень, реакцию, размер или вероятность на основании доступных признаков.",
+    "forms": [
+      "gauge the extent / impact",
+      "gauge public reaction",
+      "gauge whether / how ..."
+    ],
+    "meanings": [
+      "оценить масштаб или интенсивность",
+      "понять реакцию или настроение"
+    ],
+    "contrast": "Measure предполагает более точное измерение; gauge может быть аналитической или приблизительной оценкой.",
+    "examples": [
+      {
+        "en": "It is difficult to gauge the full impact of the decision.",
+        "ru": "Трудно оценить полное влияние решения."
+      },
+      {
+        "en": "The survey was intended to gauge public reaction.",
+        "ru": "Опрос предназначался для оценки реакции общественности."
+      },
+      {
+        "en": "She paused to gauge whether the audience was convinced.",
+        "ru": "Она сделала паузу, чтобы понять, убедилась ли аудитория."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We need to gauge about the level of support.",
+      "right": "We need to gauge the level of support.",
+      "note": "Gauge обычно принимает прямое дополнение без about."
+    },
+    "quiz": {
+      "prompt": "Complete: At this stage, it is hard to ___ how serious the problem is.",
+      "options": [
+        "uphold",
+        "trigger",
+        "gauge",
+        "reconcile"
+      ],
+      "correct_index": 2,
+      "explanation": "Gauge how serious выражает приблизительную оценку степени проблемы."
+    }
+  },
+  {
+    "id": "verb_c1_020_hamper",
+    "order": 20,
+    "level": "C1",
+    "category": "Obstruction",
+    "title_en": "hamper",
+    "title_ru": "мешать, затруднять",
+    "rule": "Hamper означает затруднять процесс, усилия или способность действовать, не обязательно полностью их останавливая.",
+    "forms": [
+      "hamper progress / efforts",
+      "hamper someone’s ability to ...",
+      "be hampered by ..."
+    ],
+    "meanings": [
+      "создавать препятствия",
+      "снижать эффективность действий"
+    ],
+    "contrast": "Prevent означает полностью не допустить; hamper — сделать выполнение труднее или медленнее.",
+    "examples": [
+      {
+        "en": "Poor coordination hampered the emergency response.",
+        "ru": "Плохая координация затруднила экстренное реагирование."
+      },
+      {
+        "en": "The investigation was hampered by a lack of reliable records.",
+        "ru": "Расследование было затруднено отсутствием надёжных записей."
+      },
+      {
+        "en": "Noise can hamper a child’s ability to concentrate.",
+        "ru": "Шум может мешать ребёнку сосредоточиться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The shortage hampered them from completing the work.",
+      "right": "The shortage hampered their efforts to complete the work.",
+      "note": "Hamper обычно принимает существительное или конструкцию someone’s ability/efforts, а не from + -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: Inconsistent data ___ efforts to compare the two studies.",
+      "options": [
+        "bolstered",
+        "elicited",
+        "allocated",
+        "hampered"
+      ],
+      "correct_index": 3,
+      "explanation": "Hamper efforts — естественное сочетание со значением «затруднить усилия»."
+    }
+  },
+  {
+    "id": "verb_c1_021_imply_infer",
+    "order": 21,
+    "level": "C1",
+    "category": "Meaning and deduction",
+    "title_en": "imply / infer",
+    "title_ru": "подразумевать и делать вывод",
+    "rule": "Imply описывает то, что говорящий или данные косвенно сообщают. Infer описывает вывод, который делает слушатель или исследователь на основании признаков.",
+    "forms": [
+      "imply that ...",
+      "infer that ... from ...",
+      "it can be inferred that ..."
+    ],
+    "meanings": [
+      "косвенно подразумевать",
+      "делать логический вывод"
+    ],
+    "contrast": "Источник информации implies; человек, который интерпретирует источник, infers.",
+    "examples": [
+      {
+        "en": "Her reply implied that the offer was no longer available.",
+        "ru": "Её ответ подразумевал, что предложение больше не действует."
+      },
+      {
+        "en": "From the figures, we can infer that demand is weakening.",
+        "ru": "Из цифр можно сделать вывод, что спрос снижается."
+      },
+      {
+        "en": "It should not be inferred that the policy has failed.",
+        "ru": "Не следует делать вывод, что политика провалилась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I implied from the evidence that the claim was false.",
+      "right": "I inferred from the evidence that the claim was false.",
+      "note": "Вывод из доказательств делает говорящий, поэтому нужен infer."
+    },
+    "quiz": {
+      "prompt": "Complete: From the tone of the email, I ___ that the decision had already been made.",
+      "options": [
+        "inferred",
+        "implied",
+        "advocated",
+        "stipulated"
+      ],
+      "correct_index": 0,
+      "explanation": "Infer from означает сделать вывод на основании наблюдаемого признака."
+    }
+  },
+  {
+    "id": "verb_c1_022_justify",
+    "order": 22,
+    "level": "C1",
+    "category": "Reason and legitimacy",
+    "title_en": "justify",
+    "title_ru": "обосновывать, оправдывать",
+    "rule": "Justify означает предоставить достаточное основание для решения, действия, затрат или вывода. После глагола употребляется существительное или форма -ing.",
+    "forms": [
+      "justify something",
+      "justify doing something",
+      "be justified in doing something"
+    ],
+    "meanings": [
+      "обосновать решение",
+      "показать допустимость действия"
+    ],
+    "contrast": "Explain показывает причину; justify показывает, почему действие было разумным, допустимым или необходимым.",
+    "examples": [
+      {
+        "en": "The evidence does not justify changing the policy.",
+        "ru": "Доказательства не оправдывают изменение политики."
+      },
+      {
+        "en": "Can you justify the additional expense?",
+        "ru": "Можете ли вы обосновать дополнительные расходы?"
+      },
+      {
+        "en": "They were justified in refusing the request.",
+        "ru": "У них были основания отказать в просьбе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The results do not justify to abandon the project.",
+      "right": "The results do not justify abandoning the project.",
+      "note": "После justify действие обычно выражается формой -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: The available evidence does not ___ such a far-reaching conclusion.",
+      "options": [
+        "elicit",
+        "justify",
+        "retain",
+        "concede"
+      ],
+      "correct_index": 1,
+      "explanation": "Justify a conclusion означает предоставить достаточные основания для неё."
+    }
+  },
+  {
+    "id": "verb_c1_023_mitigate",
+    "order": 23,
+    "level": "C1",
+    "category": "Risk reduction",
+    "title_en": "mitigate",
+    "title_ru": "смягчать последствия",
+    "rule": "Mitigate означает уменьшить серьёзность риска, ущерба или негативного воздействия, не обязательно устраняя его полностью.",
+    "forms": [
+      "mitigate risk / harm",
+      "mitigate the effects / impact",
+      "mitigation measures"
+    ],
+    "meanings": [
+      "смягчать негативное воздействие",
+      "снижать риск или ущерб"
+    ],
+    "contrast": "Prevent не допускает событие; mitigate уменьшает его тяжесть или последствия.",
+    "examples": [
+      {
+        "en": "The measures are intended to mitigate financial risk.",
+        "ru": "Меры предназначены для снижения финансового риска."
+      },
+      {
+        "en": "Trees can help mitigate the effects of extreme heat.",
+        "ru": "Деревья могут смягчать последствия сильной жары."
+      },
+      {
+        "en": "The company introduced safeguards to mitigate potential harm.",
+        "ru": "Компания ввела защитные меры для уменьшения возможного вреда."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The policy was designed to mitigate against disruption.",
+      "right": "The policy was designed to mitigate disruption.",
+      "note": "В стандартном употреблении mitigate принимает прямое дополнение; mitigate against часто считается смешением с militate against."
+    },
+    "quiz": {
+      "prompt": "Complete: Additional safeguards could ___ the impact of a system failure.",
+      "options": [
+        "evoke",
+        "uphold",
+        "mitigate",
+        "yield"
+      ],
+      "correct_index": 2,
+      "explanation": "Mitigate the impact — устойчивое сочетание для смягчения последствий."
+    }
+  },
+  {
+    "id": "verb_c1_024_outweigh",
+    "order": 24,
+    "level": "C1",
+    "category": "Comparative judgement",
+    "title_en": "outweigh",
+    "title_ru": "перевешивать, быть важнее",
+    "rule": "Outweigh означает быть более значительным, важным или ценным, чем другой фактор. После глагола не употребляется than.",
+    "forms": [
+      "benefits outweigh costs",
+      "advantages outweigh disadvantages",
+      "risks outweigh potential gains"
+    ],
+    "meanings": [
+      "перевешивать по значимости",
+      "оказываться важнее при сравнении"
+    ],
+    "contrast": "Exceed относится к количественному превышению; outweigh — к сравнительной оценке значения или влияния.",
+    "examples": [
+      {
+        "en": "The long-term benefits outweigh the initial expense.",
+        "ru": "Долгосрочные преимущества перевешивают первоначальные расходы."
+      },
+      {
+        "en": "For many users, the risks may outweigh the advantages.",
+        "ru": "Для многих пользователей риски могут перевесить преимущества."
+      },
+      {
+        "en": "These concerns clearly outweigh any short-term gain.",
+        "ru": "Эти опасения явно важнее любой краткосрочной выгоды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The benefits outweigh than the costs.",
+      "right": "The benefits outweigh the costs.",
+      "note": "После outweigh слово than не употребляется."
+    },
+    "quiz": {
+      "prompt": "Complete: The potential benefits may ___ the short-term disruption.",
+      "options": [
+        "deter",
+        "reconcile",
+        "allocate",
+        "outweigh"
+      ],
+      "correct_index": 3,
+      "explanation": "Outweigh напрямую соединяет два сравниваемых фактора без than."
+    }
+  },
+  {
+    "id": "verb_c1_025_pose",
+    "order": 25,
+    "level": "C1",
+    "category": "Risk and challenge",
+    "title_en": "pose",
+    "title_ru": "представлять угрозу, ставить вопрос",
+    "rule": "Pose употребляется в устойчивых сочетаниях pose a threat, risk, challenge, problem или question. Глагол обозначает создание или наличие серьёзной трудности.",
+    "forms": [
+      "pose a threat / risk",
+      "pose a challenge / problem",
+      "pose a question"
+    ],
+    "meanings": [
+      "представлять опасность или проблему",
+      "ставить вопрос для рассмотрения"
+    ],
+    "contrast": "Cause описывает прямое последствие; pose обозначает наличие потенциальной угрозы или задачи.",
+    "examples": [
+      {
+        "en": "The defect could pose a serious safety risk.",
+        "ru": "Дефект может представлять серьёзный риск для безопасности."
+      },
+      {
+        "en": "Remote access poses new challenges for regulators.",
+        "ru": "Удалённый доступ создаёт новые трудности для регулирующих органов."
+      },
+      {
+        "en": "The findings pose an important question.",
+        "ru": "Результаты ставят важный вопрос."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The defect poses as a serious risk.",
+      "right": "The defect poses a serious risk.",
+      "note": "В значении «представлять риск» после pose предлог as не нужен."
+    },
+    "quiz": {
+      "prompt": "Complete: The unresolved fault could ___ a serious threat to users.",
+      "options": [
+        "pose",
+        "foster",
+        "yield",
+        "ascertain"
+      ],
+      "correct_index": 0,
+      "explanation": "Pose a threat — стандартное сочетание для потенциальной опасности."
+    }
+  },
+  {
+    "id": "verb_c1_026_preclude",
+    "order": 26,
+    "level": "C1",
+    "category": "Exclusion and impossibility",
+    "title_en": "preclude",
+    "title_ru": "исключать возможность, препятствовать",
+    "rule": "Preclude — формальный глагол со значением «сделать невозможным» или «не допустить». С человеком используется модель preclude someone from doing.",
+    "forms": [
+      "preclude something",
+      "preclude someone from doing something",
+      "preclude the possibility of ..."
+    ],
+    "meanings": [
+      "исключать возможность",
+      "не позволять действию состояться"
+    ],
+    "contrast": "Prevent близок по значению; preclude звучит формальнее и часто относится к логической, процедурной или юридической невозможности.",
+    "examples": [
+      {
+        "en": "The lack of data precludes any firm conclusion.",
+        "ru": "Отсутствие данных исключает возможность твёрдого вывода."
+      },
+      {
+        "en": "The agreement precludes either party from disclosing the terms.",
+        "ru": "Соглашение запрещает обеим сторонам раскрывать условия."
+      },
+      {
+        "en": "This does not preclude the possibility of further action.",
+        "ru": "Это не исключает возможности дальнейших действий."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The delay precluded us to complete the review.",
+      "right": "The delay precluded us from completing the review.",
+      "note": "После preclude someone используется from + -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: The missing records ___ us from verifying the transaction.",
+      "options": [
+        "facilitated",
+        "precluded",
+        "bolstered",
+        "elicited"
+      ],
+      "correct_index": 1,
+      "explanation": "Preclude someone from doing — нормативная модель полного препятствия."
+    }
+  },
+  {
+    "id": "verb_c1_027_prompt",
+    "order": 27,
+    "level": "C1",
+    "category": "Cause and reaction",
+    "title_en": "prompt",
+    "title_ru": "побуждать, вызывать действие",
+    "rule": "Prompt означает вызвать быструю реакцию, решение или действие. После дополнения используется to-infinitive.",
+    "forms": [
+      "prompt a response / debate",
+      "prompt someone to do something",
+      "be prompted by ..."
+    ],
+    "meanings": [
+      "побуждать человека действовать",
+      "вызывать обсуждение или реакцию"
+    ],
+    "contrast": "Compel означает вынудить; prompt может быть сильным стимулом, но не обязательно лишает выбора.",
+    "examples": [
+      {
+        "en": "The findings prompted the regulator to launch an inquiry.",
+        "ru": "Результаты побудили регулятора начать расследование."
+      },
+      {
+        "en": "The announcement prompted widespread debate.",
+        "ru": "Объявление вызвало широкую дискуссию."
+      },
+      {
+        "en": "Her question prompted me to reconsider the assumption.",
+        "ru": "Её вопрос побудил меня пересмотреть предположение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The report prompted the agency launching an inquiry.",
+      "right": "The report prompted the agency to launch an inquiry.",
+      "note": "После prompt someone употребляется to-infinitive."
+    },
+    "quiz": {
+      "prompt": "Complete: The disclosure ___ the board to order an independent review.",
+      "options": [
+        "retained",
+        "stipulated",
+        "prompted",
+        "upheld"
+      ],
+      "correct_index": 2,
+      "explanation": "Prompt someone to do something выражает действие, вызванное новой информацией."
+    }
+  },
+  {
+    "id": "verb_c1_028_reconcile",
+    "order": 28,
+    "level": "C1",
+    "category": "Resolving inconsistency",
+    "title_en": "reconcile",
+    "title_ru": "согласовывать, примирять",
+    "rule": "Reconcile означает привести в соответствие два противоречащих набора данных, объяснения или интереса. Также употребляется be reconciled to в значении «смириться».",
+    "forms": [
+      "reconcile something with something",
+      "reconcile two accounts / positions",
+      "be reconciled to something"
+    ],
+    "meanings": [
+      "устранить противоречие",
+      "совместить различающиеся позиции",
+      "примириться с обстоятельством"
+    ],
+    "contrast": "Resolve устраняет проблему в целом; reconcile подчёркивает согласование двух несовместимых элементов.",
+    "examples": [
+      {
+        "en": "The analyst struggled to reconcile the two datasets.",
+        "ru": "Аналитику было трудно согласовать два набора данных."
+      },
+      {
+        "en": "It is difficult to reconcile this claim with the available evidence.",
+        "ru": "Трудно согласовать это утверждение с имеющимися доказательствами."
+      },
+      {
+        "en": "She eventually became reconciled to the change.",
+        "ru": "В конце концов она смирилась с изменением."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We need to reconcile between the two reports.",
+      "right": "We need to reconcile the two reports.",
+      "note": "Reconcile обычно принимает прямое дополнение; between здесь не требуется."
+    },
+    "quiz": {
+      "prompt": "Complete: The researchers could not ___ the survey results with the administrative data.",
+      "options": [
+        "evoke",
+        "deter",
+        "allocate",
+        "reconcile"
+      ],
+      "correct_index": 3,
+      "explanation": "Reconcile X with Y — стандартная модель согласования противоречащих данных."
+    }
+  },
+  {
+    "id": "verb_c1_029_reinforce",
+    "order": 29,
+    "level": "C1",
+    "category": "Strengthening",
+    "title_en": "reinforce",
+    "title_ru": "усиливать, подтверждать",
+    "rule": "Reinforce означает сделать идею, структуру, сообщение или поведение сильнее. В аналитическом стиле часто означает «подтверждать уже существующий вывод».",
+    "forms": [
+      "reinforce a conclusion / message",
+      "reinforce a structure",
+      "reinforce existing behaviour / inequality"
+    ],
+    "meanings": [
+      "укреплять физически",
+      "усиливать идею или тенденцию",
+      "подтверждать вывод"
+    ],
+    "contrast": "Bolster добавляет поддержку; reinforce особенно подчёркивает укрепление или повторное подтверждение.",
+    "examples": [
+      {
+        "en": "The second study reinforced the original conclusion.",
+        "ru": "Второе исследование подтвердило первоначальный вывод."
+      },
+      {
+        "en": "The campaign reinforced the message that early action matters.",
+        "ru": "Кампания усилила мысль о важности ранних действий."
+      },
+      {
+        "en": "These incentives may reinforce existing inequalities.",
+        "ru": "Эти стимулы могут усилить существующее неравенство."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The evidence reinforced again our concerns.",
+      "right": "The evidence reinforced our concerns.",
+      "note": "Again часто избыточно, поскольку reinforce уже содержит идею усиления."
+    },
+    "quiz": {
+      "prompt": "Complete: The new findings ___ concerns about the reliability of the method.",
+      "options": [
+        "reinforced",
+        "precluded",
+        "yielded",
+        "scrutinised"
+      ],
+      "correct_index": 0,
+      "explanation": "Reinforce concerns означает сделать уже существующие опасения сильнее."
+    }
+  },
+  {
+    "id": "verb_c1_030_retain",
+    "order": 30,
+    "level": "C1",
+    "category": "Continuity and possession",
+    "title_en": "retain",
+    "title_ru": "сохранять, удерживать",
+    "rule": "Retain — формальный глагол со значением «продолжать иметь, сохранять или удерживать». Часто относится к контролю, информации, персоналу и правам.",
+    "forms": [
+      "retain control / ownership",
+      "retain information / heat",
+      "retain staff / the right to ..."
+    ],
+    "meanings": [
+      "сохранять качество или информацию",
+      "удерживать сотрудников или полномочия"
+    ],
+    "contrast": "Keep нейтральнее; retain характерен для официального, делового и академического контекста.",
+    "examples": [
+      {
+        "en": "The organisation hopes to retain experienced staff.",
+        "ru": "Организация надеется сохранить опытных сотрудников."
+      },
+      {
+        "en": "The material retains heat for several hours.",
+        "ru": "Материал сохраняет тепло несколько часов."
+      },
+      {
+        "en": "The client retains the right to terminate the agreement.",
+        "ru": "Клиент сохраняет право расторгнуть соглашение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The company retained on control of the subsidiary.",
+      "right": "The company retained control of the subsidiary.",
+      "note": "Retain принимает прямое дополнение без on."
+    },
+    "quiz": {
+      "prompt": "Complete: The revised system must ___ the core features of the original.",
+      "options": [
+        "elicit",
+        "retain",
+        "trigger",
+        "concede"
+      ],
+      "correct_index": 1,
+      "explanation": "Retain features означает сохранить их после изменения системы."
+    }
+  },
+  {
+    "id": "verb_c1_031_scrutinise",
+    "order": 31,
+    "level": "C1",
+    "category": "Critical examination",
+    "title_en": "scrutinise",
+    "title_ru": "тщательно изучать",
+    "rule": "Scrutinise означает внимательно и критически исследовать документ, данные, решение или поведение, обычно в поиске ошибок или скрытых деталей.",
+    "forms": [
+      "scrutinise evidence / data",
+      "scrutinise a proposal / contract",
+      "come under scrutiny"
+    ],
+    "meanings": [
+      "тщательно проверять",
+      "критически анализировать детали"
+    ],
+    "contrast": "Examine нейтральнее; scrutinise подчёркивает особенно пристальное и критическое внимание.",
+    "examples": [
+      {
+        "en": "The committee will scrutinise every clause of the agreement.",
+        "ru": "Комитет тщательно изучит каждый пункт соглашения."
+      },
+      {
+        "en": "Investors are scrutinising the company’s financial statements.",
+        "ru": "Инвесторы внимательно изучают финансовую отчётность компании."
+      },
+      {
+        "en": "The decision has come under intense scrutiny.",
+        "ru": "Решение подверглось тщательному анализу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The panel scrutinised into the evidence.",
+      "right": "The panel scrutinised the evidence.",
+      "note": "Scrutinise — переходный глагол и не требует into."
+    },
+    "quiz": {
+      "prompt": "Complete: Independent reviewers will ___ the methodology before publication.",
+      "options": [
+        "foster",
+        "allocate",
+        "scrutinise",
+        "evoke"
+      ],
+      "correct_index": 2,
+      "explanation": "Scrutinise the methodology означает подвергнуть её тщательной критической проверке."
+    }
+  },
+  {
+    "id": "verb_c1_032_substantiate",
+    "order": 32,
+    "level": "C1",
+    "category": "Evidence and proof",
+    "title_en": "substantiate",
+    "title_ru": "подтверждать доказательствами",
+    "rule": "Substantiate означает подкрепить утверждение, обвинение или вывод достаточными доказательствами.",
+    "forms": [
+      "substantiate a claim / allegation",
+      "substantiate something with evidence",
+      "a substantiated conclusion"
+    ],
+    "meanings": [
+      "документально подтвердить",
+      "подкрепить утверждение проверяемыми данными"
+    ],
+    "contrast": "Support шире; substantiate предполагает конкретные и достаточные доказательства.",
+    "examples": [
+      {
+        "en": "The author failed to substantiate the claim with reliable data.",
+        "ru": "Автор не смог подтвердить утверждение надёжными данными."
+      },
+      {
+        "en": "The allegations could not be substantiated.",
+        "ru": "Обвинения не удалось подтвердить."
+      },
+      {
+        "en": "Further research is needed to substantiate this conclusion.",
+        "ru": "Для подтверждения этого вывода нужны дальнейшие исследования."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The witness substantiated that the rumour was true.",
+      "right": "The witness substantiated the claim with evidence.",
+      "note": "Substantiate обычно относится к утверждению или выводу, который подкрепляется доказательствами."
+    },
+    "quiz": {
+      "prompt": "Complete: The report does not provide enough evidence to ___ the allegation.",
+      "options": [
+        "hamper",
+        "yield",
+        "reconcile",
+        "substantiate"
+      ],
+      "correct_index": 3,
+      "explanation": "Substantiate an allegation означает подтвердить её доказательствами."
+    }
+  },
+  {
+    "id": "verb_c1_033_tackle",
+    "order": 33,
+    "level": "C1",
+    "category": "Problem-solving",
+    "title_en": "tackle",
+    "title_ru": "решать сложную проблему",
+    "rule": "Tackle означает активно заняться сложной проблемой или задачей. Глагол принимает прямое дополнение.",
+    "forms": [
+      "tackle a problem / issue",
+      "tackle inequality / corruption",
+      "tackle a difficult task"
+    ],
+    "meanings": [
+      "приступить к решению",
+      "целенаправленно бороться с проблемой"
+    ],
+    "contrast": "Address формальнее и может означать просто рассмотреть вопрос; tackle обычно подразумевает активные меры.",
+    "examples": [
+      {
+        "en": "The reforms are intended to tackle structural inequality.",
+        "ru": "Реформы направлены на борьбу со структурным неравенством."
+      },
+      {
+        "en": "We need a coordinated strategy to tackle the problem.",
+        "ru": "Нам нужна согласованная стратегия решения проблемы."
+      },
+      {
+        "en": "The team tackled the most urgent tasks first.",
+        "ru": "Команда сначала занялась самыми срочными задачами."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The policy aims to tackle with the housing shortage.",
+      "right": "The policy aims to tackle the housing shortage.",
+      "note": "После tackle прямое дополнение употребляется без with."
+    },
+    "quiz": {
+      "prompt": "Complete: The new programme is designed to ___ persistent skills shortages.",
+      "options": [
+        "tackle",
+        "stipulate",
+        "retain",
+        "evoke"
+      ],
+      "correct_index": 0,
+      "explanation": "Tackle a shortage означает активно предпринимать меры для решения проблемы."
+    }
+  },
+  {
+    "id": "verb_c1_034_trigger",
+    "order": 34,
+    "level": "C1",
+    "category": "Immediate causation",
+    "title_en": "trigger",
+    "title_ru": "запускать, вызывать",
+    "rule": "Trigger означает стать непосредственной причиной события, реакции или процесса. Часто употребляется с response, crisis, investigation, reaction и memory.",
+    "forms": [
+      "trigger a reaction / response",
+      "trigger an investigation / crisis",
+      "be triggered by ..."
+    ],
+    "meanings": [
+      "запускать процесс",
+      "вызывать резкую или быструю реакцию"
+    ],
+    "contrast": "Foster поддерживает постепенное развитие; trigger вызывает конкретное событие или реакцию.",
+    "examples": [
+      {
+        "en": "The announcement triggered a wave of resignations.",
+        "ru": "Объявление вызвало волну увольнений."
+      },
+      {
+        "en": "A single error can trigger a system-wide failure.",
+        "ru": "Одна ошибка может вызвать сбой всей системы."
+      },
+      {
+        "en": "The complaint triggered an internal investigation.",
+        "ru": "Жалоба стала причиной внутреннего расследования."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The disclosure triggered for an inquiry.",
+      "right": "The disclosure triggered an inquiry.",
+      "note": "Trigger принимает прямое дополнение без for."
+    },
+    "quiz": {
+      "prompt": "Complete: The unexpected disclosure ___ an immediate review of the procedure.",
+      "options": [
+        "upheld",
+        "triggered",
+        "ascertained",
+        "reconciled"
+      ],
+      "correct_index": 1,
+      "explanation": "Trigger a review означает непосредственно вызвать начало проверки."
+    }
+  },
+  {
+    "id": "verb_c1_035_undermine",
+    "order": 35,
+    "level": "C1",
+    "category": "Erosion and credibility",
+    "title_en": "undermine",
+    "title_ru": "подрывать, ослаблять",
+    "rule": "Undermine означает постепенно или косвенно ослаблять доверие, авторитет, аргумент, систему или способность действовать.",
+    "forms": [
+      "undermine confidence / trust",
+      "undermine authority / credibility",
+      "undermine an argument / effort"
+    ],
+    "meanings": [
+      "подрывать доверие",
+      "ослаблять позицию или систему"
+    ],
+    "contrast": "Damage шире; undermine часто описывает постепенное ослабление основы, легитимности или уверенности.",
+    "examples": [
+      {
+        "en": "Repeated delays have undermined public confidence.",
+        "ru": "Повторяющиеся задержки подорвали доверие общественности."
+      },
+      {
+        "en": "The contradiction undermines the credibility of the report.",
+        "ru": "Противоречие подрывает достоверность отчёта."
+      },
+      {
+        "en": "These practices may undermine efforts to improve transparency.",
+        "ru": "Такая практика может ослабить усилия по повышению прозрачности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The inconsistency undermined in their argument.",
+      "right": "The inconsistency undermined their argument.",
+      "note": "Undermine принимает прямое дополнение без in."
+    },
+    "quiz": {
+      "prompt": "Complete: The unexplained discrepancy has ___ confidence in the published figures.",
+      "options": [
+        "fostered",
+        "bolstered",
+        "undermined",
+        "retained"
+      ],
+      "correct_index": 2,
+      "explanation": "Undermine confidence — устойчивое сочетание для ослабления доверия."
+    }
+  },
+  {
+    "id": "verb_c1_036_uphold",
+    "order": 36,
+    "level": "C1",
+    "category": "Law and principles",
+    "title_en": "uphold",
+    "title_ru": "поддерживать решение или принцип",
+    "rule": "Uphold означает официально подтвердить законность решения либо продолжать соблюдать и защищать принцип, право или стандарт.",
+    "forms": [
+      "uphold a decision / ruling",
+      "uphold the law / constitution",
+      "uphold standards / principles"
+    ],
+    "meanings": [
+      "оставить судебное решение в силе",
+      "защищать и соблюдать принцип"
+    ],
+    "contrast": "Support шире; uphold особенно характерен для права, норм и официальных решений.",
+    "examples": [
+      {
+        "en": "The appeals court upheld the original judgment.",
+        "ru": "Апелляционный суд оставил первоначальное решение в силе."
+      },
+      {
+        "en": "All members are expected to uphold professional standards.",
+        "ru": "Ожидается, что все участники будут соблюдать профессиональные стандарты."
+      },
+      {
+        "en": "The organisation has a duty to uphold human rights.",
+        "ru": "Организация обязана защищать права человека."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The court upheld to the earlier ruling.",
+      "right": "The court upheld the earlier ruling.",
+      "note": "Uphold принимает прямое дополнение без to."
+    },
+    "quiz": {
+      "prompt": "Complete: The appeals court ___ the regulator’s decision.",
+      "options": [
+        "elicited",
+        "allocated",
+        "hampered",
+        "upheld"
+      ],
+      "correct_index": 3,
+      "explanation": "Uphold a decision означает официально подтвердить, что оно остаётся в силе."
+    }
+  },
+  {
+    "id": "verb_c1_037_warrant",
+    "order": 37,
+    "level": "C1",
+    "category": "Threshold of evidence",
+    "title_en": "warrant",
+    "title_ru": "давать основания, оправдывать",
+    "rule": "Warrant как глагол означает быть достаточно серьёзным или обоснованным, чтобы оправдать внимание, действие или вывод. После него употребляется существительное или форма -ing.",
+    "forms": [
+      "warrant attention / investigation",
+      "warrant doing something",
+      "be warranted"
+    ],
+    "meanings": [
+      "давать достаточные основания",
+      "оправдывать дальнейшее действие"
+    ],
+    "contrast": "Justify часто связано с объяснением решения; warrant означает, что ситуация сама по себе достигает необходимого порога.",
+    "examples": [
+      {
+        "en": "The discrepancy warrants further investigation.",
+        "ru": "Расхождение требует дальнейшего расследования."
+      },
+      {
+        "en": "The evidence is not strong enough to warrant prosecution.",
+        "ru": "Доказательства недостаточно весомы для возбуждения уголовного дела."
+      },
+      {
+        "en": "Such a change may be warranted in exceptional circumstances.",
+        "ru": "Такое изменение может быть оправдано в исключительных обстоятельствах."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The issue warrants to examine the data again.",
+      "right": "The issue warrants examining the data again.",
+      "note": "После warrant действие выражается формой -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: The scale of the discrepancy is sufficient to ___ an independent inquiry.",
+      "options": [
+        "warrant",
+        "concede",
+        "foster",
+        "yield"
+      ],
+      "correct_index": 0,
+      "explanation": "Warrant an inquiry означает давать достаточные основания для её проведения."
+    }
+  },
+  {
+    "id": "verb_c1_038_yield",
+    "order": 38,
+    "level": "C1",
+    "category": "Results and surrender",
+    "title_en": "yield",
+    "title_ru": "давать результат, уступать",
+    "rule": "Yield может означать «давать результат или прибыль», а также «уступать давлению, праву прохода или силе». Контекст определяет значение.",
+    "forms": [
+      "yield results / benefits / a return",
+      "yield to pressure / temptation",
+      "yield a percentage / amount"
+    ],
+    "meanings": [
+      "приносить результат",
+      "уступать под давлением",
+      "давать определённый объём или доходность"
+    ],
+    "contrast": "Produce нейтральнее для создания результата; yield часто употребляется в аналитическом, финансовом и научном контексте.",
+    "examples": [
+      {
+        "en": "The revised method yielded more reliable results.",
+        "ru": "Пересмотренный метод дал более надёжные результаты."
+      },
+      {
+        "en": "The investment yields a modest annual return.",
+        "ru": "Инвестиция приносит умеренный годовой доход."
+      },
+      {
+        "en": "The government refused to yield to pressure.",
+        "ru": "Правительство отказалось уступить давлению."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The experiment yielded to useful findings.",
+      "right": "The experiment yielded useful findings.",
+      "note": "В значении «дать результат» yield принимает прямое дополнение; yield to означает «уступить»."
+    },
+    "quiz": {
+      "prompt": "Complete: The revised procedure ___ results that were easier to replicate.",
+      "options": [
+        "precluded",
+        "yielded",
+        "deemed",
+        "stipulated"
+      ],
+      "correct_index": 1,
+      "explanation": "Yield results означает дать или получить результаты в ходе процедуры."
+    }
+  },
+  {
+    "id": "verb_c1_039_allocate",
+    "order": 39,
+    "level": "C1",
+    "category": "Resource distribution",
+    "title_en": "allocate",
+    "title_ru": "распределять ресурсы",
+    "rule": "Allocate означает официально распределить деньги, время, пространство, обязанности или другие ограниченные ресурсы для определённой цели или получателя.",
+    "forms": [
+      "allocate something to someone/something",
+      "allocate something for a purpose",
+      "allocate resources / funds / time"
+    ],
+    "meanings": [
+      "распределять ограниченные ресурсы",
+      "выделять средства или время"
+    ],
+    "contrast": "Assign чаще относится к задаче или роли; allocate — к количественному ресурсу.",
+    "examples": [
+      {
+        "en": "The council allocated additional funds to the project.",
+        "ru": "Совет выделил проекту дополнительные средства."
+      },
+      {
+        "en": "More time should be allocated for consultation.",
+        "ru": "На консультации следует выделить больше времени."
+      },
+      {
+        "en": "Resources were allocated according to need.",
+        "ru": "Ресурсы распределялись в соответствии с потребностями."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The agency allocated more money on the programme.",
+      "right": "The agency allocated more money to the programme.",
+      "note": "Для получателя или проекта обычно употребляется allocate something to."
+    },
+    "quiz": {
+      "prompt": "Complete: The budget ___ additional resources to regional services.",
+      "options": [
+        "inferred",
+        "evoked",
+        "allocated",
+        "upheld"
+      ],
+      "correct_index": 2,
+      "explanation": "Allocate resources to означает официально направить ресурсы определённому получателю."
+    }
+  },
+  {
+    "id": "verb_c1_040_stipulate",
+    "order": 40,
+    "level": "C1",
+    "category": "Rules and contracts",
+    "title_en": "stipulate",
+    "title_ru": "чётко оговаривать условие",
+    "rule": "Stipulate означает официально и точно установить условие, требование или правило, особенно в договоре, законе или инструкции.",
+    "forms": [
+      "stipulate that ...",
+      "stipulate a condition / requirement",
+      "as stipulated in ..."
+    ],
+    "meanings": [
+      "оговаривать обязательное условие",
+      "устанавливать точное требование"
+    ],
+    "contrast": "State просто сообщает информацию; stipulate делает условие обязательной частью соглашения или правила.",
+    "examples": [
+      {
+        "en": "The contract stipulates that payment must be made within thirty days.",
+        "ru": "В договоре оговорено, что оплата должна быть произведена в течение тридцати дней."
+      },
+      {
+        "en": "The regulations stipulate minimum safety standards.",
+        "ru": "Правила устанавливают минимальные стандарты безопасности."
+      },
+      {
+        "en": "All reports must be submitted in the format stipulated below.",
+        "ru": "Все отчёты должны быть представлены в формате, указанном ниже."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The agreement stipulates about a six-month notice period.",
+      "right": "The agreement stipulates a six-month notice period.",
+      "note": "Stipulate принимает прямое дополнение или that-clause без about."
+    },
+    "quiz": {
+      "prompt": "Complete: The agreement ___ that either party may terminate the contract with written notice.",
+      "options": [
+        "elicits",
+        "mitigates",
+        "retains",
+        "stipulates"
+      ],
+      "correct_index": 3,
+      "explanation": "Stipulate that — стандартная модель для обязательного договорного условия."
+    }
+  }
+]

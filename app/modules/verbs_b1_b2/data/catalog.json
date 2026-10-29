@@ -1,0 +1,10 @@
+{
+  "course_id": "verbs_b1_b2_v1",
+  "course_version": "2026-07-v1",
+  "levels": {
+    "B1": 25,
+    "B2": 25
+  },
+  "total_cards": 50,
+  "quizzes_per_card": 1
+}

@@ -1,0 +1,4214 @@
+[
+  {
+    "base_card_id": "coll_int_001_meet_a_deadline",
+    "card_order": 1,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "meet a deadline",
+    "translation": "уложиться в срок",
+    "questions": [
+      {
+        "id": "coll_int_001_meet_a_deadline_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «уложиться в срок» в этом контексте:\n\nМы работали допоздна, чтобы уложиться в срок.",
+        "options": [
+          "meet a deadline",
+          "gain experience",
+          "make progress",
+          "take responsibility"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “meet a deadline” — “уложиться в срок”. Выполнить работу не позднее установленного срока. Обычно употребляется с project, report, application или task.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_001_meet_a_deadline_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «meet a deadline» в данном контексте?\n\nThe team met every deadline this quarter.",
+        "options": [
+          "получить, приобрести опыт",
+          "уложиться в срок",
+          "добиваться прогресса, продвигаться вперёд",
+          "брать на себя ответственность"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “meet a deadline” означает “уложиться в срок”. Выполнить работу не позднее установленного срока. Обычно употребляется с project, report, application или task.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_002_gain_experience",
+    "card_order": 2,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "gain experience",
+    "translation": "получить, приобрести опыт",
+    "questions": [
+      {
+        "id": "coll_int_002_gain_experience_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «получить, приобрести опыт» в этом контексте:\n\nСтажировка помогла мне получить практический опыт.",
+        "options": [
+          "make progress",
+          "take responsibility",
+          "gain experience",
+          "apply for a job"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “gain experience” — “получить, приобрести опыт”. Получить практический опыт благодаря работе, обучению или участию в проекте.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_002_gain_experience_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «gain experience» в данном контексте?\n\nShe gained experience in customer support.",
+        "options": [
+          "добиваться прогресса, продвигаться вперёд",
+          "брать на себя ответственность",
+          "подать заявление на работу",
+          "получить, приобрести опыт"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “gain experience” означает “получить, приобрести опыт”. Получить практический опыт благодаря работе, обучению или участию в проекте.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_003_make_progress",
+    "card_order": 3,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "make progress",
+    "translation": "добиваться прогресса, продвигаться вперёд",
+    "questions": [
+      {
+        "id": "coll_int_003_make_progress_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «добиваться прогресса, продвигаться вперёд» в этом контексте:\n\nТы хорошо продвигаешься в английском.",
+        "options": [
+          "make progress",
+          "take responsibility",
+          "apply for a job",
+          "earn a living"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “make progress” — “добиваться прогресса, продвигаться вперёд”. Улучшать результат или постепенно приближаться к цели.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_003_make_progress_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make progress» в данном контексте?\n\nThe project made little progress in May.",
+        "options": [
+          "брать на себя ответственность",
+          "добиваться прогресса, продвигаться вперёд",
+          "подать заявление на работу",
+          "зарабатывать на жизнь"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “make progress” означает “добиваться прогресса, продвигаться вперёд”. Улучшать результат или постепенно приближаться к цели.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_004_take_responsibility",
+    "card_order": 4,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "take responsibility",
+    "translation": "брать на себя ответственность",
+    "questions": [
+      {
+        "id": "coll_int_004_take_responsibility_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «брать на себя ответственность» в этом контексте:\n\nРуководители должны отвечать за свои решения.",
+        "options": [
+          "apply for a job",
+          "earn a living",
+          "take responsibility",
+          "meet a deadline"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “take responsibility” — “брать на себя ответственность”. Признать обязанность отвечать за действие, решение или результат.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_004_take_responsibility_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «take responsibility» в данном контексте?\n\nHe took full responsibility for the mistake.",
+        "options": [
+          "подать заявление на работу",
+          "зарабатывать на жизнь",
+          "уложиться в срок",
+          "брать на себя ответственность"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “take responsibility” означает “брать на себя ответственность”. Признать обязанность отвечать за действие, решение или результат.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_005_apply_for_a_job",
+    "card_order": 5,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "apply for a job",
+    "translation": "подать заявление на работу",
+    "questions": [
+      {
+        "id": "coll_int_005_apply_for_a_job_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «подать заявление на работу» в этом контексте:\n\nЯ собираюсь подать заявление на работу в музей.",
+        "options": [
+          "apply for a job",
+          "earn a living",
+          "meet a deadline",
+          "gain experience"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “apply for a job” — “подать заявление на работу”. Официально выразить желание получить конкретную работу или должность.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_005_apply_for_a_job_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «apply for a job» в данном контексте?\n\nMore than a hundred people applied for the position.",
+        "options": [
+          "зарабатывать на жизнь",
+          "подать заявление на работу",
+          "уложиться в срок",
+          "получить, приобрести опыт"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “apply for a job” означает “подать заявление на работу”. Официально выразить желание получить конкретную работу или должность.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_006_earn_a_living",
+    "card_order": 6,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK",
+    "collocation": "earn a living",
+    "translation": "зарабатывать на жизнь",
+    "questions": [
+      {
+        "id": "coll_int_006_earn_a_living_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «зарабатывать на жизнь» в этом контексте:\n\nОна зарабатывает на жизнь как внештатный дизайнер.",
+        "options": [
+          "meet a deadline",
+          "gain experience",
+          "earn a living",
+          "make progress"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “earn a living” — “зарабатывать на жизнь”. Получать достаточно денег для оплаты основных расходов.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_006_earn_a_living_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «earn a living» в данном контексте?\n\nIt is difficult to earn a living from music.",
+        "options": [
+          "уложиться в срок",
+          "получить, приобрести опыт",
+          "добиваться прогресса, продвигаться вперёд",
+          "зарабатывать на жизнь"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “earn a living” означает “зарабатывать на жизнь”. Получать достаточно денег для оплаты основных расходов.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_007_take_an_exam",
+    "card_order": 7,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "take an exam",
+    "translation": "сдавать экзамен",
+    "questions": [
+      {
+        "id": "coll_int_007_take_an_exam_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сдавать экзамен» в этом контексте:\n\nВ следующий понедельник мы сдаём выпускной экзамен.",
+        "options": [
+          "take an exam",
+          "pass an exam",
+          "do research",
+          "pay attention"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “take an exam” — “сдавать экзамен”. Проходить экзамен как участник. В британском английском также часто употребляется sit an exam.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_007_take_an_exam_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «take an exam» в данном контексте?\n\nHow many exams are you taking this term?",
+        "options": [
+          "успешно сдать экзамен",
+          "сдавать экзамен",
+          "проводить исследование",
+          "обращать внимание"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “take an exam” означает “сдавать экзамен”. Проходить экзамен как участник. В британском английском также часто употребляется sit an exam.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_008_pass_an_exam",
+    "card_order": 8,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "pass an exam",
+    "translation": "успешно сдать экзамен",
+    "questions": [
+      {
+        "id": "coll_int_008_pass_an_exam_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «успешно сдать экзамен» в этом контексте:\n\nЧтобы сдать экзамен, нужно набрать 60 процентов.",
+        "options": [
+          "do research",
+          "pay attention",
+          "pass an exam",
+          "make a mistake"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “pass an exam” — “успешно сдать экзамен”. Получить необходимый результат и успешно завершить экзамен.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_008_pass_an_exam_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «pass an exam» в данном контексте?\n\nShe passed all her exams on the first attempt.",
+        "options": [
+          "проводить исследование",
+          "обращать внимание",
+          "допустить ошибку",
+          "успешно сдать экзамен"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “pass an exam” означает “успешно сдать экзамен”. Получить необходимый результат и успешно завершить экзамен.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_009_do_research",
+    "card_order": 9,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "do research",
+    "translation": "проводить исследование",
+    "questions": [
+      {
+        "id": "coll_int_009_do_research_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «проводить исследование» в этом контексте:\n\nСтуденты проводят исследование в области возобновляемой энергии.",
+        "options": [
+          "do research",
+          "pay attention",
+          "make a mistake",
+          "acquire knowledge"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “do research” — “проводить исследование”. Систематически собирать и анализировать информацию. В более формальном стиле часто употребляется conduct research.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_009_do_research_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «do research» в данном контексте?\n\nShe did extensive research before writing the article.",
+        "options": [
+          "обращать внимание",
+          "проводить исследование",
+          "допустить ошибку",
+          "приобретать знания"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “do research” означает “проводить исследование”. Систематически собирать и анализировать информацию. В более формальном стиле часто употребляется conduct research.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_010_pay_attention",
+    "card_order": 10,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "pay attention",
+    "translation": "обращать внимание",
+    "questions": [
+      {
+        "id": "coll_int_010_pay_attention_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «обращать внимание» в этом контексте:\n\nПожалуйста, обратите внимание на инструкции.",
+        "options": [
+          "make a mistake",
+          "acquire knowledge",
+          "pay attention",
+          "take an exam"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “pay attention” — “обращать внимание”. Сосредоточиться на человеке, информации или происходящем.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_010_pay_attention_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «pay attention» в данном контексте?\n\nHe was not paying attention during the lecture.",
+        "options": [
+          "допустить ошибку",
+          "приобретать знания",
+          "сдавать экзамен",
+          "обращать внимание"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “pay attention” означает “обращать внимание”. Сосредоточиться на человеке, информации или происходящем.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_011_make_a_mistake",
+    "card_order": 11,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "make a mistake",
+    "translation": "допустить ошибку",
+    "questions": [
+      {
+        "id": "coll_int_011_make_a_mistake_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «допустить ошибку» в этом контексте:\n\nПри изучении языка все допускают ошибки.",
+        "options": [
+          "make a mistake",
+          "acquire knowledge",
+          "take an exam",
+          "pass an exam"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “make a mistake” — “допустить ошибку”. Сделать что-либо неправильно из-за неверного решения, знания или невнимательности.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_011_make_a_mistake_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make a mistake» в данном контексте?\n\nI made a mistake in the calculation.",
+        "options": [
+          "приобретать знания",
+          "допустить ошибку",
+          "сдавать экзамен",
+          "успешно сдать экзамен"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “make a mistake” означает “допустить ошибку”. Сделать что-либо неправильно из-за неверного решения, знания или невнимательности.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_012_acquire_knowledge",
+    "card_order": 12,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "collocation": "acquire knowledge",
+    "translation": "приобретать знания",
+    "questions": [
+      {
+        "id": "coll_int_012_acquire_knowledge_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «приобретать знания» в этом контексте:\n\nСтуденты получают знания как через практику, так и через чтение.",
+        "options": [
+          "take an exam",
+          "pass an exam",
+          "acquire knowledge",
+          "do research"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “acquire knowledge” — “приобретать знания”. Постепенно получать знания через обучение, чтение или практический опыт; сочетание более формальное, чем learn.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_012_acquire_knowledge_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «acquire knowledge» в данном контексте?\n\nThe course helps staff acquire specialist knowledge.",
+        "options": [
+          "сдавать экзамен",
+          "успешно сдать экзамен",
+          "проводить исследование",
+          "приобретать знания"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “acquire knowledge” означает “приобретать знания”. Постепенно получать знания через обучение, чтение или практический опыт; сочетание более формальное, чем learn.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_013_catch_a_flight",
+    "card_order": 13,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "catch a flight",
+    "translation": "успеть на рейс, сесть на самолёт",
+    "questions": [
+      {
+        "id": "coll_int_013_catch_a_flight_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «успеть на рейс, сесть на самолёт» в этом контексте:\n\nМы выехали из дома в четыре, чтобы успеть на ранний рейс.",
+        "options": [
+          "catch a flight",
+          "miss a train",
+          "book accommodation",
+          "go sightseeing"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “catch a flight” — “успеть на рейс, сесть на самолёт”. Успеть прибыть вовремя и воспользоваться запланированным авиарейсом.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_013_catch_a_flight_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «catch a flight» в данном контексте?\n\nCan we still catch the connecting flight?",
+        "options": [
+          "опоздать на поезд, не успеть на поезд",
+          "успеть на рейс, сесть на самолёт",
+          "забронировать жильё",
+          "осматривать достопримечательности"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “catch a flight” означает “успеть на рейс, сесть на самолёт”. Успеть прибыть вовремя и воспользоваться запланированным авиарейсом.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_014_miss_a_train",
+    "card_order": 14,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "miss a train",
+    "translation": "опоздать на поезд, не успеть на поезд",
+    "questions": [
+      {
+        "id": "coll_int_014_miss_a_train_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «опоздать на поезд, не успеть на поезд» в этом контексте:\n\nМы не успели на последний поезд домой.",
+        "options": [
+          "book accommodation",
+          "go sightseeing",
+          "miss a train",
+          "heavy traffic"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “miss a train” — “опоздать на поезд, не успеть на поезд”. Не успеть воспользоваться поездом, потому что он уже отправился.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_014_miss_a_train_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «miss a train» в данном контексте?\n\nHurry up or we will miss the train.",
+        "options": [
+          "забронировать жильё",
+          "осматривать достопримечательности",
+          "плотное движение, сильные пробки",
+          "опоздать на поезд, не успеть на поезд"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “miss a train” означает “опоздать на поезд, не успеть на поезд”. Не успеть воспользоваться поездом, потому что он уже отправился.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_015_book_accommodation",
+    "card_order": 15,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "book accommodation",
+    "translation": "забронировать жильё",
+    "questions": [
+      {
+        "id": "coll_int_015_book_accommodation_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «забронировать жильё» в этом контексте:\n\nМы забронировали жильё через интернет.",
+        "options": [
+          "book accommodation",
+          "go sightseeing",
+          "heavy traffic",
+          "travel light"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “book accommodation” — “забронировать жильё”. Заранее заказать место для проживания: гостиницу, квартиру, хостел или другое жильё.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_015_book_accommodation_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «book accommodation» в данном контексте?\n\nIt is wise to book accommodation in advance.",
+        "options": [
+          "осматривать достопримечательности",
+          "забронировать жильё",
+          "плотное движение, сильные пробки",
+          "путешествовать налегке"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “book accommodation” означает “забронировать жильё”. Заранее заказать место для проживания: гостиницу, квартиру, хостел или другое жильё.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_016_go_sightseeing",
+    "card_order": 16,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "go sightseeing",
+    "translation": "осматривать достопримечательности",
+    "questions": [
+      {
+        "id": "coll_int_016_go_sightseeing_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «осматривать достопримечательности» в этом контексте:\n\nМы осматривали достопримечательности в старом городе.",
+        "options": [
+          "heavy traffic",
+          "travel light",
+          "go sightseeing",
+          "catch a flight"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “go sightseeing” — “осматривать достопримечательности”. Посещать интересные места и достопримечательности, обычно во время путешествия.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_016_go_sightseeing_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «go sightseeing» в данном контексте?\n\nThey spent the morning sightseeing.",
+        "options": [
+          "плотное движение, сильные пробки",
+          "путешествовать налегке",
+          "успеть на рейс, сесть на самолёт",
+          "осматривать достопримечательности"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “go sightseeing” означает “осматривать достопримечательности”. Посещать интересные места и достопримечательности, обычно во время путешествия.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_017_heavy_traffic",
+    "card_order": 17,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "heavy traffic",
+    "translation": "плотное движение, сильные пробки",
+    "questions": [
+      {
+        "id": "coll_int_017_heavy_traffic_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «плотное движение, сильные пробки» в этом контексте:\n\nМы задержались из-за плотного движения.",
+        "options": [
+          "heavy traffic",
+          "travel light",
+          "catch a flight",
+          "miss a train"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “heavy traffic” — “плотное движение, сильные пробки”. Большое количество транспорта, из-за которого движение становится медленным.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_017_heavy_traffic_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «heavy traffic» в данном контексте?\n\nThere is usually heavy traffic during the morning rush hour.",
+        "options": [
+          "путешествовать налегке",
+          "плотное движение, сильные пробки",
+          "успеть на рейс, сесть на самолёт",
+          "опоздать на поезд, не успеть на поезд"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “heavy traffic” означает “плотное движение, сильные пробки”. Большое количество транспорта, из-за которого движение становится медленным.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_018_travel_light",
+    "card_order": 18,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "collocation": "travel light",
+    "translation": "путешествовать налегке",
+    "questions": [
+      {
+        "id": "coll_int_018_travel_light_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «путешествовать налегке» в этом контексте:\n\nВ короткие поездки я предпочитаю ездить налегке.",
+        "options": [
+          "catch a flight",
+          "miss a train",
+          "travel light",
+          "book accommodation"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “travel light” — “путешествовать налегке”. Брать с собой очень мало багажа.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_018_travel_light_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «travel light» в данном контексте?\n\nWe travelled light and took only one backpack.",
+        "options": [
+          "успеть на рейс, сесть на самолёт",
+          "опоздать на поезд, не успеть на поезд",
+          "забронировать жильё",
+          "путешествовать налегке"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “travel light” означает “путешествовать налегке”. Брать с собой очень мало багажа.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_019_make_a_point",
+    "card_order": 19,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "make a point",
+    "translation": "высказать или подчеркнуть мысль",
+    "questions": [
+      {
+        "id": "coll_int_019_make_a_point_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «высказать или подчеркнуть мысль» в этом контексте:\n\nОна высказала важную мысль о безопасности в интернете.",
+        "options": [
+          "make a point",
+          "keep in touch",
+          "have a conversation",
+          "express an opinion"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “make a point” — “высказать или подчеркнуть мысль”. Чётко выразить важную идею; make the point that вводит конкретную мысль.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_019_make_a_point_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make a point» в данном контексте?\n\nI would like to make one final point.",
+        "options": [
+          "поддерживать связь",
+          "высказать или подчеркнуть мысль",
+          "вести разговор, беседовать",
+          "выражать мнение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “make a point” означает “высказать или подчеркнуть мысль”. Чётко выразить важную идею; make the point that вводит конкретную мысль.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_020_keep_in_touch",
+    "card_order": 20,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "keep in touch",
+    "translation": "поддерживать связь",
+    "questions": [
+      {
+        "id": "coll_int_020_keep_in_touch_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «поддерживать связь» в этом контексте:\n\nПосле университета мы всё ещё поддерживаем связь.",
+        "options": [
+          "have a conversation",
+          "express an opinion",
+          "keep in touch",
+          "ask a question"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “keep in touch” — “поддерживать связь”. Продолжать общаться с человеком после разлуки или на расстоянии.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_020_keep_in_touch_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «keep in touch» в данном контексте?\n\nPlease keep in touch while you are abroad.",
+        "options": [
+          "вести разговор, беседовать",
+          "выражать мнение",
+          "задать вопрос",
+          "поддерживать связь"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “keep in touch” означает “поддерживать связь”. Продолжать общаться с человеком после разлуки или на расстоянии.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_021_have_a_conversation",
+    "card_order": 21,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "have a conversation",
+    "translation": "вести разговор, беседовать",
+    "questions": [
+      {
+        "id": "coll_int_021_have_a_conversation_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «вести разговор, беседовать» в этом контексте:\n\nУ меня состоялся полезный разговор с преподавателем.",
+        "options": [
+          "have a conversation",
+          "express an opinion",
+          "ask a question",
+          "spread the word"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “have a conversation” — “вести разговор, беседовать”. Обмениваться мыслями или информацией с другим человеком.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_021_have_a_conversation_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «have a conversation» в данном контексте?\n\nWe need to have a serious conversation.",
+        "options": [
+          "выражать мнение",
+          "вести разговор, беседовать",
+          "задать вопрос",
+          "распространить информацию"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “have a conversation” означает “вести разговор, беседовать”. Обмениваться мыслями или информацией с другим человеком.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_022_express_an_opinion",
+    "card_order": 22,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "express an opinion",
+    "translation": "выражать мнение",
+    "questions": [
+      {
+        "id": "coll_int_022_express_an_opinion_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «выражать мнение» в этом контексте:\n\nКаждый мог свободно высказать мнение.",
+        "options": [
+          "ask a question",
+          "spread the word",
+          "express an opinion",
+          "make a point"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “express an opinion” — “выражать мнение”. Формулировать и сообщать собственную точку зрения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_022_express_an_opinion_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «express an opinion» в данном контексте?\n\nShe expressed a strong opinion on the proposal.",
+        "options": [
+          "задать вопрос",
+          "распространить информацию",
+          "высказать или подчеркнуть мысль",
+          "выражать мнение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “express an opinion” означает “выражать мнение”. Формулировать и сообщать собственную точку зрения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_023_ask_a_question",
+    "card_order": 23,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "ask a question",
+    "translation": "задать вопрос",
+    "questions": [
+      {
+        "id": "coll_int_023_ask_a_question_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «задать вопрос» в этом контексте:\n\nМожно задать вопрос о расписании?",
+        "options": [
+          "ask a question",
+          "spread the word",
+          "make a point",
+          "keep in touch"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “ask a question” — “задать вопрос”. Обратиться к человеку с просьбой предоставить информацию.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_023_ask_a_question_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «ask a question» в данном контексте?\n\nThe interviewer asked me several questions.",
+        "options": [
+          "распространить информацию",
+          "задать вопрос",
+          "высказать или подчеркнуть мысль",
+          "поддерживать связь"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “ask a question” означает “задать вопрос”. Обратиться к человеку с просьбой предоставить информацию.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_024_spread_the_word",
+    "card_order": 24,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "collocation": "spread the word",
+    "translation": "распространить информацию",
+    "questions": [
+      {
+        "id": "coll_int_024_spread_the_word_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «распространить информацию» в этом контексте:\n\nПожалуйста, расскажите другим о благотворительном мероприятии.",
+        "options": [
+          "make a point",
+          "keep in touch",
+          "spread the word",
+          "have a conversation"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “spread the word” — “распространить информацию”. Сообщить новость многим людям и попросить других сделать то же самое.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_024_spread_the_word_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «spread the word» в данном контексте?\n\nSocial media helped us spread the word quickly.",
+        "options": [
+          "высказать или подчеркнуть мысль",
+          "поддерживать связь",
+          "вести разговор, беседовать",
+          "распространить информацию"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “spread the word” означает “распространить информацию”. Сообщить новость многим людям и попросить других сделать то же самое.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_025_deeply_disappointed",
+    "card_order": 25,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "deeply disappointed",
+    "translation": "глубоко разочарованный",
+    "questions": [
+      {
+        "id": "coll_int_025_deeply_disappointed_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «глубоко разочарованный» в этом контексте:\n\nПоклонники были глубоко разочарованы отменой.",
+        "options": [
+          "deeply disappointed",
+          "genuinely surprised",
+          "feel relieved",
+          "lose patience"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “deeply disappointed” — “глубоко разочарованный”. Испытывающий сильное разочарование; deeply часто усиливает disappointed.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_025_deeply_disappointed_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «deeply disappointed» в данном контексте?\n\nI was deeply disappointed with my result.",
+        "options": [
+          "искренне удивлённый",
+          "глубоко разочарованный",
+          "почувствовать облегчение",
+          "потерять терпение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “deeply disappointed” означает “глубоко разочарованный”. Испытывающий сильное разочарование; deeply часто усиливает disappointed.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_026_genuinely_surprised",
+    "card_order": 26,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "genuinely surprised",
+    "translation": "искренне удивлённый",
+    "questions": [
+      {
+        "id": "coll_int_026_genuinely_surprised_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «искренне удивлённый» в этом контексте:\n\nЯ был искренне удивлён их добротой.",
+        "options": [
+          "feel relieved",
+          "lose patience",
+          "genuinely surprised",
+          "burst into tears"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “genuinely surprised” — “искренне удивлённый”. Действительно удивлённый, без притворства или вежливой реакции.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_026_genuinely_surprised_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «genuinely surprised» в данном контексте?\n\nHe looked genuinely surprised to see us.",
+        "options": [
+          "почувствовать облегчение",
+          "потерять терпение",
+          "разразиться слезами",
+          "искренне удивлённый"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “genuinely surprised” означает “искренне удивлённый”. Действительно удивлённый, без притворства или вежливой реакции.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_027_feel_relieved",
+    "card_order": 27,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "feel relieved",
+    "translation": "почувствовать облегчение",
+    "questions": [
+      {
+        "id": "coll_int_027_feel_relieved_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «почувствовать облегчение» в этом контексте:\n\nЯ почувствовал облегчение, когда пришли результаты анализов.",
+        "options": [
+          "feel relieved",
+          "lose patience",
+          "burst into tears",
+          "express concern"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “feel relieved” — “почувствовать облегчение”. Перестать сильно беспокоиться после хорошей новости или исчезновения проблемы.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_027_feel_relieved_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «feel relieved» в данном контексте?\n\nShe was relieved to hear that everyone was safe.",
+        "options": [
+          "потерять терпение",
+          "почувствовать облегчение",
+          "разразиться слезами",
+          "выразить обеспокоенность"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “feel relieved” означает “почувствовать облегчение”. Перестать сильно беспокоиться после хорошей новости или исчезновения проблемы.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_028_lose_patience",
+    "card_order": 28,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "lose patience",
+    "translation": "потерять терпение",
+    "questions": [
+      {
+        "id": "coll_int_028_lose_patience_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «потерять терпение» в этом контексте:\n\nКлиент начал терять терпение.",
+        "options": [
+          "burst into tears",
+          "express concern",
+          "lose patience",
+          "deeply disappointed"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “lose patience” — “потерять терпение”. Перестать спокойно ждать или переносить раздражающую ситуацию.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_028_lose_patience_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «lose patience» в данном контексте?\n\nDo not lose patience with beginners.",
+        "options": [
+          "разразиться слезами",
+          "выразить обеспокоенность",
+          "глубоко разочарованный",
+          "потерять терпение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “lose patience” означает “потерять терпение”. Перестать спокойно ждать или переносить раздражающую ситуацию.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_029_burst_into_tears",
+    "card_order": 29,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "burst into tears",
+    "translation": "разразиться слезами",
+    "questions": [
+      {
+        "id": "coll_int_029_burst_into_tears_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «разразиться слезами» в этом контексте:\n\nОна разразилась слезами, услышав новость.",
+        "options": [
+          "burst into tears",
+          "express concern",
+          "deeply disappointed",
+          "genuinely surprised"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “burst into tears” — “разразиться слезами”. Внезапно начать плакать. Аналогичная модель: burst into laughter.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_029_burst_into_tears_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «burst into tears» в данном контексте?\n\nThe child suddenly burst into tears.",
+        "options": [
+          "выразить обеспокоенность",
+          "разразиться слезами",
+          "глубоко разочарованный",
+          "искренне удивлённый"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “burst into tears” означает “разразиться слезами”. Внезапно начать плакать. Аналогичная модель: burst into laughter.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_030_express_concern",
+    "card_order": 30,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "collocation": "express concern",
+    "translation": "выразить обеспокоенность",
+    "questions": [
+      {
+        "id": "coll_int_030_express_concern_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «выразить обеспокоенность» в этом контексте:\n\nНесколько родителей выразили обеспокоенность новой политикой.",
+        "options": [
+          "deeply disappointed",
+          "genuinely surprised",
+          "express concern",
+          "feel relieved"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “express concern” — “выразить обеспокоенность”. Официально или нейтрально сообщить о тревоге по поводу ситуации.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_030_express_concern_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «express concern» в данном контексте?\n\nDoctors have expressed serious concern over the delay.",
+        "options": [
+          "глубоко разочарованный",
+          "искренне удивлённый",
+          "почувствовать облегчение",
+          "выразить обеспокоенность"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “express concern” означает “выразить обеспокоенность”. Официально или нейтрально сообщить о тревоге по поводу ситуации.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_031_close_friend",
+    "card_order": 31,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "close friend",
+    "translation": "близкий друг",
+    "questions": [
+      {
+        "id": "coll_int_031_close_friend_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «близкий друг» в этом контексте:\n\nМайя — моя близкая подруга.",
+        "options": [
+          "close friend",
+          "get along well",
+          "fall in love",
+          "keep a promise"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “close friend” — “близкий друг”. Человек, с которым существуют доверительные и тесные отношения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_031_close_friend_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «close friend» в данном контексте?\n\nThey became close friends at university.",
+        "options": [
+          "хорошо ладить",
+          "близкий друг",
+          "влюбиться",
+          "сдержать обещание"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “close friend” означает “близкий друг”. Человек, с которым существуют доверительные и тесные отношения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_032_get_along_well",
+    "card_order": 32,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "get along well",
+    "translation": "хорошо ладить",
+    "questions": [
+      {
+        "id": "coll_int_032_get_along_well_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «хорошо ладить» в этом контексте:\n\nЯ хорошо лажу с новыми коллегами.",
+        "options": [
+          "fall in love",
+          "keep a promise",
+          "get along well",
+          "build trust"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “get along well” — “хорошо ладить”. Иметь хорошие, спокойные отношения с другим человеком.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_032_get_along_well_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «get along well» в данном контексте?\n\nDo your children get along?",
+        "options": [
+          "влюбиться",
+          "сдержать обещание",
+          "выстраивать доверие",
+          "хорошо ладить"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “get along well” означает “хорошо ладить”. Иметь хорошие, спокойные отношения с другим человеком.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_033_fall_in_love",
+    "card_order": 33,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "fall in love",
+    "translation": "влюбиться",
+    "questions": [
+      {
+        "id": "coll_int_033_fall_in_love_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «влюбиться» в этом контексте:\n\nОни влюбились во время учёбы за границей.",
+        "options": [
+          "fall in love",
+          "keep a promise",
+          "build trust",
+          "have an argument"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “fall in love” — “влюбиться”. Начать испытывать сильные романтические чувства к человеку.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_033_fall_in_love_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «fall in love» в данном контексте?\n\nHe fell in love with the city as well as its people.",
+        "options": [
+          "сдержать обещание",
+          "влюбиться",
+          "выстраивать доверие",
+          "поссориться, спорить"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “fall in love” означает “влюбиться”. Начать испытывать сильные романтические чувства к человеку.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_034_keep_a_promise",
+    "card_order": 34,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "keep a promise",
+    "translation": "сдержать обещание",
+    "questions": [
+      {
+        "id": "coll_int_034_keep_a_promise_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сдержать обещание» в этом контексте:\n\nНужно всегда стараться сдерживать свои обещания.",
+        "options": [
+          "build trust",
+          "have an argument",
+          "keep a promise",
+          "close friend"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “keep a promise” — “сдержать обещание”. Сделать то, что было обещано.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_034_keep_a_promise_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «keep a promise» в данном контексте?\n\nShe kept her promise and called the next day.",
+        "options": [
+          "выстраивать доверие",
+          "поссориться, спорить",
+          "близкий друг",
+          "сдержать обещание"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “keep a promise” означает “сдержать обещание”. Сделать то, что было обещано.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_035_build_trust",
+    "card_order": 35,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "build trust",
+    "translation": "выстраивать доверие",
+    "questions": [
+      {
+        "id": "coll_int_035_build_trust_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «выстраивать доверие» в этом контексте:\n\nЧестное общение помогает выстраивать доверие.",
+        "options": [
+          "build trust",
+          "have an argument",
+          "close friend",
+          "get along well"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “build trust” — “выстраивать доверие”. Постепенно создавать уверенность в честности и надёжности человека или организации.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_035_build_trust_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «build trust» в данном контексте?\n\nIt takes time to build trust with a new team.",
+        "options": [
+          "поссориться, спорить",
+          "выстраивать доверие",
+          "близкий друг",
+          "хорошо ладить"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “build trust” означает “выстраивать доверие”. Постепенно создавать уверенность в честности и надёжности человека или организации.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_036_have_an_argument",
+    "card_order": 36,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "collocation": "have an argument",
+    "translation": "поссориться, спорить",
+    "questions": [
+      {
+        "id": "coll_int_036_have_an_argument_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «поссориться, спорить» в этом контексте:\n\nОни поссорились из-за денег.",
+        "options": [
+          "close friend",
+          "get along well",
+          "have an argument",
+          "fall in love"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “have an argument” — “поссориться, спорить”. Вступить в конфликтный разговор, обычно с выражением несогласия или раздражения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_036_have_an_argument_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «have an argument» в данном контексте?\n\nI do not want to have an argument with you.",
+        "options": [
+          "близкий друг",
+          "хорошо ладить",
+          "влюбиться",
+          "поссориться, спорить"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “have an argument” означает “поссориться, спорить”. Вступить в конфликтный разговор, обычно с выражением несогласия или раздражения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_037_catch_a_cold",
+    "card_order": 37,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "catch a cold",
+    "translation": "простудиться",
+    "questions": [
+      {
+        "id": "coll_int_037_catch_a_cold_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «простудиться» в этом контексте:\n\nПосле поездки я простудился.",
+        "options": [
+          "catch a cold",
+          "make a full recovery",
+          "suffer from",
+          "take medicine"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “catch a cold” — “простудиться”. Заразиться лёгкой вирусной инфекцией с насморком, кашлем или болью в горле.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_037_catch_a_cold_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «catch a cold» в данном контексте?\n\nWear a jacket or you may catch a cold.",
+        "options": [
+          "полностью выздороветь",
+          "простудиться",
+          "страдать от",
+          "принимать лекарство"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “catch a cold” означает “простудиться”. Заразиться лёгкой вирусной инфекцией с насморком, кашлем или болью в горле.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_038_make_a_full_recovery",
+    "card_order": 38,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "make a full recovery",
+    "translation": "полностью выздороветь",
+    "questions": [
+      {
+        "id": "coll_int_038_make_a_full_recovery_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «полностью выздороветь» в этом контексте:\n\nВрачи ожидают, что она полностью выздоровеет.",
+        "options": [
+          "suffer from",
+          "take medicine",
+          "make a full recovery",
+          "get some exercise"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “make a full recovery” — “полностью выздороветь”. Полностью восстановить здоровье после болезни или травмы.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_038_make_a_full_recovery_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make a full recovery» в данном контексте?\n\nHe made a remarkably quick recovery.",
+        "options": [
+          "страдать от",
+          "принимать лекарство",
+          "получить физическую нагрузку, позаниматься",
+          "полностью выздороветь"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “make a full recovery” означает “полностью выздороветь”. Полностью восстановить здоровье после болезни или травмы.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_039_suffer_from",
+    "card_order": 39,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "suffer from",
+    "translation": "страдать от",
+    "questions": [
+      {
+        "id": "coll_int_039_suffer_from_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «страдать от» в этом контексте:\n\nМногие люди страдают сезонной аллергией.",
+        "options": [
+          "suffer from",
+          "take medicine",
+          "get some exercise",
+          "maintain a healthy diet"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “suffer from” — “страдать от”. Испытывать заболевание, симптом или длительную проблему.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_039_suffer_from_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «suffer from» в данном контексте?\n\nHe has suffered from back pain for years.",
+        "options": [
+          "принимать лекарство",
+          "страдать от",
+          "получить физическую нагрузку, позаниматься",
+          "поддерживать здоровый рацион"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “suffer from” означает “страдать от”. Испытывать заболевание, симптом или длительную проблему.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_040_take_medicine",
+    "card_order": 40,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "take medicine",
+    "translation": "принимать лекарство",
+    "questions": [
+      {
+        "id": "coll_int_040_take_medicine_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «принимать лекарство» в этом контексте:\n\nНе забудь принять лекарство после ужина.",
+        "options": [
+          "get some exercise",
+          "maintain a healthy diet",
+          "take medicine",
+          "catch a cold"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “take medicine” — “принимать лекарство”. Употреблять назначенный или необходимый лекарственный препарат.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_040_take_medicine_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «take medicine» в данном контексте?\n\nShe takes medication for high blood pressure.",
+        "options": [
+          "получить физическую нагрузку, позаниматься",
+          "поддерживать здоровый рацион",
+          "простудиться",
+          "принимать лекарство"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “take medicine” означает “принимать лекарство”. Употреблять назначенный или необходимый лекарственный препарат.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_041_get_some_exercise",
+    "card_order": 41,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "get some exercise",
+    "translation": "получить физическую нагрузку, позаниматься",
+    "questions": [
+      {
+        "id": "coll_int_041_get_some_exercise_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «получить физическую нагрузку, позаниматься» в этом контексте:\n\nКороткая прогулка — хороший способ немного подвигаться.",
+        "options": [
+          "get some exercise",
+          "maintain a healthy diet",
+          "catch a cold",
+          "make a full recovery"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “get some exercise” — “получить физическую нагрузку, позаниматься”. Выполнить достаточно физической активности, особенно в повседневной жизни.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_041_get_some_exercise_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «get some exercise» в данном контексте?\n\nI cycle to work so that I get regular exercise.",
+        "options": [
+          "поддерживать здоровый рацион",
+          "получить физическую нагрузку, позаниматься",
+          "простудиться",
+          "полностью выздороветь"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “get some exercise” означает “получить физическую нагрузку, позаниматься”. Выполнить достаточно физической активности, особенно в повседневной жизни.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_042_maintain_a_healthy_diet",
+    "card_order": 42,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "collocation": "maintain a healthy diet",
+    "translation": "поддерживать здоровый рацион",
+    "questions": [
+      {
+        "id": "coll_int_042_maintain_a_healthy_diet_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «поддерживать здоровый рацион» в этом контексте:\n\nВо время путешествия бывает трудно придерживаться здорового питания.",
+        "options": [
+          "catch a cold",
+          "make a full recovery",
+          "maintain a healthy diet",
+          "suffer from"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “maintain a healthy diet” — “поддерживать здоровый рацион”. Регулярно придерживаться сбалансированного и полезного питания.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_042_maintain_a_healthy_diet_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «maintain a healthy diet» в данном контексте?\n\nA varied menu helps you maintain a balanced diet.",
+        "options": [
+          "простудиться",
+          "полностью выздороветь",
+          "страдать от",
+          "поддерживать здоровый рацион"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “maintain a healthy diet” означает “поддерживать здоровый рацион”. Регулярно придерживаться сбалансированного и полезного питания.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_043_browse_the_web",
+    "card_order": 43,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "browse the web",
+    "translation": "просматривать сайты в интернете",
+    "questions": [
+      {
+        "id": "coll_int_043_browse_the_web_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «просматривать сайты в интернете» в этом контексте:\n\nЯ просматривал сайты, когда нашёл эту статью.",
+        "options": [
+          "browse the web",
+          "install software",
+          "update an app",
+          "save a file"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “browse the web” — “просматривать сайты в интернете”. Переходить по веб-страницам и читать информацию без обязательно точного поискового запроса.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_043_browse_the_web_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «browse the web» в данном контексте?\n\nShe browses the web on her tablet.",
+        "options": [
+          "установить программное обеспечение",
+          "просматривать сайты в интернете",
+          "обновить приложение",
+          "сохранить файл"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “browse the web” означает “просматривать сайты в интернете”. Переходить по веб-страницам и читать информацию без обязательно точного поискового запроса.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_044_install_software",
+    "card_order": 44,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "install software",
+    "translation": "установить программное обеспечение",
+    "questions": [
+      {
+        "id": "coll_int_044_install_software_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «установить программное обеспечение» в этом контексте:\n\nПеред встречей нужно установить программу.",
+        "options": [
+          "update an app",
+          "save a file",
+          "install software",
+          "charge a device"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “install software” — “установить программное обеспечение”. Добавить программу на устройство и подготовить её к работе.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_044_install_software_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «install software» в данном контексте?\n\nThe technician installed new software on every laptop.",
+        "options": [
+          "обновить приложение",
+          "сохранить файл",
+          "зарядить устройство",
+          "установить программное обеспечение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “install software” означает “установить программное обеспечение”. Добавить программу на устройство и подготовить её к работе.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_045_update_an_app",
+    "card_order": 45,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "update an app",
+    "translation": "обновить приложение",
+    "questions": [
+      {
+        "id": "coll_int_045_update_an_app_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «обновить приложение» в этом контексте:\n\nПожалуйста, обновите приложение до последней версии.",
+        "options": [
+          "update an app",
+          "save a file",
+          "charge a device",
+          "protect personal data"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “update an app” — “обновить приложение”. Установить более новую версию приложения, обычно с исправлениями и новыми функциями.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_045_update_an_app_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «update an app» в данном контексте?\n\nThe phone updates most apps automatically.",
+        "options": [
+          "сохранить файл",
+          "обновить приложение",
+          "зарядить устройство",
+          "защищать персональные данные"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “update an app” означает “обновить приложение”. Установить более новую версию приложения, обычно с исправлениями и новыми функциями.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_046_save_a_file",
+    "card_order": 46,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "save a file",
+    "translation": "сохранить файл",
+    "questions": [
+      {
+        "id": "coll_int_046_save_a_file_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сохранить файл» в этом контексте:\n\nНажмите Ctrl+S, чтобы сохранить файл.",
+        "options": [
+          "charge a device",
+          "protect personal data",
+          "save a file",
+          "browse the web"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “save a file” — “сохранить файл”. Записать изменения в файл, чтобы они не были потеряны.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_046_save_a_file_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «save a file» в данном контексте?\n\nRemember to save your changes before closing the document.",
+        "options": [
+          "зарядить устройство",
+          "защищать персональные данные",
+          "просматривать сайты в интернете",
+          "сохранить файл"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “save a file” означает “сохранить файл”. Записать изменения в файл, чтобы они не были потеряны.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_047_charge_a_device",
+    "card_order": 47,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "charge a device",
+    "translation": "зарядить устройство",
+    "questions": [
+      {
+        "id": "coll_int_047_charge_a_device_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «зарядить устройство» в этом контексте:\n\nМне нужно зарядить телефон перед выходом.",
+        "options": [
+          "charge a device",
+          "protect personal data",
+          "browse the web",
+          "install software"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “charge a device” — “зарядить устройство”. Пополнить заряд аккумулятора телефона, планшета или другого устройства.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_047_charge_a_device_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «charge a device» в данном контексте?\n\nThe device takes two hours to charge fully.",
+        "options": [
+          "защищать персональные данные",
+          "зарядить устройство",
+          "просматривать сайты в интернете",
+          "установить программное обеспечение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “charge a device” означает “зарядить устройство”. Пополнить заряд аккумулятора телефона, планшета или другого устройства.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_048_protect_personal_data",
+    "card_order": 48,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "collocation": "protect personal data",
+    "translation": "защищать персональные данные",
+    "questions": [
+      {
+        "id": "coll_int_048_protect_personal_data_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «защищать персональные данные» в этом контексте:\n\nИспользуйте надёжный пароль для защиты персональных данных.",
+        "options": [
+          "browse the web",
+          "install software",
+          "protect personal data",
+          "update an app"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “protect personal data” — “защищать персональные данные”. Предотвращать несанкционированный доступ, потерю или раскрытие личной информации.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_048_protect_personal_data_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «protect personal data» в данном контексте?\n\nThe law requires companies to protect customer data.",
+        "options": [
+          "просматривать сайты в интернете",
+          "установить программное обеспечение",
+          "обновить приложение",
+          "защищать персональные данные"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “protect personal data” означает “защищать персональные данные”. Предотвращать несанкционированный доступ, потерю или раскрытие личной информации.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_049_make_a_decision",
+    "card_order": 49,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "make a decision",
+    "translation": "принять решение",
+    "questions": [
+      {
+        "id": "coll_int_049_make_a_decision_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «принять решение» в этом контексте:\n\nНам нужно принять решение до пятницы.",
+        "options": [
+          "make a decision",
+          "do the shopping",
+          "have a break",
+          "take a shower"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “make a decision” — “принять решение”. Выбрать один вариант после размышления.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_049_make_a_decision_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make a decision» в данном контексте?\n\nShe made the difficult decision to move abroad.",
+        "options": [
+          "делать покупки",
+          "принять решение",
+          "сделать перерыв",
+          "принять душ"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “make a decision” означает “принять решение”. Выбрать один вариант после размышления.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_050_do_the_shopping",
+    "card_order": 50,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "do the shopping",
+    "translation": "делать покупки",
+    "questions": [
+      {
+        "id": "coll_int_050_do_the_shopping_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «делать покупки» в этом контексте:\n\nОбычно я делаю покупки в субботу.",
+        "options": [
+          "have a break",
+          "take a shower",
+          "do the shopping",
+          "waste time"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “do the shopping” — “делать покупки”. Покупать продукты и другие необходимые повседневные вещи.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_050_do_the_shopping_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «do the shopping» в данном контексте?\n\nCan you do the shopping on your way home?",
+        "options": [
+          "сделать перерыв",
+          "принять душ",
+          "тратить время впустую",
+          "делать покупки"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “do the shopping” означает “делать покупки”. Покупать продукты и другие необходимые повседневные вещи.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_051_have_a_break",
+    "card_order": 51,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "have a break",
+    "translation": "сделать перерыв",
+    "questions": [
+      {
+        "id": "coll_int_051_have_a_break_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сделать перерыв» в этом контексте:\n\nДавайте сделаем короткий перерыв.",
+        "options": [
+          "have a break",
+          "take a shower",
+          "waste time",
+          "make an appointment"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “have a break” — “сделать перерыв”. Ненадолго прекратить работу или занятие, чтобы отдохнуть.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_051_have_a_break_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «have a break» в данном контексте?\n\nWe had a coffee break at eleven.",
+        "options": [
+          "принять душ",
+          "сделать перерыв",
+          "тратить время впустую",
+          "записаться на приём, назначить встречу"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “have a break” означает “сделать перерыв”. Ненадолго прекратить работу или занятие, чтобы отдохнуть.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_052_take_a_shower",
+    "card_order": 52,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "take a shower",
+    "translation": "принять душ",
+    "questions": [
+      {
+        "id": "coll_int_052_take_a_shower_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «принять душ» в этом контексте:\n\nОбычно после спортзала я принимаю душ.",
+        "options": [
+          "waste time",
+          "make an appointment",
+          "take a shower",
+          "make a decision"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “take a shower” — “принять душ”. Мыться под душем. В британском английском также очень часто have a shower.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_052_take_a_shower_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «take a shower» в данном контексте?\n\nShe took a quick shower before breakfast.",
+        "options": [
+          "тратить время впустую",
+          "записаться на приём, назначить встречу",
+          "принять решение",
+          "принять душ"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “take a shower” означает “принять душ”. Мыться под душем. В британском английском также очень часто have a shower.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_053_waste_time",
+    "card_order": 53,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "waste time",
+    "translation": "тратить время впустую",
+    "questions": [
+      {
+        "id": "coll_int_053_waste_time_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «тратить время впустую» в этом контексте:\n\nНе трать время на переживания из-за мелких ошибок.",
+        "options": [
+          "waste time",
+          "make an appointment",
+          "make a decision",
+          "do the shopping"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “waste time” — “тратить время впустую”. Использовать время без пользы или на ненужное действие.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_053_waste_time_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «waste time» в данном контексте?\n\nWe wasted an hour looking for the address.",
+        "options": [
+          "записаться на приём, назначить встречу",
+          "тратить время впустую",
+          "принять решение",
+          "делать покупки"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “waste time” означает “тратить время впустую”. Использовать время без пользы или на ненужное действие.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_int_054_make_an_appointment",
+    "card_order": 54,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "collocation": "make an appointment",
+    "translation": "записаться на приём, назначить встречу",
+    "questions": [
+      {
+        "id": "coll_int_054_make_an_appointment_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «записаться на приём, назначить встречу» в этом контексте:\n\nМне нужно записаться к стоматологу.",
+        "options": [
+          "make a decision",
+          "do the shopping",
+          "make an appointment",
+          "have a break"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “make an appointment” — “записаться на приём, назначить встречу”. Договориться о конкретном времени встречи с врачом, специалистом или организацией.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_int_054_make_an_appointment_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «make an appointment» в данном контексте?\n\nShe made an appointment for Tuesday morning.",
+        "options": [
+          "принять решение",
+          "делать покупки",
+          "сделать перерыв",
+          "записаться на приём, назначить встречу"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “make an appointment” означает “записаться на приём, назначить встречу”. Договориться о конкретном времени встречи с врачом, специалистом или организацией.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_001_assume_responsibility",
+    "card_order": 1,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "assume responsibility",
+    "translation": "взять на себя ответственность",
+    "questions": [
+      {
+        "id": "coll_adv_001_assume_responsibility_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «взять на себя ответственность» в этом контексте:\n\nНовый директор взял на себя ответственность за всё подразделение.",
+        "options": [
+          "assume responsibility",
+          "exercise discretion",
+          "meet stringent requirements",
+          "shoulder the burden"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “assume responsibility” — “взять на себя ответственность”. Формальное сочетание: принять на себя обязанность отвечать за решение, процесс или результат.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_001_assume_responsibility_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «assume responsibility» в данном контексте?\n\nNo one was willing to assume full responsibility for the failure.",
+        "options": [
+          "действовать по собственному усмотрению",
+          "взять на себя ответственность",
+          "соответствовать строгим требованиям",
+          "взвалить на себя бремя"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “assume responsibility” означает “взять на себя ответственность”. Формальное сочетание: принять на себя обязанность отвечать за решение, процесс или результат.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_002_exercise_discretion",
+    "card_order": 2,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "exercise discretion",
+    "translation": "действовать по собственному усмотрению",
+    "questions": [
+      {
+        "id": "coll_adv_002_exercise_discretion_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «действовать по собственному усмотрению» в этом контексте:\n\nСтаршие сотрудники могут действовать по своему усмотрению в исключительных случаях.",
+        "options": [
+          "meet stringent requirements",
+          "shoulder the burden",
+          "exercise discretion",
+          "foster collaboration"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “exercise discretion” — “действовать по собственному усмотрению”. Формальное сочетание: самостоятельно принимать взвешенное решение в пределах предоставленных полномочий.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_002_exercise_discretion_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «exercise discretion» в данном контексте?\n\nThe officer failed to exercise sufficient discretion.",
+        "options": [
+          "соответствовать строгим требованиям",
+          "взвалить на себя бремя",
+          "способствовать сотрудничеству",
+          "действовать по собственному усмотрению"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “exercise discretion” означает “действовать по собственному усмотрению”. Формальное сочетание: самостоятельно принимать взвешенное решение в пределах предоставленных полномочий.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_003_meet_stringent_requirements",
+    "card_order": 3,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "meet stringent requirements",
+    "translation": "соответствовать строгим требованиям",
+    "questions": [
+      {
+        "id": "coll_adv_003_meet_stringent_requirements_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «соответствовать строгим требованиям» в этом контексте:\n\nУстройство соответствует строгим требованиям безопасности.",
+        "options": [
+          "meet stringent requirements",
+          "shoulder the burden",
+          "foster collaboration",
+          "secure funding"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “meet stringent requirements” — “соответствовать строгим требованиям”. Выполнить жёсткие, детально установленные условия или стандарты.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_003_meet_stringent_requirements_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «meet stringent requirements» в данном контексте?\n\nApplicants must meet stringent eligibility requirements.",
+        "options": [
+          "взвалить на себя бремя",
+          "соответствовать строгим требованиям",
+          "способствовать сотрудничеству",
+          "добиться финансирования"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “meet stringent requirements” означает “соответствовать строгим требованиям”. Выполнить жёсткие, детально установленные условия или стандарты.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_004_shoulder_the_burden",
+    "card_order": 4,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "shoulder the burden",
+    "translation": "взвалить на себя бремя",
+    "questions": [
+      {
+        "id": "coll_adv_004_shoulder_the_burden_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «взвалить на себя бремя» в этом контексте:\n\nМалый бизнес не может нести всё финансовое бремя.",
+        "options": [
+          "foster collaboration",
+          "secure funding",
+          "shoulder the burden",
+          "assume responsibility"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “shoulder the burden” — “взвалить на себя бремя”. Принять на себя тяжёлую обязанность, расходы или последствия, часто несправедливо распределённые.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_004_shoulder_the_burden_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «shoulder the burden» в данном контексте?\n\nHer colleagues helped her shoulder the burden of the extra workload.",
+        "options": [
+          "способствовать сотрудничеству",
+          "добиться финансирования",
+          "взять на себя ответственность",
+          "взвалить на себя бремя"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “shoulder the burden” означает “взвалить на себя бремя”. Принять на себя тяжёлую обязанность, расходы или последствия, часто несправедливо распределённые.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_005_foster_collaboration",
+    "card_order": 5,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "foster collaboration",
+    "translation": "способствовать сотрудничеству",
+    "questions": [
+      {
+        "id": "coll_adv_005_foster_collaboration_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «способствовать сотрудничеству» в этом контексте:\n\nНовая планировка офиса призвана способствовать сотрудничеству.",
+        "options": [
+          "foster collaboration",
+          "secure funding",
+          "assume responsibility",
+          "exercise discretion"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “foster collaboration” — “способствовать сотрудничеству”. Создавать условия, при которых люди или команды эффективнее работают совместно.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_005_foster_collaboration_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «foster collaboration» в данном контексте?\n\nLeaders should foster collaboration across departments.",
+        "options": [
+          "добиться финансирования",
+          "способствовать сотрудничеству",
+          "взять на себя ответственность",
+          "действовать по собственному усмотрению"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “foster collaboration” означает “способствовать сотрудничеству”. Создавать условия, при которых люди или команды эффективнее работают совместно.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_006_secure_funding",
+    "card_order": 6,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK",
+    "collocation": "secure funding",
+    "translation": "добиться финансирования",
+    "questions": [
+      {
+        "id": "coll_adv_006_secure_funding_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «добиться финансирования» в этом контексте:\n\nБлаготворительная организация получила финансирование для трёхлетнего проекта.",
+        "options": [
+          "assume responsibility",
+          "exercise discretion",
+          "secure funding",
+          "meet stringent requirements"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “secure funding” — “добиться финансирования”. Получить необходимое финансирование после переговоров, заявки или конкурса.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_006_secure_funding_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «secure funding» в данном контексте?\n\nStart-ups often struggle to secure sufficient funding.",
+        "options": [
+          "взять на себя ответственность",
+          "действовать по собственному усмотрению",
+          "соответствовать строгим требованиям",
+          "добиться финансирования"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “secure funding” означает “добиться финансирования”. Получить необходимое финансирование после переговоров, заявки или конкурса.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_007_acquire_in_depth_knowledge",
+    "card_order": 7,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "acquire in-depth knowledge",
+    "translation": "приобрести глубокие знания",
+    "questions": [
+      {
+        "id": "coll_adv_007_acquire_in_depth_knowledge_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «приобрести глубокие знания» в этом контексте:\n\nСтуденты приобретают глубокие знания международного права.",
+        "options": [
+          "acquire in-depth knowledge",
+          "conduct empirical research",
+          "formulate a hypothesis",
+          "challenge an assumption"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “acquire in-depth knowledge” — “приобрести глубокие знания”. Систематически получить подробное и всестороннее понимание предмета.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_007_acquire_in_depth_knowledge_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «acquire in-depth knowledge» в данном контексте?\n\nThe course helps participants acquire specialist knowledge.",
+        "options": [
+          "проводить эмпирическое исследование",
+          "приобрести глубокие знания",
+          "сформулировать гипотезу",
+          "поставить предположение под сомнение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “acquire in-depth knowledge” означает “приобрести глубокие знания”. Систематически получить подробное и всестороннее понимание предмета.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_008_conduct_empirical_research",
+    "card_order": 8,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "conduct empirical research",
+    "translation": "проводить эмпирическое исследование",
+    "questions": [
+      {
+        "id": "coll_adv_008_conduct_empirical_research_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «проводить эмпирическое исследование» в этом контексте:\n\nКоманда провела эмпирическое исследование в пяти странах.",
+        "options": [
+          "formulate a hypothesis",
+          "challenge an assumption",
+          "conduct empirical research",
+          "draw a distinction"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “conduct empirical research” — “проводить эмпирическое исследование”. Проводить исследование, основанное на наблюдениях, измерениях или данных, а не только на теории.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_008_conduct_empirical_research_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «conduct empirical research» в данном контексте?\n\nMore empirical research is needed to test the theory.",
+        "options": [
+          "сформулировать гипотезу",
+          "поставить предположение под сомнение",
+          "провести различие",
+          "проводить эмпирическое исследование"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “conduct empirical research” означает “проводить эмпирическое исследование”. Проводить исследование, основанное на наблюдениях, измерениях или данных, а не только на теории.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_009_formulate_a_hypothesis",
+    "card_order": 9,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "formulate a hypothesis",
+    "translation": "сформулировать гипотезу",
+    "questions": [
+      {
+        "id": "coll_adv_009_formulate_a_hypothesis_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сформулировать гипотезу» в этом контексте:\n\nИсследователи сформулировали гипотезу до сбора данных.",
+        "options": [
+          "formulate a hypothesis",
+          "challenge an assumption",
+          "draw a distinction",
+          "demonstrate proficiency"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “formulate a hypothesis” — “сформулировать гипотезу”. Точно выразить проверяемое предположение, которое затем можно подтвердить или опровергнуть.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_009_formulate_a_hypothesis_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «formulate a hypothesis» в данном контексте?\n\nThe evidence did not support the original hypothesis.",
+        "options": [
+          "поставить предположение под сомнение",
+          "сформулировать гипотезу",
+          "провести различие",
+          "продемонстрировать владение навыком"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “formulate a hypothesis” означает “сформулировать гипотезу”. Точно выразить проверяемое предположение, которое затем можно подтвердить или опровергнуть.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_010_challenge_an_assumption",
+    "card_order": 10,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "challenge an assumption",
+    "translation": "поставить предположение под сомнение",
+    "questions": [
+      {
+        "id": "coll_adv_010_challenge_an_assumption_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «поставить предположение под сомнение» в этом контексте:\n\nРезультаты ставят под сомнение давнее предположение.",
+        "options": [
+          "draw a distinction",
+          "demonstrate proficiency",
+          "challenge an assumption",
+          "acquire in-depth knowledge"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “challenge an assumption” — “поставить предположение под сомнение”. Критически проверить идею, которую ранее принимали без достаточных доказательств.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_010_challenge_an_assumption_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «challenge an assumption» в данном контексте?\n\nStudents were encouraged to challenge conventional assumptions.",
+        "options": [
+          "провести различие",
+          "продемонстрировать владение навыком",
+          "приобрести глубокие знания",
+          "поставить предположение под сомнение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “challenge an assumption” означает “поставить предположение под сомнение”. Критически проверить идею, которую ранее принимали без достаточных доказательств.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_011_draw_a_distinction",
+    "card_order": 11,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "draw a distinction",
+    "translation": "провести различие",
+    "questions": [
+      {
+        "id": "coll_adv_011_draw_a_distinction_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «провести различие» в этом контексте:\n\nАвтор чётко различает риск и неопределённость.",
+        "options": [
+          "draw a distinction",
+          "demonstrate proficiency",
+          "acquire in-depth knowledge",
+          "conduct empirical research"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “draw a distinction” — “провести различие”. Чётко показать разницу между двумя близкими понятиями, явлениями или категориями.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_011_draw_a_distinction_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «draw a distinction» в данном контексте?\n\nIt is important to draw a distinction between correlation and causation.",
+        "options": [
+          "продемонстрировать владение навыком",
+          "провести различие",
+          "приобрести глубокие знания",
+          "проводить эмпирическое исследование"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “draw a distinction” означает “провести различие”. Чётко показать разницу между двумя близкими понятиями, явлениями или категориями.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_012_demonstrate_proficiency",
+    "card_order": 12,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EDUCATION",
+    "collocation": "demonstrate proficiency",
+    "translation": "продемонстрировать владение навыком",
+    "questions": [
+      {
+        "id": "coll_adv_012_demonstrate_proficiency_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «продемонстрировать владение навыком» в этом контексте:\n\nКандидаты должны продемонстрировать владение письменным английским.",
+        "options": [
+          "acquire in-depth knowledge",
+          "conduct empirical research",
+          "demonstrate proficiency",
+          "formulate a hypothesis"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “demonstrate proficiency” — “продемонстрировать владение навыком”. Показать уверенное и компетентное владение языком, методом или профессиональным навыком.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_012_demonstrate_proficiency_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «demonstrate proficiency» в данном контексте?\n\nThe assessment measures whether learners can demonstrate practical proficiency.",
+        "options": [
+          "приобрести глубокие знания",
+          "проводить эмпирическое исследование",
+          "сформулировать гипотезу",
+          "продемонстрировать владение навыком"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “demonstrate proficiency” означает “продемонстрировать владение навыком”. Показать уверенное и компетентное владение языком, методом или профессиональным навыком.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_013_impose_travel_restrictions",
+    "card_order": 13,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "impose travel restrictions",
+    "translation": "ввести ограничения на поездки",
+    "questions": [
+      {
+        "id": "coll_adv_013_impose_travel_restrictions_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «ввести ограничения на поездки» в этом контексте:\n\nВласти временно ограничили поездки.",
+        "options": [
+          "impose travel restrictions",
+          "experience severe disruption",
+          "navigate unfamiliar terrain",
+          "preserve cultural heritage"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “impose travel restrictions” — “ввести ограничения на поездки”. Официально установить ограничения, касающиеся въезда, выезда или перемещения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_013_impose_travel_restrictions_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «impose travel restrictions» в данном контексте?\n\nSeveral countries later lifted the travel restrictions.",
+        "options": [
+          "столкнуться с серьёзными перебоями",
+          "ввести ограничения на поездки",
+          "ориентироваться на незнакомой местности",
+          "сохранять культурное наследие"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “impose travel restrictions” означает “ввести ограничения на поездки”. Официально установить ограничения, касающиеся въезда, выезда или перемещения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_014_experience_severe_disruption",
+    "card_order": 14,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "experience severe disruption",
+    "translation": "столкнуться с серьёзными перебоями",
+    "questions": [
+      {
+        "id": "coll_adv_014_experience_severe_disruption_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «столкнуться с серьёзными перебоями» в этом контексте:\n\nПосле шторма железнодорожное сообщение было серьёзно нарушено.",
+        "options": [
+          "navigate unfamiliar terrain",
+          "preserve cultural heritage",
+          "experience severe disruption",
+          "accommodate fluctuating demand"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “experience severe disruption” — “столкнуться с серьёзными перебоями”. Испытать значительные нарушения нормальной работы транспорта или услуг.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_014_experience_severe_disruption_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «experience severe disruption» в данном контексте?\n\nPassengers should expect widespread disruption.",
+        "options": [
+          "ориентироваться на незнакомой местности",
+          "сохранять культурное наследие",
+          "учитывать колебания спроса",
+          "столкнуться с серьёзными перебоями"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “experience severe disruption” означает “столкнуться с серьёзными перебоями”. Испытать значительные нарушения нормальной работы транспорта или услуг.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_015_navigate_unfamiliar_terrain",
+    "card_order": 15,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "navigate unfamiliar terrain",
+    "translation": "ориентироваться на незнакомой местности",
+    "questions": [
+      {
+        "id": "coll_adv_015_navigate_unfamiliar_terrain_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «ориентироваться на незнакомой местности» в этом контексте:\n\nГиды помогли нам ориентироваться на незнакомой местности.",
+        "options": [
+          "navigate unfamiliar terrain",
+          "preserve cultural heritage",
+          "accommodate fluctuating demand",
+          "promote sustainable tourism"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “navigate unfamiliar terrain” — “ориентироваться на незнакомой местности”. Безопасно прокладывать путь и двигаться по местности, которую человек плохо знает.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_015_navigate_unfamiliar_terrain_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «navigate unfamiliar terrain» в данном контексте?\n\nAccurate maps are essential when navigating difficult terrain.",
+        "options": [
+          "сохранять культурное наследие",
+          "ориентироваться на незнакомой местности",
+          "учитывать колебания спроса",
+          "развивать устойчивый туризм"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “navigate unfamiliar terrain” означает “ориентироваться на незнакомой местности”. Безопасно прокладывать путь и двигаться по местности, которую человек плохо знает.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_016_preserve_cultural_heritage",
+    "card_order": 16,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "preserve cultural heritage",
+    "translation": "сохранять культурное наследие",
+    "questions": [
+      {
+        "id": "coll_adv_016_preserve_cultural_heritage_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сохранять культурное наследие» в этом контексте:\n\nДоходы от туризма могут помочь сохранить культурное наследие.",
+        "options": [
+          "accommodate fluctuating demand",
+          "promote sustainable tourism",
+          "preserve cultural heritage",
+          "impose travel restrictions"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “preserve cultural heritage” — “сохранять культурное наследие”. Защищать исторические места, традиции и культурные ценности для будущих поколений.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_016_preserve_cultural_heritage_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «preserve cultural heritage» в данном контексте?\n\nThe project aims to preserve local traditions.",
+        "options": [
+          "учитывать колебания спроса",
+          "развивать устойчивый туризм",
+          "ввести ограничения на поездки",
+          "сохранять культурное наследие"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “preserve cultural heritage” означает “сохранять культурное наследие”. Защищать исторические места, традиции и культурные ценности для будущих поколений.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_017_accommodate_fluctuating_demand",
+    "card_order": 17,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "accommodate fluctuating demand",
+    "translation": "учитывать колебания спроса",
+    "questions": [
+      {
+        "id": "coll_adv_017_accommodate_fluctuating_demand_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «учитывать колебания спроса» в этом контексте:\n\nАвиакомпании меняют количество мест с учётом колебаний спроса.",
+        "options": [
+          "accommodate fluctuating demand",
+          "promote sustainable tourism",
+          "impose travel restrictions",
+          "experience severe disruption"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “accommodate fluctuating demand” — “учитывать колебания спроса”. Гибко приспосабливать объём услуг или ресурсов к меняющемуся спросу.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_017_accommodate_fluctuating_demand_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «accommodate fluctuating demand» в данном контексте?\n\nHotels need flexible staffing to accommodate seasonal demand.",
+        "options": [
+          "развивать устойчивый туризм",
+          "учитывать колебания спроса",
+          "ввести ограничения на поездки",
+          "столкнуться с серьёзными перебоями"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “accommodate fluctuating demand” означает “учитывать колебания спроса”. Гибко приспосабливать объём услуг или ресурсов к меняющемуся спросу.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_018_promote_sustainable_tourism",
+    "card_order": 18,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "collocation": "promote sustainable tourism",
+    "translation": "развивать устойчивый туризм",
+    "questions": [
+      {
+        "id": "coll_adv_018_promote_sustainable_tourism_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «развивать устойчивый туризм» в этом контексте:\n\nКампания развивает устойчивый туризм в сельских районах.",
+        "options": [
+          "impose travel restrictions",
+          "experience severe disruption",
+          "promote sustainable tourism",
+          "navigate unfamiliar terrain"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “promote sustainable tourism” — “развивать устойчивый туризм”. Поддерживать туризм, который снижает экологический ущерб и приносит пользу местным сообществам.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_018_promote_sustainable_tourism_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «promote sustainable tourism» в данном контексте?\n\nLocal authorities support responsible tourism initiatives.",
+        "options": [
+          "ввести ограничения на поездки",
+          "столкнуться с серьёзными перебоями",
+          "ориентироваться на незнакомой местности",
+          "развивать устойчивый туризм"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “promote sustainable tourism” означает “развивать устойчивый туризм”. Поддерживать туризм, который снижает экологический ущерб и приносит пользу местным сообществам.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_019_articulate_a_position",
+    "card_order": 19,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "articulate a position",
+    "translation": "чётко сформулировать позицию",
+    "questions": [
+      {
+        "id": "coll_adv_019_articulate_a_position_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «чётко сформулировать позицию» в этом контексте:\n\nПредставитель чётко изложил позицию организации.",
+        "options": [
+          "articulate a position",
+          "substantiate a claim",
+          "convey a nuanced message",
+          "address a concern"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “articulate a position” — “чётко сформулировать позицию”. Ясно и последовательно выразить точку зрения, особенно в формальной дискуссии.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_019_articulate_a_position_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «articulate a position» в данном контексте?\n\nEach side was invited to articulate its concerns.",
+        "options": [
+          "подкрепить утверждение доказательствами",
+          "чётко сформулировать позицию",
+          "передать тонко сформулированную мысль",
+          "рассмотреть проблему или опасение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “articulate a position” означает “чётко сформулировать позицию”. Ясно и последовательно выразить точку зрения, особенно в формальной дискуссии.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_020_substantiate_a_claim",
+    "card_order": 20,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "substantiate a claim",
+    "translation": "подкрепить утверждение доказательствами",
+    "questions": [
+      {
+        "id": "coll_adv_020_substantiate_a_claim_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «подкрепить утверждение доказательствами» в этом контексте:\n\nДоклад не подкрепляет своё основное утверждение.",
+        "options": [
+          "convey a nuanced message",
+          "address a concern",
+          "substantiate a claim",
+          "reach a consensus"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “substantiate a claim” — “подкрепить утверждение доказательствами”. Предоставить факты или данные, которые делают утверждение убедительным и проверяемым.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_020_substantiate_a_claim_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «substantiate a claim» в данном контексте?\n\nThe allegation must be substantiated by evidence.",
+        "options": [
+          "передать тонко сформулированную мысль",
+          "рассмотреть проблему или опасение",
+          "достичь консенсуса",
+          "подкрепить утверждение доказательствами"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “substantiate a claim” означает “подкрепить утверждение доказательствами”. Предоставить факты или данные, которые делают утверждение убедительным и проверяемым.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_021_convey_a_nuanced_message",
+    "card_order": 21,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "convey a nuanced message",
+    "translation": "передать тонко сформулированную мысль",
+    "questions": [
+      {
+        "id": "coll_adv_021_convey_a_nuanced_message_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «передать тонко сформулированную мысль» в этом контексте:\n\nСтатья передаёт тонкую и неоднозначную мысль о социальных изменениях.",
+        "options": [
+          "convey a nuanced message",
+          "address a concern",
+          "reach a consensus",
+          "issue a clarification"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “convey a nuanced message” — “передать тонко сформулированную мысль”. Передать сложный смысл, содержащий оттенки и оговорки, без чрезмерного упрощения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_021_convey_a_nuanced_message_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «convey a nuanced message» в данном контексте?\n\nTone of voice can convey meaning that words alone do not.",
+        "options": [
+          "рассмотреть проблему или опасение",
+          "передать тонко сформулированную мысль",
+          "достичь консенсуса",
+          "выпустить разъяснение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “convey a nuanced message” означает “передать тонко сформулированную мысль”. Передать сложный смысл, содержащий оттенки и оговорки, без чрезмерного упрощения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_022_address_a_concern",
+    "card_order": 22,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "address a concern",
+    "translation": "рассмотреть проблему или опасение",
+    "questions": [
+      {
+        "id": "coll_adv_022_address_a_concern_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «рассмотреть проблему или опасение» в этом контексте:\n\nПересмотренная политика учитывает несколько общественных опасений.",
+        "options": [
+          "reach a consensus",
+          "issue a clarification",
+          "address a concern",
+          "articulate a position"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “address a concern” — “рассмотреть проблему или опасение”. Прямо отреагировать на вопрос, опасение или недостаток и предложить объяснение либо решение.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_022_address_a_concern_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «address a concern» в данном контексте?\n\nThe minister failed to address the central issue.",
+        "options": [
+          "достичь консенсуса",
+          "выпустить разъяснение",
+          "чётко сформулировать позицию",
+          "рассмотреть проблему или опасение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “address a concern” означает “рассмотреть проблему или опасение”. Прямо отреагировать на вопрос, опасение или недостаток и предложить объяснение либо решение.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_023_reach_a_consensus",
+    "card_order": 23,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "reach a consensus",
+    "translation": "достичь консенсуса",
+    "questions": [
+      {
+        "id": "coll_adv_023_reach_a_consensus_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «достичь консенсуса» в этом контексте:\n\nЧерез несколько часов комитет достиг консенсуса.",
+        "options": [
+          "reach a consensus",
+          "issue a clarification",
+          "articulate a position",
+          "substantiate a claim"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “reach a consensus” — “достичь консенсуса”. Прийти к общему решению, которое готовы принять все или большинство участников.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_023_reach_a_consensus_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «reach a consensus» в данном контексте?\n\nA broad consensus emerged around the proposal.",
+        "options": [
+          "выпустить разъяснение",
+          "достичь консенсуса",
+          "чётко сформулировать позицию",
+          "подкрепить утверждение доказательствами"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “reach a consensus” означает “достичь консенсуса”. Прийти к общему решению, которое готовы принять все или большинство участников.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_024_issue_a_clarification",
+    "card_order": 24,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "collocation": "issue a clarification",
+    "translation": "выпустить разъяснение",
+    "questions": [
+      {
+        "id": "coll_adv_024_issue_a_clarification_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «выпустить разъяснение» в этом контексте:\n\nПозже в тот же день ведомство выпустило разъяснение.",
+        "options": [
+          "articulate a position",
+          "substantiate a claim",
+          "issue a clarification",
+          "convey a nuanced message"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “issue a clarification” — “выпустить разъяснение”. Официально опубликовать дополнительное объяснение, чтобы устранить неясность или неверное толкование.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_024_issue_a_clarification_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «issue a clarification» в данном контексте?\n\nJournalists sought clarification of the new rules.",
+        "options": [
+          "чётко сформулировать позицию",
+          "подкрепить утверждение доказательствами",
+          "передать тонко сформулированную мысль",
+          "выпустить разъяснение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “issue a clarification” означает “выпустить разъяснение”. Официально опубликовать дополнительное объяснение, чтобы устранить неясность или неверное толкование.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_025_harbour_resentment",
+    "card_order": 25,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "harbour resentment",
+    "translation": "таить обиду",
+    "questions": [
+      {
+        "id": "coll_adv_025_harbour_resentment_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «таить обиду» в этом контексте:\n\nОн всё ещё таит обиду на бывшего работодателя.",
+        "options": [
+          "harbour resentment",
+          "experience profound relief",
+          "suppress an impulse",
+          "derive satisfaction from"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “harbour resentment” — “таить обиду”. Продолжительное время сохранять чувство обиды или недовольства, часто не выражая его открыто.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_025_harbour_resentment_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «harbour resentment» в данном контексте?\n\nYears of unequal treatment had created deep resentment.",
+        "options": [
+          "испытать глубокое облегчение",
+          "таить обиду",
+          "подавить порыв",
+          "получать удовлетворение от"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “harbour resentment” означает “таить обиду”. Продолжительное время сохранять чувство обиды или недовольства, часто не выражая его открыто.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_026_experience_profound_relief",
+    "card_order": 26,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "experience profound relief",
+    "translation": "испытать глубокое облегчение",
+    "questions": [
+      {
+        "id": "coll_adv_026_experience_profound_relief_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «испытать глубокое облегчение» в этом контексте:\n\nОна испытала глубокое облегчение, когда пришли результаты.",
+        "options": [
+          "suppress an impulse",
+          "derive satisfaction from",
+          "experience profound relief",
+          "arouse suspicion"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “experience profound relief” — “испытать глубокое облегчение”. Почувствовать очень сильное облегчение после завершения опасной или напряжённой ситуации.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_026_experience_profound_relief_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «experience profound relief» в данном контексте?\n\nThere was a profound sense of relief among the passengers.",
+        "options": [
+          "подавить порыв",
+          "получать удовлетворение от",
+          "вызвать подозрение",
+          "испытать глубокое облегчение"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “experience profound relief” означает “испытать глубокое облегчение”. Почувствовать очень сильное облегчение после завершения опасной или напряжённой ситуации.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_027_suppress_an_impulse",
+    "card_order": 27,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "suppress an impulse",
+    "translation": "подавить порыв",
+    "questions": [
+      {
+        "id": "coll_adv_027_suppress_an_impulse_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «подавить порыв» в этом контексте:\n\nОна подавила желание его перебить.",
+        "options": [
+          "suppress an impulse",
+          "derive satisfaction from",
+          "arouse suspicion",
+          "display remarkable resilience"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “suppress an impulse” — “подавить порыв”. Сознательно не поддаться внезапному желанию что-либо сделать или сказать.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_027_suppress_an_impulse_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «suppress an impulse» в данном контексте?\n\nHe could not resist the impulse to laugh.",
+        "options": [
+          "получать удовлетворение от",
+          "подавить порыв",
+          "вызвать подозрение",
+          "проявить поразительную стойкость"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “suppress an impulse” означает “подавить порыв”. Сознательно не поддаться внезапному желанию что-либо сделать или сказать.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_028_derive_satisfaction_from",
+    "card_order": 28,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "derive satisfaction from",
+    "translation": "получать удовлетворение от",
+    "questions": [
+      {
+        "id": "coll_adv_028_derive_satisfaction_from_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «получать удовлетворение от» в этом контексте:\n\nМногие волонтёры получают удовлетворение от помощи другим.",
+        "options": [
+          "arouse suspicion",
+          "display remarkable resilience",
+          "derive satisfaction from",
+          "harbour resentment"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “derive satisfaction from” — “получать удовлетворение от”. Испытывать удовлетворение благодаря деятельности, результату или вкладу во что-либо.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_028_derive_satisfaction_from_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «derive satisfaction from» в данном контексте?\n\nShe derived considerable pleasure from teaching.",
+        "options": [
+          "вызвать подозрение",
+          "проявить поразительную стойкость",
+          "таить обиду",
+          "получать удовлетворение от"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “derive satisfaction from” означает “получать удовлетворение от”. Испытывать удовлетворение благодаря деятельности, результату или вкладу во что-либо.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_029_arouse_suspicion",
+    "card_order": 29,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "arouse suspicion",
+    "translation": "вызвать подозрение",
+    "questions": [
+      {
+        "id": "coll_adv_029_arouse_suspicion_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «вызвать подозрение» в этом контексте:\n\nНеобъяснимый платёж вызвал подозрение.",
+        "options": [
+          "arouse suspicion",
+          "display remarkable resilience",
+          "harbour resentment",
+          "experience profound relief"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “arouse suspicion” — “вызвать подозрение”. Заставить людей начать сомневаться в чьих-либо действиях, мотивах или правдивости.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_029_arouse_suspicion_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «arouse suspicion» в данном контексте?\n\nHis sudden departure aroused public concern.",
+        "options": [
+          "проявить поразительную стойкость",
+          "вызвать подозрение",
+          "таить обиду",
+          "испытать глубокое облегчение"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “arouse suspicion” означает “вызвать подозрение”. Заставить людей начать сомневаться в чьих-либо действиях, мотивах или правдивости.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_030_display_remarkable_resilience",
+    "card_order": 30,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "collocation": "display remarkable resilience",
+    "translation": "проявить поразительную стойкость",
+    "questions": [
+      {
+        "id": "coll_adv_030_display_remarkable_resilience_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «проявить поразительную стойкость» в этом контексте:\n\nПосле наводнения сообщество проявило поразительную стойкость.",
+        "options": [
+          "harbour resentment",
+          "experience profound relief",
+          "display remarkable resilience",
+          "suppress an impulse"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “display remarkable resilience” — “проявить поразительную стойкость”. Показать способность восстанавливаться и продолжать действовать после серьёзных трудностей.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_030_display_remarkable_resilience_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «display remarkable resilience» в данном контексте?\n\nChildren can show considerable emotional resilience.",
+        "options": [
+          "таить обиду",
+          "испытать глубокое облегчение",
+          "подавить порыв",
+          "проявить поразительную стойкость"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “display remarkable resilience” означает “проявить поразительную стойкость”. Показать способность восстанавливаться и продолжать действовать после серьёзных трудностей.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_031_establish_mutual_trust",
+    "card_order": 31,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "establish mutual trust",
+    "translation": "установить взаимное доверие",
+    "questions": [
+      {
+        "id": "coll_adv_031_establish_mutual_trust_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «установить взаимное доверие» в этом контексте:\n\nОткрытое общение помогает установить взаимное доверие.",
+        "options": [
+          "establish mutual trust",
+          "maintain professional boundaries",
+          "resolve a conflict",
+          "sever ties"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “establish mutual trust” — “установить взаимное доверие”. Постепенно создать отношения, в которых обе стороны считают друг друга надёжными и честными.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_031_establish_mutual_trust_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «establish mutual trust» в данном контексте?\n\nIt took time to build a relationship of trust.",
+        "options": [
+          "соблюдать профессиональные границы",
+          "установить взаимное доверие",
+          "урегулировать конфликт",
+          "разорвать связи"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “establish mutual trust” означает “установить взаимное доверие”. Постепенно создать отношения, в которых обе стороны считают друг друга надёжными и честными.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_032_maintain_professional_boundaries",
+    "card_order": 32,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "maintain professional boundaries",
+    "translation": "соблюдать профессиональные границы",
+    "questions": [
+      {
+        "id": "coll_adv_032_maintain_professional_boundaries_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «соблюдать профессиональные границы» в этом контексте:\n\nПсихотерапевты должны соблюдать профессиональные границы.",
+        "options": [
+          "resolve a conflict",
+          "sever ties",
+          "maintain professional boundaries",
+          "forge a close bond"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “maintain professional boundaries” — “соблюдать профессиональные границы”. Сохранять уместную дистанцию и ясные роли в профессиональных отношениях.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_032_maintain_professional_boundaries_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «maintain professional boundaries» в данном контексте?\n\nManagers should set clear boundaries from the outset.",
+        "options": [
+          "урегулировать конфликт",
+          "разорвать связи",
+          "сформировать тесную связь",
+          "соблюдать профессиональные границы"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “maintain professional boundaries” означает “соблюдать профессиональные границы”. Сохранять уместную дистанцию и ясные роли в профессиональных отношениях.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_033_resolve_a_conflict",
+    "card_order": 33,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "resolve a conflict",
+    "translation": "урегулировать конфликт",
+    "questions": [
+      {
+        "id": "coll_adv_033_resolve_a_conflict_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «урегулировать конфликт» в этом контексте:\n\nНейтральный посредник помог урегулировать конфликт.",
+        "options": [
+          "resolve a conflict",
+          "sever ties",
+          "forge a close bond",
+          "exert undue influence"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “resolve a conflict” — “урегулировать конфликт”. Найти решение разногласия и восстановить рабочее или личное взаимодействие.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_033_resolve_a_conflict_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «resolve a conflict» в данном контексте?\n\nThe two departments resolved a long-running dispute.",
+        "options": [
+          "разорвать связи",
+          "урегулировать конфликт",
+          "сформировать тесную связь",
+          "оказывать чрезмерное влияние"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “resolve a conflict” означает “урегулировать конфликт”. Найти решение разногласия и восстановить рабочее или личное взаимодействие.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_034_sever_ties",
+    "card_order": 34,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "sever ties",
+    "translation": "разорвать связи",
+    "questions": [
+      {
+        "id": "coll_adv_034_sever_ties_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «разорвать связи» в этом контексте:\n\nКомпания разорвала связи с поставщиком.",
+        "options": [
+          "forge a close bond",
+          "exert undue influence",
+          "sever ties",
+          "establish mutual trust"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “sever ties” — “разорвать связи”. Полностью прекратить личные, деловые или дипломатические отношения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_034_sever_ties_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «sever ties» в данном контексте?\n\nThe two states threatened to sever diplomatic relations.",
+        "options": [
+          "сформировать тесную связь",
+          "оказывать чрезмерное влияние",
+          "установить взаимное доверие",
+          "разорвать связи"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “sever ties” означает “разорвать связи”. Полностью прекратить личные, деловые или дипломатические отношения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_035_forge_a_close_bond",
+    "card_order": 35,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "forge a close bond",
+    "translation": "сформировать тесную связь",
+    "questions": [
+      {
+        "id": "coll_adv_035_forge_a_close_bond_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сформировать тесную связь» в этом контексте:\n\nЭтот опыт помог группе сформировать тесную связь.",
+        "options": [
+          "forge a close bond",
+          "exert undue influence",
+          "establish mutual trust",
+          "maintain professional boundaries"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “forge a close bond” — “сформировать тесную связь”. Создать сильную эмоциональную или рабочую связь через общий опыт и доверие.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_035_forge_a_close_bond_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «forge a close bond» в данном контексте?\n\nThe universities forged strong links over many years.",
+        "options": [
+          "оказывать чрезмерное влияние",
+          "сформировать тесную связь",
+          "установить взаимное доверие",
+          "соблюдать профессиональные границы"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “forge a close bond” означает “сформировать тесную связь”. Создать сильную эмоциональную или рабочую связь через общий опыт и доверие.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_036_exert_undue_influence",
+    "card_order": 36,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "collocation": "exert undue influence",
+    "translation": "оказывать чрезмерное влияние",
+    "questions": [
+      {
+        "id": "coll_adv_036_exert_undue_influence_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «оказывать чрезмерное влияние» в этом контексте:\n\nДонора обвинили в чрезмерном влиянии на совет.",
+        "options": [
+          "establish mutual trust",
+          "maintain professional boundaries",
+          "exert undue influence",
+          "resolve a conflict"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “exert undue influence” — “оказывать чрезмерное влияние”. Использовать влияние в степени, которая считается несправедливой, неуместной или манипулятивной.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_036_exert_undue_influence_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «exert undue influence» в данном контексте?\n\nOfficials denied exerting pressure on the investigators.",
+        "options": [
+          "установить взаимное доверие",
+          "соблюдать профессиональные границы",
+          "урегулировать конфликт",
+          "оказывать чрезмерное влияние"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “exert undue influence” означает “оказывать чрезмерное влияние”. Использовать влияние в степени, которая считается несправедливой, неуместной или манипулятивной.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_037_pose_a_serious_health_risk",
+    "card_order": 37,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "pose a serious health risk",
+    "translation": "представлять серьёзный риск для здоровья",
+    "questions": [
+      {
+        "id": "coll_adv_037_pose_a_serious_health_risk_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «представлять серьёзный риск для здоровья» в этом контексте:\n\nДлительное воздействие может представлять серьёзный риск для здоровья.",
+        "options": [
+          "pose a serious health risk",
+          "alleviate symptoms",
+          "undergo extensive treatment",
+          "suffer adverse effects"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “pose a serious health risk” — “представлять серьёзный риск для здоровья”. Создавать вероятность значительного вреда здоровью человека или группы людей.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_037_pose_a_serious_health_risk_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «pose a serious health risk» в данном контексте?\n\nContaminated water poses a threat to public health.",
+        "options": [
+          "облегчить симптомы",
+          "представлять серьёзный риск для здоровья",
+          "пройти длительное или серьёзное лечение",
+          "испытывать неблагоприятные последствия"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “pose a serious health risk” означает “представлять серьёзный риск для здоровья”. Создавать вероятность значительного вреда здоровью человека или группы людей.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_038_alleviate_symptoms",
+    "card_order": 38,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "alleviate symptoms",
+    "translation": "облегчить симптомы",
+    "questions": [
+      {
+        "id": "coll_adv_038_alleviate_symptoms_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «облегчить симптомы» в этом контексте:\n\nЛекарство может облегчить лёгкие симптомы.",
+        "options": [
+          "undergo extensive treatment",
+          "suffer adverse effects",
+          "alleviate symptoms",
+          "prevent the spread of disease"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “alleviate symptoms” — “облегчить симптомы”. Сделать симптомы менее выраженными, не обязательно устраняя причину заболевания.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_038_alleviate_symptoms_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «alleviate symptoms» в данном контексте?\n\nRegular stretching may alleviate back pain.",
+        "options": [
+          "пройти длительное или серьёзное лечение",
+          "испытывать неблагоприятные последствия",
+          "предотвратить распространение заболевания",
+          "облегчить симптомы"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “alleviate symptoms” означает “облегчить симптомы”. Сделать симптомы менее выраженными, не обязательно устраняя причину заболевания.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_039_undergo_extensive_treatment",
+    "card_order": 39,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "undergo extensive treatment",
+    "translation": "пройти длительное или серьёзное лечение",
+    "questions": [
+      {
+        "id": "coll_adv_039_undergo_extensive_treatment_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «пройти длительное или серьёзное лечение» в этом контексте:\n\nПосле аварии она прошла длительное лечение.",
+        "options": [
+          "undergo extensive treatment",
+          "suffer adverse effects",
+          "prevent the spread of disease",
+          "lead a sedentary lifestyle"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “undergo extensive treatment” — “пройти длительное или серьёзное лечение”. Быть пациентом, проходящим сложный, продолжительный или интенсивный курс лечения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_039_undergo_extensive_treatment_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «undergo extensive treatment» в данном контексте?\n\nThe patient may need to undergo further surgery.",
+        "options": [
+          "испытывать неблагоприятные последствия",
+          "пройти длительное или серьёзное лечение",
+          "предотвратить распространение заболевания",
+          "вести малоподвижный образ жизни"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “undergo extensive treatment” означает “пройти длительное или серьёзное лечение”. Быть пациентом, проходящим сложный, продолжительный или интенсивный курс лечения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_040_suffer_adverse_effects",
+    "card_order": 40,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "suffer adverse effects",
+    "translation": "испытывать неблагоприятные последствия",
+    "questions": [
+      {
+        "id": "coll_adv_040_suffer_adverse_effects_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «испытывать неблагоприятные последствия» в этом контексте:\n\nУ некоторых пациентов возникли неблагоприятные последствия.",
+        "options": [
+          "prevent the spread of disease",
+          "lead a sedentary lifestyle",
+          "suffer adverse effects",
+          "pose a serious health risk"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “suffer adverse effects” — “испытывать неблагоприятные последствия”. Столкнуться с нежелательными или вредными последствиями лекарства, среды или воздействия.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_040_suffer_adverse_effects_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «suffer adverse effects» в данном контексте?\n\nThe drug may cause serious side effects.",
+        "options": [
+          "предотвратить распространение заболевания",
+          "вести малоподвижный образ жизни",
+          "представлять серьёзный риск для здоровья",
+          "испытывать неблагоприятные последствия"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “suffer adverse effects” означает “испытывать неблагоприятные последствия”. Столкнуться с нежелательными или вредными последствиями лекарства, среды или воздействия.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_041_prevent_the_spread_of_disease",
+    "card_order": 41,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "prevent the spread of disease",
+    "translation": "предотвратить распространение заболевания",
+    "questions": [
+      {
+        "id": "coll_adv_041_prevent_the_spread_of_disease_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «предотвратить распространение заболевания» в этом контексте:\n\nБазовая гигиена помогает предотвратить распространение заболеваний.",
+        "options": [
+          "prevent the spread of disease",
+          "lead a sedentary lifestyle",
+          "pose a serious health risk",
+          "alleviate symptoms"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “prevent the spread of disease” — “предотвратить распространение заболевания”. Не допустить передачи заболевания от одного человека или места к другим.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_041_prevent_the_spread_of_disease_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «prevent the spread of disease» в данном контексте?\n\nThe measures were introduced to limit transmission.",
+        "options": [
+          "вести малоподвижный образ жизни",
+          "предотвратить распространение заболевания",
+          "представлять серьёзный риск для здоровья",
+          "облегчить симптомы"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “prevent the spread of disease” означает “предотвратить распространение заболевания”. Не допустить передачи заболевания от одного человека или места к другим.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_042_lead_a_sedentary_lifestyle",
+    "card_order": 42,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "HEALTH",
+    "collocation": "lead a sedentary lifestyle",
+    "translation": "вести малоподвижный образ жизни",
+    "questions": [
+      {
+        "id": "coll_adv_042_lead_a_sedentary_lifestyle_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «вести малоподвижный образ жизни» в этом контексте:\n\nМногие офисные сотрудники ведут малоподвижный образ жизни.",
+        "options": [
+          "pose a serious health risk",
+          "alleviate symptoms",
+          "lead a sedentary lifestyle",
+          "undergo extensive treatment"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “lead a sedentary lifestyle” — “вести малоподвижный образ жизни”. Проводить большую часть времени сидя и иметь недостаточный уровень физической активности.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_042_lead_a_sedentary_lifestyle_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «lead a sedentary lifestyle» в данном контексте?\n\nA largely sedentary routine can affect long-term health.",
+        "options": [
+          "представлять серьёзный риск для здоровья",
+          "облегчить симптомы",
+          "пройти длительное или серьёзное лечение",
+          "вести малоподвижный образ жизни"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “lead a sedentary lifestyle” означает “вести малоподвижный образ жизни”. Проводить большую часть времени сидя и иметь недостаточный уровень физической активности.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_043_safeguard_sensitive_data",
+    "card_order": 43,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "safeguard sensitive data",
+    "translation": "защищать конфиденциальные данные",
+    "questions": [
+      {
+        "id": "coll_adv_043_safeguard_sensitive_data_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «защищать конфиденциальные данные» в этом контексте:\n\nШифрование помогает защищать конфиденциальные данные.",
+        "options": [
+          "safeguard sensitive data",
+          "deploy cutting-edge technology",
+          "mitigate cyber risk",
+          "bridge the digital divide"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “safeguard sensitive data” — “защищать конфиденциальные данные”. Предотвращать утечку, повреждение или несанкционированное использование важных данных.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_043_safeguard_sensitive_data_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «safeguard sensitive data» в данном контексте?\n\nOrganisations must safeguard personal information.",
+        "options": [
+          "внедрять передовую технологию",
+          "защищать конфиденциальные данные",
+          "снижать киберриск",
+          "сократить цифровой разрыв"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “safeguard sensitive data” означает “защищать конфиденциальные данные”. Предотвращать утечку, повреждение или несанкционированное использование важных данных.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_044_deploy_cutting_edge_technology",
+    "card_order": 44,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "deploy cutting-edge technology",
+    "translation": "внедрять передовую технологию",
+    "questions": [
+      {
+        "id": "coll_adv_044_deploy_cutting_edge_technology_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «внедрять передовую технологию» в этом контексте:\n\nБольница внедрила передовые диагностические технологии.",
+        "options": [
+          "mitigate cyber risk",
+          "bridge the digital divide",
+          "deploy cutting-edge technology",
+          "gain unauthorised access"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “deploy cutting-edge technology” — “внедрять передовую технологию”. Вводить в практическое использование новейшую и высокоразвитую технологию.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_044_deploy_cutting_edge_technology_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «deploy cutting-edge technology» в данном контексте?\n\nThe company plans to deploy the new system nationwide.",
+        "options": [
+          "снижать киберриск",
+          "сократить цифровой разрыв",
+          "получить несанкционированный доступ",
+          "внедрять передовую технологию"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “deploy cutting-edge technology” означает “внедрять передовую технологию”. Вводить в практическое использование новейшую и высокоразвитую технологию.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_045_mitigate_cyber_risk",
+    "card_order": 45,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "mitigate cyber risk",
+    "translation": "снижать киберриск",
+    "questions": [
+      {
+        "id": "coll_adv_045_mitigate_cyber_risk_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «снижать киберриск» в этом контексте:\n\nРегулярные обновления помогают снижать киберриск.",
+        "options": [
+          "mitigate cyber risk",
+          "bridge the digital divide",
+          "gain unauthorised access",
+          "raise privacy concerns"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “mitigate cyber risk” — “снижать киберриск”. Уменьшать вероятность или последствия кибератаки, утечки или технической уязвимости.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_045_mitigate_cyber_risk_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «mitigate cyber risk» в данном контексте?\n\nThe controls are designed to mitigate potential harm.",
+        "options": [
+          "сократить цифровой разрыв",
+          "снижать киберриск",
+          "получить несанкционированный доступ",
+          "вызывать опасения по поводу конфиденциальности"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “mitigate cyber risk” означает “снижать киберриск”. Уменьшать вероятность или последствия кибератаки, утечки или технической уязвимости.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_046_bridge_the_digital_divide",
+    "card_order": 46,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "bridge the digital divide",
+    "translation": "сократить цифровой разрыв",
+    "questions": [
+      {
+        "id": "coll_adv_046_bridge_the_digital_divide_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сократить цифровой разрыв» в этом контексте:\n\nПубличные библиотеки могут помочь сократить цифровой разрыв.",
+        "options": [
+          "gain unauthorised access",
+          "raise privacy concerns",
+          "bridge the digital divide",
+          "safeguard sensitive data"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “bridge the digital divide” — “сократить цифровой разрыв”. Уменьшить неравенство в доступе к интернету, устройствам и цифровым навыкам.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_046_bridge_the_digital_divide_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «bridge the digital divide» в данном контексте?\n\nHigh costs may widen the digital divide.",
+        "options": [
+          "получить несанкционированный доступ",
+          "вызывать опасения по поводу конфиденциальности",
+          "защищать конфиденциальные данные",
+          "сократить цифровой разрыв"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “bridge the digital divide” означает “сократить цифровой разрыв”. Уменьшить неравенство в доступе к интернету, устройствам и цифровым навыкам.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_047_gain_unauthorised_access",
+    "card_order": 47,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "gain unauthorised access",
+    "translation": "получить несанкционированный доступ",
+    "questions": [
+      {
+        "id": "coll_adv_047_gain_unauthorised_access_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «получить несанкционированный доступ» в этом контексте:\n\nЗлоумышленники получили несанкционированный доступ к данным клиентов.",
+        "options": [
+          "gain unauthorised access",
+          "raise privacy concerns",
+          "safeguard sensitive data",
+          "deploy cutting-edge technology"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “gain unauthorised access” — “получить несанкционированный доступ”. Войти в систему, файл или сеть без законного разрешения.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_047_gain_unauthorised_access_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «gain unauthorised access» в данном контексте?\n\nThe suspect attempted to gain access to the server.",
+        "options": [
+          "вызывать опасения по поводу конфиденциальности",
+          "получить несанкционированный доступ",
+          "защищать конфиденциальные данные",
+          "внедрять передовую технологию"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “gain unauthorised access” означает “получить несанкционированный доступ”. Войти в систему, файл или сеть без законного разрешения.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_048_raise_privacy_concerns",
+    "card_order": 48,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "TECHNOLOGY",
+    "collocation": "raise privacy concerns",
+    "translation": "вызывать опасения по поводу конфиденциальности",
+    "questions": [
+      {
+        "id": "coll_adv_048_raise_privacy_concerns_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «вызывать опасения по поводу конфиденциальности» в этом контексте:\n\nСистема распознавания лиц вызывает опасения по поводу конфиденциальности.",
+        "options": [
+          "safeguard sensitive data",
+          "deploy cutting-edge technology",
+          "raise privacy concerns",
+          "mitigate cyber risk"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “raise privacy concerns” — “вызывать опасения по поводу конфиденциальности”. Заставлять людей сомневаться в том, насколько безопасно и этично собираются или используются данные.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_048_raise_privacy_concerns_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «raise privacy concerns» в данном контексте?\n\nResearchers expressed serious privacy concerns.",
+        "options": [
+          "защищать конфиденциальные данные",
+          "внедрять передовую технологию",
+          "снижать киберриск",
+          "вызывать опасения по поводу конфиденциальности"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “raise privacy concerns” означает “вызывать опасения по поводу конфиденциальности”. Заставлять людей сомневаться в том, насколько безопасно и этично собираются или используются данные.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_049_face_mounting_pressure",
+    "card_order": 49,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "face mounting pressure",
+    "translation": "сталкиваться с растущим давлением",
+    "questions": [
+      {
+        "id": "coll_adv_049_face_mounting_pressure_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «сталкиваться с растущим давлением» в этом контексте:\n\nОрганизация сталкивается с растущим давлением провести реформы.",
+        "options": [
+          "face mounting pressure",
+          "allocate scarce resources",
+          "reach a tentative agreement",
+          "bear little resemblance to"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “face mounting pressure” — “сталкиваться с растущим давлением”. Испытывать давление, которое постепенно усиливается со стороны обстоятельств, общества или требований.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_049_face_mounting_pressure_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «face mounting pressure» в данном контексте?\n\nOfficials came under increasing pressure to respond.",
+        "options": [
+          "распределять ограниченные ресурсы",
+          "сталкиваться с растущим давлением",
+          "достичь предварительной договорённости",
+          "почти не иметь сходства с"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “face mounting pressure” означает “сталкиваться с растущим давлением”. Испытывать давление, которое постепенно усиливается со стороны обстоятельств, общества или требований.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_050_allocate_scarce_resources",
+    "card_order": 50,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "allocate scarce resources",
+    "translation": "распределять ограниченные ресурсы",
+    "questions": [
+      {
+        "id": "coll_adv_050_allocate_scarce_resources_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «распределять ограниченные ресурсы» в этом контексте:\n\nПравительства должны решать, как распределять ограниченные ресурсы.",
+        "options": [
+          "reach a tentative agreement",
+          "bear little resemblance to",
+          "allocate scarce resources",
+          "take precedence over"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “allocate scarce resources” — “распределять ограниченные ресурсы”. Осознанно распределять недостаточные деньги, время, персонал или материалы между конкурирующими потребностями.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_050_allocate_scarce_resources_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «allocate scarce resources» в данном контексте?\n\nThe hospital allocated resources according to clinical need.",
+        "options": [
+          "достичь предварительной договорённости",
+          "почти не иметь сходства с",
+          "иметь приоритет над",
+          "распределять ограниченные ресурсы"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “allocate scarce resources” означает “распределять ограниченные ресурсы”. Осознанно распределять недостаточные деньги, время, персонал или материалы между конкурирующими потребностями.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_051_reach_a_tentative_agreement",
+    "card_order": 51,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "reach a tentative agreement",
+    "translation": "достичь предварительной договорённости",
+    "questions": [
+      {
+        "id": "coll_adv_051_reach_a_tentative_agreement_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «достичь предварительной договорённости» в этом контексте:\n\nНочью стороны достигли предварительной договорённости.",
+        "options": [
+          "reach a tentative agreement",
+          "bear little resemblance to",
+          "take precedence over",
+          "strike a delicate balance"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “reach a tentative agreement” — “достичь предварительной договорённости”. Прийти к соглашению, которое ещё не окончательно и может быть изменено после дальнейших переговоров.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_051_reach_a_tentative_agreement_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «reach a tentative agreement» в данном контексте?\n\nThey signed a provisional agreement on funding.",
+        "options": [
+          "почти не иметь сходства с",
+          "достичь предварительной договорённости",
+          "иметь приоритет над",
+          "найти тонкий баланс"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “reach a tentative agreement” означает “достичь предварительной договорённости”. Прийти к соглашению, которое ещё не окончательно и может быть изменено после дальнейших переговоров.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_052_bear_little_resemblance_to",
+    "card_order": 52,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "bear little resemblance to",
+    "translation": "почти не иметь сходства с",
+    "questions": [
+      {
+        "id": "coll_adv_052_bear_little_resemblance_to_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «почти не иметь сходства с» в этом контексте:\n\nКонечный продукт почти не похож на первоначальный проект.",
+        "options": [
+          "take precedence over",
+          "strike a delicate balance",
+          "bear little resemblance to",
+          "face mounting pressure"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “bear little resemblance to” — “почти не иметь сходства с”. Быть очень непохожим на другой объект, описание, план или прежнюю версию.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_052_bear_little_resemblance_to_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «bear little resemblance to» в данном контексте?\n\nShe bears a striking resemblance to her grandmother.",
+        "options": [
+          "иметь приоритет над",
+          "найти тонкий баланс",
+          "сталкиваться с растущим давлением",
+          "почти не иметь сходства с"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “bear little resemblance to” означает “почти не иметь сходства с”. Быть очень непохожим на другой объект, описание, план или прежнюю версию.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_053_take_precedence_over",
+    "card_order": 53,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "take precedence over",
+    "translation": "иметь приоритет над",
+    "questions": [
+      {
+        "id": "coll_adv_053_take_precedence_over_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «иметь приоритет над» в этом контексте:\n\nОбщественная безопасность должна иметь приоритет над удобством.",
+        "options": [
+          "take precedence over",
+          "strike a delicate balance",
+          "face mounting pressure",
+          "allocate scarce resources"
+        ],
+        "correct_index": 0,
+        "explanation": "Правильная коллокация: “take precedence over” — “иметь приоритет над”. Считаться более важным и поэтому получать преимущество перед другой задачей или принципом.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_053_take_precedence_over_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «take precedence over» в данном контексте?\n\nThe policy gives priority to vulnerable groups.",
+        "options": [
+          "найти тонкий баланс",
+          "иметь приоритет над",
+          "сталкиваться с растущим давлением",
+          "распределять ограниченные ресурсы"
+        ],
+        "correct_index": 1,
+        "explanation": "Здесь “take precedence over” означает “иметь приоритет над”. Считаться более важным и поэтому получать преимущество перед другой задачей или принципом.",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "coll_adv_054_strike_a_delicate_balance",
+    "card_order": 54,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EVERYDAY",
+    "collocation": "strike a delicate balance",
+    "translation": "найти тонкий баланс",
+    "questions": [
+      {
+        "id": "coll_adv_054_strike_a_delicate_balance_extra_1",
+        "type": "meaning_to_form",
+        "prompt": "Выберите английскую коллокацию, которая точнее всего передаёт значение «найти тонкий баланс» в этом контексте:\n\nЗакон должен найти тонкий баланс между безопасностью и конфиденциальностью.",
+        "options": [
+          "face mounting pressure",
+          "allocate scarce resources",
+          "strike a delicate balance",
+          "reach a tentative agreement"
+        ],
+        "correct_index": 2,
+        "explanation": "Правильная коллокация: “strike a delicate balance” — “найти тонкий баланс”. Добиться равновесия между двумя важными, но потенциально противоречащими целями.",
+        "source_example_index": 0
+      },
+      {
+        "id": "coll_adv_054_strike_a_delicate_balance_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает коллокация «strike a delicate balance» в данном контексте?\n\nManagers must maintain a careful balance between control and flexibility.",
+        "options": [
+          "сталкиваться с растущим давлением",
+          "распределять ограниченные ресурсы",
+          "достичь предварительной договорённости",
+          "найти тонкий баланс"
+        ],
+        "correct_index": 3,
+        "explanation": "Здесь “strike a delicate balance” означает “найти тонкий баланс”. Добиться равновесия между двумя важными, но потенциально противоречащими целями.",
+        "source_example_index": 1
+      }
+    ]
+  }
+]

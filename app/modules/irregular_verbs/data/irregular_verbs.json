@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "iv_001_be",
+    "order": 1,
+    "level": "A1-A2",
+    "pattern": "SPECIAL",
+    "infinitive": "be",
+    "past_simple": "was / were",
+    "past_participle": "been",
+    "translation": "быть",
+    "note": "В Past Simple используются was и were в зависимости от подлежащего.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She was at home yesterday.",
+        "ru": "Вчера она была дома."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have been very helpful.",
+        "ru": "Они были очень полезны."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Yesterday she were at home all evening.",
+      "right": "Yesterday she was at home all evening.",
+      "note": "С подлежащим she в Past Simple используется was."
+    },
+    "quiz": {
+      "prompt": "Yesterday she ___ at home all evening.",
+      "options": [
+        "was",
+        "were",
+        "been",
+        "be"
+      ],
+      "correct_index": 0,
+      "explanation": "С подлежащим she в Past Simple используется was."
+    }
+  },
+  {
+    "id": "iv_002_become",
+    "order": 2,
+    "level": "A1-A2",
+    "pattern": "ABA",
+    "infinitive": "become",
+    "past_simple": "became",
+    "past_participle": "become",
+    "translation": "становиться",
+    "note": "Инфинитив и Past Participle совпадают: become.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He became a doctor in 2019.",
+        "ru": "Он стал врачом в 2019 году."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The city has become much quieter.",
+        "ru": "Город стал намного тише."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The city has became much quieter.",
+      "right": "The city has become much quieter.",
+      "note": "После have/has/had или be нужен Past Participle: become."
+    },
+    "quiz": {
+      "prompt": "The city has ___ much quieter.",
+      "options": [
+        "became",
+        "become",
+        "becomed",
+        "becoming"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: become."
+    }
+  },
+  {
+    "id": "iv_003_begin",
+    "order": 3,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "begin",
+    "past_simple": "began",
+    "past_participle": "begun",
+    "translation": "начинать(ся)",
+    "note": "Не путайте began (Past Simple) и begun (Past Participle).",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The lesson began at nine.",
+        "ru": "Урок начался в девять."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The meeting has already begun.",
+        "ru": "Встреча уже началась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The lesson begined at nine.",
+      "right": "The lesson began at nine.",
+      "note": "Past Simple от begin — began, а не begined."
+    },
+    "quiz": {
+      "prompt": "The lesson ___ at nine.",
+      "options": [
+        "begin",
+        "begun",
+        "began",
+        "begined"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: began."
+    }
+  },
+  {
+    "id": "iv_004_break",
+    "order": 4,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "break",
+    "past_simple": "broke",
+    "past_participle": "broken",
+    "translation": "ломать; разбивать",
+    "note": "В конструкции have/has + verb нужна форма broken.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I broke my glasses yesterday.",
+        "ru": "Вчера я сломал очки."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has broken the record.",
+        "ru": "Она побила рекорд."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has broke the record.",
+      "right": "She has broken the record.",
+      "note": "После have/has/had или be нужен Past Participle: broken."
+    },
+    "quiz": {
+      "prompt": "She has ___ the record.",
+      "options": [
+        "break",
+        "broke",
+        "breaked",
+        "broken"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: broken."
+    }
+  },
+  {
+    "id": "iv_005_bring",
+    "order": 5,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "bring",
+    "past_simple": "brought",
+    "past_participle": "brought",
+    "translation": "приносить; привозить",
+    "note": "Past Simple и Past Participle совпадают: brought.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Tom brought the documents.",
+        "ru": "Том принёс документы."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have brought enough food.",
+        "ru": "Они принесли достаточно еды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Tom bringed the documents.",
+      "right": "Tom brought the documents.",
+      "note": "Past Simple от bring — brought, а не bringed."
+    },
+    "quiz": {
+      "prompt": "Tom ___ the documents.",
+      "options": [
+        "brought",
+        "bring",
+        "bringed",
+        "bringing"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: brought."
+    }
+  },
+  {
+    "id": "iv_006_build",
+    "order": 6,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "build",
+    "past_simple": "built",
+    "past_participle": "built",
+    "translation": "строить",
+    "note": "Built используется и в Past Simple, и после have/has/be.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They built the bridge in 2010.",
+        "ru": "Они построили мост в 2010 году."
+      },
+      {
+        "label": "Past Participle",
+        "en": "A new school has been built nearby.",
+        "ru": "Поблизости построили новую школу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "A new school has been builded nearby.",
+      "right": "A new school has been built nearby.",
+      "note": "После have/has/had или be нужен Past Participle: built."
+    },
+    "quiz": {
+      "prompt": "A new school has been ___ nearby.",
+      "options": [
+        "build",
+        "built",
+        "builded",
+        "building"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: built."
+    }
+  },
+  {
+    "id": "iv_007_buy",
+    "order": 7,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "buy",
+    "past_simple": "bought",
+    "past_participle": "bought",
+    "translation": "покупать",
+    "note": "Не используйте buyed: правильная форма — bought.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I bought a new laptop last week.",
+        "ru": "На прошлой неделе я купил новый ноутбук."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have bought the tickets online.",
+        "ru": "Мы купили билеты онлайн."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I buyed a new laptop last week.",
+      "right": "I bought a new laptop last week.",
+      "note": "Past Simple от buy — bought, а не buyed."
+    },
+    "quiz": {
+      "prompt": "I ___ a new laptop last week.",
+      "options": [
+        "buy",
+        "buyed",
+        "bought",
+        "buying"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: bought."
+    }
+  },
+  {
+    "id": "iv_008_catch",
+    "order": 8,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "catch",
+    "past_simple": "caught",
+    "past_participle": "caught",
+    "translation": "ловить; успевать; подхватывать",
+    "note": "Caught употребляется и как Past Simple, и как Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She caught the last bus.",
+        "ru": "Она успела на последний автобус."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has caught a cold.",
+        "ru": "Он простудился."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He has catched a cold.",
+      "right": "He has caught a cold.",
+      "note": "После have/has/had или be нужен Past Participle: caught."
+    },
+    "quiz": {
+      "prompt": "He has ___ a cold.",
+      "options": [
+        "catch",
+        "catched",
+        "catching",
+        "caught"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: caught."
+    }
+  },
+  {
+    "id": "iv_009_choose",
+    "order": 9,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "choose",
+    "past_simple": "chose",
+    "past_participle": "chosen",
+    "translation": "выбирать",
+    "note": "Chose — Past Simple; chosen — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We chose the cheaper option.",
+        "ru": "Мы выбрали более дешёвый вариант."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have chosen a new leader.",
+        "ru": "Они выбрали нового руководителя."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We choosed the cheaper option.",
+      "right": "We chose the cheaper option.",
+      "note": "Past Simple от choose — chose, а не choosed."
+    },
+    "quiz": {
+      "prompt": "We ___ the cheaper option.",
+      "options": [
+        "chose",
+        "choose",
+        "chosen",
+        "choosed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: chose."
+    }
+  },
+  {
+    "id": "iv_010_come",
+    "order": 10,
+    "level": "A1-A2",
+    "pattern": "ABA",
+    "infinitive": "come",
+    "past_simple": "came",
+    "past_participle": "come",
+    "translation": "приходить; приезжать",
+    "note": "После have/has используется come, а не came.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Anna came home early.",
+        "ru": "Анна рано пришла домой."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Spring has come early this year.",
+        "ru": "В этом году весна пришла рано."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Spring has came early this year.",
+      "right": "Spring has come early this year.",
+      "note": "После have/has/had или be нужен Past Participle: come."
+    },
+    "quiz": {
+      "prompt": "Spring has ___ early this year.",
+      "options": [
+        "came",
+        "come",
+        "comed",
+        "coming"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: come."
+    }
+  },
+  {
+    "id": "iv_011_cost",
+    "order": 11,
+    "level": "A1-A2",
+    "pattern": "AAA",
+    "infinitive": "cost",
+    "past_simple": "cost",
+    "past_participle": "cost",
+    "translation": "стоить",
+    "note": "В значении «стоить» все три формы совпадают: cost.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The repair cost a lot.",
+        "ru": "Ремонт стоил дорого."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The project has cost more than expected.",
+        "ru": "Проект обошёлся дороже, чем ожидалось."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The repair costed a lot.",
+      "right": "The repair cost a lot.",
+      "note": "Past Simple от cost — cost, а не costed."
+    },
+    "quiz": {
+      "prompt": "The repair ___ a lot.",
+      "options": [
+        "costed",
+        "costing",
+        "cost",
+        "costs"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: cost."
+    }
+  },
+  {
+    "id": "iv_012_cut",
+    "order": 12,
+    "level": "A1-A2",
+    "pattern": "AAA",
+    "infinitive": "cut",
+    "past_simple": "cut",
+    "past_participle": "cut",
+    "translation": "резать; сокращать",
+    "note": "Все три формы совпадают: cut.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He cut the paper with scissors.",
+        "ru": "Он разрезал бумагу ножницами."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have cut prices again.",
+        "ru": "Они снова снизили цены."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have cuted prices again.",
+      "right": "They have cut prices again.",
+      "note": "После have/has/had или be нужен Past Participle: cut."
+    },
+    "quiz": {
+      "prompt": "They have ___ prices again.",
+      "options": [
+        "cuted",
+        "cuting",
+        "cuts",
+        "cut"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: cut."
+    }
+  },
+  {
+    "id": "iv_013_do",
+    "order": 13,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "do",
+    "past_simple": "did",
+    "past_participle": "done",
+    "translation": "делать",
+    "note": "Did — Past Simple; done употребляется после have/has.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I did my homework after dinner.",
+        "ru": "Я сделал домашнее задание после ужина."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has done an excellent job.",
+        "ru": "Она отлично справилась с работой."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I doed my homework after dinner.",
+      "right": "I did my homework after dinner.",
+      "note": "Past Simple от do — did, а не doed."
+    },
+    "quiz": {
+      "prompt": "I ___ my homework after dinner.",
+      "options": [
+        "did",
+        "do",
+        "done",
+        "doed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: did."
+    }
+  },
+  {
+    "id": "iv_014_draw",
+    "order": 14,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "draw",
+    "past_simple": "drew",
+    "past_participle": "drawn",
+    "translation": "рисовать; проводить; делать вывод",
+    "note": "Drew — Past Simple; drawn — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The child drew a cat.",
+        "ru": "Ребёнок нарисовал кошку."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have drawn the same conclusion.",
+        "ru": "Мы пришли к одному и тому же выводу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We have drew the same conclusion.",
+      "right": "We have drawn the same conclusion.",
+      "note": "После have/has/had или be нужен Past Participle: drawn."
+    },
+    "quiz": {
+      "prompt": "We have ___ the same conclusion.",
+      "options": [
+        "draw",
+        "drawn",
+        "drew",
+        "drawed"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: drawn."
+    }
+  },
+  {
+    "id": "iv_015_drink",
+    "order": 15,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "drink",
+    "past_simple": "drank",
+    "past_participle": "drunk",
+    "translation": "пить",
+    "note": "Не путайте drank и drunk: после have/has нужна форма drunk.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He drank two glasses of water.",
+        "ru": "Он выпил два стакана воды."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have never drunk oat milk.",
+        "ru": "Я никогда не пил овсяное молоко."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He drinked two glasses of water.",
+      "right": "He drank two glasses of water.",
+      "note": "Past Simple от drink — drank, а не drinked."
+    },
+    "quiz": {
+      "prompt": "He ___ two glasses of water.",
+      "options": [
+        "drink",
+        "drunk",
+        "drank",
+        "drinked"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: drank."
+    }
+  },
+  {
+    "id": "iv_016_drive",
+    "order": 16,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "drive",
+    "past_simple": "drove",
+    "past_participle": "driven",
+    "translation": "водить; ехать на машине",
+    "note": "Drove — Past Simple; driven — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She drove to work yesterday.",
+        "ru": "Вчера она поехала на работу на машине."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has driven this route many times.",
+        "ru": "Он много раз ездил по этому маршруту."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He has drove this route many times.",
+      "right": "He has driven this route many times.",
+      "note": "После have/has/had или be нужен Past Participle: driven."
+    },
+    "quiz": {
+      "prompt": "He has ___ this route many times.",
+      "options": [
+        "drive",
+        "drove",
+        "drived",
+        "driven"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: driven."
+    }
+  },
+  {
+    "id": "iv_017_eat",
+    "order": 17,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "eat",
+    "past_simple": "ate",
+    "past_participle": "eaten",
+    "translation": "есть",
+    "note": "После have/has используется eaten.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We ate outside.",
+        "ru": "Мы поели на улице."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has already eaten breakfast.",
+        "ru": "Она уже позавтракала."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We eated outside.",
+      "right": "We ate outside.",
+      "note": "Past Simple от eat — ate, а не eated."
+    },
+    "quiz": {
+      "prompt": "We ___ outside.",
+      "options": [
+        "ate",
+        "eat",
+        "eaten",
+        "eated"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: ate."
+    }
+  },
+  {
+    "id": "iv_018_fall",
+    "order": 18,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "fall",
+    "past_simple": "fell",
+    "past_participle": "fallen",
+    "translation": "падать; снижаться",
+    "note": "Fell — Past Simple; fallen — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The keys fell on the floor.",
+        "ru": "Ключи упали на пол."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Temperatures have fallen sharply.",
+        "ru": "Температура резко снизилась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Temperatures have fell sharply.",
+      "right": "Temperatures have fallen sharply.",
+      "note": "После have/has/had или be нужен Past Participle: fallen."
+    },
+    "quiz": {
+      "prompt": "Temperatures have ___ sharply.",
+      "options": [
+        "fall",
+        "fallen",
+        "fell",
+        "falled"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: fallen."
+    }
+  },
+  {
+    "id": "iv_019_feel",
+    "order": 19,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "feel",
+    "past_simple": "felt",
+    "past_participle": "felt",
+    "translation": "чувствовать",
+    "note": "Past Simple и Past Participle совпадают: felt.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I felt tired after the journey.",
+        "ru": "После поездки я чувствовал себя уставшим."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has felt much better lately.",
+        "ru": "В последнее время она чувствует себя гораздо лучше."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I feeled tired after the journey.",
+      "right": "I felt tired after the journey.",
+      "note": "Past Simple от feel — felt, а не feeled."
+    },
+    "quiz": {
+      "prompt": "I ___ tired after the journey.",
+      "options": [
+        "feel",
+        "feeled",
+        "felt",
+        "feeling"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: felt."
+    }
+  },
+  {
+    "id": "iv_020_find",
+    "order": 20,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "find",
+    "past_simple": "found",
+    "past_participle": "found",
+    "translation": "находить",
+    "note": "Found — форма Past Simple и Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They found the missing file.",
+        "ru": "Они нашли пропавший файл."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have found a useful website.",
+        "ru": "Я нашёл полезный сайт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have finded a useful website.",
+      "right": "I have found a useful website.",
+      "note": "После have/has/had или be нужен Past Participle: found."
+    },
+    "quiz": {
+      "prompt": "I have ___ a useful website.",
+      "options": [
+        "find",
+        "finded",
+        "finding",
+        "found"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: found."
+    }
+  },
+  {
+    "id": "iv_021_fly",
+    "order": 21,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "fly",
+    "past_simple": "flew",
+    "past_participle": "flown",
+    "translation": "летать",
+    "note": "Flew — Past Simple; flown — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We flew to Rome last summer.",
+        "ru": "Прошлым летом мы летали в Рим."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has flown across the Atlantic twice.",
+        "ru": "Он дважды перелетал Атлантику."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We flied to Rome last summer.",
+      "right": "We flew to Rome last summer.",
+      "note": "Past Simple от fly — flew, а не flied."
+    },
+    "quiz": {
+      "prompt": "We ___ to Rome last summer.",
+      "options": [
+        "flew",
+        "fly",
+        "flown",
+        "flied"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: flew."
+    }
+  },
+  {
+    "id": "iv_022_forget",
+    "order": 22,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "forget",
+    "past_simple": "forgot",
+    "past_participle": "forgotten",
+    "translation": "забывать",
+    "note": "После have/has нужна форма forgotten.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I forgot her name.",
+        "ru": "Я забыл её имя."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have forgotten the password.",
+        "ru": "Они забыли пароль."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have forgot the password.",
+      "right": "They have forgotten the password.",
+      "note": "После have/has/had или be нужен Past Participle: forgotten."
+    },
+    "quiz": {
+      "prompt": "They have ___ the password.",
+      "options": [
+        "forget",
+        "forgotten",
+        "forgot",
+        "forgeted"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: forgotten."
+    }
+  },
+  {
+    "id": "iv_023_get",
+    "order": 23,
+    "level": "A1-A2",
+    "pattern": "SPECIAL",
+    "infinitive": "get",
+    "past_simple": "got",
+    "past_participle": "got / gotten (AmE)",
+    "translation": "получать; становиться; добираться",
+    "note": "В британском английском обычно got; gotten распространено в американском английском в ряде значений.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She got your message.",
+        "ru": "Она получила твоё сообщение."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The situation has got worse.",
+        "ru": "Ситуация ухудшилась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She gets your message yesterday.",
+      "right": "She got your message yesterday.",
+      "note": "В Past Simple от get используется got."
+    },
+    "quiz": {
+      "prompt": "She ___ your message yesterday.",
+      "options": [
+        "gotten",
+        "getted",
+        "got",
+        "gets"
+      ],
+      "correct_index": 2,
+      "explanation": "В Past Simple от get используется got."
+    }
+  },
+  {
+    "id": "iv_024_give",
+    "order": 24,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "give",
+    "past_simple": "gave",
+    "past_participle": "given",
+    "translation": "давать",
+    "note": "Gave — Past Simple; given — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He gave me good advice.",
+        "ru": "Он дал мне хороший совет."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have given them enough time.",
+        "ru": "Мы дали им достаточно времени."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We have gave them enough time.",
+      "right": "We have given them enough time.",
+      "note": "После have/has/had или be нужен Past Participle: given."
+    },
+    "quiz": {
+      "prompt": "We have ___ them enough time.",
+      "options": [
+        "give",
+        "gave",
+        "gived",
+        "given"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: given."
+    }
+  },
+  {
+    "id": "iv_025_go",
+    "order": 25,
+    "level": "A1-A2",
+    "pattern": "SPECIAL",
+    "infinitive": "go",
+    "past_simple": "went",
+    "past_participle": "gone",
+    "translation": "идти; ехать",
+    "note": "Past Simple go — went; Past Participle — gone.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They went to the museum.",
+        "ru": "Они сходили в музей."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The pain has gone.",
+        "ru": "Боль прошла."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They goed to the museum.",
+      "right": "They went to the museum.",
+      "note": "Past Simple от go — went, а не goed."
+    },
+    "quiz": {
+      "prompt": "They ___ to the museum.",
+      "options": [
+        "went",
+        "go",
+        "gone",
+        "goed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: went."
+    }
+  },
+  {
+    "id": "iv_026_grow",
+    "order": 26,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "grow",
+    "past_simple": "grew",
+    "past_participle": "grown",
+    "translation": "расти; выращивать",
+    "note": "Grew — Past Simple; grown — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The children grew quickly.",
+        "ru": "Дети быстро росли."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The company has grown rapidly.",
+        "ru": "Компания быстро выросла."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The company has grew rapidly.",
+      "right": "The company has grown rapidly.",
+      "note": "После have/has/had или be нужен Past Participle: grown."
+    },
+    "quiz": {
+      "prompt": "The company has ___ rapidly.",
+      "options": [
+        "grow",
+        "grown",
+        "grew",
+        "growed"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: grown."
+    }
+  },
+  {
+    "id": "iv_027_have",
+    "order": 27,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "have",
+    "past_simple": "had",
+    "past_participle": "had",
+    "translation": "иметь",
+    "note": "Past Simple и Past Participle совпадают: had.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We had a long meeting.",
+        "ru": "У нас была долгая встреча."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have had this phone for years.",
+        "ru": "У меня этот телефон уже много лет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We haved a long meeting.",
+      "right": "We had a long meeting.",
+      "note": "Past Simple от have — had, а не haved."
+    },
+    "quiz": {
+      "prompt": "We ___ a long meeting.",
+      "options": [
+        "have",
+        "haved",
+        "had",
+        "having"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: had."
+    }
+  },
+  {
+    "id": "iv_028_hear",
+    "order": 28,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "hear",
+    "past_simple": "heard",
+    "past_participle": "heard",
+    "translation": "слышать",
+    "note": "Не добавляйте -ed: правильная форма — heard.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I heard a strange noise.",
+        "ru": "Я услышал странный шум."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Have you heard the news?",
+        "ru": "Ты слышал новости?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Have you heared the news?",
+      "right": "Have you heard the news?",
+      "note": "После have/has/had или be нужен Past Participle: heard."
+    },
+    "quiz": {
+      "prompt": "Have you ___ the news?",
+      "options": [
+        "hear",
+        "heared",
+        "hearing",
+        "heard"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: heard."
+    }
+  },
+  {
+    "id": "iv_029_hold",
+    "order": 29,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "hold",
+    "past_simple": "held",
+    "past_participle": "held",
+    "translation": "держать; проводить",
+    "note": "Held используется и в Past Simple, и как Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She held the baby carefully.",
+        "ru": "Она осторожно держала ребёнка."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The conference has been held online.",
+        "ru": "Конференцию провели онлайн."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She holded the baby carefully.",
+      "right": "She held the baby carefully.",
+      "note": "Past Simple от hold — held, а не holded."
+    },
+    "quiz": {
+      "prompt": "She ___ the baby carefully.",
+      "options": [
+        "held",
+        "hold",
+        "holded",
+        "holding"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: held."
+    }
+  },
+  {
+    "id": "iv_030_keep",
+    "order": 30,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "keep",
+    "past_simple": "kept",
+    "past_participle": "kept",
+    "translation": "хранить; продолжать; соблюдать",
+    "note": "Past Simple и Past Participle совпадают: kept.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He kept the receipt.",
+        "ru": "Он сохранил чек."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have kept our promise.",
+        "ru": "Мы сдержали обещание."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We have keeped our promise.",
+      "right": "We have kept our promise.",
+      "note": "После have/has/had или be нужен Past Participle: kept."
+    },
+    "quiz": {
+      "prompt": "We have ___ our promise.",
+      "options": [
+        "keep",
+        "kept",
+        "keeped",
+        "keeping"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: kept."
+    }
+  },
+  {
+    "id": "iv_031_know",
+    "order": 31,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "know",
+    "past_simple": "knew",
+    "past_participle": "known",
+    "translation": "знать",
+    "note": "Knew — Past Simple; known — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I knew the answer.",
+        "ru": "Я знал ответ."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have known each other since school.",
+        "ru": "Они знают друг друга со школы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I knowed the answer.",
+      "right": "I knew the answer.",
+      "note": "Past Simple от know — knew, а не knowed."
+    },
+    "quiz": {
+      "prompt": "I ___ the answer.",
+      "options": [
+        "know",
+        "known",
+        "knew",
+        "knowed"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: knew."
+    }
+  },
+  {
+    "id": "iv_032_leave",
+    "order": 32,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "leave",
+    "past_simple": "left",
+    "past_participle": "left",
+    "translation": "уходить; оставлять",
+    "note": "Left может означать и «ушёл», и «оставил» — значение определяется контекстом.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She left the office at six.",
+        "ru": "Она ушла из офиса в шесть."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has left his keys at home.",
+        "ru": "Он оставил ключи дома."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He has leaved his keys at home.",
+      "right": "He has left his keys at home.",
+      "note": "После have/has/had или be нужен Past Participle: left."
+    },
+    "quiz": {
+      "prompt": "He has ___ his keys at home.",
+      "options": [
+        "leave",
+        "leaved",
+        "leaving",
+        "left"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: left."
+    }
+  },
+  {
+    "id": "iv_033_lend",
+    "order": 33,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "lend",
+    "past_simple": "lent",
+    "past_participle": "lent",
+    "translation": "одалживать кому-то",
+    "note": "Lend — дать взаймы; borrow — взять взаймы.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Mia lent me her umbrella.",
+        "ru": "Миа одолжила мне свой зонт."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The bank has lent them the money.",
+        "ru": "Банк одолжил им деньги."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Mia lended me her umbrella.",
+      "right": "Mia lent me her umbrella.",
+      "note": "Past Simple от lend — lent, а не lended."
+    },
+    "quiz": {
+      "prompt": "Mia ___ me her umbrella.",
+      "options": [
+        "lent",
+        "lend",
+        "lended",
+        "lending"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: lent."
+    }
+  },
+  {
+    "id": "iv_034_let",
+    "order": 34,
+    "level": "A1-A2",
+    "pattern": "AAA",
+    "infinitive": "let",
+    "past_simple": "let",
+    "past_participle": "let",
+    "translation": "позволять",
+    "note": "Все три формы совпадают: let. После let используется инфинитив без to.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They let us enter early.",
+        "ru": "Они позволили нам войти раньше."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has never let me down.",
+        "ru": "Она никогда меня не подводила."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has never leted me down.",
+      "right": "She has never let me down.",
+      "note": "После have/has/had или be нужен Past Participle: let."
+    },
+    "quiz": {
+      "prompt": "She has never ___ me down.",
+      "options": [
+        "leted",
+        "let",
+        "leting",
+        "lets"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: let."
+    }
+  },
+  {
+    "id": "iv_035_lose",
+    "order": 35,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "lose",
+    "past_simple": "lost",
+    "past_participle": "lost",
+    "translation": "терять; проигрывать",
+    "note": "Past Simple и Past Participle совпадают: lost.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I lost my wallet.",
+        "ru": "Я потерял кошелёк."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Our team has lost three matches.",
+        "ru": "Наша команда проиграла три матча."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I losed my wallet.",
+      "right": "I lost my wallet.",
+      "note": "Past Simple от lose — lost, а не losed."
+    },
+    "quiz": {
+      "prompt": "I ___ my wallet.",
+      "options": [
+        "lose",
+        "losed",
+        "lost",
+        "losing"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: lost."
+    }
+  },
+  {
+    "id": "iv_036_make",
+    "order": 36,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "make",
+    "past_simple": "made",
+    "past_participle": "made",
+    "translation": "делать; создавать",
+    "note": "Используйте made, а не maked.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We made a difficult decision.",
+        "ru": "Мы приняли трудное решение."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has made real progress.",
+        "ru": "Он добился заметного прогресса."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He has maked real progress.",
+      "right": "He has made real progress.",
+      "note": "После have/has/had или be нужен Past Participle: made."
+    },
+    "quiz": {
+      "prompt": "He has ___ real progress.",
+      "options": [
+        "make",
+        "maked",
+        "making",
+        "made"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: made."
+    }
+  },
+  {
+    "id": "iv_037_meet",
+    "order": 37,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "meet",
+    "past_simple": "met",
+    "past_participle": "met",
+    "translation": "встречать(ся)",
+    "note": "Past Simple и Past Participle совпадают: met.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I met her at university.",
+        "ru": "Я познакомился с ней в университете."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have met before.",
+        "ru": "Мы уже встречались."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I meeted her at university.",
+      "right": "I met her at university.",
+      "note": "Past Simple от meet — met, а не meeted."
+    },
+    "quiz": {
+      "prompt": "I ___ her at university.",
+      "options": [
+        "met",
+        "meet",
+        "meeted",
+        "meeting"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: met."
+    }
+  },
+  {
+    "id": "iv_038_pay",
+    "order": 38,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "pay",
+    "past_simple": "paid",
+    "past_participle": "paid",
+    "translation": "платить",
+    "note": "Правильная форма — paid, не payed в обычном значении «платить».",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She paid by card.",
+        "ru": "Она заплатила картой."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have paid the invoice.",
+        "ru": "Они оплатили счёт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have payed the invoice.",
+      "right": "They have paid the invoice.",
+      "note": "После have/has/had или be нужен Past Participle: paid."
+    },
+    "quiz": {
+      "prompt": "They have ___ the invoice.",
+      "options": [
+        "pay",
+        "paid",
+        "payed",
+        "paying"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: paid."
+    }
+  },
+  {
+    "id": "iv_039_put",
+    "order": 39,
+    "level": "A1-A2",
+    "pattern": "AAA",
+    "infinitive": "put",
+    "past_simple": "put",
+    "past_participle": "put",
+    "translation": "класть; помещать",
+    "note": "Все три формы совпадают: put.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He put the book on the table.",
+        "ru": "Он положил книгу на стол."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have put your name on the list.",
+        "ru": "Я внёс твоё имя в список."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He puted the book on the table.",
+      "right": "He put the book on the table.",
+      "note": "Past Simple от put — put, а не puted."
+    },
+    "quiz": {
+      "prompt": "He ___ the book on the table.",
+      "options": [
+        "puted",
+        "puting",
+        "put",
+        "puts"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: put."
+    }
+  },
+  {
+    "id": "iv_040_read",
+    "order": 40,
+    "level": "A1-A2",
+    "pattern": "SPECIAL",
+    "infinitive": "read",
+    "past_simple": "read /red/",
+    "past_participle": "read /red/",
+    "translation": "читать",
+    "note": "Написание не меняется, но в Past Simple и Past Participle read произносится /red/.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I read /red/ the report last night.",
+        "ru": "Вчера вечером я прочитал отчёт."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has read /red/ all his novels.",
+        "ru": "Она прочитала все его романы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Yesterday I read /riːd/ the report.",
+      "right": "Yesterday I read /red/ the report.",
+      "note": "В Past Simple написание не меняется, но произношение — /red/."
+    },
+    "quiz": {
+      "prompt": "Yesterday I ___ the report. Выберите правильную форму и произношение.",
+      "options": [
+        "read /riːd/",
+        "readed",
+        "was read",
+        "read /red/"
+      ],
+      "correct_index": 3,
+      "explanation": "В Past Simple написание read сохраняется, но произношение меняется на /red/."
+    }
+  },
+  {
+    "id": "iv_041_ride",
+    "order": 41,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "ride",
+    "past_simple": "rode",
+    "past_participle": "ridden",
+    "translation": "ехать верхом; кататься",
+    "note": "Rode — Past Simple; ridden — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We rode our bikes along the river.",
+        "ru": "Мы ехали на велосипедах вдоль реки."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has never ridden a horse.",
+        "ru": "Он никогда не ездил верхом на лошади."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We rided our bikes along the river.",
+      "right": "We rode our bikes along the river.",
+      "note": "Past Simple от ride — rode, а не rided."
+    },
+    "quiz": {
+      "prompt": "We ___ our bikes along the river.",
+      "options": [
+        "rode",
+        "ride",
+        "ridden",
+        "rided"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: rode."
+    }
+  },
+  {
+    "id": "iv_042_run",
+    "order": 42,
+    "level": "A1-A2",
+    "pattern": "ABA",
+    "infinitive": "run",
+    "past_simple": "ran",
+    "past_participle": "run",
+    "translation": "бежать; работать (о системе)",
+    "note": "После have/has используется run, а не ran.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She ran five kilometres.",
+        "ru": "Она пробежала пять километров."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The programme has run successfully for years.",
+        "ru": "Программа успешно работает уже много лет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The programme has ran successfully for years.",
+      "right": "The programme has run successfully for years.",
+      "note": "После have/has/had или be нужен Past Participle: run."
+    },
+    "quiz": {
+      "prompt": "The programme has ___ successfully for years.",
+      "options": [
+        "ran",
+        "run",
+        "runed",
+        "runing"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: run."
+    }
+  },
+  {
+    "id": "iv_043_say",
+    "order": 43,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "say",
+    "past_simple": "said",
+    "past_participle": "said",
+    "translation": "говорить; сказать",
+    "note": "Said произносится /sed/.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He said he was busy.",
+        "ru": "Он сказал, что занят."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has said nothing about the change.",
+        "ru": "Она ничего не сказала об изменении."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He sayed he was busy.",
+      "right": "He said he was busy.",
+      "note": "Past Simple от say — said, а не sayed."
+    },
+    "quiz": {
+      "prompt": "He ___ he was busy.",
+      "options": [
+        "say",
+        "sayed",
+        "said",
+        "saying"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: said."
+    }
+  },
+  {
+    "id": "iv_044_see",
+    "order": 44,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "see",
+    "past_simple": "saw",
+    "past_participle": "seen",
+    "translation": "видеть",
+    "note": "Saw — Past Simple; seen — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We saw a fox in the garden.",
+        "ru": "Мы увидели лису в саду."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have seen that film twice.",
+        "ru": "Я видел этот фильм дважды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have saw that film twice.",
+      "right": "I have seen that film twice.",
+      "note": "После have/has/had или be нужен Past Participle: seen."
+    },
+    "quiz": {
+      "prompt": "I have ___ that film twice.",
+      "options": [
+        "see",
+        "saw",
+        "seed",
+        "seen"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: seen."
+    }
+  },
+  {
+    "id": "iv_045_sell",
+    "order": 45,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "sell",
+    "past_simple": "sold",
+    "past_participle": "sold",
+    "translation": "продавать",
+    "note": "Past Simple и Past Participle совпадают: sold.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They sold their old car.",
+        "ru": "Они продали старую машину."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The shop has sold all the tickets.",
+        "ru": "Магазин продал все билеты."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They selled their old car.",
+      "right": "They sold their old car.",
+      "note": "Past Simple от sell — sold, а не selled."
+    },
+    "quiz": {
+      "prompt": "They ___ their old car.",
+      "options": [
+        "sold",
+        "sell",
+        "selled",
+        "selling"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: sold."
+    }
+  },
+  {
+    "id": "iv_046_send",
+    "order": 46,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "send",
+    "past_simple": "sent",
+    "past_participle": "sent",
+    "translation": "отправлять",
+    "note": "Past Simple и Past Participle совпадают: sent.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I sent the email this morning.",
+        "ru": "Я отправил письмо сегодня утром."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have sent you a confirmation.",
+        "ru": "Мы отправили вам подтверждение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We have sended you a confirmation.",
+      "right": "We have sent you a confirmation.",
+      "note": "После have/has/had или be нужен Past Participle: sent."
+    },
+    "quiz": {
+      "prompt": "We have ___ you a confirmation.",
+      "options": [
+        "send",
+        "sent",
+        "sended",
+        "sending"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: sent."
+    }
+  },
+  {
+    "id": "iv_047_sit",
+    "order": 47,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "sit",
+    "past_simple": "sat",
+    "past_participle": "sat",
+    "translation": "сидеть",
+    "note": "Past Simple и Past Participle совпадают: sat.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She sat by the window.",
+        "ru": "Она сидела у окна."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has sat there for an hour.",
+        "ru": "Он просидел там час."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She sited by the window.",
+      "right": "She sat by the window.",
+      "note": "Past Simple от sit — sat, а не sited."
+    },
+    "quiz": {
+      "prompt": "She ___ by the window.",
+      "options": [
+        "sit",
+        "sited",
+        "sat",
+        "siting"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: sat."
+    }
+  },
+  {
+    "id": "iv_048_sleep",
+    "order": 48,
+    "level": "A1-A2",
+    "pattern": "ABB",
+    "infinitive": "sleep",
+    "past_simple": "slept",
+    "past_participle": "slept",
+    "translation": "спать",
+    "note": "Past Simple и Past Participle совпадают: slept.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The baby slept well.",
+        "ru": "Ребёнок хорошо спал."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have slept badly this week.",
+        "ru": "На этой неделе я плохо спал."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have sleeped badly this week.",
+      "right": "I have slept badly this week.",
+      "note": "После have/has/had или be нужен Past Participle: slept."
+    },
+    "quiz": {
+      "prompt": "I have ___ badly this week.",
+      "options": [
+        "sleep",
+        "sleeped",
+        "sleeping",
+        "slept"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: slept."
+    }
+  },
+  {
+    "id": "iv_049_speak",
+    "order": 49,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "speak",
+    "past_simple": "spoke",
+    "past_participle": "spoken",
+    "translation": "говорить",
+    "note": "Spoke — Past Simple; spoken — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She spoke to the manager.",
+        "ru": "Она поговорила с менеджером."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have spoken about this before.",
+        "ru": "Мы уже говорили об этом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She speaked to the manager.",
+      "right": "She spoke to the manager.",
+      "note": "Past Simple от speak — spoke, а не speaked."
+    },
+    "quiz": {
+      "prompt": "She ___ to the manager.",
+      "options": [
+        "spoke",
+        "speak",
+        "spoken",
+        "speaked"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: spoke."
+    }
+  },
+  {
+    "id": "iv_050_take",
+    "order": 50,
+    "level": "A1-A2",
+    "pattern": "ABC",
+    "infinitive": "take",
+    "past_simple": "took",
+    "past_participle": "taken",
+    "translation": "брать; занимать; принимать",
+    "note": "Took — Past Simple; taken — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He took the wrong train.",
+        "ru": "Он сел не на тот поезд."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have taken several precautions.",
+        "ru": "Они приняли несколько мер предосторожности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have took several precautions.",
+      "right": "They have taken several precautions.",
+      "note": "После have/has/had или be нужен Past Participle: taken."
+    },
+    "quiz": {
+      "prompt": "They have ___ several precautions.",
+      "options": [
+        "take",
+        "taken",
+        "took",
+        "taked"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: taken."
+    }
+  },
+  {
+    "id": "iv_051_teach",
+    "order": 51,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "teach",
+    "past_simple": "taught",
+    "past_participle": "taught",
+    "translation": "учить; преподавать",
+    "note": "Taught используется и в Past Simple, и как Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Ms Brown taught us history.",
+        "ru": "Мисс Браун преподавала нам историю."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has taught English abroad.",
+        "ru": "Он преподавал английский за границей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Ms Brown teached us history.",
+      "right": "Ms Brown taught us history.",
+      "note": "Past Simple от teach — taught, а не teached."
+    },
+    "quiz": {
+      "prompt": "Ms Brown ___ us history.",
+      "options": [
+        "teach",
+        "teached",
+        "taught",
+        "teaching"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: taught."
+    }
+  },
+  {
+    "id": "iv_052_tell",
+    "order": 52,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "tell",
+    "past_simple": "told",
+    "past_participle": "told",
+    "translation": "рассказывать; сообщать",
+    "note": "Tell обычно требует дополнение: tell someone something.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She told me the truth.",
+        "ru": "Она сказала мне правду."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have told you everything.",
+        "ru": "Я всё тебе рассказал."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have telled you everything.",
+      "right": "I have told you everything.",
+      "note": "После have/has/had или be нужен Past Participle: told."
+    },
+    "quiz": {
+      "prompt": "I have ___ you everything.",
+      "options": [
+        "tell",
+        "telled",
+        "telling",
+        "told"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: told."
+    }
+  },
+  {
+    "id": "iv_053_think",
+    "order": 53,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "think",
+    "past_simple": "thought",
+    "past_participle": "thought",
+    "translation": "думать; считать",
+    "note": "Past Simple и Past Participle совпадают: thought.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We thought the plan was risky.",
+        "ru": "Мы считали этот план рискованным."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have thought about your offer.",
+        "ru": "Я обдумал твоё предложение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We thinked the plan was risky.",
+      "right": "We thought the plan was risky.",
+      "note": "Past Simple от think — thought, а не thinked."
+    },
+    "quiz": {
+      "prompt": "We ___ the plan was risky.",
+      "options": [
+        "thought",
+        "think",
+        "thinked",
+        "thinking"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: thought."
+    }
+  },
+  {
+    "id": "iv_054_understand",
+    "order": 54,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "understand",
+    "past_simple": "understood",
+    "past_participle": "understood",
+    "translation": "понимать",
+    "note": "Past Simple и Past Participle совпадают: understood.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He understood the instructions.",
+        "ru": "Он понял инструкции."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have finally understood the problem.",
+        "ru": "Они наконец поняли проблему."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have finally understanded the problem.",
+      "right": "They have finally understood the problem.",
+      "note": "После have/has/had или be нужен Past Participle: understood."
+    },
+    "quiz": {
+      "prompt": "They have finally ___ the problem.",
+      "options": [
+        "understand",
+        "understood",
+        "understanded",
+        "understanding"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: understood."
+    }
+  },
+  {
+    "id": "iv_055_wear",
+    "order": 55,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "wear",
+    "past_simple": "wore",
+    "past_participle": "worn",
+    "translation": "носить (одежду)",
+    "note": "Wore — Past Simple; worn — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She wore a blue suit.",
+        "ru": "Она была в синем костюме."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have worn these shoes only once.",
+        "ru": "Я надевал эти туфли только один раз."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She weared a blue suit.",
+      "right": "She wore a blue suit.",
+      "note": "Past Simple от wear — wore, а не weared."
+    },
+    "quiz": {
+      "prompt": "She ___ a blue suit.",
+      "options": [
+        "wear",
+        "worn",
+        "wore",
+        "weared"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: wore."
+    }
+  },
+  {
+    "id": "iv_056_win",
+    "order": 56,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "win",
+    "past_simple": "won",
+    "past_participle": "won",
+    "translation": "побеждать; выигрывать",
+    "note": "Won используется и в Past Simple, и как Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Our team won the final.",
+        "ru": "Наша команда выиграла финал."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has won several awards.",
+        "ru": "Она получила несколько наград."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has wined several awards.",
+      "right": "She has won several awards.",
+      "note": "После have/has/had или be нужен Past Participle: won."
+    },
+    "quiz": {
+      "prompt": "She has ___ several awards.",
+      "options": [
+        "win",
+        "wined",
+        "wining",
+        "won"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: won."
+    }
+  },
+  {
+    "id": "iv_057_write",
+    "order": 57,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "write",
+    "past_simple": "wrote",
+    "past_participle": "written",
+    "translation": "писать",
+    "note": "Wrote — Past Simple; written — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He wrote a short note.",
+        "ru": "Он написал короткую записку."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have written a detailed report.",
+        "ru": "Они написали подробный отчёт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He writed a short note.",
+      "right": "He wrote a short note.",
+      "note": "Past Simple от write — wrote, а не writed."
+    },
+    "quiz": {
+      "prompt": "He ___ a short note.",
+      "options": [
+        "wrote",
+        "write",
+        "written",
+        "writed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: wrote."
+    }
+  },
+  {
+    "id": "iv_058_ring",
+    "order": 58,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "ring",
+    "past_simple": "rang",
+    "past_participle": "rung",
+    "translation": "звонить; звенеть",
+    "note": "Rang — Past Simple; rung — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The phone rang at midnight.",
+        "ru": "Телефон зазвонил в полночь."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has rung the clinic twice.",
+        "ru": "Она дважды звонила в клинику."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has rang the clinic twice.",
+      "right": "She has rung the clinic twice.",
+      "note": "После have/has/had или be нужен Past Participle: rung."
+    },
+    "quiz": {
+      "prompt": "She has ___ the clinic twice.",
+      "options": [
+        "ring",
+        "rung",
+        "rang",
+        "ringed"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: rung."
+    }
+  },
+  {
+    "id": "iv_059_show",
+    "order": 59,
+    "level": "B1",
+    "pattern": "SPECIAL",
+    "infinitive": "show",
+    "past_simple": "showed",
+    "past_participle": "shown",
+    "translation": "показывать",
+    "note": "Стандартный Past Participle — shown; showed как причастие встречается редко и не рекомендуется в учебной норме.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He showed us the way.",
+        "ru": "Он показал нам дорогу."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The results have shown a clear trend.",
+        "ru": "Результаты показали явную тенденцию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The results have showed a clear improvement.",
+      "right": "The results have shown a clear improvement.",
+      "note": "В учебной норме после have используется Past Participle shown."
+    },
+    "quiz": {
+      "prompt": "The results have ___ a clear improvement.",
+      "options": [
+        "showed",
+        "show",
+        "shown",
+        "showing"
+      ],
+      "correct_index": 2,
+      "explanation": "После have нужен Past Participle shown."
+    }
+  },
+  {
+    "id": "iv_060_shut",
+    "order": 60,
+    "level": "B1",
+    "pattern": "AAA",
+    "infinitive": "shut",
+    "past_simple": "shut",
+    "past_participle": "shut",
+    "translation": "закрывать",
+    "note": "Все три формы совпадают: shut.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She shut the door quietly.",
+        "ru": "Она тихо закрыла дверь."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The factory has shut for repairs.",
+        "ru": "Завод закрылся на ремонт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The factory has shuted for repairs.",
+      "right": "The factory has shut for repairs.",
+      "note": "После have/has/had или be нужен Past Participle: shut."
+    },
+    "quiz": {
+      "prompt": "The factory has ___ for repairs.",
+      "options": [
+        "shuted",
+        "shuting",
+        "shuts",
+        "shut"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: shut."
+    }
+  },
+  {
+    "id": "iv_061_sing",
+    "order": 61,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "sing",
+    "past_simple": "sang",
+    "past_participle": "sung",
+    "translation": "петь",
+    "note": "Sang — Past Simple; sung — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They sang together.",
+        "ru": "Они пели вместе."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has sung on stage many times.",
+        "ru": "Он много раз пел на сцене."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They singed together.",
+      "right": "They sang together.",
+      "note": "Past Simple от sing — sang, а не singed."
+    },
+    "quiz": {
+      "prompt": "They ___ together.",
+      "options": [
+        "sang",
+        "sing",
+        "sung",
+        "singed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: sang."
+    }
+  },
+  {
+    "id": "iv_062_spend",
+    "order": 62,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "spend",
+    "past_simple": "spent",
+    "past_participle": "spent",
+    "translation": "тратить; проводить время",
+    "note": "Past Simple и Past Participle совпадают: spent.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "We spent the weekend at home.",
+        "ru": "Мы провели выходные дома."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The council has spent too much money.",
+        "ru": "Совет потратил слишком много денег."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The council has spended too much money.",
+      "right": "The council has spent too much money.",
+      "note": "После have/has/had или be нужен Past Participle: spent."
+    },
+    "quiz": {
+      "prompt": "The council has ___ too much money.",
+      "options": [
+        "spend",
+        "spent",
+        "spended",
+        "spending"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: spent."
+    }
+  },
+  {
+    "id": "iv_063_stand",
+    "order": 63,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "stand",
+    "past_simple": "stood",
+    "past_participle": "stood",
+    "translation": "стоять",
+    "note": "Past Simple и Past Participle совпадают: stood.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He stood near the entrance.",
+        "ru": "Он стоял у входа."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The building has stood there for centuries.",
+        "ru": "Здание стоит там уже несколько веков."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He standed near the entrance.",
+      "right": "He stood near the entrance.",
+      "note": "Past Simple от stand — stood, а не standed."
+    },
+    "quiz": {
+      "prompt": "He ___ near the entrance.",
+      "options": [
+        "stand",
+        "standed",
+        "stood",
+        "standing"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: stood."
+    }
+  },
+  {
+    "id": "iv_064_swim",
+    "order": 64,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "swim",
+    "past_simple": "swam",
+    "past_participle": "swum",
+    "translation": "плавать",
+    "note": "Swam — Past Simple; swum — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She swam across the lake.",
+        "ru": "Она переплыла озеро."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have never swum in the sea at night.",
+        "ru": "Я никогда не плавал в море ночью."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have never swam in the sea at night.",
+      "right": "I have never swum in the sea at night.",
+      "note": "После have/has/had или be нужен Past Participle: swum."
+    },
+    "quiz": {
+      "prompt": "I have never ___ in the sea at night.",
+      "options": [
+        "swim",
+        "swam",
+        "swimed",
+        "swum"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: swum."
+    }
+  },
+  {
+    "id": "iv_065_mean",
+    "order": 65,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "mean",
+    "past_simple": "meant",
+    "past_participle": "meant",
+    "translation": "значить; иметь в виду",
+    "note": "Meant произносится /ment/.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I meant no offence.",
+        "ru": "Я не хотел никого обидеть."
+      },
+      {
+        "label": "Past Participle",
+        "en": "This change has meant more work for everyone.",
+        "ru": "Это изменение означало больше работы для всех."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I meaned no offence.",
+      "right": "I meant no offence.",
+      "note": "Past Simple от mean — meant, а не meaned."
+    },
+    "quiz": {
+      "prompt": "I ___ no offence.",
+      "options": [
+        "meant",
+        "mean",
+        "meaned",
+        "meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: meant."
+    }
+  },
+  {
+    "id": "iv_066_set",
+    "order": 66,
+    "level": "B1",
+    "pattern": "AAA",
+    "infinitive": "set",
+    "past_simple": "set",
+    "past_participle": "set",
+    "translation": "устанавливать; задавать",
+    "note": "Все три формы совпадают: set.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They set a new deadline.",
+        "ru": "Они установили новый срок."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The rules have been set out clearly.",
+        "ru": "Правила были изложены ясно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The rules have been seted out clearly.",
+      "right": "The rules have been set out clearly.",
+      "note": "После have/has/had или be нужен Past Participle: set."
+    },
+    "quiz": {
+      "prompt": "The rules have been ___ out clearly.",
+      "options": [
+        "seted",
+        "set",
+        "seting",
+        "sets"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: set."
+    }
+  },
+  {
+    "id": "iv_067_hit",
+    "order": 67,
+    "level": "B1",
+    "pattern": "AAA",
+    "infinitive": "hit",
+    "past_simple": "hit",
+    "past_participle": "hit",
+    "translation": "ударять; поражать",
+    "note": "Все три формы совпадают: hit.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The ball hit the window.",
+        "ru": "Мяч ударил в окно."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The region has been hit by heavy rain.",
+        "ru": "Регион пострадал от сильных дождей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The ball hited the window.",
+      "right": "The ball hit the window.",
+      "note": "Past Simple от hit — hit, а не hited."
+    },
+    "quiz": {
+      "prompt": "The ball ___ the window.",
+      "options": [
+        "hited",
+        "hiting",
+        "hit",
+        "hits"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: hit."
+    }
+  },
+  {
+    "id": "iv_068_hurt",
+    "order": 68,
+    "level": "B1",
+    "pattern": "AAA",
+    "infinitive": "hurt",
+    "past_simple": "hurt",
+    "past_participle": "hurt",
+    "translation": "причинять боль; болеть",
+    "note": "Все три формы совпадают: hurt.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I hurt my shoulder.",
+        "ru": "Я повредил плечо."
+      },
+      {
+        "label": "Past Participle",
+        "en": "His comments have hurt her feelings.",
+        "ru": "Его слова задели её чувства."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "His comments have hurted her feelings.",
+      "right": "His comments have hurt her feelings.",
+      "note": "После have/has/had или be нужен Past Participle: hurt."
+    },
+    "quiz": {
+      "prompt": "His comments have ___ her feelings.",
+      "options": [
+        "hurted",
+        "hurting",
+        "hurts",
+        "hurt"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: hurt."
+    }
+  },
+  {
+    "id": "iv_069_wake",
+    "order": 69,
+    "level": "B1",
+    "pattern": "SPECIAL",
+    "infinitive": "wake",
+    "past_simple": "woke",
+    "past_participle": "woken",
+    "translation": "просыпаться; будить",
+    "note": "Woke — Past Simple; woken — наиболее употребительный Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I woke at six.",
+        "ru": "Я проснулся в шесть."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has woken up feeling better.",
+        "ru": "Она проснулась и почувствовала себя лучше."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has woke up feeling much better.",
+      "right": "She has woken up feeling much better.",
+      "note": "После has используется Past Participle woken."
+    },
+    "quiz": {
+      "prompt": "She has ___ up feeling much better.",
+      "options": [
+        "woken",
+        "woke",
+        "waked",
+        "wake"
+      ],
+      "correct_index": 0,
+      "explanation": "После has используется Past Participle woken."
+    }
+  },
+  {
+    "id": "iv_070_hide",
+    "order": 70,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "hide",
+    "past_simple": "hid",
+    "past_participle": "hidden",
+    "translation": "прятать(ся)",
+    "note": "Hid — Past Simple; hidden — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The child hid behind the sofa.",
+        "ru": "Ребёнок спрятался за диваном."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has hidden the documents.",
+        "ru": "Он спрятал документы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He has hid the documents.",
+      "right": "He has hidden the documents.",
+      "note": "После have/has/had или be нужен Past Participle: hidden."
+    },
+    "quiz": {
+      "prompt": "He has ___ the documents.",
+      "options": [
+        "hide",
+        "hidden",
+        "hid",
+        "hided"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: hidden."
+    }
+  },
+  {
+    "id": "iv_071_lead",
+    "order": 71,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "lead",
+    "past_simple": "led",
+    "past_participle": "led",
+    "translation": "вести; приводить",
+    "note": "Led пишется без a; lead /liːd/ — инфинитив.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She led the discussion.",
+        "ru": "Она вела обсуждение."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The research has led to new questions.",
+        "ru": "Исследование привело к новым вопросам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She leaded the discussion.",
+      "right": "She led the discussion.",
+      "note": "Past Simple от lead — led, а не leaded."
+    },
+    "quiz": {
+      "prompt": "She ___ the discussion.",
+      "options": [
+        "lead",
+        "leaded",
+        "led",
+        "leading"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: led."
+    }
+  },
+  {
+    "id": "iv_072_lay",
+    "order": 72,
+    "level": "B1",
+    "pattern": "SPECIAL",
+    "infinitive": "lay",
+    "past_simple": "laid",
+    "past_participle": "laid",
+    "translation": "класть; укладывать",
+    "note": "Lay — переходный глагол: lay something. Не путайте с lie — лежать.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He laid the keys on the desk.",
+        "ru": "Он положил ключи на стол."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have laid new cables underground.",
+        "ru": "Они проложили новые кабели под землёй."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have lay new cables under the road.",
+      "right": "They have laid new cables under the road.",
+      "note": "Past Participle от lay — laid."
+    },
+    "quiz": {
+      "prompt": "They have ___ new cables under the road.",
+      "options": [
+        "lay",
+        "lain",
+        "layed",
+        "laid"
+      ],
+      "correct_index": 3,
+      "explanation": "Past Participle от lay — laid."
+    }
+  },
+  {
+    "id": "iv_073_lie",
+    "order": 73,
+    "level": "B1",
+    "pattern": "SPECIAL",
+    "infinitive": "lie",
+    "past_simple": "lay",
+    "past_participle": "lain",
+    "translation": "лежать",
+    "note": "Lie — лежать: lie–lay–lain. Lie — лгать образует формы lied–lied.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She lay on the grass.",
+        "ru": "Она лежала на траве."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The documents have lain untouched for years.",
+        "ru": "Документы годами лежали нетронутыми."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The papers had lay untouched for years.",
+      "right": "The papers had lain untouched for years.",
+      "note": "Для lie в значении «лежать» Past Participle — lain."
+    },
+    "quiz": {
+      "prompt": "The papers had ___ untouched for years.",
+      "options": [
+        "lain",
+        "lay",
+        "laid",
+        "lied"
+      ],
+      "correct_index": 0,
+      "explanation": "Для lie в значении «лежать» Past Participle — lain."
+    }
+  },
+  {
+    "id": "iv_074_rise",
+    "order": 74,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "rise",
+    "past_simple": "rose",
+    "past_participle": "risen",
+    "translation": "подниматься; возрастать",
+    "note": "Rise — непереходный глагол: что-то поднимается само. Не путайте с raise.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Prices rose again last month.",
+        "ru": "В прошлом месяце цены снова выросли."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Demand has risen steadily.",
+        "ru": "Спрос стабильно рос."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Demand has rose steadily.",
+      "right": "Demand has risen steadily.",
+      "note": "После have/has/had или be нужен Past Participle: risen."
+    },
+    "quiz": {
+      "prompt": "Demand has ___ steadily.",
+      "options": [
+        "rise",
+        "risen",
+        "rose",
+        "rised"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: risen."
+    }
+  },
+  {
+    "id": "iv_075_shake",
+    "order": 75,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "shake",
+    "past_simple": "shook",
+    "past_participle": "shaken",
+    "translation": "трясти; пожимать",
+    "note": "Shook — Past Simple; shaken — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He shook my hand.",
+        "ru": "Он пожал мне руку."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The explosion has shaken the whole town.",
+        "ru": "Взрыв потряс весь город."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He shaked my hand.",
+      "right": "He shook my hand.",
+      "note": "Past Simple от shake — shook, а не shaked."
+    },
+    "quiz": {
+      "prompt": "He ___ my hand.",
+      "options": [
+        "shake",
+        "shaken",
+        "shook",
+        "shaked"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: shook."
+    }
+  },
+  {
+    "id": "iv_076_shoot",
+    "order": 76,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "shoot",
+    "past_simple": "shot",
+    "past_participle": "shot",
+    "translation": "стрелять; снимать фото или фильм",
+    "note": "Past Simple и Past Participle совпадают: shot.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The photographer shot the scene at dawn.",
+        "ru": "Фотограф снял сцену на рассвете."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The film was shot in Iceland.",
+        "ru": "Фильм сняли в Исландии."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The film was shooted in Iceland.",
+      "right": "The film was shot in Iceland.",
+      "note": "После have/has/had или be нужен Past Participle: shot."
+    },
+    "quiz": {
+      "prompt": "The film was ___ in Iceland.",
+      "options": [
+        "shoot",
+        "shooted",
+        "shooting",
+        "shot"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: shot."
+    }
+  },
+  {
+    "id": "iv_077_steal",
+    "order": 77,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "steal",
+    "past_simple": "stole",
+    "past_participle": "stolen",
+    "translation": "красть",
+    "note": "Stole — Past Simple; stolen — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "Someone stole my bicycle.",
+        "ru": "Кто-то украл мой велосипед."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The painting has been stolen.",
+        "ru": "Картину украли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Someone stealed my bicycle.",
+      "right": "Someone stole my bicycle.",
+      "note": "Past Simple от steal — stole, а не stealed."
+    },
+    "quiz": {
+      "prompt": "Someone ___ my bicycle.",
+      "options": [
+        "stole",
+        "steal",
+        "stolen",
+        "stealed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: stole."
+    }
+  },
+  {
+    "id": "iv_078_throw",
+    "order": 78,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "throw",
+    "past_simple": "threw",
+    "past_participle": "thrown",
+    "translation": "бросать",
+    "note": "Threw — Past Simple; thrown — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She threw the ball to me.",
+        "ru": "Она бросила мне мяч."
+      },
+      {
+        "label": "Past Participle",
+        "en": "They have thrown away the old files.",
+        "ru": "Они выбросили старые файлы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have threw away the old files.",
+      "right": "They have thrown away the old files.",
+      "note": "После have/has/had или be нужен Past Participle: thrown."
+    },
+    "quiz": {
+      "prompt": "They have ___ away the old files.",
+      "options": [
+        "throw",
+        "thrown",
+        "threw",
+        "throwed"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: thrown."
+    }
+  },
+  {
+    "id": "iv_079_tear",
+    "order": 79,
+    "level": "B1",
+    "pattern": "ABC",
+    "infinitive": "tear",
+    "past_simple": "tore",
+    "past_participle": "torn",
+    "translation": "рвать",
+    "note": "Tore — Past Simple; torn — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He tore the envelope open.",
+        "ru": "Он разорвал конверт."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The page has been torn out.",
+        "ru": "Страницу вырвали."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He teared the envelope open.",
+      "right": "He tore the envelope open.",
+      "note": "Past Simple от tear — tore, а не teared."
+    },
+    "quiz": {
+      "prompt": "He ___ the envelope open.",
+      "options": [
+        "tear",
+        "torn",
+        "tore",
+        "teared"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: tore."
+    }
+  },
+  {
+    "id": "iv_080_stick",
+    "order": 80,
+    "level": "B1",
+    "pattern": "ABB",
+    "infinitive": "stick",
+    "past_simple": "stuck",
+    "past_participle": "stuck",
+    "translation": "приклеивать; застревать",
+    "note": "Past Simple и Past Participle совпадают: stuck.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I stuck the note to the fridge.",
+        "ru": "Я прикрепил записку к холодильнику."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The key has got stuck in the lock.",
+        "ru": "Ключ застрял в замке."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The key has got sticked in the lock.",
+      "right": "The key has got stuck in the lock.",
+      "note": "После have/has/had или be нужен Past Participle: stuck."
+    },
+    "quiz": {
+      "prompt": "The key has got ___ in the lock.",
+      "options": [
+        "stick",
+        "sticked",
+        "sticking",
+        "stuck"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: stuck."
+    }
+  },
+  {
+    "id": "iv_081_arise",
+    "order": 81,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "arise",
+    "past_simple": "arose",
+    "past_participle": "arisen",
+    "translation": "возникать",
+    "note": "Arise — возникать; raise — поднимать или повышать что-либо.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "A serious problem arose during testing.",
+        "ru": "Во время тестирования возникла серьёзная проблема."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Several questions have arisen.",
+        "ru": "Возникло несколько вопросов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "A serious problem arised during testing.",
+      "right": "A serious problem arose during testing.",
+      "note": "Past Simple от arise — arose, а не arised."
+    },
+    "quiz": {
+      "prompt": "A serious problem ___ during testing.",
+      "options": [
+        "arose",
+        "arise",
+        "arisen",
+        "arised"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: arose."
+    }
+  },
+  {
+    "id": "iv_082_awake",
+    "order": 82,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "awake",
+    "past_simple": "awoke",
+    "past_participle": "awoken",
+    "translation": "просыпаться; пробуждаться",
+    "note": "Awake–awoke–awoken характерно для более книжного стиля; в речи часто используют wake up.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She awoke to the sound of rain.",
+        "ru": "Она проснулась от звука дождя."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He had awoken before dawn.",
+        "ru": "Он проснулся до рассвета."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "By five o’clock, he had already awoke.",
+      "right": "By five o’clock, he had already awoken.",
+      "note": "После had нужен Past Participle awoken."
+    },
+    "quiz": {
+      "prompt": "By five o’clock, he had already ___.",
+      "options": [
+        "awoke",
+        "awoken",
+        "awake",
+        "awaked"
+      ],
+      "correct_index": 1,
+      "explanation": "После had нужен Past Participle awoken."
+    }
+  },
+  {
+    "id": "iv_083_bear",
+    "order": 83,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "bear",
+    "past_simple": "bore",
+    "past_participle": "borne / born",
+    "translation": "нести; выдерживать; рождать",
+    "note": "Born употребляется главным образом о рождении; borne — в остальных значениях.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The bridge bore the weight easily.",
+        "ru": "Мост легко выдержал вес."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The costs have been borne by the company.",
+        "ru": "Расходы понесла компания."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The bridge beared the weight without difficulty.",
+      "right": "The bridge bore the weight without difficulty.",
+      "note": "В Past Simple от bear используется bore."
+    },
+    "quiz": {
+      "prompt": "The bridge ___ the weight without difficulty.",
+      "options": [
+        "borne",
+        "born",
+        "bore",
+        "beared"
+      ],
+      "correct_index": 2,
+      "explanation": "В Past Simple от bear используется bore."
+    }
+  },
+  {
+    "id": "iv_084_beat",
+    "order": 84,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "beat",
+    "past_simple": "beat",
+    "past_participle": "beaten",
+    "translation": "бить; побеждать",
+    "note": "Past Simple — beat; Past Participle — beaten.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They beat the champions 2–0.",
+        "ru": "Они обыграли чемпионов со счётом 2:0."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The record has been beaten.",
+        "ru": "Рекорд был побит."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The previous record has been beat.",
+      "right": "The previous record has been beaten.",
+      "note": "В пассивной конструкции has been нужен Past Participle beaten."
+    },
+    "quiz": {
+      "prompt": "The previous record has been ___.",
+      "options": [
+        "beat",
+        "beated",
+        "beating",
+        "beaten"
+      ],
+      "correct_index": 3,
+      "explanation": "В пассивной конструкции has been нужен Past Participle beaten."
+    }
+  },
+  {
+    "id": "iv_085_bend",
+    "order": 85,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "bend",
+    "past_simple": "bent",
+    "past_participle": "bent",
+    "translation": "сгибать(ся)",
+    "note": "Past Simple и Past Participle совпадают: bent.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He bent the wire carefully.",
+        "ru": "Он осторожно согнул проволоку."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The frame has been bent out of shape.",
+        "ru": "Рама деформировалась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He bended the wire carefully.",
+      "right": "He bent the wire carefully.",
+      "note": "Past Simple от bend — bent, а не bended."
+    },
+    "quiz": {
+      "prompt": "He ___ the wire carefully.",
+      "options": [
+        "bent",
+        "bend",
+        "bended",
+        "bending"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: bent."
+    }
+  },
+  {
+    "id": "iv_086_bet",
+    "order": 86,
+    "level": "B2-C1",
+    "pattern": "AAA",
+    "infinitive": "bet",
+    "past_simple": "bet",
+    "past_participle": "bet",
+    "translation": "делать ставку",
+    "note": "Форма bet используется во всех трёх позициях; betted встречается редко.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I bet ten euros on the match.",
+        "ru": "Я поставил десять евро на матч."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has never bet on sport.",
+        "ru": "Она никогда не делала ставки на спорт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She has never beted on sport.",
+      "right": "She has never bet on sport.",
+      "note": "После have/has/had или be нужен Past Participle: bet."
+    },
+    "quiz": {
+      "prompt": "She has never ___ on sport.",
+      "options": [
+        "beted",
+        "bet",
+        "beting",
+        "bets"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: bet."
+    }
+  },
+  {
+    "id": "iv_087_bite",
+    "order": 87,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "bite",
+    "past_simple": "bit",
+    "past_participle": "bitten",
+    "translation": "кусать",
+    "note": "Bit — Past Simple; bitten — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The dog bit my shoe.",
+        "ru": "Собака укусила мой ботинок."
+      },
+      {
+        "label": "Past Participle",
+        "en": "He has been bitten by a mosquito.",
+        "ru": "Его укусил комар."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The dog bited my shoe.",
+      "right": "The dog bit my shoe.",
+      "note": "Past Simple от bite — bit, а не bited."
+    },
+    "quiz": {
+      "prompt": "The dog ___ my shoe.",
+      "options": [
+        "bite",
+        "bitten",
+        "bit",
+        "bited"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: bit."
+    }
+  },
+  {
+    "id": "iv_088_bleed",
+    "order": 88,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "bleed",
+    "past_simple": "bled",
+    "past_participle": "bled",
+    "translation": "кровоточить; растекаться",
+    "note": "Past Simple и Past Participle совпадают: bled.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "His finger bled for several minutes.",
+        "ru": "Его палец кровоточил несколько минут."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The colours have bled into one another.",
+        "ru": "Цвета растеклись и смешались."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The colours have bleeded into one another.",
+      "right": "The colours have bled into one another.",
+      "note": "После have/has/had или be нужен Past Participle: bled."
+    },
+    "quiz": {
+      "prompt": "The colours have ___ into one another.",
+      "options": [
+        "bleed",
+        "bleeded",
+        "bleeding",
+        "bled"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: bled."
+    }
+  },
+  {
+    "id": "iv_089_blow",
+    "order": 89,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "blow",
+    "past_simple": "blew",
+    "past_participle": "blown",
+    "translation": "дуть; сдувать",
+    "note": "Blew — Past Simple; blown — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The wind blew the gate open.",
+        "ru": "Ветер распахнул ворота."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Several trees have been blown down.",
+        "ru": "Несколько деревьев повалило ветром."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The wind blowed the gate open.",
+      "right": "The wind blew the gate open.",
+      "note": "Past Simple от blow — blew, а не blowed."
+    },
+    "quiz": {
+      "prompt": "The wind ___ the gate open.",
+      "options": [
+        "blew",
+        "blow",
+        "blown",
+        "blowed"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: blew."
+    }
+  },
+  {
+    "id": "iv_090_burn",
+    "order": 90,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "burn",
+    "past_simple": "burned / burnt",
+    "past_participle": "burned / burnt",
+    "translation": "гореть; сжигать",
+    "note": "Burned и burnt нормативны; burnt чаще встречается в британском английском.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The toast burned quickly.",
+        "ru": "Тост быстро подгорел."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The letters have been burned.",
+        "ru": "Письма сожгли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The toast burn while I was answering the phone.",
+      "right": "The toast burned / burnt while I was answering the phone.",
+      "note": "В прошлом времени нормативны обе формы: burned и burnt."
+    },
+    "quiz": {
+      "prompt": "The toast ___ while I was answering the phone.",
+      "options": [
+        "burn",
+        "burned / burnt",
+        "has burned",
+        "burns"
+      ],
+      "correct_index": 1,
+      "explanation": "Обе формы burned и burnt нормативны; в этом контексте нужен Past Simple."
+    }
+  },
+  {
+    "id": "iv_091_burst",
+    "order": 91,
+    "level": "B2-C1",
+    "pattern": "AAA",
+    "infinitive": "burst",
+    "past_simple": "burst",
+    "past_participle": "burst",
+    "translation": "лопаться; разрываться",
+    "note": "Все три формы совпадают: burst.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The pipe burst during the night.",
+        "ru": "Ночью трубу прорвало."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The balloon has burst.",
+        "ru": "Воздушный шар лопнул."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The pipe bursted during the night.",
+      "right": "The pipe burst during the night.",
+      "note": "Past Simple от burst — burst, а не bursted."
+    },
+    "quiz": {
+      "prompt": "The pipe ___ during the night.",
+      "options": [
+        "bursted",
+        "bursting",
+        "burst",
+        "bursts"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: burst."
+    }
+  },
+  {
+    "id": "iv_092_deal",
+    "order": 92,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "deal",
+    "past_simple": "dealt",
+    "past_participle": "dealt",
+    "translation": "иметь дело; разбираться",
+    "note": "Past Simple и Past Participle совпадают: dealt.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She dealt with the complaint calmly.",
+        "ru": "Она спокойно разобралась с жалобой."
+      },
+      {
+        "label": "Past Participle",
+        "en": "We have dealt with the main risks.",
+        "ru": "Мы разобрались с основными рисками."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We have dealed with the main risks.",
+      "right": "We have dealt with the main risks.",
+      "note": "После have/has/had или be нужен Past Participle: dealt."
+    },
+    "quiz": {
+      "prompt": "We have ___ with the main risks.",
+      "options": [
+        "deal",
+        "dealed",
+        "dealing",
+        "dealt"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: dealt."
+    }
+  },
+  {
+    "id": "iv_093_dig",
+    "order": 93,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "dig",
+    "past_simple": "dug",
+    "past_participle": "dug",
+    "translation": "копать",
+    "note": "Past Simple и Past Participle совпадают: dug.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They dug a deep trench.",
+        "ru": "Они выкопали глубокую траншею."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Archaeologists have dug several test pits.",
+        "ru": "Археологи выкопали несколько разведочных шурфов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They diged a deep trench.",
+      "right": "They dug a deep trench.",
+      "note": "Past Simple от dig — dug, а не diged."
+    },
+    "quiz": {
+      "prompt": "They ___ a deep trench.",
+      "options": [
+        "dug",
+        "dig",
+        "diged",
+        "diging"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: dug."
+    }
+  },
+  {
+    "id": "iv_094_dream",
+    "order": 94,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "dream",
+    "past_simple": "dreamed / dreamt",
+    "past_participle": "dreamed / dreamt",
+    "translation": "мечтать; видеть сон",
+    "note": "Dreamed и dreamt нормативны; dreamt чаще встречается в британском английском.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "I dreamed about the sea.",
+        "ru": "Мне снилось море."
+      },
+      {
+        "label": "Past Participle",
+        "en": "She has always dreamed of living abroad.",
+        "ru": "Она всегда мечтала жить за границей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Last night I dream about the sea.",
+      "right": "Last night I dreamed / dreamt about the sea.",
+      "note": "В Past Simple нормативны dreamed и dreamt."
+    },
+    "quiz": {
+      "prompt": "Last night I ___ about the sea.",
+      "options": [
+        "dream",
+        "dreamed / dreamt",
+        "have dreamed",
+        "dreams"
+      ],
+      "correct_index": 1,
+      "explanation": "Dreamed и dreamt — нормативные формы Past Simple."
+    }
+  },
+  {
+    "id": "iv_095_feed",
+    "order": 95,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "feed",
+    "past_simple": "fed",
+    "past_participle": "fed",
+    "translation": "кормить; подавать данные",
+    "note": "Past Simple и Past Participle совпадают: fed.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He fed the cat before work.",
+        "ru": "Он покормил кошку перед работой."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The data have been fed into the system.",
+        "ru": "Данные загрузили в систему."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He feeded the cat before work.",
+      "right": "He fed the cat before work.",
+      "note": "Past Simple от feed — fed, а не feeded."
+    },
+    "quiz": {
+      "prompt": "He ___ the cat before work.",
+      "options": [
+        "feed",
+        "feeded",
+        "fed",
+        "feeding"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: fed."
+    }
+  },
+  {
+    "id": "iv_096_fight",
+    "order": 96,
+    "level": "B2-C1",
+    "pattern": "ABB",
+    "infinitive": "fight",
+    "past_simple": "fought",
+    "past_participle": "fought",
+    "translation": "драться; бороться",
+    "note": "Past Simple и Past Participle совпадают: fought.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "They fought hard for reform.",
+        "ru": "Они упорно боролись за реформу."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The two sides have fought for years.",
+        "ru": "Две стороны боролись годами."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The two sides have fighted for years.",
+      "right": "The two sides have fought for years.",
+      "note": "После have/has/had или be нужен Past Participle: fought."
+    },
+    "quiz": {
+      "prompt": "The two sides have ___ for years.",
+      "options": [
+        "fight",
+        "fighted",
+        "fighting",
+        "fought"
+      ],
+      "correct_index": 3,
+      "explanation": "После вспомогательного глагола нужен Past Participle: fought."
+    }
+  },
+  {
+    "id": "iv_097_forbid",
+    "order": 97,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "forbid",
+    "past_simple": "forbade",
+    "past_participle": "forbidden",
+    "translation": "запрещать",
+    "note": "Forbade — Past Simple; forbidden — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The rules forbade photography.",
+        "ru": "Правила запрещали фотографировать."
+      },
+      {
+        "label": "Past Participle",
+        "en": "Visitors are forbidden to enter.",
+        "ru": "Посетителям запрещено входить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The rules forbided photography.",
+      "right": "The rules forbade photography.",
+      "note": "Past Simple от forbid — forbade, а не forbided."
+    },
+    "quiz": {
+      "prompt": "The rules ___ photography.",
+      "options": [
+        "forbade",
+        "forbid",
+        "forbidden",
+        "forbided"
+      ],
+      "correct_index": 0,
+      "explanation": "В этом контексте нужен Past Simple: forbade."
+    }
+  },
+  {
+    "id": "iv_098_forgive",
+    "order": 98,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "forgive",
+    "past_simple": "forgave",
+    "past_participle": "forgiven",
+    "translation": "прощать",
+    "note": "Forgave — Past Simple; forgiven — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "She forgave him eventually.",
+        "ru": "В конце концов она его простила."
+      },
+      {
+        "label": "Past Participle",
+        "en": "I have never forgiven myself.",
+        "ru": "Я так и не простил себя."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I have never forgave myself.",
+      "right": "I have never forgiven myself.",
+      "note": "После have/has/had или be нужен Past Participle: forgiven."
+    },
+    "quiz": {
+      "prompt": "I have never ___ myself.",
+      "options": [
+        "forgive",
+        "forgiven",
+        "forgave",
+        "forgived"
+      ],
+      "correct_index": 1,
+      "explanation": "После вспомогательного глагола нужен Past Participle: forgiven."
+    }
+  },
+  {
+    "id": "iv_099_freeze",
+    "order": 99,
+    "level": "B2-C1",
+    "pattern": "ABC",
+    "infinitive": "freeze",
+    "past_simple": "froze",
+    "past_participle": "frozen",
+    "translation": "замерзать; замораживать",
+    "note": "Froze — Past Simple; frozen — Past Participle.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "The lake froze overnight.",
+        "ru": "Озеро замёрзло за ночь."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The account has been frozen.",
+        "ru": "Счёт был заморожен."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The lake freezed overnight.",
+      "right": "The lake froze overnight.",
+      "note": "Past Simple от freeze — froze, а не freezed."
+    },
+    "quiz": {
+      "prompt": "The lake ___ overnight.",
+      "options": [
+        "freeze",
+        "frozen",
+        "froze",
+        "freezed"
+      ],
+      "correct_index": 2,
+      "explanation": "В этом контексте нужен Past Simple: froze."
+    }
+  },
+  {
+    "id": "iv_100_hang",
+    "order": 100,
+    "level": "B2-C1",
+    "pattern": "SPECIAL",
+    "infinitive": "hang",
+    "past_simple": "hung / hanged",
+    "past_participle": "hung / hanged",
+    "translation": "вешать; висеть",
+    "note": "Для предметов обычно hung. Hanged употребляется, когда речь идёт о казни через повешение.",
+    "examples": [
+      {
+        "label": "Past Simple",
+        "en": "He hung the picture above the desk.",
+        "ru": "Он повесил картину над столом."
+      },
+      {
+        "label": "Past Participle",
+        "en": "The coats have been hung in the hall.",
+        "ru": "Пальто повесили в прихожей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They have hanged the new picture in the hall.",
+      "right": "They have hung the new picture in the hall.",
+      "note": "Для предметов употребляется hung. Hanged относится прежде всего к казни через повешение."
+    },
+    "quiz": {
+      "prompt": "They have ___ the new picture in the hall.",
+      "options": [
+        "hanged",
+        "hang",
+        "hanging",
+        "hung"
+      ],
+      "correct_index": 3,
+      "explanation": "Для предметов употребляется hung. Hanged относится прежде всего к казни через повешение."
+    }
+  }
+]

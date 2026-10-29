@@ -1,0 +1,420 @@
+{
+  "course_id": "word_formation_v1",
+  "version": "2026-07-v1.0",
+  "title": "Словообразование",
+  "levels": [
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "total_cards": 56,
+  "categories": {
+    "FOUNDATIONS": [
+      {
+        "order": 1,
+        "id": "wf_001_word_class",
+        "level": "A2",
+        "title": "Определяем часть речи по контексту",
+        "base_word": "WORD CLASS"
+      },
+      {
+        "order": 2,
+        "id": "wf_002_noun_slots",
+        "level": "A2",
+        "title": "Позиции существительного",
+        "base_word": "NOUN"
+      },
+      {
+        "order": 3,
+        "id": "wf_003_adjective_slots",
+        "level": "A2",
+        "title": "Позиции прилагательного",
+        "base_word": "ADJECTIVE"
+      },
+      {
+        "order": 4,
+        "id": "wf_004_adverb_slots",
+        "level": "A2",
+        "title": "Позиции наречия",
+        "base_word": "ADVERB"
+      },
+      {
+        "order": 5,
+        "id": "wf_005_verb_slots",
+        "level": "B1",
+        "title": "Позиции глагола",
+        "base_word": "VERB"
+      },
+      {
+        "order": 6,
+        "id": "wf_006_negative_context",
+        "level": "B1",
+        "title": "Отрицательное значение в контексте",
+        "base_word": "NEGATION"
+      },
+      {
+        "order": 7,
+        "id": "wf_007_number_countability",
+        "level": "B1",
+        "title": "Число и исчисляемость",
+        "base_word": "NUMBER"
+      },
+      {
+        "order": 8,
+        "id": "wf_008_exam_workflow",
+        "level": "B1",
+        "title": "Алгоритм Word Formation",
+        "base_word": "EXAM STRATEGY"
+      }
+    ],
+    "NOUNS": [
+      {
+        "order": 9,
+        "id": "wf_009_noun_tion_sion",
+        "level": "B1",
+        "title": "Существительные на -tion / -sion",
+        "base_word": "-TION / -SION"
+      },
+      {
+        "order": 10,
+        "id": "wf_010_noun_ment",
+        "level": "B1",
+        "title": "Существительные на -ment",
+        "base_word": "-MENT"
+      },
+      {
+        "order": 11,
+        "id": "wf_011_noun_ness",
+        "level": "B1",
+        "title": "Существительные на -ness",
+        "base_word": "-NESS"
+      },
+      {
+        "order": 12,
+        "id": "wf_012_noun_ity",
+        "level": "B1",
+        "title": "Существительные на -ity",
+        "base_word": "-ITY"
+      },
+      {
+        "order": 13,
+        "id": "wf_013_noun_ance_ence",
+        "level": "B2",
+        "title": "Существительные на -ance / -ence",
+        "base_word": "-ANCE / -ENCE"
+      },
+      {
+        "order": 14,
+        "id": "wf_014_person_nouns",
+        "level": "B2",
+        "title": "Названия людей: -er / -or / -ist / -ian",
+        "base_word": "PERSON NOUNS"
+      },
+      {
+        "order": 15,
+        "id": "wf_015_noun_ship_hood_dom",
+        "level": "B2",
+        "title": "Существительные на -ship / -hood / -dom",
+        "base_word": "-SHIP / -HOOD / -DOM"
+      },
+      {
+        "order": 16,
+        "id": "wf_016_noun_al_ure_ing",
+        "level": "B2",
+        "title": "Существительные на -al / -ure / -ing",
+        "base_word": "RESULT NOUNS"
+      }
+    ],
+    "ADJECTIVES": [
+      {
+        "order": 17,
+        "id": "wf_017_adj_ful_less",
+        "level": "B1",
+        "title": "Прилагательные на -ful / -less",
+        "base_word": "-FUL / -LESS"
+      },
+      {
+        "order": 18,
+        "id": "wf_018_adj_able_ible",
+        "level": "B1",
+        "title": "Прилагательные на -able / -ible",
+        "base_word": "-ABLE / -IBLE"
+      },
+      {
+        "order": 19,
+        "id": "wf_019_adj_ous",
+        "level": "B1",
+        "title": "Прилагательные на -ous",
+        "base_word": "-OUS"
+      },
+      {
+        "order": 20,
+        "id": "wf_020_adj_ive",
+        "level": "B1",
+        "title": "Прилагательные на -ive / -ative",
+        "base_word": "-IVE / -ATIVE"
+      },
+      {
+        "order": 21,
+        "id": "wf_021_adj_al_ical",
+        "level": "B2",
+        "title": "Прилагательные на -al / -ical",
+        "base_word": "-AL / -ICAL"
+      },
+      {
+        "order": 22,
+        "id": "wf_022_adj_ic_ish_y",
+        "level": "B2",
+        "title": "Прилагательные на -ic / -ish / -y",
+        "base_word": "-IC / -ISH / -Y"
+      },
+      {
+        "order": 23,
+        "id": "wf_023_ed_ing_adjectives",
+        "level": "B2",
+        "title": "Прилагательные на -ed и -ing",
+        "base_word": "-ED / -ING"
+      },
+      {
+        "order": 24,
+        "id": "wf_024_compound_adjectives",
+        "level": "B2",
+        "title": "Сложные прилагательные",
+        "base_word": "COMPOUND ADJECTIVES"
+      }
+    ],
+    "VERBS": [
+      {
+        "order": 25,
+        "id": "wf_025_verb_ise_ize",
+        "level": "B1",
+        "title": "Глаголы на -ise / -ize",
+        "base_word": "-ISE / -IZE"
+      },
+      {
+        "order": 26,
+        "id": "wf_026_verb_ify",
+        "level": "B1",
+        "title": "Глаголы на -ify",
+        "base_word": "-IFY"
+      },
+      {
+        "order": 27,
+        "id": "wf_027_verb_en_suffix",
+        "level": "B2",
+        "title": "Глаголы на -en",
+        "base_word": "-EN"
+      },
+      {
+        "order": 28,
+        "id": "wf_028_verb_en_em_prefix",
+        "level": "B2",
+        "title": "Глагольные префиксы en- / em-",
+        "base_word": "EN- / EM-"
+      },
+      {
+        "order": 29,
+        "id": "wf_029_conversion_to_verb",
+        "level": "B2",
+        "title": "Конверсия: слово становится глаголом",
+        "base_word": "CONVERSION"
+      },
+      {
+        "order": 30,
+        "id": "wf_030_re_verbs",
+        "level": "B2",
+        "title": "Префикс re- в глаголах",
+        "base_word": "RE-"
+      },
+      {
+        "order": 31,
+        "id": "wf_031_de_dis_verbs",
+        "level": "C1",
+        "title": "Глаголы с de- / dis-",
+        "base_word": "DE- / DIS-"
+      },
+      {
+        "order": 32,
+        "id": "wf_032_complex_verb_families",
+        "level": "C1",
+        "title": "Сложные глагольные семьи",
+        "base_word": "IRREGULAR VERB FAMILIES"
+      }
+    ],
+    "ADVERBS": [
+      {
+        "order": 33,
+        "id": "wf_033_adverb_ly",
+        "level": "A2",
+        "title": "Наречия на -ly",
+        "base_word": "-LY"
+      },
+      {
+        "order": 34,
+        "id": "wf_034_y_to_ily",
+        "level": "A2",
+        "title": "Конечная -y: -ily",
+        "base_word": "-Y → -ILY"
+      },
+      {
+        "order": 35,
+        "id": "wf_035_le_to_ly",
+        "level": "B1",
+        "title": "Прилагательные на -le: -ly",
+        "base_word": "-LE → -LY"
+      },
+      {
+        "order": 36,
+        "id": "wf_036_ic_to_ically",
+        "level": "B1",
+        "title": "Прилагательные на -ic: -ically",
+        "base_word": "-IC → -ICALLY"
+      },
+      {
+        "order": 37,
+        "id": "wf_037_flat_adverbs",
+        "level": "B2",
+        "title": "Наречия без -ly",
+        "base_word": "FLAT ADVERBS"
+      },
+      {
+        "order": 38,
+        "id": "wf_038_adverb_pairs",
+        "level": "B2",
+        "title": "Пары hard/hardly, late/lately и другие",
+        "base_word": "ADVERB PAIRS"
+      },
+      {
+        "order": 39,
+        "id": "wf_039_ably_ibly",
+        "level": "B2",
+        "title": "Наречия на -ably / -ibly",
+        "base_word": "-ABLE/-IBLE → -ABLY/-IBLY"
+      },
+      {
+        "order": 40,
+        "id": "wf_040_sentence_adverbs",
+        "level": "B2",
+        "title": "Наречия-комментарии к предложению",
+        "base_word": "SENTENCE ADVERBS"
+      }
+    ],
+    "PREFIXES": [
+      {
+        "order": 41,
+        "id": "wf_041_prefix_un",
+        "level": "B1",
+        "title": "Отрицательный префикс un-",
+        "base_word": "UN-"
+      },
+      {
+        "order": 42,
+        "id": "wf_042_prefix_in_im_il_ir",
+        "level": "B1",
+        "title": "Префиксы in- / im- / il- / ir-",
+        "base_word": "IN- / IM- / IL- / IR-"
+      },
+      {
+        "order": 43,
+        "id": "wf_043_prefix_dis",
+        "level": "B2",
+        "title": "Префикс dis-",
+        "base_word": "DIS-"
+      },
+      {
+        "order": 44,
+        "id": "wf_044_prefix_mis",
+        "level": "B2",
+        "title": "Префикс mis-",
+        "base_word": "MIS-"
+      },
+      {
+        "order": 45,
+        "id": "wf_045_prefix_non_anti",
+        "level": "B2",
+        "title": "Префиксы non- и anti-",
+        "base_word": "NON- / ANTI-"
+      },
+      {
+        "order": 46,
+        "id": "wf_046_prefix_over_under",
+        "level": "B2",
+        "title": "Префиксы over- / under-",
+        "base_word": "OVER- / UNDER-"
+      },
+      {
+        "order": 47,
+        "id": "wf_047_prefix_pre_post_re",
+        "level": "C1",
+        "title": "Временные префиксы pre- / post- / re-",
+        "base_word": "TIME PREFIXES"
+      },
+      {
+        "order": 48,
+        "id": "wf_048_relational_prefixes",
+        "level": "C1",
+        "title": "Префиксы co- / inter- / multi- / sub-",
+        "base_word": "RELATIONAL PREFIXES"
+      }
+    ],
+    "SPELLING_IRREGULAR": [
+      {
+        "order": 49,
+        "id": "wf_049_final_y_changes",
+        "level": "B2",
+        "title": "Изменение конечной y",
+        "base_word": "FINAL Y"
+      },
+      {
+        "order": 50,
+        "id": "wf_050_silent_e",
+        "level": "B2",
+        "title": "Конечная немая e",
+        "base_word": "FINAL E"
+      },
+      {
+        "order": 51,
+        "id": "wf_051_consonant_doubling",
+        "level": "B2",
+        "title": "Удвоение согласной",
+        "base_word": "DOUBLE CONSONANT"
+      },
+      {
+        "order": 52,
+        "id": "wf_052_tion_sion_spelling",
+        "level": "B2",
+        "title": "Сложные семьи -tion / -sion / -ssion",
+        "base_word": "SPELLING FAMILIES"
+      },
+      {
+        "order": 53,
+        "id": "wf_053_irregular_dimensions",
+        "level": "C1",
+        "title": "Нерегулярные семьи размеров и свойств",
+        "base_word": "WIDTH / DEPTH / LENGTH"
+      },
+      {
+        "order": 54,
+        "id": "wf_054_lexical_families",
+        "level": "C1",
+        "title": "Лексические семьи с разными основами",
+        "base_word": "SUCCESS / ADVICE / EMPLOY"
+      },
+      {
+        "order": 55,
+        "id": "wf_055_word_family_chains",
+        "level": "C1",
+        "title": "Цепочки из нескольких аффиксов",
+        "base_word": "MULTIPLE AFFIXES"
+      },
+      {
+        "order": 56,
+        "id": "wf_056_integrated_exam_card",
+        "level": "C1",
+        "title": "Комплексная экзаменационная трансформация",
+        "base_word": "INTEGRATED TRANSFORMATION"
+      }
+    ]
+  }
+}

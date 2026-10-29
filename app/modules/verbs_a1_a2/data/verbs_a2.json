@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "verb_026_give_lend_borrow",
+    "order": 26,
+    "level": "A2",
+    "category": "Exchange",
+    "title_en": "give / lend / borrow",
+    "title_ru": "давать, одалживать и брать взаймы",
+    "rule": "Lend означает дать кому-то вещь на время, borrow — взять её на время. Give не предполагает обязательного возврата.",
+    "forms": [
+      "lend — lent — lent",
+      "borrow — borrowed — borrowed",
+      "give — gave — given"
+    ],
+    "meanings": [
+      "lend someone something",
+      "borrow something from someone",
+      "give someone something"
+    ],
+    "contrast": "Нельзя говорить borrow someone: предмет берут from человека.",
+    "examples": [
+      {
+        "en": "Can you lend me ten euros?",
+        "ru": "Можешь одолжить мне десять евро?"
+      },
+      {
+        "en": "I borrowed this book from Lisa.",
+        "ru": "Я взял эту книгу у Лизы."
+      },
+      {
+        "en": "She gave me a useful map.",
+        "ru": "Она дала мне полезную карту."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I borrowed him my pen.",
+      "right": "I lent him my pen.",
+      "note": "Тот, кто отдаёт предмет на время, lends it."
+    },
+    "quiz": {
+      "prompt": "Complete: Could I ___ your charger for an hour?",
+      "options": [
+        "lend",
+        "borrow",
+        "give away"
+      ],
+      "correct_index": 1,
+      "explanation": "Говорящий хочет взять предмет на время, поэтому borrow."
+    }
+  },
+  {
+    "id": "verb_027_arrive_reach_get_to",
+    "order": 27,
+    "level": "A2",
+    "category": "Movement",
+    "title_en": "arrive / reach / get to",
+    "title_ru": "прибывать и добираться",
+    "rule": "Arrive употребляется с in для городов и стран, с at для небольших мест. Reach не требует предлога. Get to — разговорный вариант.",
+    "forms": [
+      "arrive in a city/country",
+      "arrive at a station/building",
+      "reach/get to a place"
+    ],
+    "meanings": [
+      "прибывать",
+      "достигать места",
+      "добираться"
+    ],
+    "contrast": "После reach нельзя ставить in, at или to перед прямым дополнением.",
+    "examples": [
+      {
+        "en": "We arrived in Rome at noon.",
+        "ru": "Мы прибыли в Рим в полдень."
+      },
+      {
+        "en": "She reached the airport on time.",
+        "ru": "Она вовремя добралась до аэропорта."
+      },
+      {
+        "en": "How did you get to work?",
+        "ru": "Как ты добрался до работы?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We reached to the hotel.",
+      "right": "We reached the hotel.",
+      "note": "Reach принимает прямое дополнение без предлога."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "They arrived to Paris.",
+        "They arrived in Paris.",
+        "They reached at Paris."
+      ],
+      "correct_index": 1,
+      "explanation": "С городом после arrive используется in."
+    }
+  },
+  {
+    "id": "verb_028_leave_let",
+    "order": 28,
+    "level": "A2",
+    "category": "Permission and movement",
+    "title_en": "leave vs let",
+    "title_ru": "уходить/оставлять и позволять",
+    "rule": "Leave означает уходить или оставлять что-либо. Let означает позволять и строится по модели let someone do без to.",
+    "forms": [
+      "leave — left — left",
+      "let — let — let",
+      "let + person + base verb"
+    ],
+    "meanings": [
+      "покидать место",
+      "оставлять предмет",
+      "позволять кому-то сделать"
+    ],
+    "contrast": "После let используется глагол без to.",
+    "examples": [
+      {
+        "en": "We left the office early.",
+        "ru": "Мы рано ушли из офиса."
+      },
+      {
+        "en": "I left my phone at home.",
+        "ru": "Я оставил телефон дома."
+      },
+      {
+        "en": "Let me explain.",
+        "ru": "Позволь мне объяснить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She let me to go.",
+      "right": "She let me go.",
+      "note": "После let инфинитив употребляется без to."
+    },
+    "quiz": {
+      "prompt": "Complete: My parents don’t ___ me stay out late.",
+      "options": [
+        "leave",
+        "let",
+        "left"
+      ],
+      "correct_index": 1,
+      "explanation": "Разрешение выражается let someone do."
+    }
+  },
+  {
+    "id": "verb_029_remember_forget",
+    "order": 29,
+    "level": "A2",
+    "category": "Memory",
+    "title_en": "remember vs forget",
+    "title_ru": "помнить и забывать",
+    "rule": "Remember и forget могут употребляться с to-infinitive для будущего/необходимого действия и с -ing для воспоминания о прошлом опыте.",
+    "forms": [
+      "remember/forget + to do",
+      "remember/forget + doing",
+      "remember/forget + noun"
+    ],
+    "meanings": [
+      "не забыть сделать",
+      "помнить сделанное",
+      "забыть факт или предмет"
+    ],
+    "contrast": "Remember to lock — не забыть запереть; remember locking — помнить сам момент запирания.",
+    "examples": [
+      {
+        "en": "Remember to call me.",
+        "ru": "Не забудь позвонить мне."
+      },
+      {
+        "en": "I remember meeting her before.",
+        "ru": "Я помню, что встречал её раньше."
+      },
+      {
+        "en": "He forgot his password.",
+        "ru": "Он забыл пароль."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I remembered to meet her last year.",
+      "right": "I remember meeting her last year.",
+      "note": "Воспоминание о прошлом опыте требует -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: Don’t forget ___ the lights off.",
+      "options": [
+        "turning",
+        "to turn",
+        "turned"
+      ],
+      "correct_index": 1,
+      "explanation": "Речь о действии, которое нужно выполнить, поэтому to turn."
+    }
+  },
+  {
+    "id": "verb_030_hope_expect_wait",
+    "order": 30,
+    "level": "A2",
+    "category": "Expectations",
+    "title_en": "hope / expect / wait",
+    "title_ru": "надеяться, ожидать и ждать",
+    "rule": "Hope выражает желаемый результат, expect — вероятный или предполагаемый результат, wait — физически или во времени ждать.",
+    "forms": [
+      "hope + clause/to-infinitive",
+      "expect + noun/to-infinitive/clause",
+      "wait for + noun"
+    ],
+    "meanings": [
+      "hope: желать",
+      "expect: предполагать",
+      "wait for: ждать человека или событие"
+    ],
+    "contrast": "После wait перед объектом нужен for; expect for в этом значении не используется.",
+    "examples": [
+      {
+        "en": "I hope you feel better soon.",
+        "ru": "Надеюсь, тебе скоро станет лучше."
+      },
+      {
+        "en": "We expect the train to be late.",
+        "ru": "Мы ожидаем, что поезд опоздает."
+      },
+      {
+        "en": "I’m waiting for a bus.",
+        "ru": "Я жду автобус."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I am waiting the doctor.",
+      "right": "I am waiting for the doctor.",
+      "note": "После wait перед объектом нужен for."
+    },
+    "quiz": {
+      "prompt": "Complete: We ___ the results tomorrow; they will probably arrive by email.",
+      "options": [
+        "expect",
+        "wait for to",
+        "hope for to"
+      ],
+      "correct_index": 0,
+      "explanation": "Expect подходит для вероятного ожидаемого события."
+    }
+  },
+  {
+    "id": "verb_031_ask_answer_reply",
+    "order": 31,
+    "level": "A2",
+    "category": "Communication",
+    "title_en": "ask / answer / reply",
+    "title_ru": "спрашивать, отвечать и отвечать сообщением",
+    "rule": "Ask имеет объект вопроса или человека. Answer принимает прямое дополнение. Reply обычно употребляется с to перед человеком или сообщением.",
+    "forms": [
+      "ask someone a question",
+      "answer a question/someone",
+      "reply to a message/person"
+    ],
+    "meanings": [
+      "задавать вопрос",
+      "давать ответ",
+      "отвечать письменно или формально"
+    ],
+    "contrast": "После answer предлог to обычно не нужен, после reply — нужен.",
+    "examples": [
+      {
+        "en": "She asked me a difficult question.",
+        "ru": "Она задала мне сложный вопрос."
+      },
+      {
+        "en": "Please answer the phone.",
+        "ru": "Пожалуйста, ответь на звонок."
+      },
+      {
+        "en": "He replied to my email.",
+        "ru": "Он ответил на моё письмо."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He answered to my question.",
+      "right": "He answered my question.",
+      "note": "Answer принимает прямое дополнение без to."
+    },
+    "quiz": {
+      "prompt": "Choose the correct phrase.",
+      "options": [
+        "reply my message",
+        "reply to my message",
+        "answer to my message"
+      ],
+      "correct_index": 1,
+      "explanation": "Reply перед объектом требует to."
+    }
+  },
+  {
+    "id": "verb_032_win_beat",
+    "order": 32,
+    "level": "A2",
+    "category": "Competition",
+    "title_en": "win vs beat",
+    "title_ru": "побеждать и обыгрывать",
+    "rule": "Win имеет объектом соревнование, приз или игру. Beat имеет объектом соперника или команду.",
+    "forms": [
+      "win — won — won",
+      "beat — beat — beaten"
+    ],
+    "meanings": [
+      "win a game/prize/competition",
+      "beat a person/team",
+      "win без объекта: одержать победу"
+    ],
+    "contrast": "Нельзя говорить win someone в значении «обыграть человека».",
+    "examples": [
+      {
+        "en": "Our team won the match.",
+        "ru": "Наша команда выиграла матч."
+      },
+      {
+        "en": "We beat the champions 2–1.",
+        "ru": "Мы обыграли чемпионов 2:1."
+      },
+      {
+        "en": "She won first prize.",
+        "ru": "Она получила первый приз."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She won her opponent.",
+      "right": "She beat her opponent.",
+      "note": "Соперник является объектом глагола beat."
+    },
+    "quiz": {
+      "prompt": "Complete: Spain ___ Italy in the final.",
+      "options": [
+        "won",
+        "beat",
+        "beaten"
+      ],
+      "correct_index": 1,
+      "explanation": "Команду-соперника обыгрывают: beat Italy."
+    }
+  },
+  {
+    "id": "verb_033_miss_lose",
+    "order": 33,
+    "level": "A2",
+    "category": "Loss",
+    "title_en": "miss vs lose",
+    "title_ru": "пропускать/скучать и терять/проигрывать",
+    "rule": "Miss означает не успеть, пропустить или скучать. Lose — потерять вещь, проиграть или лишиться.",
+    "forms": [
+      "miss — missed — missed",
+      "lose — lost — lost"
+    ],
+    "meanings": [
+      "miss a bus/class/person",
+      "lose keys/money/a game",
+      "be lost: заблудиться"
+    ],
+    "contrast": "Поезд или автобус можно miss, но ключи обычно lose.",
+    "examples": [
+      {
+        "en": "I missed the last train.",
+        "ru": "Я опоздал на последний поезд."
+      },
+      {
+        "en": "She misses her family.",
+        "ru": "Она скучает по семье."
+      },
+      {
+        "en": "He lost his wallet.",
+        "ru": "Он потерял кошелёк."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I missed my keys.",
+      "right": "I lost my keys.",
+      "note": "Потеря предмета выражается lose."
+    },
+    "quiz": {
+      "prompt": "Complete: Hurry up, or we’ll ___ the bus.",
+      "options": [
+        "lose",
+        "miss",
+        "missed"
+      ],
+      "correct_index": 1,
+      "explanation": "Не успеть на транспорт — miss the bus."
+    }
+  },
+  {
+    "id": "verb_034_receive_accept",
+    "order": 34,
+    "level": "A2",
+    "category": "Receiving",
+    "title_en": "receive vs accept",
+    "title_ru": "получать и принимать",
+    "rule": "Receive описывает факт получения. Accept означает согласиться взять, признать или одобрить.",
+    "forms": [
+      "receive — received — received",
+      "accept — accepted — accepted"
+    ],
+    "meanings": [
+      "receive a letter/payment",
+      "accept an offer/apology",
+      "можно receive something, но не accept it"
+    ],
+    "contrast": "Получение не всегда означает согласие принять.",
+    "examples": [
+      {
+        "en": "I received your message.",
+        "ru": "Я получил твоё сообщение."
+      },
+      {
+        "en": "She accepted the job offer.",
+        "ru": "Она приняла предложение о работе."
+      },
+      {
+        "en": "He received the gift but did not accept it.",
+        "ru": "Он получил подарок, но не принял его."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I accepted an email yesterday.",
+      "right": "I received an email yesterday.",
+      "note": "Письмо получают; accept означает согласиться принять предложение или решение."
+    },
+    "quiz": {
+      "prompt": "Complete: They ___ our invitation and will come.",
+      "options": [
+        "received only",
+        "accepted",
+        "reached"
+      ],
+      "correct_index": 1,
+      "explanation": "Согласие на приглашение выражается accept."
+    }
+  },
+  {
+    "id": "verb_035_rise_raise",
+    "order": 35,
+    "level": "A2",
+    "category": "Change and movement",
+    "title_en": "rise vs raise",
+    "title_ru": "подниматься и поднимать",
+    "rule": "Rise — непереходный глагол: что-то поднимается само. Raise — переходный: кто-то поднимает объект.",
+    "forms": [
+      "rise — rose — risen",
+      "raise — raised — raised",
+      "rise без прямого объекта; raise + object"
+    ],
+    "meanings": [
+      "повышаться",
+      "вставать/подниматься",
+      "поднимать или повышать что-либо"
+    ],
+    "contrast": "Raise требует прямого дополнения, rise — нет.",
+    "examples": [
+      {
+        "en": "Prices rose quickly.",
+        "ru": "Цены быстро выросли."
+      },
+      {
+        "en": "Please raise your hand.",
+        "ru": "Пожалуйста, поднимите руку."
+      },
+      {
+        "en": "The sun rises in the east.",
+        "ru": "Солнце встаёт на востоке."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The company rose its prices.",
+      "right": "The company raised its prices.",
+      "note": "Компания воздействует на объект prices, поэтому raise."
+    },
+    "quiz": {
+      "prompt": "Complete: Temperatures are expected to ___ tomorrow.",
+      "options": [
+        "raise",
+        "rise",
+        "raised"
+      ],
+      "correct_index": 1,
+      "explanation": "Температура повышается сама: rise."
+    }
+  },
+  {
+    "id": "verb_036_lie_lay",
+    "order": 36,
+    "level": "A2",
+    "category": "Position",
+    "title_en": "lie vs lay",
+    "title_ru": "лежать и класть",
+    "rule": "Lie означает находиться в горизонтальном положении и не требует объекта. Lay означает класть что-либо и требует объекта.",
+    "forms": [
+      "lie — lay — lain",
+      "lay — laid — laid",
+      "lie down; lay something down"
+    ],
+    "meanings": [
+      "лежать",
+      "лечь",
+      "положить предмет"
+    ],
+    "contrast": "Past Simple глагола lie — lay, а Past Simple глагола lay — laid.",
+    "examples": [
+      {
+        "en": "The cat is lying on the sofa.",
+        "ru": "Кошка лежит на диване."
+      },
+      {
+        "en": "He lay down for an hour.",
+        "ru": "Он прилёг на час."
+      },
+      {
+        "en": "Lay the papers on the desk.",
+        "ru": "Положи бумаги на стол."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She laid on the bed.",
+      "right": "She lay on the bed.",
+      "note": "Без объекта в прошедшем времени нужна форма lay от lie."
+    },
+    "quiz": {
+      "prompt": "Complete: Please ___ the baby gently in the cot.",
+      "options": [
+        "lie",
+        "lay",
+        "lain"
+      ],
+      "correct_index": 1,
+      "explanation": "Есть прямой объект the baby, поэтому lay."
+    }
+  },
+  {
+    "id": "verb_037_sit_set",
+    "order": 37,
+    "level": "A2",
+    "category": "Position",
+    "title_en": "sit vs set",
+    "title_ru": "сидеть и устанавливать/ставить",
+    "rule": "Sit означает находиться в сидячем положении. Set означает поставить, установить или задать что-либо и требует объекта.",
+    "forms": [
+      "sit — sat — sat",
+      "set — set — set",
+      "sit down; set a time/alarm/table"
+    ],
+    "meanings": [
+      "сидеть",
+      "усаживаться",
+      "устанавливать или задавать"
+    ],
+    "contrast": "В повседневной речи put часто заменяет set в значении «положить», но set нужен в устойчивых сочетаниях.",
+    "examples": [
+      {
+        "en": "We sat by the window.",
+        "ru": "Мы сидели у окна."
+      },
+      {
+        "en": "I set the alarm for seven.",
+        "ru": "Я поставил будильник на семь."
+      },
+      {
+        "en": "Please sit down.",
+        "ru": "Пожалуйста, садитесь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I sat the alarm for six.",
+      "right": "I set the alarm for six.",
+      "note": "Будильник устанавливают: set the alarm."
+    },
+    "quiz": {
+      "prompt": "Complete: She ___ at the back of the room.",
+      "options": [
+        "set",
+        "sat",
+        "setting"
+      ],
+      "correct_index": 1,
+      "explanation": "Положение человека в прошлом выражается sat."
+    }
+  },
+  {
+    "id": "verb_038_spend_save_waste",
+    "order": 38,
+    "level": "A2",
+    "category": "Money and time",
+    "title_en": "spend / save / waste",
+    "title_ru": "тратить, экономить и растрачивать",
+    "rule": "Spend нейтрально описывает использование времени или денег, save — сохранение, waste — ненужную потерю.",
+    "forms": [
+      "spend — spent — spent",
+      "save — saved — saved",
+      "waste — wasted — wasted"
+    ],
+    "meanings": [
+      "spend money/time on something",
+      "spend time doing",
+      "save/waste time or money"
+    ],
+    "contrast": "После spend time перед действием используется форма -ing.",
+    "examples": [
+      {
+        "en": "I spent fifty euros on books.",
+        "ru": "Я потратил пятьдесят евро на книги."
+      },
+      {
+        "en": "This app saves time.",
+        "ru": "Это приложение экономит время."
+      },
+      {
+        "en": "Don’t waste your money.",
+        "ru": "Не трать деньги впустую."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We spent two hours to wait.",
+      "right": "We spent two hours waiting.",
+      "note": "После spend time используется -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: She ___ the evening reading.",
+      "options": [
+        "spent",
+        "paid",
+        "cost"
+      ],
+      "correct_index": 0,
+      "explanation": "Модель spend time doing something."
+    }
+  },
+  {
+    "id": "verb_039_choose_pick",
+    "order": 39,
+    "level": "A2",
+    "category": "Choice",
+    "title_en": "choose vs pick",
+    "title_ru": "выбирать",
+    "rule": "Choose — нейтральное слово для осознанного выбора. Pick чаще разговорное и нередко означает быстро выбрать один вариант.",
+    "forms": [
+      "choose — chose — chosen",
+      "pick — picked — picked",
+      "choose/pick + noun; choose to do"
+    ],
+    "meanings": [
+      "делать выбор",
+      "выбирать вариант",
+      "pick также означает собирать или поднимать"
+    ],
+    "contrast": "После choose для действия используется to-infinitive.",
+    "examples": [
+      {
+        "en": "Choose the answer carefully.",
+        "ru": "Выбери ответ внимательно."
+      },
+      {
+        "en": "She chose to stay at home.",
+        "ru": "Она решила остаться дома."
+      },
+      {
+        "en": "Pick a card.",
+        "ru": "Выбери карту."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He chose staying home.",
+      "right": "He chose to stay home.",
+      "note": "После choose в значении решения нужен to-infinitive."
+    },
+    "quiz": {
+      "prompt": "Complete: We ___ the cheaper option yesterday.",
+      "options": [
+        "chosen",
+        "chose",
+        "choose"
+      ],
+      "correct_index": 1,
+      "explanation": "Past Simple от choose — chose."
+    }
+  },
+  {
+    "id": "verb_040_happen_take_place",
+    "order": 40,
+    "level": "A2",
+    "category": "Events",
+    "title_en": "happen vs take place",
+    "title_ru": "происходить и состояться",
+    "rule": "Happen описывает событие, часто неожиданное. Take place употребляется для запланированных мероприятий и более формального стиля.",
+    "forms": [
+      "happen — happened — happened",
+      "take place — took place — taken place"
+    ],
+    "meanings": [
+      "случаться",
+      "происходить",
+      "состояться по плану"
+    ],
+    "contrast": "Событие happens; нельзя говорить someone happens something в обычном значении.",
+    "examples": [
+      {
+        "en": "What happened yesterday?",
+        "ru": "Что произошло вчера?"
+      },
+      {
+        "en": "The conference takes place in June.",
+        "ru": "Конференция проходит в июне."
+      },
+      {
+        "en": "An accident happened near the station.",
+        "ru": "Возле станции произошла авария."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The meeting happened at ten by schedule.",
+      "right": "The meeting took place at ten.",
+      "note": "Для организованного события естественнее take place."
+    },
+    "quiz": {
+      "prompt": "Complete: The ceremony will ___ in the main hall.",
+      "options": [
+        "happen someone",
+        "take place",
+        "take part"
+      ],
+      "correct_index": 1,
+      "explanation": "Запланированная церемония takes place."
+    }
+  },
+  {
+    "id": "verb_041_look_like_be_like",
+    "order": 41,
+    "level": "A2",
+    "category": "Description",
+    "title_en": "look like vs be like",
+    "title_ru": "выглядеть как и быть каким по характеру",
+    "rule": "Look like спрашивает или описывает внешность. Be like относится к характеру, поведению или общему впечатлению.",
+    "forms": [
+      "look like + noun/pronoun",
+      "What does ... look like?",
+      "What is ... like?"
+    ],
+    "meanings": [
+      "внешнее сходство",
+      "описание внешности",
+      "описание характера или общего качества"
+    ],
+    "contrast": "В вопросе What does he look like? глагол look остаётся в базовой форме.",
+    "examples": [
+      {
+        "en": "She looks like her mother.",
+        "ru": "Она похожа на мать."
+      },
+      {
+        "en": "What does your teacher look like?",
+        "ru": "Как выглядит ваш учитель?"
+      },
+      {
+        "en": "What is your teacher like? — She’s patient.",
+        "ru": "Какой у вас учитель? — Она терпеливая."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "How does he look like?",
+      "right": "What does he look like?",
+      "note": "Стандартный вопрос о внешности начинается с What."
+    },
+    "quiz": {
+      "prompt": "Which question asks about personality?",
+      "options": [
+        "What does she look like?",
+        "What is she like?",
+        "Who does she look?"
+      ],
+      "correct_index": 1,
+      "explanation": "What is she like? спрашивает о характере и качествах."
+    }
+  },
+  {
+    "id": "verb_042_feel_seem_sound",
+    "order": 42,
+    "level": "A2",
+    "category": "Impressions",
+    "title_en": "feel / seem / sound",
+    "title_ru": "чувствовать, казаться и звучать",
+    "rule": "Feel описывает ощущение, seem — впечатление или предположение, sound — впечатление от услышанной информации.",
+    "forms": [
+      "feel/seem/sound + adjective",
+      "seem + to-infinitive",
+      "sound like + noun"
+    ],
+    "meanings": [
+      "ощущаться",
+      "казаться",
+      "звучать"
+    ],
+    "contrast": "После этих глаголов-связок обычно употребляется прилагательное, а не наречие.",
+    "examples": [
+      {
+        "en": "I feel tired.",
+        "ru": "Я чувствую усталость."
+      },
+      {
+        "en": "He seems worried.",
+        "ru": "Он кажется обеспокоенным."
+      },
+      {
+        "en": "That sounds interesting.",
+        "ru": "Звучит интересно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It sounds interestingly.",
+      "right": "It sounds interesting.",
+      "note": "После глагола-связки sound используется прилагательное."
+    },
+    "quiz": {
+      "prompt": "Complete: You ___ upset. Is everything okay?",
+      "options": [
+        "seem",
+        "seemly",
+        "are seeming to"
+      ],
+      "correct_index": 0,
+      "explanation": "Seem + adjective описывает впечатление."
+    }
+  },
+  {
+    "id": "verb_043_become_get_turn",
+    "order": 43,
+    "level": "A2",
+    "category": "Change",
+    "title_en": "become / get / turn",
+    "title_ru": "становиться",
+    "rule": "Become — нейтральное или формальное изменение, get — разговорное изменение состояния, turn часто описывает изменение цвета или качества.",
+    "forms": [
+      "become — became — become",
+      "get — got — got/gotten",
+      "turn — turned — turned"
+    ],
+    "meanings": [
+      "become a doctor/more serious",
+      "get tired/cold/better",
+      "turn red/dark"
+    ],
+    "contrast": "Get + adjective обычно разговорнее, а become часто подходит для профессии или длительного изменения.",
+    "examples": [
+      {
+        "en": "She became a doctor.",
+        "ru": "Она стала врачом."
+      },
+      {
+        "en": "I’m getting tired.",
+        "ru": "Я устаю."
+      },
+      {
+        "en": "The leaves turned yellow.",
+        "ru": "Листья пожелтели."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He got a doctor.",
+      "right": "He became a doctor.",
+      "note": "Для приобретения профессии употребляется become."
+    },
+    "quiz": {
+      "prompt": "Complete: The sky ___ dark very quickly.",
+      "options": [
+        "turned",
+        "became to",
+        "got a"
+      ],
+      "correct_index": 0,
+      "explanation": "Изменение цвета или освещения естественно выражается turn + adjective."
+    }
+  },
+  {
+    "id": "verb_044_keep",
+    "order": 44,
+    "level": "A2",
+    "category": "Continuation",
+    "title_en": "keep",
+    "title_ru": "держать; сохранять; продолжать",
+    "rule": "Keep имеет несколько частых моделей: keep something, keep + adjective и keep doing.",
+    "forms": [
+      "keep — kept — kept",
+      "keep + object/adjective",
+      "keep + verb-ing"
+    ],
+    "meanings": [
+      "хранить или держать",
+      "сохранять состояние",
+      "продолжать действие"
+    ],
+    "contrast": "После keep в значении продолжения используется -ing.",
+    "examples": [
+      {
+        "en": "Keep the door closed.",
+        "ru": "Держи дверь закрытой."
+      },
+      {
+        "en": "She keeps her documents here.",
+        "ru": "Она хранит документы здесь."
+      },
+      {
+        "en": "He kept asking questions.",
+        "ru": "Он продолжал задавать вопросы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Keep to try.",
+      "right": "Keep trying.",
+      "note": "После keep в значении «продолжать» используется герундий."
+    },
+    "quiz": {
+      "prompt": "Complete: Please keep ___; you’re doing well.",
+      "options": [
+        "to practise",
+        "practising",
+        "practised"
+      ],
+      "correct_index": 1,
+      "explanation": "Модель keep doing something."
+    }
+  },
+  {
+    "id": "verb_045_hold",
+    "order": 45,
+    "level": "A2",
+    "category": "Holding",
+    "title_en": "hold",
+    "title_ru": "держать; проводить; вмещать",
+    "rule": "Hold может означать держать предмет, проводить мероприятие или вмещать определённое количество.",
+    "forms": [
+      "hold — held — held",
+      "hold something; hold a meeting; hold up to ..."
+    ],
+    "meanings": [
+      "держать в руках",
+      "проводить событие",
+      "вмещать"
+    ],
+    "contrast": "Для организованного события можно hold a meeting, но не make a meeting.",
+    "examples": [
+      {
+        "en": "Hold the bag for a moment.",
+        "ru": "Подержи сумку минутку."
+      },
+      {
+        "en": "They held a meeting on Monday.",
+        "ru": "Они провели собрание в понедельник."
+      },
+      {
+        "en": "The hall holds 500 people.",
+        "ru": "Зал вмещает 500 человек."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We made a meeting yesterday.",
+      "right": "We held a meeting yesterday.",
+      "note": "С meeting в значении проведения употребляется hold."
+    },
+    "quiz": {
+      "prompt": "Complete: The conference will be ___ in May.",
+      "options": [
+        "held",
+        "holded",
+        "holding by"
+      ],
+      "correct_index": 0,
+      "explanation": "Past participle от hold — held."
+    }
+  },
+  {
+    "id": "verb_046_catch",
+    "order": 46,
+    "level": "A2",
+    "category": "Catching",
+    "title_en": "catch",
+    "title_ru": "ловить; успевать; подхватывать",
+    "rule": "Catch употребляется для поимки, транспорта, болезни и понимания услышанного.",
+    "forms": [
+      "catch — caught — caught",
+      "catch a ball/bus/cold",
+      "Did you catch that?"
+    ],
+    "meanings": [
+      "поймать",
+      "успеть на транспорт",
+      "заразиться или расслышать"
+    ],
+    "contrast": "С транспортом catch означает успеть сесть, а miss — не успеть.",
+    "examples": [
+      {
+        "en": "She caught the ball.",
+        "ru": "Она поймала мяч."
+      },
+      {
+        "en": "We caught the early train.",
+        "ru": "Мы успели на ранний поезд."
+      },
+      {
+        "en": "I caught a cold.",
+        "ru": "Я простудился."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I catched the bus.",
+      "right": "I caught the bus.",
+      "note": "Past Simple от catch — caught."
+    },
+    "quiz": {
+      "prompt": "Complete: Sorry, I didn’t ___ your name.",
+      "options": [
+        "catch",
+        "caught",
+        "hold"
+      ],
+      "correct_index": 0,
+      "explanation": "После did not используется базовая форма catch."
+    }
+  },
+  {
+    "id": "verb_047_break",
+    "order": 47,
+    "level": "A2",
+    "category": "Damage",
+    "title_en": "break",
+    "title_ru": "ломать; разбивать; нарушать",
+    "rule": "Break употребляется для физического повреждения, нарушения правила, обещания или привычного режима.",
+    "forms": [
+      "break — broke — broken",
+      "break something; something breaks",
+      "break a rule/promise"
+    ],
+    "meanings": [
+      "сломать или разбить",
+      "сломаться",
+      "нарушить правило или обещание"
+    ],
+    "contrast": "Break может быть переходным и непереходным: I broke it; it broke.",
+    "examples": [
+      {
+        "en": "I broke a glass.",
+        "ru": "Я разбил стакан."
+      },
+      {
+        "en": "My phone has broken.",
+        "ru": "Мой телефон сломался."
+      },
+      {
+        "en": "Don’t break your promise.",
+        "ru": "Не нарушай обещание."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "My phone is broke.",
+      "right": "My phone is broken.",
+      "note": "После be для состояния нужна форма broken."
+    },
+    "quiz": {
+      "prompt": "Complete: Who ___ the window?",
+      "options": [
+        "break",
+        "broke",
+        "broken"
+      ],
+      "correct_index": 1,
+      "explanation": "Вопрос о завершённом действии в Past Simple требует broke."
+    }
+  },
+  {
+    "id": "verb_048_grow",
+    "order": 48,
+    "level": "A2",
+    "category": "Development",
+    "title_en": "grow",
+    "title_ru": "расти; выращивать; становиться",
+    "rule": "Grow может описывать естественный рост, выращивание растений и постепенное изменение состояния.",
+    "forms": [
+      "grow — grew — grown",
+      "grow plants; grow + adjective",
+      "grow up"
+    ],
+    "meanings": [
+      "расти",
+      "выращивать",
+      "постепенно становиться"
+    ],
+    "contrast": "Grow up относится к взрослению человека; grow something означает выращивать объект.",
+    "examples": [
+      {
+        "en": "Children grow quickly.",
+        "ru": "Дети быстро растут."
+      },
+      {
+        "en": "They grow tomatoes in the garden.",
+        "ru": "Они выращивают помидоры в саду."
+      },
+      {
+        "en": "The problem grew worse.",
+        "ru": "Проблема усугубилась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She grown up in London.",
+      "right": "She grew up in London.",
+      "note": "Past Simple от grow — grew."
+    },
+    "quiz": {
+      "prompt": "Complete: The company has ___ rapidly.",
+      "options": [
+        "grew",
+        "grown",
+        "growed"
+      ],
+      "correct_index": 1,
+      "explanation": "После has нужна форма Past Participle grown."
+    }
+  },
+  {
+    "id": "verb_049_change",
+    "order": 49,
+    "level": "A2",
+    "category": "Change",
+    "title_en": "change",
+    "title_ru": "менять; изменяться; переодеваться",
+    "rule": "Change может быть переходным и непереходным: человек меняет что-то или ситуация меняется сама.",
+    "forms": [
+      "change — changed — changed",
+      "change something; something changes",
+      "change into/out of clothes"
+    ],
+    "meanings": [
+      "изменять объект",
+      "изменяться",
+      "переодеваться или разменивать деньги"
+    ],
+    "contrast": "В значении переодеться можно сказать change clothes или get changed.",
+    "examples": [
+      {
+        "en": "We changed our plans.",
+        "ru": "Мы изменили планы."
+      },
+      {
+        "en": "The weather changed suddenly.",
+        "ru": "Погода внезапно изменилась."
+      },
+      {
+        "en": "I need to change before dinner.",
+        "ru": "Мне нужно переодеться перед ужином."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The plan was changed itself.",
+      "right": "The plan changed.",
+      "note": "Если изменение произошло само, пассив не нужен."
+    },
+    "quiz": {
+      "prompt": "Complete: She ___ her mind after talking to us.",
+      "options": [
+        "changed",
+        "turned",
+        "became"
+      ],
+      "correct_index": 0,
+      "explanation": "Устойчивое сочетание — change one’s mind."
+    }
+  },
+  {
+    "id": "verb_050_return_come_back_give_back",
+    "order": 50,
+    "level": "A2",
+    "category": "Returning",
+    "title_en": "return / come back / give back",
+    "title_ru": "возвращаться и возвращать предмет",
+    "rule": "Return может означать и возвращаться, и возвращать предмет. Come back — разговорное «вернуться». Give back — отдать предмет обратно.",
+    "forms": [
+      "return — returned — returned",
+      "come back — came back — come back",
+      "give back — gave back — given back"
+    ],
+    "meanings": [
+      "вернуться в место",
+      "вернуть предмет",
+      "отдать вещь владельцу"
+    ],
+    "contrast": "Return home употребляется без to; return something не требует back.",
+    "examples": [
+      {
+        "en": "We returned home late.",
+        "ru": "Мы вернулись домой поздно."
+      },
+      {
+        "en": "When will you come back?",
+        "ru": "Когда ты вернёшься?"
+      },
+      {
+        "en": "Please give the book back to me.",
+        "ru": "Пожалуйста, верни мне книгу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I returned back home.",
+      "right": "I returned home.",
+      "note": "В return уже содержится значение back, поэтому слово лишнее."
+    },
+    "quiz": {
+      "prompt": "Complete: Can you ___ my umbrella tomorrow?",
+      "options": [
+        "come back it",
+        "give back",
+        "give me back"
+      ],
+      "correct_index": 2,
+      "explanation": "Нужно вернуть предмет владельцу: give me back my umbrella."
+    }
+  }
+]

@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "idiom_adv_01",
+    "order": 1,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "by and large",
+    "translation": "в целом; в общем и целом",
+    "explanation": "Generally speaking; considering the whole situation rather than every detail.",
+    "register": "neutral",
+    "literal_image": "рассмотреть что-либо в крупном масштабе",
+    "patterns": [
+      "by and large, ...",
+      "be, by and large, + adjective"
+    ],
+    "related": [
+      "generally",
+      "on the whole"
+    ],
+    "examples": [
+      {
+        "en": "By and large, the new timetable has worked well.",
+        "ru": "В целом новое расписание оказалось удачным."
+      },
+      {
+        "en": "The audience was, by and large, supportive of the proposal.",
+        "ru": "В общем и целом аудитория поддержала предложение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "By in large, the plan succeeded.",
+      "right": "By and large, the plan succeeded.",
+      "note": "Это фиксированное выражение: by and large, без in."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «в целом, если не учитывать отдельные детали»?",
+      "options": [
+        "by and large",
+        "at the drop of a hat",
+        "go against the grain",
+        "take something in your stride"
+      ],
+      "correct_index": 0,
+      "explanation": "«by and large» означает: в целом; в общем и целом. Generally speaking; considering the whole situation rather than every detail."
+    }
+  },
+  {
+    "id": "idiom_adv_02",
+    "order": 2,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "at the drop of a hat",
+    "translation": "мгновенно и без подготовки",
+    "explanation": "Immediately and willingly, without needing time to prepare.",
+    "register": "informal",
+    "literal_image": "сразу после падения шляпы",
+    "patterns": [
+      "do something at the drop of a hat",
+      "be ready to leave at the drop of a hat"
+    ],
+    "related": [
+      "immediately",
+      "without hesitation"
+    ],
+    "examples": [
+      {
+        "en": "She would travel abroad at the drop of a hat.",
+        "ru": "Она готова была бы уехать за границу в любой момент."
+      },
+      {
+        "en": "He can produce a convincing speech at the drop of a hat.",
+        "ru": "Он может без подготовки произнести убедительную речь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "at drop of the hat",
+      "right": "at the drop of a hat",
+      "note": "Нужны артикли the и a: at the drop of a hat."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек готов сделать что-то сразу, без подготовки?",
+      "options": [
+        "go against the grain",
+        "at the drop of a hat",
+        "take something in your stride",
+        "catch someone off guard"
+      ],
+      "correct_index": 1,
+      "explanation": "«at the drop of a hat» означает: мгновенно и без подготовки. Immediately and willingly, without needing time to prepare."
+    }
+  },
+  {
+    "id": "idiom_adv_03",
+    "order": 3,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "go against the grain",
+    "translation": "противоречить своим убеждениям или привычкам",
+    "explanation": "To be contrary to someone’s natural tendency, principles, or usual way of doing things.",
+    "register": "neutral",
+    "literal_image": "двигаться против направления волокон древесины",
+    "patterns": [
+      "something goes against the grain",
+      "go against the grain for someone"
+    ],
+    "related": [
+      "feel unnatural",
+      "conflict with one’s principles"
+    ],
+    "examples": [
+      {
+        "en": "It goes against the grain for me to take credit for someone else’s work.",
+        "ru": "Мне претит присваивать себе заслуги за чужую работу."
+      },
+      {
+        "en": "The rigid dress code went against the grain in an organisation that valued individuality.",
+        "ru": "Строгий дресс-код противоречил духу организации, ценившей индивидуальность."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "go against to the grain",
+      "right": "go against the grain",
+      "note": "После against не ставится to; форма фиксированная: against the grain."
+    },
+    "quiz": {
+      "prompt": "Какое выражение передаёт мысль «это противоречит моей природе или принципам»?",
+      "options": [
+        "take something in your stride",
+        "catch someone off guard",
+        "go against the grain",
+        "keep something at bay"
+      ],
+      "correct_index": 2,
+      "explanation": "«go against the grain» означает: противоречить своим убеждениям или привычкам. To be contrary to someone’s natural tendency, principles, or usual way of doing things."
+    }
+  },
+  {
+    "id": "idiom_adv_04",
+    "order": 4,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "take something in your stride",
+    "translation": "спокойно справиться с трудностью",
+    "explanation": "To deal with a difficulty calmly and continue without being seriously affected.",
+    "register": "neutral; UK, US also take something in stride",
+    "literal_image": "продолжить идти обычным шагом, несмотря на препятствие",
+    "patterns": [
+      "take criticism in your stride",
+      "take a setback in stride (US)"
+    ],
+    "related": [
+      "cope calmly",
+      "handle without fuss"
+    ],
+    "examples": [
+      {
+        "en": "Maya took the sudden change of venue in her stride.",
+        "ru": "Майя спокойно отнеслась к внезапной смене места проведения."
+      },
+      {
+        "en": "Experienced speakers learn to take awkward questions in their stride.",
+        "ru": "Опытные выступающие учатся спокойно реагировать на неудобные вопросы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take a problem on your stride",
+      "right": "take a problem in your stride",
+      "note": "Нормативный предлог — in; в американском варианте your может опускаться."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек спокойно перенёс неприятную перемену и продолжил действовать?",
+      "options": [
+        "catch someone off guard",
+        "keep something at bay",
+        "be on the brink of something",
+        "take something in your stride"
+      ],
+      "correct_index": 3,
+      "explanation": "«take something in your stride» означает: спокойно справиться с трудностью. To deal with a difficulty calmly and continue without being seriously affected."
+    }
+  },
+  {
+    "id": "idiom_adv_05",
+    "order": 5,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "catch someone off guard",
+    "translation": "застать кого-либо врасплох",
+    "explanation": "To surprise someone when they are not prepared to react.",
+    "register": "neutral",
+    "literal_image": "поймать человека, когда его защита опущена",
+    "patterns": [
+      "catch someone off guard",
+      "be caught off guard by something"
+    ],
+    "related": [
+      "surprise",
+      "take by surprise"
+    ],
+    "examples": [
+      {
+        "en": "The interviewer’s final question caught me off guard.",
+        "ru": "Последний вопрос интервьюера застал меня врасплох."
+      },
+      {
+        "en": "Investors were caught off guard by the abrupt announcement.",
+        "ru": "Резкое заявление застало инвесторов врасплох."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "catch off guard someone",
+      "right": "catch someone off guard",
+      "note": "Обычный порядок: catch + someone + off guard."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «удивить человека в момент, когда он не готов»?",
+      "options": [
+        "catch someone off guard",
+        "keep something at bay",
+        "be on the brink of something",
+        "a far cry from something"
+      ],
+      "correct_index": 0,
+      "explanation": "«catch someone off guard» означает: застать кого-либо врасплох. To surprise someone when they are not prepared to react."
+    }
+  },
+  {
+    "id": "idiom_adv_06",
+    "order": 6,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "keep something at bay",
+    "translation": "не подпускать; сдерживать",
+    "explanation": "To prevent something unpleasant or dangerous from approaching or getting worse.",
+    "register": "neutral",
+    "literal_image": "держать угрозу на расстоянии",
+    "patterns": [
+      "keep hunger at bay",
+      "keep an infection at bay"
+    ],
+    "related": [
+      "hold back",
+      "prevent from worsening"
+    ],
+    "examples": [
+      {
+        "en": "Regular breaks helped keep exhaustion at bay.",
+        "ru": "Регулярные перерывы помогали не допустить полного истощения."
+      },
+      {
+        "en": "The temporary barrier kept the floodwater at bay.",
+        "ru": "Временное заграждение сдерживало паводковую воду."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep something at the bay",
+      "right": "keep something at bay",
+      "note": "В идиоме bay употребляется без артикля: at bay."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что меры помогают сдерживать угрозу и не дают ей приблизиться?",
+      "options": [
+        "be on the brink of something",
+        "keep something at bay",
+        "a far cry from something",
+        "by and large"
+      ],
+      "correct_index": 1,
+      "explanation": "«keep something at bay» означает: не подпускать; сдерживать. To prevent something unpleasant or dangerous from approaching or getting worse."
+    }
+  },
+  {
+    "id": "idiom_adv_07",
+    "order": 7,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "be on the brink of something",
+    "translation": "быть на грани чего-либо",
+    "explanation": "To be very close to experiencing a major event, usually one with serious consequences.",
+    "register": "neutral to formal",
+    "literal_image": "стоять у самого края обрыва",
+    "patterns": [
+      "be on the brink of collapse",
+      "be on the brink of doing something"
+    ],
+    "related": [
+      "be close to",
+      "be on the verge of"
+    ],
+    "examples": [
+      {
+        "en": "The species is on the brink of extinction.",
+        "ru": "Этот вид находится на грани исчезновения."
+      },
+      {
+        "en": "The negotiations were on the brink of breaking down.",
+        "ru": "Переговоры были на грани срыва."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be at the brink to collapse",
+      "right": "be on the brink of collapse",
+      "note": "Нормативная модель: on the brink of + noun/-ing."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «находиться совсем близко к серьёзному событию»?",
+      "options": [
+        "a far cry from something",
+        "by and large",
+        "be on the brink of something",
+        "at the drop of a hat"
+      ],
+      "correct_index": 2,
+      "explanation": "«be on the brink of something» означает: быть на грани чего-либо. To be very close to experiencing a major event, usually one with serious consequences."
+    }
+  },
+  {
+    "id": "idiom_adv_08",
+    "order": 8,
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "a far cry from something",
+    "translation": "совсем не то; сильно отличаться от чего-либо",
+    "explanation": "Something very different from another thing, often much less satisfactory.",
+    "register": "neutral",
+    "literal_image": "крик, который слышен издалека",
+    "patterns": [
+      "be a far cry from something",
+      "a far cry from what was promised"
+    ],
+    "related": [
+      "very different from",
+      "nothing like"
+    ],
+    "examples": [
+      {
+        "en": "The finished apartment was a far cry from the glossy advertisement.",
+        "ru": "Готовая квартира сильно отличалась от глянцевой рекламы."
+      },
+      {
+        "en": "Today’s service is a far cry from what customers once received.",
+        "ru": "Сегодняшний сервис совсем не похож на тот, который клиенты получали раньше."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "far cry of the original",
+      "right": "a far cry from the original",
+      "note": "Нужны артикль a и предлог from: a far cry from."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что реальность сильно отличается от обещанного результата?",
+      "options": [
+        "by and large",
+        "at the drop of a hat",
+        "go against the grain",
+        "a far cry from something"
+      ],
+      "correct_index": 3,
+      "explanation": "«a far cry from something» означает: совсем не то; сильно отличаться от чего-либо. Something very different from another thing, often much less satisfactory."
+    }
+  },
+  {
+    "id": "idiom_adv_09",
+    "order": 9,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "move the goalposts",
+    "translation": "менять правила по ходу дела",
+    "explanation": "To change the rules or requirements during a process, making success more difficult.",
+    "register": "informal; disapproving",
+    "literal_image": "переставить ворота во время игры",
+    "patterns": [
+      "move the goalposts",
+      "keep moving the goalposts"
+    ],
+    "related": [
+      "change the criteria",
+      "alter the rules unfairly"
+    ],
+    "examples": [
+      {
+        "en": "We met every requirement, but the client moved the goalposts again.",
+        "ru": "Мы выполнили все требования, но клиент снова изменил условия."
+      },
+      {
+        "en": "Applicants complained that the committee kept moving the goalposts.",
+        "ru": "Кандидаты пожаловались, что комиссия постоянно меняла критерии."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "move the goalpost",
+      "right": "move the goalposts",
+      "note": "Обычно употребляется множественное число: the goalposts."
+    },
+    "quiz": {
+      "prompt": "Какое выражение описывает нечестное изменение критериев во время выполнения задачи?",
+      "options": [
+        "move the goalposts",
+        "cut corners",
+        "raise the bar",
+        "get down to brass tacks"
+      ],
+      "correct_index": 0,
+      "explanation": "«move the goalposts» означает: менять правила по ходу дела. To change the rules or requirements during a process, making success more difficult."
+    }
+  },
+  {
+    "id": "idiom_adv_10",
+    "order": 10,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "cut corners",
+    "translation": "экономить на качестве; делать кое-как ради скорости или дешевизны",
+    "explanation": "To save time or money by omitting necessary steps, often reducing quality or safety.",
+    "register": "informal; usually disapproving",
+    "literal_image": "срезать углы вместо полного пути",
+    "patterns": [
+      "cut corners on safety",
+      "cut corners to save money"
+    ],
+    "related": [
+      "take shortcuts",
+      "compromise on quality"
+    ],
+    "examples": [
+      {
+        "en": "The contractor cut corners on insulation, and the building soon developed damp.",
+        "ru": "Подрядчик сэкономил на теплоизоляции, и вскоре в здании появилась сырость."
+      },
+      {
+        "en": "You cannot cut corners when checking medical data.",
+        "ru": "Нельзя пренебрегать важными этапами при проверке медицинских данных."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cut the corners",
+      "right": "cut corners",
+      "note": "В идиоме обычно нет артикля: cut corners."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что кто-то пропускает важные этапы, чтобы сэкономить время или деньги?",
+      "options": [
+        "raise the bar",
+        "cut corners",
+        "get down to brass tacks",
+        "be ahead of the curve"
+      ],
+      "correct_index": 1,
+      "explanation": "«cut corners» означает: экономить на качестве; делать кое-как ради скорости или дешевизны. To save time or money by omitting necessary steps, often reducing quality or safety."
+    }
+  },
+  {
+    "id": "idiom_adv_11",
+    "order": 11,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "raise the bar",
+    "translation": "повысить требования или стандарт",
+    "explanation": "To set a higher standard of quality or performance.",
+    "register": "neutral",
+    "literal_image": "поднять планку выше",
+    "patterns": [
+      "raise the bar for someone",
+      "raise the bar in an industry"
+    ],
+    "related": [
+      "set a higher standard",
+      "increase expectations"
+    ],
+    "examples": [
+      {
+        "en": "The revised course has raised the bar for online language teaching.",
+        "ru": "Обновлённый курс повысил стандарты онлайн-преподавания языков."
+      },
+      {
+        "en": "Her first report raised the bar for the rest of the team.",
+        "ru": "Её первый отчёт задал более высокий стандарт для всей команды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "rise the bar",
+      "right": "raise the bar",
+      "note": "Raise — переходный глагол: raise the bar. Rise не принимает прямого дополнения."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «установить более высокий стандарт качества»?",
+      "options": [
+        "get down to brass tacks",
+        "be ahead of the curve",
+        "raise the bar",
+        "have your work cut out"
+      ],
+      "correct_index": 2,
+      "explanation": "«raise the bar» означает: повысить требования или стандарт. To set a higher standard of quality or performance."
+    }
+  },
+  {
+    "id": "idiom_adv_12",
+    "order": 12,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "get down to brass tacks",
+    "translation": "перейти к конкретным практическим деталям",
+    "explanation": "To stop discussing generalities and begin dealing with the essential practical facts.",
+    "register": "informal",
+    "literal_image": "перейти к самым простым металлическим кнопкам или гвоздикам",
+    "patterns": [
+      "get down to brass tacks",
+      "let us get down to brass tacks"
+    ],
+    "related": [
+      "discuss the essentials",
+      "focus on practical details"
+    ],
+    "examples": [
+      {
+        "en": "After the introductions, we got down to brass tacks and discussed the budget.",
+        "ru": "После знакомства мы перешли к конкретике и обсудили бюджет."
+      },
+      {
+        "en": "Let’s get down to brass tacks: who is responsible for delivery?",
+        "ru": "Давайте перейдём к сути: кто отвечает за доставку?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get down at brass tacks",
+      "right": "get down to brass tacks",
+      "note": "Фиксированная форма: get down to brass tacks; tacks — во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Как предложить прекратить общие рассуждения и перейти к конкретным деталям?",
+      "options": [
+        "be ahead of the curve",
+        "have your work cut out",
+        "hit the ground running",
+        "get down to brass tacks"
+      ],
+      "correct_index": 3,
+      "explanation": "«get down to brass tacks» означает: перейти к конкретным практическим деталям. To stop discussing generalities and begin dealing with the essential practical facts."
+    }
+  },
+  {
+    "id": "idiom_adv_13",
+    "order": 13,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "be ahead of the curve",
+    "translation": "опережать тенденции или конкурентов",
+    "explanation": "To be more advanced or better prepared than other people or organisations.",
+    "register": "neutral; common in business",
+    "literal_image": "находиться впереди изгиба линии или графика",
+    "patterns": [
+      "stay ahead of the curve",
+      "be ahead of the curve in something"
+    ],
+    "related": [
+      "be innovative",
+      "be better prepared"
+    ],
+    "examples": [
+      {
+        "en": "The company stayed ahead of the curve by investing early in accessibility.",
+        "ru": "Компания опередила конкурентов, заранее вложившись в доступность."
+      },
+      {
+        "en": "Students who master data literacy will be ahead of the curve.",
+        "ru": "Студенты, освоившие работу с данными, будут иметь преимущество."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be ahead from the curve",
+      "right": "be ahead of the curve",
+      "note": "Нормативный предлог — of: ahead of the curve."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что организация раньше других замечает тенденции и лучше подготовлена?",
+      "options": [
+        "be ahead of the curve",
+        "have your work cut out",
+        "hit the ground running",
+        "burn the candle at both ends"
+      ],
+      "correct_index": 0,
+      "explanation": "«be ahead of the curve» означает: опережать тенденции или конкурентов. To be more advanced or better prepared than other people or organisations."
+    }
+  },
+  {
+    "id": "idiom_adv_14",
+    "order": 14,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "have your work cut out",
+    "translation": "иметь впереди очень трудную задачу",
+    "explanation": "To face a large or difficult amount of work.",
+    "register": "informal",
+    "literal_image": "иметь заранее выкроенный большой объём работы",
+    "patterns": [
+      "have your work cut out",
+      "have your work cut out for you"
+    ],
+    "related": [
+      "face a difficult task",
+      "have a major challenge"
+    ],
+    "examples": [
+      {
+        "en": "With only two days left, the editing team has its work cut out.",
+        "ru": "До срока осталось два дня, поэтому редакционной группе предстоит очень трудная работа."
+      },
+      {
+        "en": "You will have your work cut out for you if you want to restore the archive alone.",
+        "ru": "Тебе предстоит непростая задача, если ты решишь восстанавливать архив в одиночку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "have your work cut off",
+      "right": "have your work cut out",
+      "note": "Форма cut out фиксированная; вариант for you часто добавляется в конце."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «предстоит большой и сложный объём работы»?",
+      "options": [
+        "hit the ground running",
+        "have your work cut out",
+        "burn the candle at both ends",
+        "move the goalposts"
+      ],
+      "correct_index": 1,
+      "explanation": "«have your work cut out» означает: иметь впереди очень трудную задачу. To face a large or difficult amount of work."
+    }
+  },
+  {
+    "id": "idiom_adv_15",
+    "order": 15,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "hit the ground running",
+    "translation": "сразу активно и эффективно приступить к делу",
+    "explanation": "To begin a new activity immediately with energy and competence.",
+    "register": "informal; common in work contexts",
+    "literal_image": "приземлиться и сразу побежать",
+    "patterns": [
+      "hit the ground running",
+      "be ready to hit the ground running"
+    ],
+    "related": [
+      "start strongly",
+      "begin effectively"
+    ],
+    "examples": [
+      {
+        "en": "The new manager hit the ground running and resolved two long-standing issues in her first week.",
+        "ru": "Новая руководительница сразу активно включилась в работу и за первую неделю решила две давние проблемы."
+      },
+      {
+        "en": "The induction programme helps recruits hit the ground running.",
+        "ru": "Вводная программа помогает новым сотрудникам сразу эффективно приступить к работе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hitted the ground running",
+      "right": "hit the ground running",
+      "note": "Прошедшая форма hit — hit, не hitted."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что новый сотрудник с первого дня работает активно и результативно?",
+      "options": [
+        "burn the candle at both ends",
+        "move the goalposts",
+        "hit the ground running",
+        "cut corners"
+      ],
+      "correct_index": 2,
+      "explanation": "«hit the ground running» означает: сразу активно и эффективно приступить к делу. To begin a new activity immediately with energy and competence."
+    }
+  },
+  {
+    "id": "idiom_adv_16",
+    "order": 16,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "burn the candle at both ends",
+    "translation": "изнурять себя, работая с утра до ночи",
+    "explanation": "To exhaust yourself by working or staying active both early and late.",
+    "register": "informal",
+    "literal_image": "жечь свечу одновременно с двух концов",
+    "patterns": [
+      "burn the candle at both ends",
+      "stop burning the candle at both ends"
+    ],
+    "related": [
+      "overwork",
+      "get too little rest"
+    ],
+    "examples": [
+      {
+        "en": "You cannot burn the candle at both ends throughout the entire semester.",
+        "ru": "Нельзя весь семестр изнурять себя работой с утра до ночи."
+      },
+      {
+        "en": "He was burning the candle at both ends and eventually had to take leave.",
+        "ru": "Он слишком много работал и почти не отдыхал, поэтому в итоге был вынужден взять отпуск."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "burn the candle from both ends",
+      "right": "burn the candle at both ends",
+      "note": "Фиксированный предлог — at: at both ends."
+    },
+    "quiz": {
+      "prompt": "Какое выражение описывает человека, который работает допоздна, рано встаёт и почти не отдыхает?",
+      "options": [
+        "move the goalposts",
+        "cut corners",
+        "raise the bar",
+        "burn the candle at both ends"
+      ],
+      "correct_index": 3,
+      "explanation": "«burn the candle at both ends» означает: изнурять себя, работая с утра до ночи. To exhaust yourself by working or staying active both early and late."
+    }
+  },
+  {
+    "id": "idiom_adv_17",
+    "order": 17,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "read the room",
+    "translation": "учитывать настроение и реакцию присутствующих",
+    "explanation": "To notice the mood of a group and adjust your behaviour or words accordingly.",
+    "register": "informal; contemporary",
+    "literal_image": "прочитать комнату как текст",
+    "patterns": [
+      "read the room",
+      "fail to read the room"
+    ],
+    "related": [
+      "sense the mood",
+      "judge the atmosphere"
+    ],
+    "examples": [
+      {
+        "en": "The joke fell flat because the speaker failed to read the room.",
+        "ru": "Шутка не сработала, потому что выступающий не учёл настроение аудитории."
+      },
+      {
+        "en": "Read the room before raising such a sensitive subject.",
+        "ru": "Оцени атмосферу, прежде чем поднимать такую деликатную тему."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "read a room",
+      "right": "read the room",
+      "note": "В устойчивом выражении обычно употребляется the: read the room."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что нужно оценить настроение аудитории и подстроить своё поведение?",
+      "options": [
+        "read the room",
+        "get your wires crossed",
+        "put words in someone's mouth",
+        "speak volumes"
+      ],
+      "correct_index": 0,
+      "explanation": "«read the room» означает: учитывать настроение и реакцию присутствующих. To notice the mood of a group and adjust your behaviour or words accordingly."
+    }
+  },
+  {
+    "id": "idiom_adv_18",
+    "order": 18,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "get your wires crossed",
+    "translation": "неправильно понять друг друга",
+    "explanation": "To misunderstand one another, especially because messages or arrangements have become confused.",
+    "register": "informal",
+    "literal_image": "перепутать электрические провода",
+    "patterns": [
+      "get your wires crossed",
+      "have your wires crossed"
+    ],
+    "related": [
+      "misunderstand each other",
+      "confuse the arrangements"
+    ],
+    "examples": [
+      {
+        "en": "We got our wires crossed: I thought the meeting was online.",
+        "ru": "Мы неправильно поняли друг друга: я думал, встреча будет онлайн."
+      },
+      {
+        "en": "The two departments had their wires crossed about who should approve the invoice.",
+        "ru": "Два отдела не поняли друг друга относительно того, кто должен утвердить счёт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get your wire crossed",
+      "right": "get your wires crossed",
+      "note": "Wires обычно употребляется во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что две стороны неверно поняли договорённость?",
+      "options": [
+        "put words in someone's mouth",
+        "get your wires crossed",
+        "speak volumes",
+        "not mince your words"
+      ],
+      "correct_index": 1,
+      "explanation": "«get your wires crossed» означает: неправильно понять друг друга. To misunderstand one another, especially because messages or arrangements have become confused."
+    }
+  },
+  {
+    "id": "idiom_adv_19",
+    "order": 19,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "put words in someone's mouth",
+    "translation": "приписывать человеку то, чего он не говорил",
+    "explanation": "To claim that someone said or meant something they did not actually say or mean.",
+    "register": "informal; disapproving",
+    "literal_image": "вложить слова в чужой рот",
+    "patterns": [
+      "put words in someone's mouth",
+      "do not put words in my mouth"
+    ],
+    "related": [
+      "misrepresent someone",
+      "attribute a statement falsely"
+    ],
+    "examples": [
+      {
+        "en": "Please do not put words in my mouth; I never opposed the whole project.",
+        "ru": "Пожалуйста, не приписывай мне чужие слова: я не выступал против всего проекта."
+      },
+      {
+        "en": "The headline put words in the researcher’s mouth.",
+        "ru": "Заголовок приписал исследователю то, чего тот не говорил."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put words on someone's mouth",
+      "right": "put words in someone's mouth",
+      "note": "Нормативный предлог — in: put words in someone’s mouth."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что кому-то приписывают мнение, которого он не высказывал?",
+      "options": [
+        "speak volumes",
+        "not mince your words",
+        "put words in someone's mouth",
+        "talk at cross purposes"
+      ],
+      "correct_index": 2,
+      "explanation": "«put words in someone's mouth» означает: приписывать человеку то, чего он не говорил. To claim that someone said or meant something they did not actually say or mean."
+    }
+  },
+  {
+    "id": "idiom_adv_20",
+    "order": 20,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "speak volumes",
+    "translation": "говорить о многом без прямых слов",
+    "explanation": "To communicate a great deal of information or feeling indirectly.",
+    "register": "neutral",
+    "literal_image": "произнести целые тома книг",
+    "patterns": [
+      "something speaks volumes",
+      "silence speaks volumes"
+    ],
+    "related": [
+      "reveal a great deal",
+      "be highly significant"
+    ],
+    "examples": [
+      {
+        "en": "Her refusal to answer spoke volumes about the level of trust in the team.",
+        "ru": "Её отказ отвечать многое сказал об уровне доверия в команде."
+      },
+      {
+        "en": "The empty seats speak volumes about public interest in the scheme.",
+        "ru": "Пустые места красноречиво говорят об интересе общества к этой инициативе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "speak a volume",
+      "right": "speak volumes",
+      "note": "В идиоме volumes употребляется без артикля и во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что жест или молчание само по себе очень красноречиво?",
+      "options": [
+        "not mince your words",
+        "talk at cross purposes",
+        "lay your cards on the table",
+        "speak volumes"
+      ],
+      "correct_index": 3,
+      "explanation": "«speak volumes» означает: говорить о многом без прямых слов. To communicate a great deal of information or feeling indirectly."
+    }
+  },
+  {
+    "id": "idiom_adv_21",
+    "order": 21,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "not mince your words",
+    "translation": "говорить прямо, не смягчая формулировок",
+    "explanation": "To express an opinion very directly, even if it may sound harsh.",
+    "register": "neutral to informal",
+    "literal_image": "не рубить слова на мелкие кусочки",
+    "patterns": [
+      "not mince your words",
+      "without mincing words"
+    ],
+    "related": [
+      "speak bluntly",
+      "be very direct"
+    ],
+    "examples": [
+      {
+        "en": "The inspector did not mince her words when describing the safety failures.",
+        "ru": "Инспектор говорила без обиняков, описывая нарушения безопасности."
+      },
+      {
+        "en": "Without mincing words, the editor called the argument incoherent.",
+        "ru": "Не смягчая формулировок, редактор назвал аргументацию несвязной."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "not mince your word",
+      "right": "not mince your words",
+      "note": "Words обычно употребляется во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек высказался предельно прямо и не стал смягчать критику?",
+      "options": [
+        "not mince your words",
+        "talk at cross purposes",
+        "lay your cards on the table",
+        "split hairs"
+      ],
+      "correct_index": 0,
+      "explanation": "«not mince your words» означает: говорить прямо, не смягчая формулировок. To express an opinion very directly, even if it may sound harsh."
+    }
+  },
+  {
+    "id": "idiom_adv_22",
+    "order": 22,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "talk at cross purposes",
+    "translation": "говорить о разном, не осознавая недопонимания",
+    "explanation": "To misunderstand each other because each person is discussing a different idea or assumption.",
+    "register": "neutral",
+    "literal_image": "говорить в пересекающихся, но разных направлениях",
+    "patterns": [
+      "talk at cross purposes",
+      "be at cross purposes"
+    ],
+    "related": [
+      "misunderstand each other",
+      "talk about different things"
+    ],
+    "examples": [
+      {
+        "en": "We had been talking at cross purposes: she meant the draft, while I meant the final report.",
+        "ru": "Мы говорили о разном: она имела в виду черновик, а я — итоговый отчёт."
+      },
+      {
+        "en": "The discussion went nowhere because the two sides were at cross purposes.",
+        "ru": "Обсуждение ни к чему не привело, потому что стороны не понимали, что говорят о разных вещах."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "talk in cross purpose",
+      "right": "talk at cross purposes",
+      "note": "Фиксированная форма: at cross purposes; purposes — во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Какое выражение описывает разговор, в котором люди не замечают, что имеют в виду разные вещи?",
+      "options": [
+        "lay your cards on the table",
+        "talk at cross purposes",
+        "split hairs",
+        "read the room"
+      ],
+      "correct_index": 1,
+      "explanation": "«talk at cross purposes» означает: говорить о разном, не осознавая недопонимания. To misunderstand each other because each person is discussing a different idea or assumption."
+    }
+  },
+  {
+    "id": "idiom_adv_23",
+    "order": 23,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "lay your cards on the table",
+    "translation": "открыто изложить свои намерения или позицию",
+    "explanation": "To state your intentions, plans, or concerns honestly and clearly.",
+    "register": "informal",
+    "literal_image": "выложить игровые карты на стол",
+    "patterns": [
+      "lay your cards on the table",
+      "put your cards on the table"
+    ],
+    "related": [
+      "be open",
+      "state your position clearly"
+    ],
+    "examples": [
+      {
+        "en": "It is time for both parties to lay their cards on the table.",
+        "ru": "Обеим сторонам пора открыто изложить свои позиции."
+      },
+      {
+        "en": "She laid her cards on the table and explained why she might resign.",
+        "ru": "Она откровенно объяснила, почему может уйти в отставку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "lie your cards on the table",
+      "right": "lay your cards on the table",
+      "note": "Lay — переходный глагол со значением «положить»; прошедшая форма — laid."
+    },
+    "quiz": {
+      "prompt": "Как предложить участникам честно раскрыть свои намерения и перестать скрывать позицию?",
+      "options": [
+        "split hairs",
+        "read the room",
+        "lay your cards on the table",
+        "get your wires crossed"
+      ],
+      "correct_index": 2,
+      "explanation": "«lay your cards on the table» означает: открыто изложить свои намерения или позицию. To state your intentions, plans, or concerns honestly and clearly."
+    }
+  },
+  {
+    "id": "idiom_adv_24",
+    "order": 24,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "split hairs",
+    "translation": "спорить о несущественных различиях",
+    "explanation": "To argue about very small distinctions that are not important to the main issue.",
+    "register": "informal; often disapproving",
+    "literal_image": "расщеплять волос на ещё более тонкие части",
+    "patterns": [
+      "split hairs over something",
+      "stop splitting hairs"
+    ],
+    "related": [
+      "quibble",
+      "argue over minor details"
+    ],
+    "examples": [
+      {
+        "en": "We are splitting hairs over terminology while the main problem remains unsolved.",
+        "ru": "Мы спорим о мелочах в терминологии, пока главная проблема остаётся нерешённой."
+      },
+      {
+        "en": "The distinction is technically valid, but insisting on it here would be splitting hairs.",
+        "ru": "Различие технически верно, но настаивать на нём здесь означало бы придираться к мелочам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "split a hair",
+      "right": "split hairs",
+      "note": "В идиоме обычно используется множественное число без артикля: split hairs."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что спор сосредоточился на мелких различиях, не влияющих на суть?",
+      "options": [
+        "read the room",
+        "get your wires crossed",
+        "put words in someone's mouth",
+        "split hairs"
+      ],
+      "correct_index": 3,
+      "explanation": "«split hairs» означает: спорить о несущественных различиях. To argue about very small distinctions that are not important to the main issue."
+    }
+  },
+  {
+    "id": "idiom_adv_25",
+    "order": 25,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "fly off the handle",
+    "translation": "внезапно выйти из себя",
+    "explanation": "To become suddenly and excessively angry.",
+    "register": "informal",
+    "literal_image": "сорваться с рукоятки инструмента",
+    "patterns": [
+      "fly off the handle",
+      "make someone fly off the handle"
+    ],
+    "related": [
+      "lose control",
+      "become furious"
+    ],
+    "examples": [
+      {
+        "en": "He flew off the handle when the figures were questioned.",
+        "ru": "Он внезапно вышел из себя, когда цифры поставили под сомнение."
+      },
+      {
+        "en": "There was no need to fly off the handle over a minor delay.",
+        "ru": "Не было причин так резко злиться из-за небольшой задержки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fly out of the handle",
+      "right": "fly off the handle",
+      "note": "Фиксированная форма: off the handle; прошедшая форма fly — flew."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «внезапно и чрезмерно разозлиться»?",
+      "options": [
+        "fly off the handle",
+        "have a chip on your shoulder",
+        "wear your heart on your sleeve",
+        "be beside yourself"
+      ],
+      "correct_index": 0,
+      "explanation": "«fly off the handle» означает: внезапно выйти из себя. To become suddenly and excessively angry."
+    }
+  },
+  {
+    "id": "idiom_adv_26",
+    "order": 26,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "have a chip on your shoulder",
+    "translation": "быть постоянно обиженным и болезненно воспринимать неуважение",
+    "explanation": "To feel resentful or defensive because you believe you have been treated unfairly.",
+    "register": "informal; disapproving",
+    "literal_image": "носить щепку на плече как вызов",
+    "patterns": [
+      "have a chip on your shoulder",
+      "a chip on his shoulder about something"
+    ],
+    "related": [
+      "feel resentful",
+      "be defensive"
+    ],
+    "examples": [
+      {
+        "en": "He has a chip on his shoulder about not attending an elite university.",
+        "ru": "Он болезненно переживает из-за того, что не учился в престижном университете."
+      },
+      {
+        "en": "Her criticism sounded less objective because she clearly had a chip on her shoulder.",
+        "ru": "Её критика звучала менее объективно, потому что в ней явно чувствовалась давняя обида."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "have a chip in your shoulder",
+      "right": "have a chip on your shoulder",
+      "note": "Нормативный предлог — on: a chip on your shoulder."
+    },
+    "quiz": {
+      "prompt": "Как описать человека, который носит в себе обиду и ожидает пренебрежения со стороны других?",
+      "options": [
+        "wear your heart on your sleeve",
+        "have a chip on your shoulder",
+        "be beside yourself",
+        "get something out of your system"
+      ],
+      "correct_index": 1,
+      "explanation": "«have a chip on your shoulder» означает: быть постоянно обиженным и болезненно воспринимать неуважение. To feel resentful or defensive because you believe you have been treated unfairly."
+    }
+  },
+  {
+    "id": "idiom_adv_27",
+    "order": 27,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "wear your heart on your sleeve",
+    "translation": "открыто показывать свои чувства",
+    "explanation": "To make your emotions and affections easy for other people to see.",
+    "register": "informal",
+    "literal_image": "носить сердце на рукаве",
+    "patterns": [
+      "wear your heart on your sleeve",
+      "someone who wears their heart on their sleeve"
+    ],
+    "related": [
+      "show your feelings openly",
+      "be emotionally transparent"
+    ],
+    "examples": [
+      {
+        "en": "Lena wears her heart on her sleeve, so everyone knew the criticism had hurt her.",
+        "ru": "Лена не скрывает чувств, поэтому все поняли, что критика её задела."
+      },
+      {
+        "en": "He rarely wears his heart on his sleeve in professional settings.",
+        "ru": "В профессиональной обстановке он редко открыто показывает эмоции."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "wear your heart in your sleeve",
+      "right": "wear your heart on your sleeve",
+      "note": "Фиксированный предлог — on: on your sleeve."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек не скрывает эмоций и их легко заметить?",
+      "options": [
+        "be beside yourself",
+        "get something out of your system",
+        "wear your heart on your sleeve",
+        "be at the end of your tether"
+      ],
+      "correct_index": 2,
+      "explanation": "«wear your heart on your sleeve» означает: открыто показывать свои чувства. To make your emotions and affections easy for other people to see."
+    }
+  },
+  {
+    "id": "idiom_adv_28",
+    "order": 28,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "be beside yourself",
+    "translation": "быть вне себя от сильной эмоции",
+    "explanation": "To be unable to think or behave normally because of extreme worry, anger, grief, or joy.",
+    "register": "neutral",
+    "literal_image": "оказаться рядом с самим собой, словно эмоция вытеснила человека",
+    "patterns": [
+      "be beside yourself with worry",
+      "be beside yourself with joy"
+    ],
+    "related": [
+      "be overwhelmed",
+      "be extremely upset"
+    ],
+    "examples": [
+      {
+        "en": "She was beside herself with worry when the child failed to come home.",
+        "ru": "Она была вне себя от беспокойства, когда ребёнок не вернулся домой."
+      },
+      {
+        "en": "The players were beside themselves with excitement after the announcement.",
+        "ru": "После объявления игроки были вне себя от восторга."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be besides yourself",
+      "right": "be beside yourself",
+      "note": "Beside означает «рядом»; besides — «кроме того» и в этой идиоме не используется."
+    },
+    "quiz": {
+      "prompt": "Какое выражение описывает состояние, когда сильная эмоция мешает нормально думать?",
+      "options": [
+        "get something out of your system",
+        "be at the end of your tether",
+        "take something to heart",
+        "be beside yourself"
+      ],
+      "correct_index": 3,
+      "explanation": "«be beside yourself» означает: быть вне себя от сильной эмоции. To be unable to think or behave normally because of extreme worry, anger, grief, or joy."
+    }
+  },
+  {
+    "id": "idiom_adv_29",
+    "order": 29,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "get something out of your system",
+    "translation": "дать выход чувству или желанию и освободиться от него",
+    "explanation": "To do or express something so that a strong feeling or desire no longer troubles you.",
+    "register": "informal",
+    "literal_image": "вывести что-либо из внутренней системы организма",
+    "patterns": [
+      "get anger out of your system",
+      "get it out of your system"
+    ],
+    "related": [
+      "release a feeling",
+      "satisfy an urge"
+    ],
+    "examples": [
+      {
+        "en": "Write down everything you want to say, just to get the anger out of your system.",
+        "ru": "Запиши всё, что хочешь сказать, чтобы дать выход гневу."
+      },
+      {
+        "en": "He spent a year travelling alone to get his urge for adventure out of his system.",
+        "ru": "Он год путешествовал один, чтобы насытить свою тягу к приключениям."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get something off your system",
+      "right": "get something out of your system",
+      "note": "Фиксированная модель: get something out of your system."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человеку нужно выразить чувство, чтобы оно перестало его мучить?",
+      "options": [
+        "get something out of your system",
+        "be at the end of your tether",
+        "take something to heart",
+        "keep a stiff upper lip"
+      ],
+      "correct_index": 0,
+      "explanation": "«get something out of your system» означает: дать выход чувству или желанию и освободиться от него. To do or express something so that a strong feeling or desire no longer troubles you."
+    }
+  },
+  {
+    "id": "idiom_adv_30",
+    "order": 30,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "be at the end of your tether",
+    "translation": "быть на пределе сил или терпения",
+    "explanation": "To have no patience, strength, or emotional resources left.",
+    "register": "informal; mainly UK, US often at the end of your rope",
+    "literal_image": "дойти до конца верёвки, дальше которой двигаться нельзя",
+    "patterns": [
+      "be at the end of your tether",
+      "reach the end of your tether"
+    ],
+    "related": [
+      "have no patience left",
+      "be exhausted and desperate"
+    ],
+    "examples": [
+      {
+        "en": "After weeks of unresolved complaints, the residents were at the end of their tether.",
+        "ru": "После недель нерешённых жалоб терпение жителей было на исходе."
+      },
+      {
+        "en": "I am reaching the end of my tether with these repeated system failures.",
+        "ru": "Я уже на пределе из-за постоянных сбоев системы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be in the end of your tether",
+      "right": "be at the end of your tether",
+      "note": "Нормативная форма — at the end of; в американском английском часто rope."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что у человека почти не осталось сил или терпения?",
+      "options": [
+        "take something to heart",
+        "be at the end of your tether",
+        "keep a stiff upper lip",
+        "fly off the handle"
+      ],
+      "correct_index": 1,
+      "explanation": "«be at the end of your tether» означает: быть на пределе сил или терпения. To have no patience, strength, or emotional resources left."
+    }
+  },
+  {
+    "id": "idiom_adv_31",
+    "order": 31,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "take something to heart",
+    "translation": "слишком близко принять что-либо к сердцу",
+    "explanation": "To be deeply affected or upset by criticism, comments, or events.",
+    "register": "neutral",
+    "literal_image": "взять слова прямо к сердцу",
+    "patterns": [
+      "take criticism to heart",
+      "do not take it to heart"
+    ],
+    "related": [
+      "take personally",
+      "be deeply affected"
+    ],
+    "examples": [
+      {
+        "en": "Try not to take the reviewer’s harsh wording to heart.",
+        "ru": "Постарайся не принимать резкие формулировки рецензента слишком близко к сердцу."
+      },
+      {
+        "en": "She took the rejection to heart and stopped submitting her work.",
+        "ru": "Она тяжело восприняла отказ и перестала отправлять свои работы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take something into heart",
+      "right": "take something to heart",
+      "note": "Фиксированный предлог — to: take something to heart."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек слишком болезненно воспринял критику?",
+      "options": [
+        "keep a stiff upper lip",
+        "fly off the handle",
+        "take something to heart",
+        "have a chip on your shoulder"
+      ],
+      "correct_index": 2,
+      "explanation": "«take something to heart» означает: слишком близко принять что-либо к сердцу. To be deeply affected or upset by criticism, comments, or events."
+    }
+  },
+  {
+    "id": "idiom_adv_32",
+    "order": 32,
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "keep a stiff upper lip",
+    "translation": "не показывать сильных эмоций в трудной ситуации",
+    "explanation": "To remain outwardly calm and avoid showing distress.",
+    "register": "mainly UK; sometimes old-fashioned or humorous",
+    "literal_image": "сохранять неподвижной верхнюю губу",
+    "patterns": [
+      "keep a stiff upper lip",
+      "try to keep a stiff upper lip"
+    ],
+    "related": [
+      "remain composed",
+      "hide distress"
+    ],
+    "examples": [
+      {
+        "en": "He kept a stiff upper lip throughout the farewell, although he was deeply upset.",
+        "ru": "На прощании он не показывал эмоций, хотя был глубоко расстроен."
+      },
+      {
+        "en": "She kept a stiff upper lip during the ceremony and cried only when she got home.",
+        "ru": "Во время церемонии она не показывала переживаний и заплакала только дома."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep stiff upper lips",
+      "right": "keep a stiff upper lip",
+      "note": "Обычно нужна форма a stiff upper lip; это преимущественно британское выражение."
+    },
+    "quiz": {
+      "prompt": "Какое британское выражение означает «не показывать переживаний и сохранять внешнее спокойствие»?",
+      "options": [
+        "fly off the handle",
+        "have a chip on your shoulder",
+        "wear your heart on your sleeve",
+        "keep a stiff upper lip"
+      ],
+      "correct_index": 3,
+      "explanation": "«keep a stiff upper lip» означает: не показывать сильных эмоций в трудной ситуации. To remain outwardly calm and avoid showing distress."
+    }
+  },
+  {
+    "id": "idiom_adv_33",
+    "order": 33,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "throw someone under the bus",
+    "translation": "предать или подставить кого-либо ради собственной выгоды",
+    "explanation": "To harm or blame another person in order to protect or benefit yourself.",
+    "register": "informal; strongly disapproving",
+    "literal_image": "толкнуть человека под автобус, спасая себя",
+    "patterns": [
+      "throw someone under the bus",
+      "be thrown under the bus"
+    ],
+    "related": [
+      "betray",
+      "sacrifice someone"
+    ],
+    "examples": [
+      {
+        "en": "The director threw the junior analyst under the bus when the forecast proved wrong.",
+        "ru": "Директор подставил младшего аналитика, когда прогноз оказался неверным."
+      },
+      {
+        "en": "I will not throw my colleague under the bus to protect my reputation.",
+        "ru": "Я не стану предавать коллегу ради своей репутации."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "throw under the bus someone",
+      "right": "throw someone under the bus",
+      "note": "Дополнение ставится после throw: throw someone under the bus."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек переложил вину на коллегу, чтобы спасти себя?",
+      "options": [
+        "throw someone under the bus",
+        "leave someone in the lurch",
+        "keep someone at arm's length",
+        "rub someone up the wrong way"
+      ],
+      "correct_index": 0,
+      "explanation": "«throw someone under the bus» означает: предать или подставить кого-либо ради собственной выгоды. To harm or blame another person in order to protect or benefit yourself."
+    }
+  },
+  {
+    "id": "idiom_adv_34",
+    "order": 34,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "leave someone in the lurch",
+    "translation": "бросить кого-либо в трудной ситуации",
+    "explanation": "To abandon someone when they need help or support.",
+    "register": "informal",
+    "literal_image": "оставить человека в беспомощном положении",
+    "patterns": [
+      "leave someone in the lurch",
+      "be left in the lurch"
+    ],
+    "related": [
+      "abandon",
+      "let someone down badly"
+    ],
+    "examples": [
+      {
+        "en": "The supplier withdrew at the last minute and left us in the lurch.",
+        "ru": "Поставщик отказался в последний момент и оставил нас в трудном положении."
+      },
+      {
+        "en": "She felt that her closest friends had left her in the lurch.",
+        "ru": "Ей казалось, что ближайшие друзья бросили её в беде."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "leave someone in lurch",
+      "right": "leave someone in the lurch",
+      "note": "Нужен артикль the: in the lurch."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «бросить человека без помощи в самый трудный момент»?",
+      "options": [
+        "keep someone at arm's length",
+        "leave someone in the lurch",
+        "rub someone up the wrong way",
+        "be joined at the hip"
+      ],
+      "correct_index": 1,
+      "explanation": "«leave someone in the lurch» означает: бросить кого-либо в трудной ситуации. To abandon someone when they need help or support."
+    }
+  },
+  {
+    "id": "idiom_adv_35",
+    "order": 35,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "keep someone at arm's length",
+    "translation": "держать кого-либо на расстоянии и не допускать близости",
+    "explanation": "To avoid becoming emotionally close to someone or becoming too involved.",
+    "register": "neutral",
+    "literal_image": "держать человека на расстоянии вытянутой руки",
+    "patterns": [
+      "keep someone at arm's length",
+      "hold someone at arm's length"
+    ],
+    "related": [
+      "remain distant",
+      "avoid intimacy"
+    ],
+    "examples": [
+      {
+        "en": "She remained polite but kept her new colleagues at arm’s length.",
+        "ru": "Она оставалась вежливой, но не подпускала новых коллег близко."
+      },
+      {
+        "en": "The organisation keeps commercial sponsors at arm’s length from editorial decisions.",
+        "ru": "Организация не допускает коммерческих спонсоров к редакционным решениям."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep someone at an arm's length",
+      "right": "keep someone at arm's length",
+      "note": "Фиксированная форма обычно без an: at arm’s length."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек сознательно не допускает эмоциональной близости?",
+      "options": [
+        "rub someone up the wrong way",
+        "be joined at the hip",
+        "keep someone at arm's length",
+        "get on like a house on fire"
+      ],
+      "correct_index": 2,
+      "explanation": "«keep someone at arm's length» означает: держать кого-либо на расстоянии и не допускать близости. To avoid becoming emotionally close to someone or becoming too involved."
+    }
+  },
+  {
+    "id": "idiom_adv_36",
+    "order": 36,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "rub someone up the wrong way",
+    "translation": "раздражать кого-либо своей манерой поведения",
+    "explanation": "To annoy someone, often unintentionally, because of your manner or attitude.",
+    "register": "informal; mainly UK, US often rub someone the wrong way",
+    "literal_image": "погладить поверхность против шерсти",
+    "patterns": [
+      "rub someone up the wrong way",
+      "rub someone the wrong way (US)"
+    ],
+    "related": [
+      "irritate",
+      "annoy unintentionally"
+    ],
+    "examples": [
+      {
+        "en": "His confident manner rubbed several committee members up the wrong way.",
+        "ru": "Его самоуверенная манера раздражала нескольких членов комиссии."
+      },
+      {
+        "en": "I did not mean to rub you up the wrong way with that comment.",
+        "ru": "Я не хотел раздражать тебя этим замечанием."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "rub up someone the wrong way",
+      "right": "rub someone up the wrong way",
+      "note": "В британской модели дополнение ставится после rub; в американской часто опускается up."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что чья-то манера невольно раздражает окружающих?",
+      "options": [
+        "be joined at the hip",
+        "get on like a house on fire",
+        "through thick and thin",
+        "rub someone up the wrong way"
+      ],
+      "correct_index": 3,
+      "explanation": "«rub someone up the wrong way» означает: раздражать кого-либо своей манерой поведения. To annoy someone, often unintentionally, because of your manner or attitude."
+    }
+  },
+  {
+    "id": "idiom_adv_37",
+    "order": 37,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "be joined at the hip",
+    "translation": "быть неразлучными",
+    "explanation": "To spend nearly all your time together and have a very close relationship.",
+    "register": "informal; often humorous",
+    "literal_image": "быть соединёнными в области бедра",
+    "patterns": [
+      "be joined at the hip",
+      "seem joined at the hip"
+    ],
+    "related": [
+      "be inseparable",
+      "always be together"
+    ],
+    "examples": [
+      {
+        "en": "The two researchers were joined at the hip throughout the conference.",
+        "ru": "Два исследователя были неразлучны на протяжении всей конференции."
+      },
+      {
+        "en": "Since starting the business, the sisters have seemed joined at the hip.",
+        "ru": "С тех пор как сёстры начали бизнес, они почти не расстаются."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be joined by the hip",
+      "right": "be joined at the hip",
+      "note": "Фиксированный предлог — at: joined at the hip."
+    },
+    "quiz": {
+      "prompt": "Какое выражение в шутливой форме описывает двух практически неразлучных людей?",
+      "options": [
+        "be joined at the hip",
+        "get on like a house on fire",
+        "through thick and thin",
+        "be on speaking terms"
+      ],
+      "correct_index": 0,
+      "explanation": "«be joined at the hip» означает: быть неразлучными. To spend nearly all your time together and have a very close relationship."
+    }
+  },
+  {
+    "id": "idiom_adv_38",
+    "order": 38,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on like a house on fire",
+    "translation": "сразу прекрасно поладить",
+    "explanation": "To like each other very much and become friendly extremely quickly.",
+    "register": "informal; mainly UK, US often get along like a house on fire",
+    "literal_image": "поладить так стремительно, как распространяется огонь по дому",
+    "patterns": [
+      "get on like a house on fire",
+      "get along like a house on fire (US)"
+    ],
+    "related": [
+      "become friends immediately",
+      "get along extremely well"
+    ],
+    "examples": [
+      {
+        "en": "I introduced them at lunch, and they got on like a house on fire.",
+        "ru": "Я познакомил их за обедом, и они сразу прекрасно поладили."
+      },
+      {
+        "en": "The two new team members are getting on like a house on fire.",
+        "ru": "Два новых сотрудника моментально нашли общий язык."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get on like house on fire",
+      "right": "get on like a house on fire",
+      "note": "Нужен артикль a: like a house on fire."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что два человека сразу очень понравились друг другу?",
+      "options": [
+        "through thick and thin",
+        "get on like a house on fire",
+        "be on speaking terms",
+        "throw someone under the bus"
+      ],
+      "correct_index": 1,
+      "explanation": "«get on like a house on fire» означает: сразу прекрасно поладить. To like each other very much and become friendly extremely quickly."
+    }
+  },
+  {
+    "id": "idiom_adv_39",
+    "order": 39,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "through thick and thin",
+    "translation": "и в хорошие, и в плохие времена",
+    "explanation": "Despite every difficulty and under all circumstances.",
+    "register": "neutral",
+    "literal_image": "пройти вместе через густое и жидкое",
+    "patterns": [
+      "stand by someone through thick and thin",
+      "stay together through thick and thin"
+    ],
+    "related": [
+      "in all circumstances",
+      "in good times and bad"
+    ],
+    "examples": [
+      {
+        "en": "They supported each other through thick and thin for more than thirty years.",
+        "ru": "Они поддерживали друг друга и в хорошие, и в плохие времена более тридцати лет."
+      },
+      {
+        "en": "A reliable partner stays with you through thick and thin.",
+        "ru": "Надёжный партнёр остаётся рядом при любых обстоятельствах."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "through the thick and the thin",
+      "right": "through thick and thin",
+      "note": "Фиксированная форма употребляется без артиклей: through thick and thin."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек остаётся рядом независимо от трудностей?",
+      "options": [
+        "be on speaking terms",
+        "throw someone under the bus",
+        "through thick and thin",
+        "leave someone in the lurch"
+      ],
+      "correct_index": 2,
+      "explanation": "«through thick and thin» означает: и в хорошие, и в плохие времена. Despite every difficulty and under all circumstances."
+    }
+  },
+  {
+    "id": "idiom_adv_40",
+    "order": 40,
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "be on speaking terms",
+    "translation": "поддерживать хотя бы минимальное общение",
+    "explanation": "To be willing to speak to someone, especially after a disagreement.",
+    "register": "neutral",
+    "literal_image": "находиться в таких отношениях, при которых люди всё ещё разговаривают",
+    "patterns": [
+      "be on speaking terms with someone",
+      "not be on speaking terms"
+    ],
+    "related": [
+      "still communicate",
+      "be willing to talk"
+    ],
+    "examples": [
+      {
+        "en": "After the dispute, the neighbours were barely on speaking terms.",
+        "ru": "После спора соседи едва разговаривали друг с другом."
+      },
+      {
+        "en": "Are you still on speaking terms with your former business partner?",
+        "ru": "Ты всё ещё общаешься со своим бывшим деловым партнёром?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be in speaking terms",
+      "right": "be on speaking terms",
+      "note": "Нормативный предлог — on; terms употребляется во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что после конфликта люди всё же готовы разговаривать?",
+      "options": [
+        "throw someone under the bus",
+        "leave someone in the lurch",
+        "keep someone at arm's length",
+        "be on speaking terms"
+      ],
+      "correct_index": 3,
+      "explanation": "«be on speaking terms» означает: поддерживать хотя бы минимальное общение. To be willing to speak to someone, especially after a disagreement."
+    }
+  },
+  {
+    "id": "idiom_adv_41",
+    "order": 41,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "have deep pockets",
+    "translation": "располагать большими финансовыми ресурсами",
+    "explanation": "To have a great deal of money available, especially for investment or legal costs.",
+    "register": "informal; common in business",
+    "literal_image": "иметь очень глубокие карманы",
+    "patterns": [
+      "have deep pockets",
+      "a backer with deep pockets"
+    ],
+    "related": [
+      "be wealthy",
+      "have substantial funds"
+    ],
+    "examples": [
+      {
+        "en": "Only investors with deep pockets could sustain losses for that long.",
+        "ru": "Только инвесторы с большими финансовыми ресурсами могли так долго терпеть убытки."
+      },
+      {
+        "en": "The campaign is supported by an organisation with deep pockets.",
+        "ru": "Кампанию поддерживает организация с серьёзными финансовыми возможностями."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "have a deep pocket",
+      "right": "have deep pockets",
+      "note": "Обычно pockets употребляется во множественном числе без артикля."
+    },
+    "quiz": {
+      "prompt": "Как описать человека или организацию, способных долго финансировать дорогостоящий проект?",
+      "options": [
+        "have deep pockets",
+        "foot the bill",
+        "pay through the nose",
+        "the lion's share"
+      ],
+      "correct_index": 0,
+      "explanation": "«have deep pockets» означает: располагать большими финансовыми ресурсами. To have a great deal of money available, especially for investment or legal costs."
+    }
+  },
+  {
+    "id": "idiom_adv_42",
+    "order": 42,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "foot the bill",
+    "translation": "оплатить счёт или расходы",
+    "explanation": "To pay for something, especially something expensive or unexpected.",
+    "register": "informal",
+    "literal_image": "поставить подпись или отметку у нижней части счёта",
+    "patterns": [
+      "foot the bill",
+      "foot the bill for something"
+    ],
+    "related": [
+      "pay the cost",
+      "cover the expense"
+    ],
+    "examples": [
+      {
+        "en": "The university agreed to foot the bill for the additional laboratory tests.",
+        "ru": "Университет согласился оплатить дополнительные лабораторные анализы."
+      },
+      {
+        "en": "Taxpayers should not have to foot the bill for private mistakes.",
+        "ru": "Налогоплательщики не должны оплачивать частные ошибки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "foot a bill",
+      "right": "foot the bill",
+      "note": "Обычно используется определённый артикль: foot the bill."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «взять на себя оплату расходов»?",
+      "options": [
+        "pay through the nose",
+        "foot the bill",
+        "the lion's share",
+        "call the shots"
+      ],
+      "correct_index": 1,
+      "explanation": "«foot the bill» означает: оплатить счёт или расходы. To pay for something, especially something expensive or unexpected."
+    }
+  },
+  {
+    "id": "idiom_adv_43",
+    "order": 43,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "pay through the nose",
+    "translation": "заплатить непомерно высокую цену",
+    "explanation": "To pay much more than something is reasonably worth.",
+    "register": "informal",
+    "literal_image": "заплатить, словно деньги проходят через нос",
+    "patterns": [
+      "pay through the nose for something",
+      "have to pay through the nose"
+    ],
+    "related": [
+      "pay an excessive price",
+      "be overcharged"
+    ],
+    "examples": [
+      {
+        "en": "We paid through the nose for a last-minute hotel room.",
+        "ru": "Мы заплатили непомерно много за номер, забронированный в последний момент."
+      },
+      {
+        "en": "Small firms often pay through the nose for short-term credit.",
+        "ru": "Небольшие компании часто переплачивают за краткосрочные кредиты."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pay from the nose",
+      "right": "pay through the nose",
+      "note": "Фиксированный предлог — through: pay through the nose."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что цена оказалась намного выше разумной?",
+      "options": [
+        "the lion's share",
+        "call the shots",
+        "pay through the nose",
+        "pull strings"
+      ],
+      "correct_index": 2,
+      "explanation": "«pay through the nose» означает: заплатить непомерно высокую цену. To pay much more than something is reasonably worth."
+    }
+  },
+  {
+    "id": "idiom_adv_44",
+    "order": 44,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "the lion's share",
+    "translation": "львиная доля; самая большая часть",
+    "explanation": "The largest part of an amount, resource, or responsibility.",
+    "register": "neutral",
+    "literal_image": "доля, которую забирает лев",
+    "patterns": [
+      "the lion’s share of something",
+      "receive the lion’s share"
+    ],
+    "related": [
+      "the largest portion",
+      "most of"
+    ],
+    "examples": [
+      {
+        "en": "Housing takes the lion’s share of many families’ income.",
+        "ru": "Жильё поглощает львиную долю дохода многих семей."
+      },
+      {
+        "en": "The senior partner received the lion’s share of the profits.",
+        "ru": "Старший партнёр получил львиную долю прибыли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "a lions share",
+      "right": "the lion's share",
+      "note": "Нужны определённый артикль и притяжательная форма: the lion’s share."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «самая большая часть денег или ресурсов»?",
+      "options": [
+        "call the shots",
+        "pull strings",
+        "hold all the cards",
+        "the lion's share"
+      ],
+      "correct_index": 3,
+      "explanation": "«the lion's share» означает: львиная доля; самая большая часть. The largest part of an amount, resource, or responsibility."
+    }
+  },
+  {
+    "id": "idiom_adv_45",
+    "order": 45,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "call the shots",
+    "translation": "принимать основные решения и контролировать ситуацию",
+    "explanation": "To be the person who has authority and makes the important decisions.",
+    "register": "informal",
+    "literal_image": "отдавать команды о выстрелах или игровых действиях",
+    "patterns": [
+      "call the shots",
+      "be the one calling the shots"
+    ],
+    "related": [
+      "be in control",
+      "make the decisions"
+    ],
+    "examples": [
+      {
+        "en": "The investors provide the money, but the founders still call the shots.",
+        "ru": "Инвесторы дают деньги, но ключевые решения по-прежнему принимают основатели."
+      },
+      {
+        "en": "It became clear that the parent company was calling the shots.",
+        "ru": "Стало ясно, что ситуацией управляла головная компания."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "call a shot",
+      "right": "call the shots",
+      "note": "В идиоме используется определённый артикль и множественное число: the shots."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что именно этот человек принимает ключевые решения?",
+      "options": [
+        "call the shots",
+        "pull strings",
+        "hold all the cards",
+        "line your pockets"
+      ],
+      "correct_index": 0,
+      "explanation": "«call the shots» означает: принимать основные решения и контролировать ситуацию. To be the person who has authority and makes the important decisions."
+    }
+  },
+  {
+    "id": "idiom_adv_46",
+    "order": 46,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "pull strings",
+    "translation": "использовать связи для получения преимущества",
+    "explanation": "To use personal influence or powerful contacts to make something happen.",
+    "register": "informal; sometimes disapproving",
+    "literal_image": "тянуть за нити, управляющие марионеткой",
+    "patterns": [
+      "pull strings",
+      "pull a few strings for someone"
+    ],
+    "related": [
+      "use influence",
+      "use connections"
+    ],
+    "examples": [
+      {
+        "en": "She pulled a few strings and secured an appointment within a week.",
+        "ru": "Она использовала связи и добилась встречи в течение недели."
+      },
+      {
+        "en": "We should not need to pull strings to obtain a routine permit.",
+        "ru": "Нам не должно требоваться использовать связи для получения обычного разрешения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pull the string",
+      "right": "pull strings",
+      "note": "Обычно употребляется множественное число; возможна форма pull a few strings."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «задействовать влиятельные знакомства ради результата»?",
+      "options": [
+        "hold all the cards",
+        "pull strings",
+        "line your pockets",
+        "have deep pockets"
+      ],
+      "correct_index": 1,
+      "explanation": "«pull strings» означает: использовать связи для получения преимущества. To use personal influence or powerful contacts to make something happen."
+    }
+  },
+  {
+    "id": "idiom_adv_47",
+    "order": 47,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "hold all the cards",
+    "translation": "иметь решающее преимущество и контроль",
+    "explanation": "To possess all the advantages or information needed to control an outcome.",
+    "register": "informal",
+    "literal_image": "держать на руках все выигрышные карты",
+    "patterns": [
+      "hold all the cards",
+      "seem to hold all the cards"
+    ],
+    "related": [
+      "have the advantage",
+      "control the outcome"
+    ],
+    "examples": [
+      {
+        "en": "Because the patent was still valid, the manufacturer held all the cards.",
+        "ru": "Поскольку патент ещё действовал, производитель обладал решающим преимуществом."
+      },
+      {
+        "en": "At this stage of the negotiations, the landlord appears to hold all the cards.",
+        "ru": "На этом этапе переговоров все преимущества, похоже, у арендодателя."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hold every cards",
+      "right": "hold all the cards",
+      "note": "Нормативная форма: all the cards; после all существительное во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что одна сторона обладает всеми преимуществами на переговорах?",
+      "options": [
+        "line your pockets",
+        "have deep pockets",
+        "hold all the cards",
+        "foot the bill"
+      ],
+      "correct_index": 2,
+      "explanation": "«hold all the cards» означает: иметь решающее преимущество и контроль. To possess all the advantages or information needed to control an outcome."
+    }
+  },
+  {
+    "id": "idiom_adv_48",
+    "order": 48,
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "line your pockets",
+    "translation": "нечестно обогащаться",
+    "explanation": "To make money for yourself dishonestly or at other people’s expense.",
+    "register": "informal; strongly disapproving",
+    "literal_image": "выстелить внутреннюю часть своих карманов деньгами",
+    "patterns": [
+      "line your pockets",
+      "line one’s own pockets"
+    ],
+    "related": [
+      "enrich yourself dishonestly",
+      "profit corruptly"
+    ],
+    "examples": [
+      {
+        "en": "The officials were accused of lining their pockets through inflated contracts.",
+        "ru": "Чиновников обвинили в незаконном обогащении через завышенные контракты."
+      },
+      {
+        "en": "The charity was not created to line anyone’s pockets.",
+        "ru": "Благотворительная организация создавалась не для чьего-либо личного обогащения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "line your pocket",
+      "right": "line your pockets",
+      "note": "Pockets обычно употребляется во множественном числе; выражение имеет резко неодобрительный оттенок."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «нечестно обогащаться за чужой счёт»?",
+      "options": [
+        "have deep pockets",
+        "foot the bill",
+        "pay through the nose",
+        "line your pockets"
+      ],
+      "correct_index": 3,
+      "explanation": "«line your pockets» означает: нечестно обогащаться. To make money for yourself dishonestly or at other people’s expense."
+    }
+  },
+  {
+    "id": "idiom_adv_49",
+    "order": 49,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "open a can of worms",
+    "translation": "создать множество новых сложных проблем",
+    "explanation": "To begin dealing with an issue that is likely to produce many additional difficulties.",
+    "register": "informal",
+    "literal_image": "открыть банку, из которой выползает множество червей",
+    "patterns": [
+      "open a can of worms",
+      "a whole new can of worms"
+    ],
+    "related": [
+      "create complications",
+      "raise difficult issues"
+    ],
+    "examples": [
+      {
+        "en": "Changing the ownership rules could open a can of worms.",
+        "ru": "Изменение правил собственности может породить множество новых проблем."
+      },
+      {
+        "en": "The seemingly simple question opened a whole new can of worms.",
+        "ru": "На первый взгляд простой вопрос породил целый клубок новых сложностей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "open the can of worm",
+      "right": "open a can of worms",
+      "note": "Обычно используется a can of worms; worms — во множественном числе."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что попытка решить один вопрос может породить множество новых проблем?",
+      "options": [
+        "open a can of worms",
+        "be between a rock and a hard place",
+        "play devil's advocate",
+        "draw the line"
+      ],
+      "correct_index": 0,
+      "explanation": "«open a can of worms» означает: создать множество новых сложных проблем. To begin dealing with an issue that is likely to produce many additional difficulties."
+    }
+  },
+  {
+    "id": "idiom_adv_50",
+    "order": 50,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be between a rock and a hard place",
+    "translation": "оказаться между двумя одинаково плохими вариантами",
+    "explanation": "To face a choice between two difficult or unpleasant alternatives.",
+    "register": "informal",
+    "literal_image": "оказаться зажатым между камнем и твёрдым местом",
+    "patterns": [
+      "be caught between a rock and a hard place",
+      "find yourself between a rock and a hard place"
+    ],
+    "related": [
+      "face a dilemma",
+      "have no good option"
+    ],
+    "examples": [
+      {
+        "en": "The council was between a rock and a hard place: raise taxes or cut essential services.",
+        "ru": "Совет оказался между двух огней: повысить налоги или сократить жизненно важные услуги."
+      },
+      {
+        "en": "She found herself between a rock and a hard place after both teams rejected the compromise.",
+        "ru": "Она оказалась в безвыходном положении, когда обе команды отвергли компромисс."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "be among a rock and a hard place",
+      "right": "be between a rock and a hard place",
+      "note": "Для двух альтернатив используется between, а не among."
+    },
+    "quiz": {
+      "prompt": "Какое выражение описывает выбор между двумя одинаково неприятными вариантами?",
+      "options": [
+        "play devil's advocate",
+        "be between a rock and a hard place",
+        "draw the line",
+        "leave no stone unturned"
+      ],
+      "correct_index": 1,
+      "explanation": "«be between a rock and a hard place» означает: оказаться между двумя одинаково плохими вариантами. To face a choice between two difficult or unpleasant alternatives."
+    }
+  },
+  {
+    "id": "idiom_adv_51",
+    "order": 51,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "play devil's advocate",
+    "translation": "намеренно отстаивать противоположную позицию ради проверки аргументов",
+    "explanation": "To argue for an opposing view in order to test an idea or stimulate discussion.",
+    "register": "neutral to informal",
+    "literal_image": "выступить защитником позиции дьявола",
+    "patterns": [
+      "play devil's advocate",
+      "play devil’s advocate for a moment"
+    ],
+    "related": [
+      "argue the opposite case",
+      "challenge an assumption"
+    ],
+    "examples": [
+      {
+        "en": "Let me play devil’s advocate: what happens if demand falls by half?",
+        "ru": "Позвольте мне выступить оппонентом: что произойдёт, если спрос упадёт вдвое?"
+      },
+      {
+        "en": "She was not rejecting the plan; she was simply playing devil’s advocate.",
+        "ru": "Она не отвергала план, а лишь намеренно проверяла аргументы противоположной позицией."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "play devils advocate",
+      "right": "play devil's advocate",
+      "note": "Нужна притяжательная форма devil’s с апострофом; вариант with the тоже встречается, но форма без артикля очень распространена."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек специально защищает противоположную точку зрения, чтобы проверить идею?",
+      "options": [
+        "draw the line",
+        "leave no stone unturned",
+        "play devil's advocate",
+        "sweep something under the carpet"
+      ],
+      "correct_index": 2,
+      "explanation": "«play devil's advocate» означает: намеренно отстаивать противоположную позицию ради проверки аргументов. To argue for an opposing view in order to test an idea or stimulate discussion."
+    }
+  },
+  {
+    "id": "idiom_adv_52",
+    "order": 52,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "draw the line",
+    "translation": "установить предел допустимого",
+    "explanation": "To decide the point beyond which you will not go or which behaviour you will not accept.",
+    "register": "neutral",
+    "literal_image": "провести чёткую границу",
+    "patterns": [
+      "draw the line at something",
+      "draw a clear line between things"
+    ],
+    "related": [
+      "set a limit",
+      "refuse to go further"
+    ],
+    "examples": [
+      {
+        "en": "I am willing to revise the schedule, but I draw the line at cancelling the safety checks.",
+        "ru": "Я готов пересмотреть график, но отмену проверок безопасности считаю недопустимой."
+      },
+      {
+        "en": "The policy must draw a clear line between criticism and harassment.",
+        "ru": "Политика должна провести чёткую границу между критикой и травлей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make the line at something",
+      "right": "draw the line at something",
+      "note": "Нормативный глагол — draw; при указании предела часто используется at."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что человек устанавливает границу, за которую не готов переходить?",
+      "options": [
+        "leave no stone unturned",
+        "sweep something under the carpet",
+        "put the cart before the horse",
+        "draw the line"
+      ],
+      "correct_index": 3,
+      "explanation": "«draw the line» означает: установить предел допустимого. To decide the point beyond which you will not go or which behaviour you will not accept."
+    }
+  },
+  {
+    "id": "idiom_adv_53",
+    "order": 53,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "leave no stone unturned",
+    "translation": "использовать все возможные способы",
+    "explanation": "To try every possible method in order to find something or achieve a result.",
+    "register": "neutral",
+    "literal_image": "перевернуть каждый камень в поисках ответа",
+    "patterns": [
+      "leave no stone unturned",
+      "leave no stone unturned in the search for something"
+    ],
+    "related": [
+      "try every possibility",
+      "search thoroughly"
+    ],
+    "examples": [
+      {
+        "en": "Investigators promised to leave no stone unturned in the search for the missing records.",
+        "ru": "Следователи пообещали использовать все возможные способы для поиска пропавших записей."
+      },
+      {
+        "en": "We will leave no stone unturned to identify the source of the error.",
+        "ru": "Мы проверим все возможные варианты, чтобы найти источник ошибки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "leave no stones unturned",
+      "right": "leave no stone unturned",
+      "note": "Фиксированная форма: no stone в единственном числе и unturned как причастие."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает «проверить каждую возможность и не упустить ни одного способа»?",
+      "options": [
+        "leave no stone unturned",
+        "sweep something under the carpet",
+        "put the cart before the horse",
+        "a double-edged sword"
+      ],
+      "correct_index": 0,
+      "explanation": "«leave no stone unturned» означает: использовать все возможные способы. To try every possible method in order to find something or achieve a result."
+    }
+  },
+  {
+    "id": "idiom_adv_54",
+    "order": 54,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "sweep something under the carpet",
+    "translation": "скрыть проблему вместо её решения",
+    "explanation": "To hide or ignore an embarrassing problem rather than deal with it.",
+    "register": "informal; disapproving; US also under the rug",
+    "literal_image": "замести мусор под ковёр",
+    "patterns": [
+      "sweep a problem under the carpet",
+      "be swept under the carpet"
+    ],
+    "related": [
+      "conceal a problem",
+      "avoid dealing with an issue"
+    ],
+    "examples": [
+      {
+        "en": "The complaints were repeatedly swept under the carpet.",
+        "ru": "Жалобы неоднократно замалчивались."
+      },
+      {
+        "en": "We cannot sweep the funding gap under the carpet any longer.",
+        "ru": "Мы больше не можем скрывать проблему нехватки финансирования."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "sweep something below the carpet",
+      "right": "sweep something under the carpet",
+      "note": "Нормативный предлог — under; в американском английском часто используется rug."
+    },
+    "quiz": {
+      "prompt": "Как сказать, что руководство скрывает неприятную проблему вместо её решения?",
+      "options": [
+        "put the cart before the horse",
+        "sweep something under the carpet",
+        "a double-edged sword",
+        "open a can of worms"
+      ],
+      "correct_index": 1,
+      "explanation": "«sweep something under the carpet» означает: скрыть проблему вместо её решения. To hide or ignore an embarrassing problem rather than deal with it."
+    }
+  },
+  {
+    "id": "idiom_adv_55",
+    "order": 55,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "put the cart before the horse",
+    "translation": "делать всё в неправильном порядке",
+    "explanation": "To do things in the wrong sequence by dealing with a later stage before an earlier necessary one.",
+    "register": "neutral",
+    "literal_image": "поставить телегу впереди лошади",
+    "patterns": [
+      "put the cart before the horse",
+      "be putting the cart before the horse"
+    ],
+    "related": [
+      "reverse the logical order",
+      "act prematurely"
+    ],
+    "examples": [
+      {
+        "en": "Choosing the software before defining the requirements is putting the cart before the horse.",
+        "ru": "Выбирать программное обеспечение до определения требований — значит начинать не с того конца."
+      },
+      {
+        "en": "We would be putting the cart before the horse if we announced a date before securing the venue.",
+        "ru": "Мы нарушим логический порядок, если объявим дату до подтверждения площадки."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put a cart before a horse",
+      "right": "put the cart before the horse",
+      "note": "В фиксированной форме используются определённые артикли: the cart, the horse."
+    },
+    "quiz": {
+      "prompt": "Какое выражение означает, что этапы выполняются в нелогичном порядке?",
+      "options": [
+        "a double-edged sword",
+        "open a can of worms",
+        "put the cart before the horse",
+        "be between a rock and a hard place"
+      ],
+      "correct_index": 2,
+      "explanation": "«put the cart before the horse» означает: делать всё в неправильном порядке. To do things in the wrong sequence by dealing with a later stage before an earlier necessary one."
+    }
+  },
+  {
+    "id": "idiom_adv_56",
+    "order": 56,
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "a double-edged sword",
+    "translation": "нечто одновременно полезное и вредное",
+    "explanation": "Something that has both advantages and serious disadvantages.",
+    "register": "neutral",
+    "literal_image": "меч с двумя острыми лезвиями",
+    "patterns": [
+      "be a double-edged sword",
+      "prove to be a double-edged sword"
+    ],
+    "related": [
+      "have benefits and drawbacks",
+      "cut both ways"
+    ],
+    "examples": [
+      {
+        "en": "Remote work can be a double-edged sword: it offers freedom but may increase isolation.",
+        "ru": "Удалённая работа может быть палкой о двух концах: она даёт свободу, но усиливает изоляцию."
+      },
+      {
+        "en": "Public attention proved to be a double-edged sword for the small organisation.",
+        "ru": "Общественное внимание оказалось для небольшой организации палкой о двух концах."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "a double edge sword",
+      "right": "a double-edged sword",
+      "note": "Перед существительным нужен составной прилагательный с дефисом: double-edged."
+    },
+    "quiz": {
+      "prompt": "Как назвать явление, которое одновременно даёт преимущества и создаёт серьёзные проблемы?",
+      "options": [
+        "open a can of worms",
+        "be between a rock and a hard place",
+        "play devil's advocate",
+        "a double-edged sword"
+      ],
+      "correct_index": 3,
+      "explanation": "«a double-edged sword» означает: нечто одновременно полезное и вредное. Something that has both advantages and serious disadvantages."
+    }
+  }
+]

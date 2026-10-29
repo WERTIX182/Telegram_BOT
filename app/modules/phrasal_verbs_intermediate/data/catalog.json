@@ -1,0 +1,15 @@
+{
+  "course_id": "phrasal_verbs_intermediate_v1",
+  "level": "Intermediate",
+  "categories": {
+    "DAILY": 8,
+    "WORK_STUDY": 8,
+    "TRAVEL": 8,
+    "COMMUNICATION": 8,
+    "EMOTIONS_RELATIONSHIPS": 8,
+    "MOVEMENT": 8,
+    "PROBLEMS_SOLUTIONS": 8
+  },
+  "total_cards": 56,
+  "quizzes_per_card": 1
+}

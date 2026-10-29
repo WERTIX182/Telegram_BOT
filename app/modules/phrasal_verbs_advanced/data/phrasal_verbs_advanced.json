@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "pv_adv_001_do_away_with",
+    "order": 1,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "do away with",
+    "translation": "отменить; устранить; покончить с чем-либо",
+    "explanation": "Устранить правило, систему или практику, которые считаются ненужными; иногда — полностью избавиться от чего-либо.",
+    "patterns": [
+      "do away with a rule/system",
+      "do away with unnecessary paperwork",
+      "be done away with"
+    ],
+    "related": [
+      "abolish — официально отменить",
+      "eliminate — устранить"
+    ],
+    "examples": [
+      {
+        "en": "The company did away with several unnecessary approval stages.",
+        "ru": "Компания отказалась от нескольких ненужных этапов согласования."
+      },
+      {
+        "en": "Many people want to do away with the outdated regulation.",
+        "ru": "Многие хотят отменить устаревшее правило."
+      },
+      {
+        "en": "The old filing system was done away with last year.",
+        "ru": "Старую систему хранения документов упразднили в прошлом году."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do away the rule",
+      "right": "do away with the rule",
+      "note": "После do away обязательно употребляется with; в пассиве сохраняется вся конструкция: be done away with."
+    },
+    "quiz": {
+      "prompt": "The reform aims to ___ unnecessary bureaucracy.",
+      "options": [
+        "do away with",
+        "fall back on",
+        "live off",
+        "brush aside"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: do away with. Устранить правило, систему или практику, которые считаются ненужными; иногда — полностью избавиться от чего-либо. После do away обязательно употребляется with; в пассиве сохраняется вся конструкция: be done away with."
+    }
+  },
+  {
+    "id": "pv_adv_002_make_do_with",
+    "order": 2,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "make do with",
+    "translation": "обходиться тем, что есть",
+    "explanation": "Использовать неидеальный или ограниченный ресурс, потому что лучшего варианта сейчас нет.",
+    "patterns": [
+      "make do with what is available",
+      "make do with less",
+      "have to make do with"
+    ],
+    "related": [
+      "manage with — справляться с помощью",
+      "get by with — обходиться"
+    ],
+    "examples": [
+      {
+        "en": "We had to make do with a much smaller kitchen.",
+        "ru": "Нам пришлось обходиться гораздо меньшей кухней."
+      },
+      {
+        "en": "There was no fresh milk, so I made do with powdered milk.",
+        "ru": "Свежего молока не было, поэтому я обошёлся сухим."
+      },
+      {
+        "en": "For the time being, the team will make do with its existing equipment.",
+        "ru": "Пока команда будет обходиться имеющимся оборудованием."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make do from limited resources",
+      "right": "make do with limited resources",
+      "note": "Устойчивое сочетание требует with; форма do не изменяется отдельно от make: made do, not made did."
+    },
+    "quiz": {
+      "prompt": "Until the new computers arrive, we will have to ___ the old ones.",
+      "options": [
+        "splash out on",
+        "make do with",
+        "do away with",
+        "stock up on"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: make do with. Использовать неидеальный или ограниченный ресурс, потому что лучшего варианта сейчас нет. Устойчивое сочетание требует with; форма do не изменяется отдельно от make: made do, not made did."
+    }
+  },
+  {
+    "id": "pv_adv_003_fall_back_on",
+    "order": 3,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "fall back on",
+    "translation": "прибегнуть к запасному варианту",
+    "explanation": "Использовать человека, навык или ресурс как резерв, когда основной план не сработал.",
+    "patterns": [
+      "fall back on savings",
+      "fall back on experience",
+      "have something to fall back on"
+    ],
+    "related": [
+      "resort to — прибегнуть к",
+      "rely on — полагаться на"
+    ],
+    "examples": [
+      {
+        "en": "If the negotiations fail, we can fall back on the original proposal.",
+        "ru": "Если переговоры провалятся, мы сможем вернуться к первоначальному предложению."
+      },
+      {
+        "en": "She has years of experience to fall back on.",
+        "ru": "У неё есть многолетний опыт, на который можно опереться."
+      },
+      {
+        "en": "Without savings to fall back on, the situation would have been far worse.",
+        "ru": "Без накоплений, к которым можно было прибегнуть, ситуация была бы намного хуже."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fall back to my savings",
+      "right": "fall back on my savings",
+      "note": "В значении резервного варианта используется on; fall back to обычно описывает возврат к состоянию или позиции."
+    },
+    "quiz": {
+      "prompt": "When the new system failed, the staff had to ___ the manual procedure.",
+      "options": [
+        "phase out",
+        "do away with",
+        "fall back on",
+        "stock up on"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: fall back on. Использовать человека, навык или ресурс как резерв, когда основной план не сработал. В значении резервного варианта используется on; fall back to обычно описывает возврат к состоянию или позиции."
+    }
+  },
+  {
+    "id": "pv_adv_004_cut_back_on",
+    "order": 4,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "cut back on",
+    "translation": "сократить потребление или расходы",
+    "explanation": "Намеренно уменьшить количество чего-либо, особенно расходов, еды, алкоголя или времени.",
+    "patterns": [
+      "cut back on spending",
+      "cut back on sugar",
+      "cut back significantly"
+    ],
+    "related": [
+      "reduce — сократить",
+      "scale back — уменьшить масштаб"
+    ],
+    "examples": [
+      {
+        "en": "We are trying to cut back on unnecessary subscriptions.",
+        "ru": "Мы стараемся сократить ненужные подписки."
+      },
+      {
+        "en": "Her doctor advised her to cut back on salt.",
+        "ru": "Врач посоветовал ей уменьшить потребление соли."
+      },
+      {
+        "en": "The household has cut back considerably on energy use.",
+        "ru": "Домохозяйство значительно сократило потребление энергии."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "cut back sugar",
+      "right": "cut back on sugar",
+      "note": "При указании того, что сокращают, обычно требуется on; cut back без дополнения возможно, если объект понятен из контекста."
+    },
+    "quiz": {
+      "prompt": "To save money, they decided to ___ eating out.",
+      "options": [
+        "stock up on",
+        "splash out on",
+        "live off",
+        "cut back on"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: cut back on. Намеренно уменьшить количество чего-либо, особенно расходов, еды, алкоголя или времени. При указании того, что сокращают, обычно требуется on; cut back без дополнения возможно, если объект понятен из контекста."
+    }
+  },
+  {
+    "id": "pv_adv_005_stock_up_on",
+    "order": 5,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "stock up on",
+    "translation": "запастись чем-либо",
+    "explanation": "Купить или собрать большой запас чего-либо в расчёте на будущую потребность.",
+    "patterns": [
+      "stock up on food",
+      "stock up before winter",
+      "be stocked up with supplies"
+    ],
+    "related": [
+      "store — хранить",
+      "lay in supplies — сделать запас"
+    ],
+    "examples": [
+      {
+        "en": "We stocked up on bottled water before the storm.",
+        "ru": "Мы запаслись бутилированной водой перед бурей."
+      },
+      {
+        "en": "She always stocks up on medicine before travelling.",
+        "ru": "Она всегда запасается лекарствами перед поездкой."
+      },
+      {
+        "en": "We stocked up well before the holidays.",
+        "ru": "Мы хорошо запаслись перед праздниками."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "stock up food",
+      "right": "stock up on food",
+      "note": "Перед объектом употребляется on; stock something up возможно редко и обычно не заменяет стандартную модель stock up on something."
+    },
+    "quiz": {
+      "prompt": "Residents were advised to ___ essential supplies before the roads closed.",
+      "options": [
+        "stock up on",
+        "cut back on",
+        "go without",
+        "live off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: stock up on. Купить или собрать большой запас чего-либо в расчёте на будущую потребность. Перед объектом употребляется on; stock something up возможно редко и обычно не заменяет стандартную модель stock up on something."
+    }
+  },
+  {
+    "id": "pv_adv_006_splash_out_on",
+    "order": 6,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "splash out on",
+    "translation": "потратиться на что-либо дорогое",
+    "explanation": "Потратить много денег на приятную, часто необязательную покупку или событие.",
+    "patterns": [
+      "splash out on a holiday",
+      "splash out for a special occasion",
+      "decide to splash out"
+    ],
+    "related": [
+      "treat oneself to — побаловать себя",
+      "spend lavishly on — щедро потратиться"
+    ],
+    "examples": [
+      {
+        "en": "They splashed out on a luxury weekend in Rome.",
+        "ru": "Они потратились на роскошные выходные в Риме."
+      },
+      {
+        "en": "I rarely buy designer clothes, but I splashed out for the wedding.",
+        "ru": "Я редко покупаю дизайнерскую одежду, но ради свадьбы решил потратиться."
+      },
+      {
+        "en": "The company has splashed out on a state-of-the-art studio.",
+        "ru": "Компания потратила крупную сумму на ультрасовременную студию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "splash out a new laptop",
+      "right": "splash out on a new laptop",
+      "note": "Перед покупкой требуется on; for чаще указывает повод или цель расходов."
+    },
+    "quiz": {
+      "prompt": "After receiving the bonus, she decided to ___ a high-quality camera.",
+      "options": [
+        "cut back on",
+        "splash out on",
+        "make do with",
+        "go without"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: splash out on. Потратить много денег на приятную, часто необязательную покупку или событие. Перед покупкой требуется on; for чаще указывает повод или цель расходов."
+    }
+  },
+  {
+    "id": "pv_adv_007_live_off",
+    "order": 7,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "live off",
+    "translation": "жить за счёт; питаться преимущественно чем-либо",
+    "explanation": "Получать средства к существованию от человека, дохода или накоплений; также питаться почти исключительно чем-либо.",
+    "patterns": [
+      "live off savings",
+      "live off one's parents",
+      "live off bread and cheese"
+    ],
+    "related": [
+      "depend on — зависеть от",
+      "subsist on — существовать на"
+    ],
+    "examples": [
+      {
+        "en": "He lived off his savings while setting up the business.",
+        "ru": "Он жил на свои сбережения, пока создавал бизнес."
+      },
+      {
+        "en": "The students seemed to live off coffee and sandwiches.",
+        "ru": "Казалось, студенты жили на одном кофе и бутербродах."
+      },
+      {
+        "en": "She refuses to live off her family indefinitely.",
+        "ru": "Она отказывается бесконечно жить за счёт семьи."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "live from my savings",
+      "right": "live off my savings",
+      "note": "Live off подчёркивает источник содержания; live on также возможно с суммой или видом пищи, но оттенок употребления отличается."
+    },
+    "quiz": {
+      "prompt": "During the first year, the artist had to ___ a very small inheritance.",
+      "options": [
+        "go without",
+        "fall back on",
+        "live off",
+        "stock up on"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: live off. Получать средства к существованию от человека, дохода или накоплений; также питаться почти исключительно чем-либо. Live off подчёркивает источник содержания; live on также возможно с суммой или видом пищи, но оттенок употребления отличается."
+    }
+  },
+  {
+    "id": "pv_adv_008_go_without",
+    "order": 8,
+    "level": "Advanced",
+    "category": "DAILY",
+    "phrase": "go without",
+    "translation": "обходиться без чего-либо",
+    "explanation": "Жить или продолжать действовать без нужной или желаемой вещи, часто из-за нехватки.",
+    "patterns": [
+      "go without food/sleep",
+      "have to go without",
+      "go without saying"
+    ],
+    "related": [
+      "do without — обходиться без",
+      "forgo — отказаться от"
+    ],
+    "examples": [
+      {
+        "en": "Some families had to go without heating for several days.",
+        "ru": "Некоторым семьям пришлось несколько дней обходиться без отопления."
+      },
+      {
+        "en": "I can go without dessert, but not without coffee.",
+        "ru": "Я могу обойтись без десерта, но не без кофе."
+      },
+      {
+        "en": "It goes without saying that safety comes first.",
+        "ru": "Само собой разумеется, что безопасность прежде всего."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "go without of sleep",
+      "right": "go without sleep",
+      "note": "После without сразу ставится существительное или -ing-форма; дополнительный of не нужен."
+    },
+    "quiz": {
+      "prompt": "Because of the power cut, the village had to ___ electricity overnight.",
+      "options": [
+        "live off",
+        "stock up on",
+        "splash out on",
+        "go without"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: go without. Жить или продолжать действовать без нужной или желаемой вещи, часто из-за нехватки. После without сразу ставится существительное или -ing-форма; дополнительный of не нужен."
+    }
+  },
+  {
+    "id": "pv_adv_009_draw_up",
+    "order": 9,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "draw up",
+    "translation": "составить официальный документ или план",
+    "explanation": "Подготовить подробный план, договор, список или иной формальный документ.",
+    "patterns": [
+      "draw up a contract",
+      "draw up a shortlist",
+      "have a document drawn up"
+    ],
+    "related": [
+      "draft — составить черновик",
+      "formulate — сформулировать"
+    ],
+    "examples": [
+      {
+        "en": "The lawyers drew up a revised agreement.",
+        "ru": "Юристы составили пересмотренное соглашение."
+      },
+      {
+        "en": "We need to draw up a realistic timetable.",
+        "ru": "Нам нужно составить реалистичный график."
+      },
+      {
+        "en": "A shortlist was drawn up after the interviews.",
+        "ru": "После собеседований был составлен краткий список кандидатов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "draw up it",
+      "right": "draw it up",
+      "note": "Разделяемый глагол: с местоимением объект ставится между draw и up."
+    },
+    "quiz": {
+      "prompt": "The committee will ___ a set of recommendations by Friday.",
+      "options": [
+        "draw up",
+        "phase out",
+        "step down",
+        "hand over"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: draw up. Подготовить подробный план, договор, список или иной формальный документ. Разделяемый глагол: с местоимением объект ставится между draw и up."
+    }
+  },
+  {
+    "id": "pv_adv_010_take_on",
+    "order": 10,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "take on",
+    "translation": "взять на себя; нанять; приобрести качество",
+    "explanation": "Принять ответственность или работу, нанять сотрудника либо начать проявлять определённый характер.",
+    "patterns": [
+      "take on responsibility/work",
+      "take somebody on",
+      "take on a new significance"
+    ],
+    "related": [
+      "undertake — взяться за",
+      "employ — нанять"
+    ],
+    "examples": [
+      {
+        "en": "She took on responsibility for the entire project.",
+        "ru": "Она взяла на себя ответственность за весь проект."
+      },
+      {
+        "en": "The firm is taking on twenty new graduates.",
+        "ru": "Компания нанимает двадцать новых выпускников."
+      },
+      {
+        "en": "The debate has taken on a more urgent tone.",
+        "ru": "Дискуссия приобрела более срочный характер."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take responsibility on",
+      "right": "take on responsibility",
+      "note": "Частица on входит в глагол и обычно стоит перед существительным; с местоимением возможно take it on."
+    },
+    "quiz": {
+      "prompt": "The department cannot ___ any more work this month.",
+      "options": [
+        "step down",
+        "take on",
+        "draw up",
+        "hand over"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: take on. Принять ответственность или работу, нанять сотрудника либо начать проявлять определённый характер. Частица on входит в глагол и обычно стоит перед существительным; с местоимением возможно take it on."
+    }
+  },
+  {
+    "id": "pv_adv_011_step_down",
+    "order": 11,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "step down",
+    "translation": "уйти с должности",
+    "explanation": "Добровольно оставить руководящую или официальную должность.",
+    "patterns": [
+      "step down as chair",
+      "step down from a position",
+      "be asked to step down"
+    ],
+    "related": [
+      "resign — уйти в отставку",
+      "stand down — отказаться от должности/участия"
+    ],
+    "examples": [
+      {
+        "en": "The chief executive will step down at the end of the year.",
+        "ru": "Генеральный директор уйдёт с должности в конце года."
+      },
+      {
+        "en": "She stepped down as chair after ten years.",
+        "ru": "Она покинула пост председателя после десяти лет работы."
+      },
+      {
+        "en": "He was under pressure to step down from the board.",
+        "ru": "На него оказывали давление, чтобы он вышел из совета директоров."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "step down of the position",
+      "right": "step down from the position",
+      "note": "Для указания должности употребляется as или from, а не of."
+    },
+    "quiz": {
+      "prompt": "After the investigation, the minister agreed to ___ from office.",
+      "options": [
+        "take on",
+        "phase in",
+        "step down",
+        "draw up"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: step down. Добровольно оставить руководящую или официальную должность. Для указания должности употребляется as или from, а не of."
+    }
+  },
+  {
+    "id": "pv_adv_012_phase_in",
+    "order": 12,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "phase in",
+    "translation": "вводить постепенно",
+    "explanation": "Запускать новую систему, правило или продукт поэтапно, а не одномоментно.",
+    "patterns": [
+      "phase in a policy",
+      "be phased in gradually",
+      "phase something in over time"
+    ],
+    "related": [
+      "introduce gradually — вводить постепенно",
+      "roll out — внедрять поэтапно"
+    ],
+    "examples": [
+      {
+        "en": "The new assessment system will be phased in over two years.",
+        "ru": "Новую систему оценивания будут вводить в течение двух лет."
+      },
+      {
+        "en": "The company is phasing in flexible working arrangements.",
+        "ru": "Компания постепенно вводит гибкий режим работы."
+      },
+      {
+        "en": "Officials decided to phase the changes in region by region.",
+        "ru": "Чиновники решили вводить изменения по регионам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "phase in it",
+      "right": "phase it in",
+      "note": "Это разделяемый глагол; местоимение ставится между phase и in."
+    },
+    "quiz": {
+      "prompt": "The university plans to ___ the revised curriculum from September.",
+      "options": [
+        "phase out",
+        "step down",
+        "hand over",
+        "phase in"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: phase in. Запускать новую систему, правило или продукт поэтапно, а не одномоментно. Это разделяемый глагол; местоимение ставится между phase и in."
+    }
+  },
+  {
+    "id": "pv_adv_013_phase_out",
+    "order": 13,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "phase out",
+    "translation": "постепенно выводить из употребления",
+    "explanation": "Поэтапно прекращать использование продукта, системы или практики.",
+    "patterns": [
+      "phase out a product",
+      "be phased out",
+      "phase something out by a deadline"
+    ],
+    "related": [
+      "discontinue gradually — постепенно прекращать",
+      "withdraw — выводить"
+    ],
+    "examples": [
+      {
+        "en": "The manufacturer is phasing out the older model.",
+        "ru": "Производитель постепенно снимает старую модель с производства."
+      },
+      {
+        "en": "Single-use plastics will be phased out by 2030.",
+        "ru": "Одноразовый пластик постепенно выведут из употребления к 2030 году."
+      },
+      {
+        "en": "They phased the outdated software out in stages.",
+        "ru": "Они поэтапно отказались от устаревшего программного обеспечения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "phase out it",
+      "right": "phase it out",
+      "note": "С местоимением объект располагается между phase и out."
+    },
+    "quiz": {
+      "prompt": "The organisation intends to ___ paper applications entirely.",
+      "options": [
+        "phase out",
+        "phase in",
+        "take on",
+        "draw up"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: phase out. Поэтапно прекращать использование продукта, системы или практики. С местоимением объект располагается между phase и out."
+    }
+  },
+  {
+    "id": "pv_adv_014_follow_through_on",
+    "order": 14,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "follow through on",
+    "translation": "довести обещание или план до конца",
+    "explanation": "Выполнить обещанное действие и продолжить работу до практического результата.",
+    "patterns": [
+      "follow through on a promise",
+      "follow through on a decision",
+      "fail to follow through"
+    ],
+    "related": [
+      "carry out — выполнить",
+      "see through — довести до конца"
+    ],
+    "examples": [
+      {
+        "en": "The government must follow through on its commitment to reform.",
+        "ru": "Правительство должно выполнить своё обязательство провести реформу."
+      },
+      {
+        "en": "She proposed several changes but did not follow through on them.",
+        "ru": "Она предложила несколько изменений, но не довела их до реализации."
+      },
+      {
+        "en": "Successful managers follow through on agreed actions.",
+        "ru": "Успешные руководители доводят согласованные действия до конца."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "follow through the promise",
+      "right": "follow through on the promise",
+      "note": "В значении выполнить обещание требуется on; без on follow through может употребляться непереходно."
+    },
+    "quiz": {
+      "prompt": "The board now needs to ___ the measures it approved.",
+      "options": [
+        "brush aside",
+        "follow through on",
+        "step down from",
+        "phase out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: follow through on. Выполнить обещанное действие и продолжить работу до практического результата. В значении выполнить обещание требуется on; без on follow through может употребляться непереходно."
+    }
+  },
+  {
+    "id": "pv_adv_015_iron_out",
+    "order": 15,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "iron out",
+    "translation": "устранить мелкие трудности; уладить детали",
+    "explanation": "Решить практические разногласия или технические проблемы, чтобы система работала гладко.",
+    "patterns": [
+      "iron out difficulties",
+      "iron out the details",
+      "iron something out"
+    ],
+    "related": [
+      "resolve — урегулировать",
+      "smooth out — сгладить"
+    ],
+    "examples": [
+      {
+        "en": "We still need to iron out a few technical issues.",
+        "ru": "Нам всё ещё нужно устранить несколько технических проблем."
+      },
+      {
+        "en": "The two sides met to iron out the final details.",
+        "ru": "Стороны встретились, чтобы согласовать последние детали."
+      },
+      {
+        "en": "Most of the initial problems have now been ironed out.",
+        "ru": "Большинство первоначальных проблем уже устранено."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "iron out them",
+      "right": "iron them out",
+      "note": "Разделяемый глагол: местоимение ставится между iron и out."
+    },
+    "quiz": {
+      "prompt": "Before launch, the team must ___ several compatibility problems.",
+      "options": [
+        "draw up",
+        "step down",
+        "iron out",
+        "hand over"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: iron out. Решить практические разногласия или технические проблемы, чтобы система работала гладко. Разделяемый глагол: местоимение ставится между iron и out."
+    }
+  },
+  {
+    "id": "pv_adv_016_hand_over",
+    "order": 16,
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "phrase": "hand over",
+    "translation": "передать контроль, ответственность или предмет",
+    "explanation": "Передать что-либо другому человеку официально или физически.",
+    "patterns": [
+      "hand over responsibility",
+      "hand something over to somebody",
+      "the handover of control"
+    ],
+    "related": [
+      "transfer — передать",
+      "turn over — передать управление"
+    ],
+    "examples": [
+      {
+        "en": "The outgoing director handed over responsibility to her successor.",
+        "ru": "Уходящий директор передал ответственность своему преемнику."
+      },
+      {
+        "en": "Please hand the documents over to the legal team.",
+        "ru": "Пожалуйста, передайте документы юридическому отделу."
+      },
+      {
+        "en": "Control of the project will be handed over next month.",
+        "ru": "Управление проектом передадут в следующем месяце."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hand over it to them",
+      "right": "hand it over to them",
+      "note": "С местоимением объект ставится между hand и over; получатель вводится через to."
+    },
+    "quiz": {
+      "prompt": "Once the audit is complete, we will ___ the files to the client.",
+      "options": [
+        "take on",
+        "phase in",
+        "step down",
+        "hand over"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: hand over. Передать что-либо другому человеку официально или физически. С местоимением объект ставится между hand и over; получатель вводится через to."
+    }
+  },
+  {
+    "id": "pv_adv_017_head_off",
+    "order": 17,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "head off",
+    "translation": "отправиться; предотвратить",
+    "explanation": "В дорожном контексте — отправиться в определённое место; также может означать предотвратить проблему до её развития.",
+    "patterns": [
+      "head off to/for somewhere",
+      "head off early",
+      "head something off"
+    ],
+    "related": [
+      "set off — отправиться",
+      "leave for — уехать в"
+    ],
+    "examples": [
+      {
+        "en": "We headed off for the coast before sunrise.",
+        "ru": "Мы отправились к побережью до восхода солнца."
+      },
+      {
+        "en": "She is heading off to Berlin tomorrow.",
+        "ru": "Завтра она отправляется в Берлин."
+      },
+      {
+        "en": "Early action helped head off a major delay.",
+        "ru": "Ранние меры помогли предотвратить серьёзную задержку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "head off at Paris",
+      "right": "head off to Paris",
+      "note": "С направлением обычно употребляется to или for; at указывает местоположение, а не направление."
+    },
+    "quiz": {
+      "prompt": "We should ___ for the airport before the traffic gets heavy.",
+      "options": [
+        "head off",
+        "pull in",
+        "touch down",
+        "wind up"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: head off. В дорожном контексте — отправиться в определённое место; также может означать предотвратить проблему до её развития. С направлением обычно употребляется to или for; at указывает местоположение, а не направление."
+    }
+  },
+  {
+    "id": "pv_adv_018_see_off",
+    "order": 18,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "see off",
+    "translation": "проводить уезжающего",
+    "explanation": "Прийти в аэропорт, на вокзал или к месту отправления, чтобы попрощаться с человеком.",
+    "patterns": [
+      "see somebody off",
+      "see somebody off at the station",
+      "go to see somebody off"
+    ],
+    "related": [
+      "say goodbye to — попрощаться с",
+      "wave off — проводить жестом"
+    ],
+    "examples": [
+      {
+        "en": "We went to the station to see her off.",
+        "ru": "Мы поехали на вокзал проводить её."
+      },
+      {
+        "en": "A crowd gathered to see the team off at the airport.",
+        "ru": "В аэропорту собралась толпа, чтобы проводить команду."
+      },
+      {
+        "en": "His family saw him off before the long voyage.",
+        "ru": "Семья проводила его перед долгим путешествием."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "see off her",
+      "right": "see her off",
+      "note": "С местоимением объект ставится между see и off."
+    },
+    "quiz": {
+      "prompt": "Do you want me to come to the station and ___ you ___?",
+      "options": [
+        "pull ... in",
+        "see ... off",
+        "wind ... up",
+        "hold ... up"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: see ... off. Прийти в аэропорт, на вокзал или к месту отправления, чтобы попрощаться с человеком. С местоимением объект ставится между see и off."
+    }
+  },
+  {
+    "id": "pv_adv_019_touch_down",
+    "order": 19,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "touch down",
+    "translation": "приземлиться",
+    "explanation": "О самолёте или космическом аппарате: коснуться земли при посадке.",
+    "patterns": [
+      "touch down at an airport",
+      "touch down safely",
+      "touchdown — приземление"
+    ],
+    "related": [
+      "land — приземлиться",
+      "arrive — прибыть"
+    ],
+    "examples": [
+      {
+        "en": "The plane touched down safely despite the strong wind.",
+        "ru": "Самолёт благополучно приземлился, несмотря на сильный ветер."
+      },
+      {
+        "en": "We are due to touch down in Singapore at six.",
+        "ru": "Мы должны приземлиться в Сингапуре в шесть."
+      },
+      {
+        "en": "The aircraft touched down twenty minutes ahead of schedule.",
+        "ru": "Самолёт приземлился на двадцать минут раньше расписания."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "touch down the plane",
+      "right": "the plane touches down",
+      "note": "Touch down в этом значении непереходный: самолёт является подлежащим, а не дополнением."
+    },
+    "quiz": {
+      "prompt": "After circling for half an hour, the aircraft finally ___.",
+      "options": [
+        "pulled out",
+        "saw off",
+        "touched down",
+        "headed off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: touched down. О самолёте или космическом аппарате: коснуться земли при посадке. Touch down в этом значении непереходный: самолёт является подлежащим, а не дополнением."
+    }
+  },
+  {
+    "id": "pv_adv_020_pull_in",
+    "order": 20,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "pull in",
+    "translation": "прибыть и остановиться; съехать к краю",
+    "explanation": "О поезде или автобусе — прибыть на станцию; об автомобиле — подъехать или остановиться у края.",
+    "patterns": [
+      "the train pulls in",
+      "pull in at a station",
+      "pull in to the side"
+    ],
+    "related": [
+      "arrive — прибыть",
+      "draw in — прибыть"
+    ],
+    "examples": [
+      {
+        "en": "The overnight train pulled in just after dawn.",
+        "ru": "Ночной поезд прибыл вскоре после рассвета."
+      },
+      {
+        "en": "A taxi pulled in outside the hotel.",
+        "ru": "Такси подъехало к отелю."
+      },
+      {
+        "en": "The driver pulled in to let the ambulance pass.",
+        "ru": "Водитель прижался к краю, чтобы пропустить скорую помощь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pull in the station",
+      "right": "pull in at the station",
+      "note": "Для станции обычно употребляется at; конструкция непереходная, когда речь о прибытии транспорта."
+    },
+    "quiz": {
+      "prompt": "The train is expected to ___ at 10:15.",
+      "options": [
+        "pull out",
+        "touch down",
+        "see off",
+        "pull in"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: pull in. О поезде или автобусе — прибыть и остановиться; об автомобиле — подъехать или остановиться у края дороги. Для станции обычно употребляется at; конструкция непереходная, когда речь о прибытии транспорта."
+    }
+  },
+  {
+    "id": "pv_adv_021_pull_out",
+    "order": 21,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "pull out",
+    "translation": "отправиться со станции; выехать",
+    "explanation": "О поезде или транспорте — начать движение от места остановки; также вывести участие или инвестиции.",
+    "patterns": [
+      "the train pulls out",
+      "pull out of a station",
+      "pull out of a deal"
+    ],
+    "related": [
+      "depart — отправиться",
+      "withdraw — выйти"
+    ],
+    "examples": [
+      {
+        "en": "The train pulled out of the station exactly on time.",
+        "ru": "Поезд отправился со станции точно по расписанию."
+      },
+      {
+        "en": "We arrived just as the coach was pulling out.",
+        "ru": "Мы приехали как раз в тот момент, когда автобус отъезжал."
+      },
+      {
+        "en": "The airline pulled out of the regional market because demand was low.",
+        "ru": "Авиакомпания ушла с регионального рынка из-за низкого спроса."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "pull out the station",
+      "right": "pull out of the station",
+      "note": "При указании места отправления стандартная модель — pull out of a place."
+    },
+    "quiz": {
+      "prompt": "The doors closed and the train began to ___.",
+      "options": [
+        "pull out",
+        "pull in",
+        "touch down",
+        "see off"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: pull out. О поезде или транспорте — начать движение от места остановки; также вывести участие или инвестиции. При указании места отправления стандартная модель — pull out of a place."
+    }
+  },
+  {
+    "id": "pv_adv_022_hold_up",
+    "order": 22,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "hold up",
+    "translation": "задержать; ограбить",
+    "explanation": "В путешествиях обычно означает вызвать задержку; также может означать вооружённое ограбление.",
+    "patterns": [
+      "hold up traffic",
+      "be held up by delays",
+      "hold somebody up"
+    ],
+    "related": [
+      "delay — задержать",
+      "set back — отсрочить"
+    ],
+    "examples": [
+      {
+        "en": "Roadworks held us up for nearly an hour.",
+        "ru": "Дорожные работы задержали нас почти на час."
+      },
+      {
+        "en": "The flight was held up by a technical fault.",
+        "ru": "Рейс задержали из-за технической неисправности."
+      },
+      {
+        "en": "Sorry I am late; I was held up at security.",
+        "ru": "Извините за опоздание: меня задержали на контроле безопасности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "we were held up because traffic",
+      "right": "we were held up by traffic",
+      "note": "Причина после пассива обычно вводится by; с местоимением: hold us up."
+    },
+    "quiz": {
+      "prompt": "A signalling failure ___ the morning trains.",
+      "options": [
+        "pulled out",
+        "held up",
+        "touched down",
+        "saw off"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: held up. В путешествиях обычно означает вызвать задержку; также может означать вооружённое ограбление. Причина после пассива обычно вводится by; с местоимением: hold us up."
+    }
+  },
+  {
+    "id": "pv_adv_023_get_around",
+    "order": 23,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "get around",
+    "translation": "передвигаться; обходить препятствие; распространяться",
+    "explanation": "Перемещаться по месту, находить обход правила или проблемы; о новости — становиться известной.",
+    "patterns": [
+      "get around a city",
+      "get around a rule/problem",
+      "word gets around"
+    ],
+    "related": [
+      "travel around — передвигаться",
+      "circumvent — обойти"
+    ],
+    "examples": [
+      {
+        "en": "The metro is the easiest way to get around the city.",
+        "ru": "Метро — самый простой способ передвигаться по городу."
+      },
+      {
+        "en": "They found a way to get around the restriction.",
+        "ru": "Они нашли способ обойти ограничение."
+      },
+      {
+        "en": "News of the cancellation quickly got around.",
+        "ru": "Новость об отмене быстро распространилась."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get around in the problem",
+      "right": "get around the problem",
+      "note": "При значении «обойти проблему» предлог после around не нужен; с городом возможны get around the city и get around in the city."
+    },
+    "quiz": {
+      "prompt": "Public transport makes it easy to ___ without a car.",
+      "options": [
+        "hold up",
+        "pull out",
+        "get around",
+        "wind up in"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: get around. Перемещаться по месту, находить обход правила или проблемы; о новости — становиться известной. При значении «обойти проблему» предлог после around не нужен; с городом возможны get around the city и get around in the city."
+    }
+  },
+  {
+    "id": "pv_adv_024_wind_up_in",
+    "order": 24,
+    "level": "Advanced",
+    "category": "TRAVEL",
+    "phrase": "wind up in",
+    "translation": "в итоге оказаться в месте или ситуации",
+    "explanation": "Неожиданно или после цепочки событий оказаться где-либо; wind up также может означать закончить деятельность.",
+    "patterns": [
+      "wind up in a place",
+      "wind up doing something",
+      "wind up as something"
+    ],
+    "related": [
+      "end up — в итоге оказаться",
+      "find oneself — обнаружить себя"
+    ],
+    "examples": [
+      {
+        "en": "After taking the wrong train, we wound up in a small coastal town.",
+        "ru": "Сев не на тот поезд, мы в итоге оказались в маленьком прибрежном городе."
+      },
+      {
+        "en": "They wound up spending the night at the airport.",
+        "ru": "В итоге им пришлось провести ночь в аэропорту."
+      },
+      {
+        "en": "A short stopover wound up becoming a three-day stay.",
+        "ru": "Короткая пересадка в итоге превратилась в трёхдневную остановку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "winded up in Rome",
+      "right": "wound up in Rome",
+      "note": "Прошедшая форма wind up — wound up, произносится /waʊnd/."
+    },
+    "quiz": {
+      "prompt": "Because of the diversion, the passengers ___ a different city.",
+      "options": [
+        "pulled in",
+        "headed off",
+        "saw off",
+        "wound up in"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: wound up in. Неожиданно или после цепочки событий оказаться где-либо; wind up также может означать закончить деятельность. Прошедшая форма wind up — wound up, произносится /waʊnd/."
+    }
+  },
+  {
+    "id": "pv_adv_025_spell_out",
+    "order": 25,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "spell out",
+    "translation": "ясно и подробно объяснить",
+    "explanation": "Изложить что-либо совершенно ясно, часто шаг за шагом, чтобы исключить недопонимание.",
+    "patterns": [
+      "spell out the consequences",
+      "spell something out",
+      "have something spelled out"
+    ],
+    "related": [
+      "explain explicitly — объяснить прямо",
+      "set out — изложить"
+    ],
+    "examples": [
+      {
+        "en": "The contract spells out the responsibilities of both parties.",
+        "ru": "В договоре подробно прописаны обязанности обеих сторон."
+      },
+      {
+        "en": "Let me spell out exactly what the change means.",
+        "ru": "Позвольте мне ясно объяснить, что именно означает это изменение."
+      },
+      {
+        "en": "The risks were clearly spelled out in the report.",
+        "ru": "Риски были чётко изложены в отчёте."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "spell out it",
+      "right": "spell it out",
+      "note": "Разделяемый глагол: местоимение ставится между spell и out."
+    },
+    "quiz": {
+      "prompt": "The guidance should ___ what applicants are expected to provide.",
+      "options": [
+        "spell out",
+        "play down",
+        "brush aside",
+        "dwell on"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: spell out. Изложить что-либо совершенно ясно, часто шаг за шагом, чтобы исключить недопонимание. Разделяемый глагол: местоимение ставится между spell и out."
+    }
+  },
+  {
+    "id": "pv_adv_026_put_across",
+    "order": 26,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "put across",
+    "translation": "ясно донести мысль",
+    "explanation": "Успешно передать идею, мнение или образ так, чтобы аудитория его поняла.",
+    "patterns": [
+      "put across an idea",
+      "put a message across",
+      "put oneself across"
+    ],
+    "related": [
+      "convey — передать",
+      "communicate effectively — эффективно донести"
+    ],
+    "examples": [
+      {
+        "en": "She put her argument across with remarkable clarity.",
+        "ru": "Она изложила свой аргумент с удивительной ясностью."
+      },
+      {
+        "en": "The campaign failed to put its central message across.",
+        "ru": "Кампания не смогла донести свою основную мысль."
+      },
+      {
+        "en": "He comes across as reserved but puts himself across well in interviews.",
+        "ru": "Он производит впечатление сдержанного человека, но хорошо презентует себя на собеседованиях."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put across it",
+      "right": "put it across",
+      "note": "С местоимением дополнение ставится между put и across."
+    },
+    "quiz": {
+      "prompt": "The speaker used a simple analogy to ___ a complex idea.",
+      "options": [
+        "brush aside",
+        "put across",
+        "talk down to",
+        "sum up"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: put across. Успешно передать идею, мнение или образ так, чтобы аудитория его поняла. С местоимением дополнение ставится между put и across."
+    }
+  },
+  {
+    "id": "pv_adv_027_talk_down_to",
+    "order": 27,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "talk down to",
+    "translation": "разговаривать свысока",
+    "explanation": "Говорить с человеком так, будто он менее умён, опытен или важен.",
+    "patterns": [
+      "talk down to somebody",
+      "feel talked down to",
+      "stop talking down to me"
+    ],
+    "related": [
+      "patronise — говорить покровительственно",
+      "condescend to — снисходить до"
+    ],
+    "examples": [
+      {
+        "en": "Customers dislike being talked down to.",
+        "ru": "Покупателям не нравится, когда с ними разговаривают свысока."
+      },
+      {
+        "en": "She explained the issue clearly without talking down to the audience.",
+        "ru": "Она ясно объяснила вопрос, не разговаривая с аудиторией свысока."
+      },
+      {
+        "en": "Do not talk down to him simply because he is younger.",
+        "ru": "Не говорите с ним свысока только потому, что он моложе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "talk down somebody",
+      "right": "talk down to somebody",
+      "note": "В этом значении конструкция неразделяемая и требует to."
+    },
+    "quiz": {
+      "prompt": "A good teacher simplifies difficult ideas without ___ students.",
+      "options": [
+        "putting across",
+        "summing up",
+        "talking down to",
+        "dwelling on"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: talking down to. Говорить с человеком так, будто он менее умён, опытен или важен. В этом значении конструкция неразделяемая и требует to."
+    }
+  },
+  {
+    "id": "pv_adv_028_brush_aside",
+    "order": 28,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "brush aside",
+    "translation": "отмахнуться; проигнорировать",
+    "explanation": "Не принять возражение, опасение или предложение всерьёз, часто слишком быстро.",
+    "patterns": [
+      "brush aside concerns",
+      "brush something aside",
+      "be brushed aside"
+    ],
+    "related": [
+      "dismiss — отвергнуть",
+      "disregard — не учитывать"
+    ],
+    "examples": [
+      {
+        "en": "The minister brushed aside questions about the cost.",
+        "ru": "Министр отмахнулся от вопросов о стоимости."
+      },
+      {
+        "en": "Her concerns were brushed aside as irrelevant.",
+        "ru": "Её опасения отвергли как несущественные."
+      },
+      {
+        "en": "We should not brush the evidence aside merely because it is inconvenient.",
+        "ru": "Не следует игнорировать доказательства лишь потому, что они неудобны."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "brush aside them",
+      "right": "brush them aside",
+      "note": "Разделяемый глагол: местоимение ставится между brush и aside."
+    },
+    "quiz": {
+      "prompt": "The board should investigate the complaint rather than ___ it.",
+      "options": [
+        "spell out",
+        "touch on",
+        "sum up",
+        "brush aside"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: brush aside. Не принять возражение, опасение или предложение всерьёз, часто слишком быстро. Разделяемый глагол: местоимение ставится между brush и aside."
+    }
+  },
+  {
+    "id": "pv_adv_029_play_down",
+    "order": 29,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "play down",
+    "translation": "преуменьшать значение",
+    "explanation": "Представлять проблему, достижение или риск как менее важные или серьёзные, чем они есть.",
+    "patterns": [
+      "play down the risks",
+      "play something down",
+      "be played down"
+    ],
+    "related": [
+      "understate — преуменьшать",
+      "minimise — принижать значение"
+    ],
+    "examples": [
+      {
+        "en": "Officials tried to play down the scale of the disruption.",
+        "ru": "Чиновники пытались преуменьшить масштаб сбоев."
+      },
+      {
+        "en": "She played her own contribution down during the interview.",
+        "ru": "Во время интервью она преуменьшила собственный вклад."
+      },
+      {
+        "en": "The long-term risks should not be played down.",
+        "ru": "Долгосрочные риски не следует недооценивать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "play down it",
+      "right": "play it down",
+      "note": "С местоимением дополнение ставится между play и down."
+    },
+    "quiz": {
+      "prompt": "The spokesperson attempted to ___ the seriousness of the leak.",
+      "options": [
+        "play down",
+        "spell out",
+        "dwell on",
+        "put across"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: play down. Представлять проблему, достижение или риск как менее важные или серьёзные, чем они есть. С местоимением дополнение ставится между play и down."
+    }
+  },
+  {
+    "id": "pv_adv_030_dwell_on",
+    "order": 30,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "dwell on",
+    "translation": "подробно или слишком долго останавливаться на",
+    "explanation": "Продолжительно говорить или думать о теме, часто неприятной или уже достаточно обсуждённой.",
+    "patterns": [
+      "dwell on the past",
+      "dwell on a problem",
+      "without dwelling on details"
+    ],
+    "related": [
+      "focus on — сосредоточиться на",
+      "linger over — задерживаться на"
+    ],
+    "examples": [
+      {
+        "en": "There is little value in dwelling on past mistakes.",
+        "ru": "Нет большого смысла постоянно возвращаться к прошлым ошибкам."
+      },
+      {
+        "en": "The report dwells on the weaknesses but ignores the achievements.",
+        "ru": "Отчёт подробно рассматривает недостатки, но игнорирует достижения."
+      },
+      {
+        "en": "Without dwelling on the details, let me outline the main result.",
+        "ru": "Не задерживаясь на деталях, позвольте обозначить основной результат."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "dwell about the problem",
+      "right": "dwell on the problem",
+      "note": "После dwell в этом значении употребляется on."
+    },
+    "quiz": {
+      "prompt": "The chair asked speakers not to ___ issues that had already been resolved.",
+      "options": [
+        "brush aside",
+        "dwell on",
+        "sum up",
+        "spell out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: dwell on. Продолжительно говорить или думать о теме, часто неприятной или уже достаточно обсуждённой. После dwell в этом значении употребляется on."
+    }
+  },
+  {
+    "id": "pv_adv_031_touch_on",
+    "order": 31,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "touch on",
+    "translation": "кратко затронуть тему",
+    "explanation": "Упомянуть или недолго обсудить вопрос, не рассматривая его подробно.",
+    "patterns": [
+      "touch on a subject",
+      "briefly touch on",
+      "a point touched on earlier"
+    ],
+    "related": [
+      "mention — упомянуть",
+      "refer briefly to — кратко сослаться на"
+    ],
+    "examples": [
+      {
+        "en": "The lecture touched on several ethical questions.",
+        "ru": "Лекция кратко затронула несколько этических вопросов."
+      },
+      {
+        "en": "I would like to touch briefly on the financial implications.",
+        "ru": "Я хотел бы кратко остановиться на финансовых последствиях."
+      },
+      {
+        "en": "The issue was touched on but not explored in depth.",
+        "ru": "Вопрос был затронут, но не рассмотрен подробно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "touch about the topic",
+      "right": "touch on the topic",
+      "note": "В значении «затронуть тему» требуется on."
+    },
+    "quiz": {
+      "prompt": "The final chapter will ___ the wider social consequences.",
+      "options": [
+        "dwell on",
+        "talk down to",
+        "touch on",
+        "brush aside"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: touch on. Упомянуть или недолго обсудить вопрос, не рассматривая его подробно. В значении «затронуть тему» требуется on."
+    }
+  },
+  {
+    "id": "pv_adv_032_sum_up",
+    "order": 32,
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "phrase": "sum up",
+    "translation": "подвести итог; кратко резюмировать",
+    "explanation": "Кратко выразить основные положения, выводы или общее впечатление.",
+    "patterns": [
+      "sum up an argument",
+      "sum something up",
+      "to sum up"
+    ],
+    "related": [
+      "summarise — резюмировать",
+      "recap — кратко повторить"
+    ],
+    "examples": [
+      {
+        "en": "The final paragraph sums up the author’s main argument.",
+        "ru": "Последний абзац подводит итог основному аргументу автора."
+      },
+      {
+        "en": "It is difficult to sum the situation up in a single sentence.",
+        "ru": "Трудно описать ситуацию одним предложением."
+      },
+      {
+        "en": "To sum up, the benefits appear to outweigh the risks.",
+        "ru": "Подводя итог, преимущества, по-видимому, перевешивают риски."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "sum up it",
+      "right": "sum it up",
+      "note": "Разделяемый глагол: местоимение ставится между sum и up."
+    },
+    "quiz": {
+      "prompt": "At the end of the meeting, the chair ___ the agreed actions.",
+      "options": [
+        "played down",
+        "brushed aside",
+        "touched on",
+        "summed up"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: summed up. Кратко выразить основные положения, выводы или общее впечатление. Разделяемый глагол: местоимение ставится между sum и up."
+    }
+  },
+  {
+    "id": "pv_adv_033_bottle_up",
+    "order": 33,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "bottle up",
+    "translation": "подавлять и скрывать эмоции",
+    "explanation": "Не выражать сильные чувства и удерживать их внутри, часто в ущерб себе.",
+    "patterns": [
+      "bottle up emotions",
+      "bottle something up",
+      "keep feelings bottled up"
+    ],
+    "related": [
+      "suppress — подавлять",
+      "hold in — сдерживать"
+    ],
+    "examples": [
+      {
+        "en": "Bottling up anger can make the situation worse.",
+        "ru": "Подавление гнева может усугубить ситуацию."
+      },
+      {
+        "en": "He had bottled his feelings up for years.",
+        "ru": "Он годами держал свои чувства внутри."
+      },
+      {
+        "en": "You do not have to keep everything bottled up.",
+        "ru": "Тебе не обязательно всё держать в себе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bottle up them",
+      "right": "bottle them up",
+      "note": "Разделяемый глагол: местоимение ставится между bottle и up."
+    },
+    "quiz": {
+      "prompt": "Rather than ___ her frustration, she discussed it calmly.",
+      "options": [
+        "bottling up",
+        "opening up to",
+        "patching up",
+        "standing up to"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: bottling up. Не выражать сильные чувства и удерживать их внутри, часто в ущерб себе. Разделяемый глагол: местоимение ставится между bottle и up."
+    }
+  },
+  {
+    "id": "pv_adv_034_lash_out_at",
+    "order": 34,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "lash out at",
+    "translation": "резко наброситься словами или действиями",
+    "explanation": "Внезапно агрессивно отреагировать на человека, часто из-за гнева или стресса.",
+    "patterns": [
+      "lash out at somebody",
+      "lash out verbally",
+      "lash out in anger"
+    ],
+    "related": [
+      "attack — напасть",
+      "snap at — огрызнуться на"
+    ],
+    "examples": [
+      {
+        "en": "He lashed out at his colleagues after the decision.",
+        "ru": "После решения он резко набросился на коллег."
+      },
+      {
+        "en": "People under pressure sometimes lash out at those closest to them.",
+        "ru": "Люди под давлением иногда срываются на самых близких."
+      },
+      {
+        "en": "She apologised for lashing out in anger.",
+        "ru": "Она извинилась за вспышку гнева."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "lash out somebody",
+      "right": "lash out at somebody",
+      "note": "При указании объекта требуется at; конструкция неразделяемая."
+    },
+    "quiz": {
+      "prompt": "The criticism was unfair, but there was no need to ___ the interviewer.",
+      "options": [
+        "open up to",
+        "lash out at",
+        "look down on",
+        "live up to"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: lash out at. Внезапно агрессивно отреагировать на человека, часто из-за гнева или стресса. При указании объекта требуется at; конструкция неразделяемая."
+    }
+  },
+  {
+    "id": "pv_adv_035_open_up_to",
+    "order": 35,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "open up to",
+    "translation": "открыться кому-либо",
+    "explanation": "Начать честно рассказывать человеку о личных мыслях, чувствах или трудностях.",
+    "patterns": [
+      "open up to somebody",
+      "find it hard to open up",
+      "open up about something"
+    ],
+    "related": [
+      "confide in — довериться",
+      "share — поделиться"
+    ],
+    "examples": [
+      {
+        "en": "It took months before he opened up to his counsellor.",
+        "ru": "Потребовались месяцы, прежде чем он открылся психологу."
+      },
+      {
+        "en": "She rarely opens up about her childhood.",
+        "ru": "Она редко рассказывает о своём детстве."
+      },
+      {
+        "en": "People are more likely to open up when they feel safe.",
+        "ru": "Люди чаще открываются, когда чувствуют себя в безопасности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "open up with someone",
+      "right": "open up to someone",
+      "note": "Человека обычно вводит to, а тему — about."
+    },
+    "quiz": {
+      "prompt": "Eventually, the teenager began to ___ a trusted teacher.",
+      "options": [
+        "lash out at",
+        "look down on",
+        "open up to",
+        "stand up to"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: open up to. Начать честно рассказывать человеку о личных мыслях, чувствах или трудностях. Человека обычно вводит to, а тему — about."
+    }
+  },
+  {
+    "id": "pv_adv_036_grow_apart",
+    "order": 36,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "grow apart",
+    "translation": "постепенно отдалиться друг от друга",
+    "explanation": "Со временем стать менее близкими из-за разных интересов, образа жизни или обстоятельств.",
+    "patterns": [
+      "friends grow apart",
+      "gradually grow apart",
+      "have grown apart"
+    ],
+    "related": [
+      "drift apart — отдалиться",
+      "lose touch — потерять связь"
+    ],
+    "examples": [
+      {
+        "en": "They remained friendly but gradually grew apart.",
+        "ru": "Они сохранили дружеские отношения, но постепенно отдалились."
+      },
+      {
+        "en": "Old friends can grow apart when their lives take different directions.",
+        "ru": "Старые друзья могут отдалиться, когда их жизнь идёт разными путями."
+      },
+      {
+        "en": "We had grown apart long before the relationship ended.",
+        "ru": "Мы отдалились друг от друга задолго до окончания отношений."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "grow apart each other",
+      "right": "grow apart",
+      "note": "После grow apart дополнение не требуется; взаимное отдаление уже входит в значение."
+    },
+    "quiz": {
+      "prompt": "After moving to different countries, the two friends slowly ___.",
+      "options": [
+        "patched things up",
+        "opened up",
+        "stood up",
+        "grew apart"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: grew apart. Со временем стать менее близкими из-за разных интересов, образа жизни или обстоятельств. После grow apart дополнение не требуется; взаимное отдаление уже входит в значение."
+    }
+  },
+  {
+    "id": "pv_adv_037_patch_things_up",
+    "order": 37,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "patch things up",
+    "translation": "помириться; восстановить отношения",
+    "explanation": "Уладить конфликт и восстановить нормальные отношения после ссоры.",
+    "patterns": [
+      "patch things up with somebody",
+      "try to patch things up",
+      "patch up a relationship"
+    ],
+    "related": [
+      "reconcile — примириться",
+      "make peace — помириться"
+    ],
+    "examples": [
+      {
+        "en": "They met for coffee and managed to patch things up.",
+        "ru": "Они встретились за кофе и смогли помириться."
+      },
+      {
+        "en": "She wants to patch things up with her sister.",
+        "ru": "Она хочет наладить отношения с сестрой."
+      },
+      {
+        "en": "It may take time to patch up the relationship.",
+        "ru": "На восстановление отношений может потребоваться время."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "patch things up to her",
+      "right": "patch things up with her",
+      "note": "Человек вводится через with; возможна также модель patch up a relationship."
+    },
+    "quiz": {
+      "prompt": "After months of silence, they finally decided to ___.",
+      "options": [
+        "patch things up",
+        "grow apart",
+        "lash out",
+        "bottle up"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: patch things up. Уладить конфликт и восстановить нормальные отношения после ссоры. Человек вводится через with; возможна также модель patch up a relationship."
+    }
+  },
+  {
+    "id": "pv_adv_038_stand_up_to",
+    "order": 38,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "stand up to",
+    "translation": "противостоять; не позволять запугивать себя",
+    "explanation": "Смело сопротивляться человеку, давлению или несправедливому обращению.",
+    "patterns": [
+      "stand up to a bully",
+      "stand up to pressure",
+      "stand up for somebody"
+    ],
+    "related": [
+      "resist — сопротивляться",
+      "confront — противостоять"
+    ],
+    "examples": [
+      {
+        "en": "She finally stood up to her controlling manager.",
+        "ru": "Наконец она дала отпор своему контролирующему руководителю."
+      },
+      {
+        "en": "The organisation stood up to intense political pressure.",
+        "ru": "Организация выдержала сильное политическое давление и не уступила ему."
+      },
+      {
+        "en": "Standing up to intimidation can be difficult.",
+        "ru": "Противостоять запугиванию бывает трудно."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "stand up the bully",
+      "right": "stand up to the bully",
+      "note": "В значении «противостоять» перед человеком или давлением требуется to; stand up for означает защищать."
+    },
+    "quiz": {
+      "prompt": "Employees should be able to ___ unreasonable demands.",
+      "options": [
+        "look down on",
+        "stand up to",
+        "open up to",
+        "live up to"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: stand up to. Смело сопротивляться человеку, давлению или несправедливому обращению. В значении «противостоять» перед человеком или давлением требуется to; stand up for означает защищать."
+    }
+  },
+  {
+    "id": "pv_adv_039_look_down_on",
+    "order": 39,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "look down on",
+    "translation": "смотреть свысока; считать хуже себя",
+    "explanation": "Считать человека или группу менее достойными, умными или важными.",
+    "patterns": [
+      "look down on somebody",
+      "feel looked down on",
+      "look down on manual work"
+    ],
+    "related": [
+      "despise — презирать",
+      "regard as inferior — считать хуже"
+    ],
+    "examples": [
+      {
+        "en": "He looks down on anyone without a university degree.",
+        "ru": "Он смотрит свысока на всех, у кого нет университетского образования."
+      },
+      {
+        "en": "No one should be looked down on because of their accent.",
+        "ru": "Ни на кого не следует смотреть свысока из-за акцента."
+      },
+      {
+        "en": "She never looked down on practical work.",
+        "ru": "Она никогда не относилась свысока к практической работе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "look down at people",
+      "right": "look down on people",
+      "note": "В переносном значении используется on; look down at описывает физический взгляд вниз."
+    },
+    "quiz": {
+      "prompt": "The novel criticises those who ___ people from poorer backgrounds.",
+      "options": [
+        "open up to",
+        "stand up to",
+        "look down on",
+        "patch up with"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: look down on. Считать человека или группу менее достойными, умными или важными. В переносном значении используется on; look down at описывает физический взгляд вниз."
+    }
+  },
+  {
+    "id": "pv_adv_040_live_up_to",
+    "order": 40,
+    "level": "Advanced",
+    "category": "EMOTIONS_RELATIONSHIPS",
+    "phrase": "live up to",
+    "translation": "оправдать ожидания; соответствовать стандарту",
+    "explanation": "Достичь уровня, которого ожидают, или соответствовать репутации, обещанию либо идеалу.",
+    "patterns": [
+      "live up to expectations",
+      "live up to a reputation",
+      "fail to live up to"
+    ],
+    "related": [
+      "meet expectations — соответствовать ожиданиям",
+      "fulfil — выполнить"
+    ],
+    "examples": [
+      {
+        "en": "The sequel did not live up to the standard set by the original film.",
+        "ru": "Продолжение не дотянуло до уровня, заданного оригинальным фильмом."
+      },
+      {
+        "en": "The hotel fully lived up to its reputation.",
+        "ru": "Отель полностью оправдал свою репутацию."
+      },
+      {
+        "en": "It is difficult to live up to such high expectations.",
+        "ru": "Трудно соответствовать таким высоким ожиданиям."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "live up with expectations",
+      "right": "live up to expectations",
+      "note": "Устойчивая модель требует to."
+    },
+    "quiz": {
+      "prompt": "The new product failed to ___ the claims made in its advertising.",
+      "options": [
+        "look down on",
+        "open up to",
+        "stand up to",
+        "live up to"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: live up to. Достичь уровня, которого ожидают, или соответствовать репутации, обещанию либо идеалу. Устойчивая модель требует to."
+    }
+  },
+  {
+    "id": "pv_adv_041_branch_off",
+    "order": 41,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "branch off",
+    "translation": "ответвляться; свернуть с основной дороги",
+    "explanation": "Отделиться от основной дороги, маршрута, темы или направления.",
+    "patterns": [
+      "a road branches off",
+      "branch off from the main route",
+      "branch off into a side street"
+    ],
+    "related": [
+      "diverge — расходиться",
+      "turn off — свернуть"
+    ],
+    "examples": [
+      {
+        "en": "A narrow path branches off to the left.",
+        "ru": "Узкая тропа ответвляется влево."
+      },
+      {
+        "en": "We branched off from the main road near the village.",
+        "ru": "Мы свернули с главной дороги возле деревни."
+      },
+      {
+        "en": "The discussion branched off into an unexpected topic.",
+        "ru": "Дискуссия перешла к неожиданной теме."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "branch away the main road",
+      "right": "branch off from the main road",
+      "note": "Для отделения от основной дороги употребляется branch off; исходную точку можно ввести через from."
+    },
+    "quiz": {
+      "prompt": "After two kilometres, a smaller road ___ towards the lake.",
+      "options": [
+        "branches off",
+        "closes in",
+        "draws back",
+        "filters through"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: branches off. Отделиться от основной дороги, маршрута, темы или направления. Для отделения от основной дороги употребляется branch off; исходную точку можно ввести через from."
+    }
+  },
+  {
+    "id": "pv_adv_042_veer_off",
+    "order": 42,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "veer off",
+    "translation": "резко отклониться от курса",
+    "explanation": "Внезапно изменить направление движения или отклониться от темы.",
+    "patterns": [
+      "veer off the road",
+      "veer off course",
+      "veer off topic"
+    ],
+    "related": [
+      "swerve — резко свернуть",
+      "deviate — отклониться"
+    ],
+    "examples": [
+      {
+        "en": "The car veered off the road and hit a barrier.",
+        "ru": "Машина съехала с дороги и врезалась в ограждение."
+      },
+      {
+        "en": "The boat began to veer off course.",
+        "ru": "Лодка начала отклоняться от курса."
+      },
+      {
+        "en": "The discussion veered off topic and became increasingly personal.",
+        "ru": "Обсуждение отклонилось от темы и стало всё более личным."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "veer away the road",
+      "right": "veer off the road",
+      "note": "При резком отклонении от дороги, курса или темы обычно употребляется off: veer off the road, off course, off topic."
+    },
+    "quiz": {
+      "prompt": "The cyclist lost control and ___ the path.",
+      "options": [
+        "branched off",
+        "veered off",
+        "closed in on",
+        "pressed ahead"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: veered off. Внезапно изменить направление движения или отклониться от курса либо темы. При резком отклонении от дороги, курса или темы обычно употребляется off."
+    }
+  },
+  {
+    "id": "pv_adv_043_double_back",
+    "order": 43,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "double back",
+    "translation": "вернуться тем же путём",
+    "explanation": "Развернуться и пойти или поехать обратно по уже пройденному маршруту.",
+    "patterns": [
+      "double back",
+      "double back on oneself",
+      "double back to a place"
+    ],
+    "related": [
+      "turn back — повернуть назад",
+      "retrace one's steps — вернуться по своим следам"
+    ],
+    "examples": [
+      {
+        "en": "We missed the turning and had to double back.",
+        "ru": "Мы пропустили поворот, и нам пришлось вернуться."
+      },
+      {
+        "en": "The hikers doubled back to the last signpost.",
+        "ru": "Туристы вернулись к последнему указателю."
+      },
+      {
+        "en": "The animal doubled back on its own tracks.",
+        "ru": "Животное вернулось по собственным следам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "double back us",
+      "right": "double back",
+      "note": "Double back в значении «вернуться тем же путём» обычно непереходный и не принимает прямое дополнение."
+    },
+    "quiz": {
+      "prompt": "Realising that the bridge was closed, we had to ___.",
+      "options": [
+        "press ahead",
+        "veer off",
+        "double back",
+        "filter through"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: double back. Развернуться и пойти или поехать обратно по уже пройденному маршруту. Double back в значении «вернуться тем же путём» обычно непереходный и не принимает прямое дополнение."
+    }
+  },
+  {
+    "id": "pv_adv_044_close_in_on",
+    "order": 44,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "close in on",
+    "translation": "приближаться и окружать",
+    "explanation": "Постепенно приближаться к человеку, месту или цели, часто создавая ощущение давления или неизбежности.",
+    "patterns": [
+      "close in on a target",
+      "darkness closes in",
+      "be closing in on victory"
+    ],
+    "related": [
+      "approach — приближаться",
+      "surround — окружать"
+    ],
+    "examples": [
+      {
+        "en": "The police were closing in on the suspect.",
+        "ru": "Полиция всё ближе подбиралась к подозреваемому."
+      },
+      {
+        "en": "Night was closing in as we reached the valley.",
+        "ru": "Когда мы достигли долины, сгущалась ночь."
+      },
+      {
+        "en": "The team is closing in on its first championship title.",
+        "ru": "Команда приближается к своему первому чемпионскому титулу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "close in the suspect",
+      "right": "close in on the suspect",
+      "note": "При указании цели требуется on; без дополнения возможно darkness is closing in."
+    },
+    "quiz": {
+      "prompt": "Investigators believe they are ___ the source of the leak.",
+      "options": [
+        "drawing back from",
+        "branching off",
+        "filtering through",
+        "closing in on"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: closing in on. Постепенно приближаться к человеку, месту или цели, часто создавая ощущение давления или неизбежности. При указании цели требуется on; без дополнения возможно darkness is closing in."
+    }
+  },
+  {
+    "id": "pv_adv_045_draw_back",
+    "order": 45,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "draw back",
+    "translation": "отступить; отпрянуть",
+    "explanation": "Физически отойти назад из-за страха или неожиданности; также отказаться от намерения.",
+    "patterns": [
+      "draw back in fear",
+      "draw back from something",
+      "draw somebody back"
+    ],
+    "related": [
+      "recoil — отпрянуть",
+      "withdraw — отступить"
+    ],
+    "examples": [
+      {
+        "en": "She drew back when the dog growled.",
+        "ru": "Она отпрянула, когда собака зарычала."
+      },
+      {
+        "en": "The company drew back from making a firm commitment.",
+        "ru": "Компания отказалась от твёрдого обязательства."
+      },
+      {
+        "en": "Something in his tone made me draw back.",
+        "ru": "Что-то в его тоне заставило меня отступить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "draw back of the agreement",
+      "right": "draw back from the agreement",
+      "note": "При отказе от действия или обязательства употребляется from."
+    },
+    "quiz": {
+      "prompt": "Faced with the unexpected cost, the investors began to ___.",
+      "options": [
+        "draw back",
+        "press ahead",
+        "bear down",
+        "filter through"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: draw back. Физически отойти назад из-за страха или неожиданности; также отказаться от намерения. При отказе от действия или обязательства употребляется from."
+    }
+  },
+  {
+    "id": "pv_adv_046_press_ahead",
+    "order": 46,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "press ahead",
+    "translation": "решительно продолжать движение или работу",
+    "explanation": "Продолжать план или движение, несмотря на трудности, критику или риск.",
+    "patterns": [
+      "press ahead with a plan",
+      "press ahead despite objections",
+      "decide to press ahead"
+    ],
+    "related": [
+      "proceed — продолжать",
+      "push forward — продвигаться"
+    ],
+    "examples": [
+      {
+        "en": "The government pressed ahead with the reform despite protests.",
+        "ru": "Правительство продолжило реформу, несмотря на протесты."
+      },
+      {
+        "en": "We decided to press ahead even though the weather was deteriorating.",
+        "ru": "Мы решили продолжать путь, хотя погода ухудшалась."
+      },
+      {
+        "en": "The team is pressing ahead with preparations for launch.",
+        "ru": "Команда активно продолжает подготовку к запуску."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "press ahead the plan",
+      "right": "press ahead with the plan",
+      "note": "Перед объектом обычно требуется with; без объекта press ahead употребляется самостоятельно."
+    },
+    "quiz": {
+      "prompt": "Despite the unresolved issues, management chose to ___ with the merger.",
+      "options": [
+        "draw back",
+        "press ahead",
+        "double back",
+        "veer off"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: press ahead. Продолжать план или движение, несмотря на трудности, критику или риск. Перед объектом обычно требуется with; без объекта press ahead употребляется самостоятельно."
+    }
+  },
+  {
+    "id": "pv_adv_047_bear_down_on",
+    "order": 47,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "bear down on",
+    "translation": "быстро и угрожающе приближаться; давить",
+    "explanation": "Приближаться к человеку или месту с угрозой; также оказывать сильное давление.",
+    "patterns": [
+      "a storm bears down on a coast",
+      "bear down on an opponent",
+      "pressure bears down on somebody"
+    ],
+    "related": [
+      "advance on — наступать на",
+      "loom over — нависать над"
+    ],
+    "examples": [
+      {
+        "en": "A powerful storm was bearing down on the coast.",
+        "ru": "Мощный шторм приближался к побережью."
+      },
+      {
+        "en": "The defender bore down on the striker.",
+        "ru": "Защитник стремительно приблизился к нападающему."
+      },
+      {
+        "en": "Deadlines were bearing down on the exhausted team.",
+        "ru": "Сроки неумолимо давили на измотанную команду."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bear down to the coast",
+      "right": "bear down on the coast",
+      "note": "Цель приближения вводится через on."
+    },
+    "quiz": {
+      "prompt": "Residents were evacuated as the hurricane ___ the island.",
+      "options": [
+        "branched off",
+        "filtered through",
+        "bore down on",
+        "drew back from"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: bore down on. Приближаться к человеку или месту с угрозой; также оказывать сильное давление. Цель приближения вводится через on."
+    }
+  },
+  {
+    "id": "pv_adv_048_filter_through",
+    "order": 48,
+    "level": "Advanced",
+    "category": "MOVEMENT",
+    "phrase": "filter through",
+    "translation": "постепенно проходить или распространяться",
+    "explanation": "Медленно проникать через пространство; о людях, свете, информации — поступать постепенно.",
+    "patterns": [
+      "light filters through",
+      "people filter through a doorway",
+      "news filters through"
+    ],
+    "related": [
+      "seep through — просачиваться",
+      "trickle through — поступать постепенно"
+    ],
+    "examples": [
+      {
+        "en": "Soft light filtered through the curtains.",
+        "ru": "Мягкий свет проникал сквозь шторы."
+      },
+      {
+        "en": "Passengers began to filter through the gate.",
+        "ru": "Пассажиры начали постепенно проходить через выход."
+      },
+      {
+        "en": "Details of the agreement slowly filtered through to the press.",
+        "ru": "Подробности соглашения постепенно просочились в прессу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The light filtered through to the curtains.",
+      "right": "The light filtered through the curtains.",
+      "note": "После through предмет или пространство, через которое что-либо проходит, ставится без дополнительного предлога. To вводит адресата информации: news filtered through to the press."
+    },
+    "quiz": {
+      "prompt": "As the doors opened, the crowd began to ___ the narrow corridor.",
+      "options": [
+        "bear down on",
+        "double back",
+        "draw back",
+        "filter through"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: filter through. Медленно проникать через пространство; о людях, свете или информации — проходить либо распространяться постепенно. После through объект ставится без дополнительного предлога; to может вводить адресата информации."
+    }
+  },
+  {
+    "id": "pv_adv_049_narrow_down",
+    "order": 49,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "narrow down",
+    "translation": "сузить выбор или круг причин",
+    "explanation": "Постепенно уменьшить количество вариантов, кандидатов или возможных объяснений.",
+    "patterns": [
+      "narrow down the options",
+      "narrow something down to three",
+      "be narrowed down"
+    ],
+    "related": [
+      "shortlist — отобрать",
+      "reduce — сократить"
+    ],
+    "examples": [
+      {
+        "en": "We have narrowed the list down to four candidates.",
+        "ru": "Мы сократили список до четырёх кандидатов."
+      },
+      {
+        "en": "Further tests should narrow down the possible causes.",
+        "ru": "Дополнительные тесты должны сузить круг возможных причин."
+      },
+      {
+        "en": "The search area was gradually narrowed down.",
+        "ru": "Зону поиска постепенно сузили."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "narrow down them",
+      "right": "narrow them down",
+      "note": "Разделяемый глагол: местоимение ставится между narrow и down; итоговый предел вводится через to."
+    },
+    "quiz": {
+      "prompt": "The evidence helped detectives ___ the list of suspects.",
+      "options": [
+        "narrow down",
+        "rule out",
+        "account for",
+        "make up for"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: narrow down. Постепенно уменьшить количество вариантов, кандидатов или возможных объяснений. Разделяемый глагол: местоимение ставится между narrow и down; итоговый предел вводится через to."
+    }
+  },
+  {
+    "id": "pv_adv_050_rule_out",
+    "order": 50,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "rule out",
+    "translation": "исключить возможность",
+    "explanation": "Решить на основе данных, что вариант, причина или действие невозможны либо неприемлемы.",
+    "patterns": [
+      "rule out a possibility",
+      "rule something out",
+      "cannot be ruled out"
+    ],
+    "related": [
+      "exclude — исключить",
+      "dismiss — отвергнуть"
+    ],
+    "examples": [
+      {
+        "en": "The tests ruled out a serious infection.",
+        "ru": "Анализы исключили серьёзную инфекцию."
+      },
+      {
+        "en": "We cannot rule out the possibility of further delays.",
+        "ru": "Мы не можем исключить возможность дальнейших задержек."
+      },
+      {
+        "en": "No option should be ruled out at this stage.",
+        "ru": "На этом этапе не следует исключать ни один вариант."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "rule out it",
+      "right": "rule it out",
+      "note": "С местоимением объект ставится между rule и out."
+    },
+    "quiz": {
+      "prompt": "The data are insufficient to ___ human error.",
+      "options": [
+        "narrow down",
+        "rule out",
+        "make up for",
+        "tide over"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: rule out. Решить на основе данных, что вариант, причина или действие невозможны либо неприемлемы. С местоимением объект ставится между rule и out."
+    }
+  },
+  {
+    "id": "pv_adv_051_account_for",
+    "order": 51,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "account for",
+    "translation": "объяснять; составлять долю",
+    "explanation": "Объяснять причину факта; составлять определённую долю общего количества; в пассивной конструкции be accounted for — быть найденным, учтённым или не числиться пропавшим.",
+    "patterns": [
+      "account for a difference",
+      "account for 40 per cent",
+      "all people/items are accounted for"
+    ],
+    "related": [
+      "explain — объяснять",
+      "constitute — составлять"
+    ],
+    "examples": [
+      {
+        "en": "How do you account for the sudden decline in sales?",
+        "ru": "Как вы объясните внезапное снижение продаж?"
+      },
+      {
+        "en": "Online orders account for nearly half of our revenue.",
+        "ru": "Онлайн-заказы составляют почти половину нашей выручки."
+      },
+      {
+        "en": "All the missing equipment has now been accounted for.",
+        "ru": "Теперь местонахождение всего пропавшего оборудования установлено."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "account the decline",
+      "right": "account for the decline",
+      "note": "Для значений «объяснять» и «составлять долю» требуется for. Be accounted for также означает, что человек или предмет найден, учтён и не считается пропавшим."
+    },
+    "quiz": {
+      "prompt": "Seasonal demand may ___ much of the variation.",
+      "options": [
+        "rule out",
+        "narrow down",
+        "account for",
+        "fend off"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: account for. Объяснять причину факта или составлять определённую часть общего количества. Для этих значений требуется for; be accounted for также может означать «быть найденным или учтённым»."
+    }
+  },
+  {
+    "id": "pv_adv_052_make_up_for",
+    "order": 52,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "make up for",
+    "translation": "компенсировать недостаток или потерю",
+    "explanation": "Сделать что-либо, что уменьшает последствия ошибки, потери, нехватки или неудобства.",
+    "patterns": [
+      "make up for lost time",
+      "make up for a mistake",
+      "more than make up for"
+    ],
+    "related": [
+      "compensate for — компенсировать",
+      "offset — уравновесить"
+    ],
+    "examples": [
+      {
+        "en": "The flexible schedule makes up for the lower salary.",
+        "ru": "Гибкий график компенсирует более низкую зарплату."
+      },
+      {
+        "en": "We worked late to make up for lost time.",
+        "ru": "Мы работали допоздна, чтобы наверстать потерянное время."
+      },
+      {
+        "en": "Her enthusiasm more than made up for her lack of experience.",
+        "ru": "Её энтузиазм с лихвой компенсировал недостаток опыта."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make up the delay",
+      "right": "make up for the delay",
+      "note": "Когда речь о компенсации, требуется for; make up без for имеет другие значения."
+    },
+    "quiz": {
+      "prompt": "A generous refund cannot fully ___ the inconvenience caused.",
+      "options": [
+        "account for",
+        "rule out",
+        "crack down on",
+        "make up for"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: make up for. Сделать что-либо, что уменьшает последствия ошибки, потери, нехватки или неудобства. Когда речь о компенсации, требуется for; make up без for имеет другие значения."
+    }
+  },
+  {
+    "id": "pv_adv_053_crack_down_on",
+    "order": 53,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "crack down on",
+    "translation": "жёстко пресечь; усилить меры против",
+    "explanation": "Начать строго применять правила или наказывать нежелательное поведение.",
+    "patterns": [
+      "crack down on fraud",
+      "a crackdown on crime",
+      "authorities crack down"
+    ],
+    "related": [
+      "clamp down on — ужесточить меры",
+      "take firm action against — принять строгие меры"
+    ],
+    "examples": [
+      {
+        "en": "Regulators are cracking down on misleading advertising.",
+        "ru": "Регуляторы усиливают меры против вводящей в заблуждение рекламы."
+      },
+      {
+        "en": "The city launched a campaign to crack down on illegal parking.",
+        "ru": "Город начал кампанию по борьбе с незаконной парковкой."
+      },
+      {
+        "en": "A severe crackdown on tax evasion was announced.",
+        "ru": "Было объявлено о жёстких мерах против уклонения от налогов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "crack down fraud",
+      "right": "crack down on fraud",
+      "note": "Перед объектом требуется on; существительное — crackdown on."
+    },
+    "quiz": {
+      "prompt": "The authorities promised to ___ companies that ignored safety rules.",
+      "options": [
+        "crack down on",
+        "make up for",
+        "account for",
+        "tide over"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильный ответ: crack down on. Начать строго применять правила или наказывать нежелательное поведение. Перед объектом требуется on; существительное — crackdown on."
+    }
+  },
+  {
+    "id": "pv_adv_054_fend_off",
+    "order": 54,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "fend off",
+    "translation": "отразить угрозу; временно предотвратить",
+    "explanation": "Успешно защититься от нападения, критики, болезни или нежелательного предложения.",
+    "patterns": [
+      "fend off an attack",
+      "fend somebody off",
+      "fend off criticism"
+    ],
+    "related": [
+      "ward off — предотвратить",
+      "repel — отразить"
+    ],
+    "examples": [
+      {
+        "en": "The company managed to fend off a hostile takeover bid.",
+        "ru": "Компания сумела отразить попытку недружественного поглощения."
+      },
+      {
+        "en": "She used humour to fend off awkward questions.",
+        "ru": "Она использовала юмор, чтобы уйти от неловких вопросов."
+      },
+      {
+        "en": "Regular exercise may help fend off illness.",
+        "ru": "Регулярные упражнения могут помочь предотвратить болезнь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fend off them",
+      "right": "fend them off",
+      "note": "Разделяемый глагол: местоимение ставится между fend и off."
+    },
+    "quiz": {
+      "prompt": "The defence team successfully ___ several attacks in the final minutes.",
+      "options": [
+        "narrowed down",
+        "fended off",
+        "accounted for",
+        "bailed out"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильный ответ: fended off. Успешно защититься от нападения, критики, болезни или нежелательного предложения. Разделяемый глагол: местоимение ставится между fend и off."
+    }
+  },
+  {
+    "id": "pv_adv_055_bail_out",
+    "order": 55,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "bail out",
+    "translation": "выручить финансово; покинуть ситуацию",
+    "explanation": "Предоставить деньги организации в кризисе; также выйти из обязательства или опасной ситуации.",
+    "patterns": [
+      "bail out a company",
+      "bail somebody out",
+      "bail out of a deal"
+    ],
+    "related": [
+      "rescue financially — финансово спасти",
+      "withdraw — выйти"
+    ],
+    "examples": [
+      {
+        "en": "The government refused to bail out the failing company.",
+        "ru": "Правительство отказалось финансово спасать терпящую крах компанию."
+      },
+      {
+        "en": "His parents repeatedly bailed him out when he got into financial trouble.",
+        "ru": "Родители неоднократно выручали его, когда он попадал в финансовые затруднения."
+      },
+      {
+        "en": "One investor bailed out of the project at the last minute.",
+        "ru": "Один инвестор вышел из проекта в последний момент."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "bail out from the deal",
+      "right": "bail out of the deal",
+      "note": "При значении «выйти из участия» используется of; при спасении человека — bail somebody out."
+    },
+    "quiz": {
+      "prompt": "The central bank intervened to ___ several institutions.",
+      "options": [
+        "tide over",
+        "rule out",
+        "bail out",
+        "narrow down"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильный ответ: bail out. Предоставить деньги организации в кризисе; также выйти из обязательства или опасной ситуации. При значении «выйти из участия» используется of; при спасении человека — bail somebody out."
+    }
+  },
+  {
+    "id": "pv_adv_056_tide_over",
+    "order": 56,
+    "level": "Advanced",
+    "category": "PROBLEMS_SOLUTIONS",
+    "phrase": "tide over",
+    "translation": "помочь пережить трудный период",
+    "explanation": "Предоставить временную поддержку, деньги или ресурсы, которых хватит до улучшения ситуации.",
+    "patterns": [
+      "tide somebody over",
+      "tide somebody over until payday",
+      "enough to tide us over"
+    ],
+    "related": [
+      "see through a difficult period — помочь пережить",
+      "bridge a gap — закрыть временный разрыв"
+    ],
+    "examples": [
+      {
+        "en": "This loan should tide us over until sales recover.",
+        "ru": "Этого займа должно хватить, чтобы продержаться до восстановления продаж."
+      },
+      {
+        "en": "A small grant helped tide the organisation over during the winter.",
+        "ru": "Небольшой грант помог организации пережить зиму."
+      },
+      {
+        "en": "Do you have enough cash to tide you over until payday?",
+        "ru": "У тебя достаточно денег, чтобы дотянуть до зарплаты?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "tide over us",
+      "right": "tide us over",
+      "note": "Это разделяемый глагол; местоимение ставится между tide и over."
+    },
+    "quiz": {
+      "prompt": "The emergency funding should ___ for the next three months.",
+      "options": [
+        "account for the charity",
+        "rule the charity out",
+        "crack down on the charity",
+        "tide the charity over"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильный ответ: tide the charity over. Tide somebody over — временно помочь человеку или организации пережить трудный период. С существительным и местоимением объект ставится между tide и over: tide the charity over, tide it over."
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a1_01",
+    "order": 1,
+    "level": "A1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "My brother ___ in Warsaw.",
+    "options": [
+      "live",
+      "lives",
+      "living",
+      "is live"
+    ],
+    "correct_index": 1,
+    "explanation": "В Present Simple после he/she/it к глаголу обычно добавляется -s: my brother lives."
+  },
+  {
+    "id": "a1_02",
+    "order": 2,
+    "level": "A1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "There ___ two chairs in the room.",
+    "options": [
+      "are",
+      "is",
+      "has",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "С существительным во множественном числе используется there are."
+  },
+  {
+    "id": "a1_03",
+    "order": 3,
+    "level": "A1",
+    "skill": "vocabulary",
+    "instruction": "Выберите слово, которое подходит по смыслу.",
+    "prompt": "I’m thirsty. Can I have a glass of ___?",
+    "options": [
+      "bread",
+      "rice",
+      "water",
+      "cheese"
+    ],
+    "correct_index": 2,
+    "explanation": "При жажде естественно попросить a glass of water."
+  },
+  {
+    "id": "a1_04",
+    "order": 4,
+    "level": "A1",
+    "skill": "reading",
+    "instruction": "Прочитайте объявление и выберите верный ответ.",
+    "prompt": "SATURDAY: The shop closes at 6 p.m.\n\nWhen can you buy something there on Saturday?",
+    "options": [
+      "At 6:30 p.m.",
+      "At 7 p.m.",
+      "At 8 p.m.",
+      "At 5:30 p.m."
+    ],
+    "correct_index": 3,
+    "explanation": "Магазин закрывается в 18:00, поэтому 17:30 подходит."
+  },
+  {
+    "id": "a2_01",
+    "order": 5,
+    "level": "A2",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "We ___ to the museum last Sunday.",
+    "options": [
+      "go",
+      "have gone",
+      "were going",
+      "went"
+    ],
+    "correct_index": 3,
+    "explanation": "Last Sunday указывает на завершённое прошлое; Past Simple от go — went."
+  },
+  {
+    "id": "a2_02",
+    "order": 6,
+    "level": "A2",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "This bag is ___ than mine.",
+    "options": [
+      "heavy",
+      "heaviest",
+      "heavier",
+      "more heavy"
+    ],
+    "correct_index": 2,
+    "explanation": "Сравнительная степень heavy образуется с заменой y на i: heavier."
+  },
+  {
+    "id": "a2_03",
+    "order": 7,
+    "level": "A2",
+    "skill": "vocabulary",
+    "instruction": "Выберите слово, которое естественно завершает фразу.",
+    "prompt": "Could you ___ me the salt, please?",
+    "options": [
+      "pass",
+      "borrow",
+      "spend",
+      "keep"
+    ],
+    "correct_index": 0,
+    "explanation": "За столом естественно сказать pass me the salt."
+  },
+  {
+    "id": "a2_04",
+    "order": 8,
+    "level": "A2",
+    "skill": "reading",
+    "instruction": "Прочитайте сообщение и выберите верный ответ.",
+    "prompt": "The 10:15 train has been cancelled. Passengers may use the 10:45 service with the same tickets.\n\nWhat should passengers do?",
+    "options": [
+      "Buy a new ticket for 10:15",
+      "Take the 10:45 train without buying another ticket",
+      "Wait until the next day",
+      "Ask for a taxi"
+    ],
+    "correct_index": 1,
+    "explanation": "Сообщение разрешает использовать тот же билет на поезд в 10:45."
+  },
+  {
+    "id": "b1_01",
+    "order": 9,
+    "level": "B1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "I ___ this laptop since 2022.",
+    "options": [
+      "had",
+      "am having",
+      "have had",
+      "have"
+    ],
+    "correct_index": 2,
+    "explanation": "Since 2022 обозначает период до настоящего момента; нужен Present Perfect: have had."
+  },
+  {
+    "id": "b1_02",
+    "order": 10,
+    "level": "B1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "If I ___ enough time this weekend, I’ll finish the course.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "would have"
+    ],
+    "correct_index": 0,
+    "explanation": "В первом условном предложении после if используется Present Simple: if I have."
+  },
+  {
+    "id": "b1_03",
+    "order": 11,
+    "level": "B1",
+    "skill": "use_of_english",
+    "instruction": "Выберите правильную форму.",
+    "prompt": "She apologised for ___ late.",
+    "options": [
+      "arrive",
+      "to arrive",
+      "arrived",
+      "arriving"
+    ],
+    "correct_index": 3,
+    "explanation": "После предлога for используется форма -ing: for arriving."
+  },
+  {
+    "id": "b1_04",
+    "order": 12,
+    "level": "B1",
+    "skill": "reading",
+    "instruction": "Прочитайте текст и выберите наиболее точный ответ.",
+    "prompt": "A neighbourhood group planned a community garden, but some residents worried about noise. The group changed the opening hours and promised that evening events would finish by eight. Most residents then supported the project.\n\nWhy did support increase?",
+    "options": [
+      "The garden became free to enter",
+      "The group responded to residents’ concerns",
+      "The project moved to another area",
+      "All evening events were cancelled"
+    ],
+    "correct_index": 1,
+    "explanation": "Поддержка выросла после того, как организаторы учли опасения жителей и изменили режим работы."
+  },
+  {
+    "id": "b2_01",
+    "order": 13,
+    "level": "B2",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "By the time the meeting started, several people ___.",
+    "options": [
+      "already left",
+      "had already left",
+      "have already left",
+      "were already leaving"
+    ],
+    "correct_index": 1,
+    "explanation": "Действие завершилось до другого момента в прошлом; нужен Past Perfect: had already left."
+  },
+  {
+    "id": "b2_02",
+    "order": 14,
+    "level": "B2",
+    "skill": "grammar",
+    "instruction": "Выберите грамматически правильный вариант.",
+    "prompt": "The proposal ___ unless more evidence is provided.",
+    "options": [
+      "unlikely approving",
+      "is unlikely approve",
+      "unlikely to approve",
+      "is unlikely to be approved"
+    ],
+    "correct_index": 3,
+    "explanation": "Нужна пассивная конструкция be unlikely to be + past participle."
+  },
+  {
+    "id": "b2_03",
+    "order": 15,
+    "level": "B2",
+    "skill": "vocabulary",
+    "instruction": "Выберите естественную коллокацию.",
+    "prompt": "The campaign aims to ___ awareness of online fraud.",
+    "options": [
+      "raise",
+      "make",
+      "grow",
+      "lift"
+    ],
+    "correct_index": 0,
+    "explanation": "Устойчивая коллокация — raise awareness."
+  },
+  {
+    "id": "b2_04",
+    "order": 16,
+    "level": "B2",
+    "skill": "reading",
+    "instruction": "Прочитайте текст и выберите вывод, который лучше всего ему соответствует.",
+    "prompt": "A pilot scheme reduced waiting times in one small hospital. However, the report warns that the sample was limited and the same results may not be achieved in larger hospitals.\n\nWhat does the report suggest?",
+    "options": [
+      "The scheme has failed completely",
+      "Large hospitals will certainly achieve better results",
+      "The results are promising but cannot yet be generalised",
+      "The hospital should immediately end the scheme"
+    ],
+    "correct_index": 2,
+    "explanation": "Результаты положительные, но ограниченная выборка не позволяет уверенно переносить их на другие больницы."
+  },
+  {
+    "id": "c1_01",
+    "order": 17,
+    "level": "C1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "Only after the audit ___ how extensive the problem was.",
+    "options": [
+      "did they realise",
+      "they realised",
+      "had they realised",
+      "they had realised"
+    ],
+    "correct_index": 0,
+    "explanation": "После начального ограничительного выражения Only after требуется инверсия: did they realise."
+  },
+  {
+    "id": "c1_02",
+    "order": 18,
+    "level": "C1",
+    "skill": "grammar",
+    "instruction": "Выберите правильный вариант.",
+    "prompt": "The data are believed ___ during the transfer.",
+    "options": [
+      "to be corrupted",
+      "to have been corrupted",
+      "having corrupted",
+      "to have corrupted"
+    ],
+    "correct_index": 1,
+    "explanation": "Для предположения о завершённом пассивном действии используется perfect passive infinitive: to have been corrupted."
+  },
+  {
+    "id": "c1_03",
+    "order": 19,
+    "level": "C1",
+    "skill": "vocabulary",
+    "instruction": "Выберите наиболее точное слово.",
+    "prompt": "The spokesperson’s explanation did little to ___ concerns about the policy.",
+    "options": [
+      "evade",
+      "suspend",
+      "dismiss",
+      "allay"
+    ],
+    "correct_index": 3,
+    "explanation": "Allay concerns означает ослабить или успокоить опасения."
+  },
+  {
+    "id": "c1_04",
+    "order": 20,
+    "level": "C1",
+    "skill": "reading",
+    "instruction": "Прочитайте фрагмент и выберите наиболее точное толкование позиции автора.",
+    "prompt": "The author does not dispute that automation can raise productivity; rather, she questions the assumption that its benefits will be distributed evenly without policy intervention.\n\nWhat is the author’s position?",
+    "options": [
+      "Automation cannot improve productivity",
+      "Government intervention always reduces productivity",
+      "Automation may improve productivity, but its benefits may be distributed unevenly",
+      "Automation will benefit everyone equally without intervention"
+    ],
+    "correct_index": 2,
+    "explanation": "Автор принимает возможный рост производительности, но сомневается в равномерном распределении выгод без вмешательства политики."
+  }
+]

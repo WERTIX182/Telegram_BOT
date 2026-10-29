@@ -1,0 +1,1420 @@
+[
+{
+"id": "mv_01",
+"order": 1,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Core modal form",
+"title_ru": "Форма основных модальных глаголов",
+"rule": "Основные модальные глаголы can, could, may, might, must, shall, should, will и would не получают окончания -s и обычно ставятся перед смысловым глаголом в начальной форме без to. Вопрос строится инверсией, а отрицание — добавлением not.",
+"patterns": [
+"modal + bare infinitive",
+"modal + not + bare infinitive",
+"Modal + subject + bare infinitive?"
+],
+"examples": [
+{
+"en": "She can swim very well.",
+"ru": "Она умеет очень хорошо плавать."
+},
+{
+"en": "He might arrive late.",
+"ru": "Возможно, он приедет поздно."
+},
+{
+"en": "Must we leave now?",
+"ru": "Мы должны уйти сейчас?"
+}
+],
+"common_mistake": {
+"wrong": "He cans speak French.",
+"right": "He can speak French.",
+"note": "После he/she/it модальный глагол не получает окончания -s."
+},
+"quizzes": [
+{
+"prompt": "She ___ speak three languages.",
+"options": [
+"can",
+"cans",
+"can to",
+"is can"
+],
+"correct_index": 0,
+"explanation": "После can используется начальная форма глагола; сам can не меняется по лицам."
+},
+{
+"prompt": "He might ___ us later.",
+"options": [
+"to call",
+"call",
+"calls",
+"calling"
+],
+"correct_index": 1,
+"explanation": "После might ставится bare infinitive: might call."
+}
+]
+},
+{
+"id": "mv_02",
+"order": 2,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Can for present ability",
+"title_ru": "Can: способность в настоящем",
+"rule": "Can выражает умение или реальную способность в настоящем. Отрицательная форма cannot / can’t показывает отсутствие такой способности.",
+"patterns": [
+"can + bare infinitive",
+"cannot / can’t + bare infinitive"
+],
+"examples": [
+{
+"en": "My sister can drive.",
+"ru": "Моя сестра умеет водить."
+},
+{
+"en": "I can’t hear you clearly.",
+"ru": "Я не могу хорошо тебя слышать."
+},
+{
+"en": "Can your son read yet?",
+"ru": "Твой сын уже умеет читать?"
+}
+],
+"common_mistake": {
+"wrong": "She can to drive.",
+"right": "She can drive.",
+"note": "После can частица to не употребляется."
+},
+"quizzes": [
+{
+"prompt": "My sister ___ drive, but she does not own a car.",
+"options": [
+"could",
+"is able",
+"can",
+"can to"
+],
+"correct_index": 2,
+"explanation": "Речь идёт о способности в настоящем: can drive."
+},
+{
+"prompt": "I can’t ___ this box; it is too heavy.",
+"options": [
+"to lift",
+"lifting",
+"lifted",
+"lift"
+],
+"correct_index": 3,
+"explanation": "После can’t используется начальная форма без to: can’t lift."
+}
+]
+},
+{
+"id": "mv_03",
+"order": 3,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Could and was able to",
+"title_ru": "Could и was able to в прошлом",
+"rule": "Could обычно описывает общую или повторяющуюся способность в прошлом. Для одного конкретного успешного действия с action verbs чаще используются was/were able to или managed to. Could остаётся обычным в отрицании и часто встречается с глаголами восприятия и мышления.",
+"patterns": [
+"could + bare infinitive — общая способность",
+"was/were able to + infinitive — конкретный успех",
+"couldn’t + bare infinitive — неспособность"
+],
+"examples": [
+{
+"en": "At six, she could already read.",
+"ru": "В шесть лет она уже умела читать."
+},
+{
+"en": "Despite the smoke, the firefighters were able to rescue everyone.",
+"ru": "Несмотря на дым, пожарным удалось спасти всех."
+},
+{
+"en": "I couldn’t open the door last night.",
+"ru": "Вчера вечером я не смог открыть дверь."
+}
+],
+"common_mistake": {
+"wrong": "After two hours, we could fix the engine.",
+"right": "After two hours, we were able to fix the engine.",
+"note": "Для конкретного успешно завершённого действия обычно выбирают was/were able to или managed to."
+},
+"quizzes": [
+{
+"prompt": "When I was a child, I ___ run ten kilometres without stopping.",
+"options": [
+"could",
+"was able",
+"can",
+"could to"
+],
+"correct_index": 0,
+"explanation": "Для общей способности в прошлом используется could."
+},
+{
+"prompt": "Despite the strong current, the swimmer ___ reach the shore.",
+"options": [
+"could",
+"was able to",
+"was capable",
+"can"
+],
+"correct_index": 1,
+"explanation": "Для единичного реального успеха естественно was able to reach."
+}
+]
+},
+{
+"id": "mv_04",
+"order": 4,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Permission: can, could and may",
+"title_ru": "Разрешение: can, could и may",
+"rule": "Can обычно используется для повседневного разрешения. Could делает просьбу о разрешении более вежливой, а may звучит формальнее. May not в официальном контексте может обозначать отсутствие разрешения.",
+"patterns": [
+"Can I ...? — нейтрально",
+"Could I ...? — вежливее",
+"May I ...? — формально",
+"may not — не разрешается"
+],
+"examples": [
+{
+"en": "Can I sit here?",
+"ru": "Можно мне сесть здесь?"
+},
+{
+"en": "Could I leave a little early?",
+"ru": "Можно мне уйти немного раньше?"
+},
+{
+"en": "May I ask a question?",
+"ru": "Позвольте задать вопрос?"
+}
+],
+"common_mistake": {
+"wrong": "May I to come in?",
+"right": "May I come in?",
+"note": "После may используется начальная форма без to."
+},
+"quizzes": [
+{
+"prompt": "In a formal meeting, ___ I add one point?",
+"options": [
+"Must",
+"Should",
+"May",
+"Am"
+],
+"correct_index": 2,
+"explanation": "May I ...? — формальный способ попросить разрешение."
+},
+{
+"prompt": "The notice says visitors ___ take photographs inside the gallery.",
+"options": [
+"do not have to",
+"could not",
+"should not",
+"may not"
+],
+"correct_index": 3,
+"explanation": "May not здесь означает, что фотографировать не разрешается."
+}
+]
+},
+{
+"id": "mv_05",
+"order": 5,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Polite requests",
+"title_ru": "Вежливые просьбы",
+"rule": "Просьбы можно строить с can, could, will и would. Could и would обычно звучат мягче. После Would you mind используется форма -ing, а конструкция I was wondering if ... часто сочетается с could.",
+"patterns": [
+"Can/Could you + bare infinitive?",
+"Will/Would you + bare infinitive?",
+"Would you mind + -ing?",
+"I was wondering if you could ..."
+],
+"examples": [
+{
+"en": "Could you open the window, please?",
+"ru": "Не могли бы вы открыть окно?"
+},
+{
+"en": "Would you mind waiting outside?",
+"ru": "Вы не возражаете подождать снаружи?"
+},
+{
+"en": "I was wondering if you could help me.",
+"ru": "Я хотел узнать, не могли бы вы мне помочь."
+}
+],
+"common_mistake": {
+"wrong": "Would you mind to wait?",
+"right": "Would you mind waiting?",
+"note": "После mind употребляется форма -ing."
+},
+"quizzes": [
+{
+"prompt": "___ you mind closing the door?",
+"options": [
+"Would",
+"Could",
+"Will",
+"Should"
+],
+"correct_index": 0,
+"explanation": "Устойчивая вежливая модель: Would you mind + -ing?"
+},
+{
+"prompt": "Could you possibly ___ these figures before noon?",
+"options": [
+"to check",
+"check",
+"checking",
+"checked"
+],
+"correct_index": 1,
+"explanation": "После could используется начальная форма без to: could check."
+}
+]
+},
+{
+"id": "mv_06",
+"order": 6,
+"level": "A2-B1",
+"category": "FORM",
+"title_en": "Offers and suggestions",
+"title_ru": "Предложения помощи и идеи",
+"rule": "Shall I ...? используется для предложения помощи, а Shall we ...? — для совместного предложения, особенно в британском английском. Could вводит один из возможных вариантов действия.",
+"patterns": [
+"Shall I + bare infinitive?",
+"Shall we + bare infinitive?",
+"We could + bare infinitive"
+],
+"examples": [
+{
+"en": "Shall I carry that bag for you?",
+"ru": "Мне понести эту сумку?"
+},
+{
+"en": "Shall we meet at six?",
+"ru": "Встретимся в шесть?"
+},
+{
+"en": "We could try the new café.",
+"ru": "Мы могли бы попробовать новое кафе."
+}
+],
+"common_mistake": {
+"wrong": "Shall we to order now?",
+"right": "Shall we order now?",
+"note": "После shall используется начальная форма без to."
+},
+"quizzes": [
+{
+"prompt": "___ I carry that bag for you?",
+"options": [
+"May",
+"Must",
+"Shall",
+"Should"
+],
+"correct_index": 2,
+"explanation": "Shall I ...? используется, когда говорящий предлагает что-то сделать."
+},
+{
+"prompt": "We ___ try the new café if you like.",
+"options": [
+"must",
+"have to",
+"cannot",
+"could"
+],
+"correct_index": 3,
+"explanation": "Could выражает возможное предложение, а не обязанность."
+}
+]
+},
+{
+"id": "mv_07",
+"order": 7,
+"level": "A2-B1",
+"category": "OBLIGATION",
+"title_en": "Must, have to and tense",
+"title_ru": "Must, have to и время",
+"rule": "Must и have to выражают необходимость. Must часто передаёт требование или сильную позицию говорящего, а have to — необходимость из-за правил или обстоятельств. Для прошлого и будущего обычно нужны had to и will have to.",
+"patterns": [
+"must / have to + bare infinitive",
+"had to + bare infinitive",
+"will have to + bare infinitive"
+],
+"examples": [
+{
+"en": "I must remember to call Anna.",
+"ru": "Я должен не забыть позвонить Анне."
+},
+{
+"en": "We have to wear ID badges at work.",
+"ru": "На работе мы обязаны носить пропуска."
+},
+{
+"en": "They will have to apply again next year.",
+"ru": "В следующем году им придётся подать заявление снова."
+}
+],
+"common_mistake": {
+"wrong": "Yesterday I must work late.",
+"right": "Yesterday I had to work late.",
+"note": "Для обязанности в прошлом используется had to."
+},
+"quizzes": [
+{
+"prompt": "Yesterday we ___ submit the form before noon.",
+"options": [
+"had to",
+"must",
+"have to",
+"must have"
+],
+"correct_index": 0,
+"explanation": "Yesterday требует прошедшей формы необходимости: had to."
+},
+{
+"prompt": "Next year, drivers ___ pay the new fee.",
+"options": [
+"would have to",
+"will have to",
+"had to",
+"have had to"
+],
+"correct_index": 1,
+"explanation": "Для будущей необходимости в этом прямом утверждении используется will have to."
+}
+]
+},
+{
+"id": "mv_08",
+"order": 8,
+"level": "A2-B1",
+"category": "OBLIGATION",
+"title_en": "Mustn’t vs don’t have to",
+"title_ru": "Mustn’t и don’t have to",
+"rule": "Mustn’t означает строгий запрет: действие нельзя совершать. Don’t/doesn’t have to означает отсутствие необходимости: действие можно не делать, но оно не запрещено.",
+"patterns": [
+"mustn’t + bare infinitive — запрещено",
+"don’t/doesn’t have to + bare infinitive — необязательно"
+],
+"examples": [
+{
+"en": "You mustn’t touch this switch.",
+"ru": "Тебе нельзя трогать этот выключатель."
+},
+{
+"en": "You don’t have to bring a towel; the hotel provides one.",
+"ru": "Тебе не нужно брать полотенце: отель его предоставляет."
+},
+{
+"en": "Visitors mustn’t feed the animals.",
+"ru": "Посетителям запрещено кормить животных."
+}
+],
+"common_mistake": {
+"wrong": "You mustn’t come if you are busy.",
+"right": "You don’t have to come if you are busy.",
+"note": "Если речь об отсутствии необходимости, используется don’t have to, а не mustn’t."
+},
+"quizzes": [
+{
+"prompt": "The hotel provides towels, so you ___ bring one.",
+"options": [
+"must not",
+"cannot",
+"do not have to",
+"should not"
+],
+"correct_index": 2,
+"explanation": "Полотенце брать необязательно: do not have to."
+},
+{
+"prompt": "Passengers ___ open the door while the train is moving.",
+"options": [
+"do not have to",
+"need not",
+"would not",
+"must not"
+],
+"correct_index": 3,
+"explanation": "Это запрет, поэтому используется must not."
+}
+]
+},
+{
+"id": "mv_09",
+"order": 9,
+"level": "A2-B1",
+"category": "OBLIGATION",
+"title_en": "Should and ought to",
+"title_ru": "Should и ought to: совет",
+"rule": "Should и ought to используются для советов, рекомендаций и того, что говорящий считает правильным. После should ставится bare infinitive, после ought — to-infinitive.",
+"patterns": [
+"should + bare infinitive",
+"ought to + bare infinitive",
+"shouldn’t / ought not to"
+],
+"examples": [
+{
+"en": "You should get more sleep.",
+"ru": "Тебе стоит больше спать."
+},
+{
+"en": "We ought to check the figures again.",
+"ru": "Нам следует ещё раз проверить цифры."
+},
+{
+"en": "You shouldn’t ignore that warning.",
+"ru": "Тебе не следует игнорировать это предупреждение."
+}
+],
+"common_mistake": {
+"wrong": "You should to see a doctor.",
+"right": "You should see a doctor.",
+"note": "После should частица to не употребляется."
+},
+"quizzes": [
+{
+"prompt": "You look exhausted. You ___ take a break.",
+"options": [
+"should",
+"must not",
+"cannot",
+"do not need"
+],
+"correct_index": 0,
+"explanation": "Should выражает разумный совет."
+},
+{
+"prompt": "We ought ___ the data again.",
+"options": [
+"check",
+"to check",
+"checking",
+"checked"
+],
+"correct_index": 1,
+"explanation": "После ought требуется to-infinitive: ought to check."
+}
+]
+},
+{
+"id": "mv_10",
+"order": 10,
+"level": "A2-B1",
+"category": "OBLIGATION",
+"title_en": "Had better",
+"title_ru": "Had better: настоятельный совет",
+"rule": "Had better выражает настоятельный совет или предупреждение о возможных неприятных последствиях. После had better используется bare infinitive; отрицание — had better not.",
+"patterns": [
+"had better + bare infinitive",
+"had better not + bare infinitive"
+],
+"examples": [
+{
+"en": "You had better leave now.",
+"ru": "Тебе лучше уйти сейчас."
+},
+{
+"en": "We had better not miss the last train.",
+"ru": "Нам лучше не опоздать на последний поезд."
+},
+{
+"en": "She’d better take an umbrella.",
+"ru": "Ей лучше взять зонт."
+}
+],
+"common_mistake": {
+"wrong": "You had better to apologise.",
+"right": "You had better apologise.",
+"note": "После had better частица to не используется."
+},
+"quizzes": [
+{
+"prompt": "You’d better ___ now, or you will miss the bus.",
+"options": [
+"to leave",
+"leaving",
+"leave",
+"left"
+],
+"correct_index": 2,
+"explanation": "После had better используется начальная форма: better leave."
+},
+{
+"prompt": "We’d better not ___ the deadline.",
+"options": [
+"to miss",
+"missing",
+"missed",
+"miss"
+],
+"correct_index": 3,
+"explanation": "После had better not ставится bare infinitive: not miss."
+}
+]
+},
+{
+"id": "mv_11",
+"order": 11,
+"level": "A2-B1",
+"category": "OBLIGATION",
+"title_en": "Need, needn’t and don’t need to",
+"title_ru": "Need, needn’t и don’t need to",
+"rule": "Need to — обычный глагол со значением необходимости. Needn’t — модальная форма со значением «нет необходимости» и требует bare infinitive. Don’t need to передаёт то же основное значение, но строится как обычный глагол.",
+"patterns": [
+"need to + bare infinitive",
+"needn’t + bare infinitive",
+"don’t/doesn’t need to + bare infinitive"
+],
+"examples": [
+{
+"en": "You need to show your passport.",
+"ru": "Тебе нужно предъявить паспорт."
+},
+{
+"en": "You needn’t bring any food.",
+"ru": "Тебе не нужно приносить еду."
+},
+{
+"en": "She doesn’t need to book in advance.",
+"ru": "Ей не нужно бронировать заранее."
+}
+],
+"common_mistake": {
+"wrong": "You needn’t to wait.",
+"right": "You needn’t wait.",
+"note": "После модального needn’t частица to не ставится."
+},
+"quizzes": [
+{
+"prompt": "Everything is ready, so you ___ bring any equipment.",
+"options": [
+"need not",
+"must not",
+"cannot",
+"should"
+],
+"correct_index": 0,
+"explanation": "Need not означает, что приносить оборудование нет необходимости."
+},
+{
+"prompt": "You do not need ___ the document.",
+"options": [
+"print",
+"to print",
+"printing",
+"printed"
+],
+"correct_index": 1,
+"explanation": "После do not need используется to-infinitive: do not need to print."
+}
+]
+},
+{
+"id": "mv_12",
+"order": 12,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Will: willingness, promises and offers",
+"title_ru": "Will: готовность, обещания и предложения",
+"rule": "Will используется не только для будущего. Он может выражать готовность, обещание или предложение говорящего. Won’t иногда описывает отказ человека или «нежелание» предмета работать.",
+"patterns": [
+"I’ll + bare infinitive — обещание/предложение",
+"Will you + bare infinitive? — просьба",
+"won’t + bare infinitive — отказ/неисправность"
+],
+"examples": [
+{
+"en": "I’ll help you with the report.",
+"ru": "Я помогу тебе с отчётом."
+},
+{
+"en": "I promise I won’t tell anyone.",
+"ru": "Обещаю, я никому не скажу."
+},
+{
+"en": "The car won’t start.",
+"ru": "Машина никак не заводится."
+}
+],
+"common_mistake": {
+"wrong": "I will to call you tonight.",
+"right": "I will call you tonight.",
+"note": "После will используется bare infinitive."
+},
+"quizzes": [
+{
+"prompt": "I promise I ___ send the file tonight.",
+"options": [
+"would",
+"must",
+"will",
+"might"
+],
+"correct_index": 2,
+"explanation": "Will здесь выражает обещание."
+},
+{
+"prompt": "The printer ___ work, no matter what I do.",
+"options": [
+"must not",
+"should not",
+"need not",
+"will not"
+],
+"correct_index": 3,
+"explanation": "Won’t work может описывать отказ устройства работать."
+}
+]
+},
+{
+"id": "mv_13",
+"order": 13,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Would for past habits",
+"title_ru": "Would и повторяющиеся действия в прошлом",
+"rule": "Would может описывать повторяющиеся действия в прошлом, особенно в рассказах. Для состояний обычно используется used to, а не would. Контекст должен ясно показывать прошлое.",
+"patterns": [
+"would + bare infinitive — повторяющееся действие",
+"used to + bare infinitive — действие или состояние"
+],
+"examples": [
+{
+"en": "Every summer, we would stay with our grandparents.",
+"ru": "Каждое лето мы гостили у бабушки и дедушки."
+},
+{
+"en": "After dinner, Dad would read to us.",
+"ru": "После ужина папа обычно читал нам."
+},
+{
+"en": "I used to believe that story.",
+"ru": "Раньше я верил в эту историю."
+}
+],
+"common_mistake": {
+"wrong": "When I was young, I would know everyone in the village.",
+"right": "When I was young, I used to know everyone in the village.",
+"note": "Would обычно не употребляется для прошлых состояний вроде know, believe или own."
+},
+"quizzes": [
+{
+"prompt": "When we lived in York, our neighbours ___ invite us for dinner every winter.",
+"options": [
+"would",
+"will",
+"must",
+"may"
+],
+"correct_index": 0,
+"explanation": "При ясном прошлом контексте would описывает повторявшуюся привычку."
+},
+{
+"prompt": "As a child, I ___ believe that the moon followed our car.",
+"options": [
+"would",
+"used to",
+"was used to",
+"use to"
+],
+"correct_index": 1,
+"explanation": "Believe обозначает состояние, поэтому естественно used to, а не would."
+}
+]
+},
+{
+"id": "mv_14",
+"order": 14,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "May, might and could for possibility",
+"title_ru": "May, might и could: возможность",
+"rule": "May, might и could могут выражать возможность в настоящем или будущем. May часто звучит формальнее; might иногда передаёт более осторожное предположение, но точная степень уверенности зависит от контекста.",
+"patterns": [
+"may/might/could + bare infinitive",
+"may/might/could be + -ing"
+],
+"examples": [
+{
+"en": "It might rain later.",
+"ru": "Возможно, позже пойдёт дождь."
+},
+{
+"en": "The delay may affect the schedule.",
+"ru": "Задержка может повлиять на расписание."
+},
+{
+"en": "She could be working from home today.",
+"ru": "Возможно, сегодня она работает из дома."
+}
+],
+"common_mistake": {
+"wrong": "It might to rain.",
+"right": "It might rain.",
+"note": "После might используется bare infinitive."
+},
+"quizzes": [
+{
+"prompt": "Take an umbrella; it ___ rain later.",
+"options": [
+"must not",
+"has to",
+"might",
+"is able to"
+],
+"correct_index": 2,
+"explanation": "Might выражает реальную, но не определённую возможность."
+},
+{
+"prompt": "There could ___ delays because of the storm.",
+"options": [
+"to be",
+"being",
+"been",
+"be"
+],
+"correct_index": 3,
+"explanation": "После could используется начальная форма be."
+}
+]
+},
+{
+"id": "mv_15",
+"order": 15,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Present deduction: must and can’t",
+"title_ru": "Вывод о настоящем: must и can’t",
+"rule": "Must выражает сильный положительный вывод на основе фактов. Can’t выражает сильный отрицательный вывод: говорящий считает ситуацию практически невозможной. Для такого отрицательного вывода обычно не используется mustn’t.",
+"patterns": [
+"must + bare infinitive — почти наверняка да",
+"can’t + bare infinitive — практически невозможно"
+],
+"examples": [
+{
+"en": "Her coat is here, so she must be nearby.",
+"ru": "Её пальто здесь, значит, она, должно быть, неподалёку."
+},
+{
+"en": "That can’t be Leo; he is abroad.",
+"ru": "Это не может быть Лео: он за границей."
+},
+{
+"en": "They must know the answer.",
+"ru": "Они, должно быть, знают ответ."
+}
+],
+"common_mistake": {
+"wrong": "He mustn’t be at home; all the lights are off.",
+"right": "He can’t be at home; all the lights are off.",
+"note": "Для отрицательного логического вывода используется can’t, а mustn’t обозначает запрет."
+},
+"quizzes": [
+{
+"prompt": "The house is dark and the car is gone. They ___ be at home.",
+"options": [
+"cannot",
+"must",
+"should",
+"have to"
+],
+"correct_index": 0,
+"explanation": "Факты указывают, что их практически наверняка нет дома: cannot be."
+},
+{
+"prompt": "Her phone and bag are still here. She ___ be nearby.",
+"options": [
+"might not",
+"must",
+"cannot",
+"need not"
+],
+"correct_index": 1,
+"explanation": "Must показывает сильный вывод на основе видимых доказательств."
+}
+]
+},
+{
+"id": "mv_16",
+"order": 16,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Should for expectation",
+"title_ru": "Should: ожидаемый результат",
+"rule": "Should может выражать не совет, а обоснованное ожидание: по нормальному ходу событий что-то, вероятно, произойдёт. Эта уверенность слабее, чем вывод с must.",
+"patterns": [
+"should + bare infinitive — ожидается",
+"should be + -ing — ожидаемое текущее действие"
+],
+"examples": [
+{
+"en": "The train should arrive in ten minutes.",
+"ru": "Поезд должен прибыть через десять минут."
+},
+{
+"en": "The parcel should be here tomorrow.",
+"ru": "Посылка, вероятно, будет здесь завтра."
+},
+{
+"en": "They should be finishing the meeting soon.",
+"ru": "Они, вероятно, скоро заканчивают встречу."
+}
+],
+"common_mistake": {
+"wrong": "The parcel should to arrive tomorrow.",
+"right": "The parcel should arrive tomorrow.",
+"note": "После should используется bare infinitive."
+},
+"quizzes": [
+{
+"prompt": "The parcel was sent yesterday, so it ___ arrive tomorrow.",
+"options": [
+"must not",
+"cannot",
+"should",
+"need not"
+],
+"correct_index": 2,
+"explanation": "Should передаёт разумное ожидание на основе обычного хода событий."
+},
+{
+"prompt": "Given the light traffic, we should ___ there by six.",
+"options": [
+"to be",
+"being",
+"been",
+"be"
+],
+"correct_index": 3,
+"explanation": "После should используется bare infinitive be."
+}
+]
+},
+{
+"id": "mv_17",
+"order": 17,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Be able to across tenses",
+"title_ru": "Be able to в разных временах",
+"rule": "Be able to заменяет can там, где нужна форма будущего, Present Perfect, инфинитив после другого глагола или другая грамматическая форма, которой у can нет.",
+"patterns": [
+"will be able to",
+"have/has been able to",
+"want/need to be able to",
+"might be able to"
+],
+"examples": [
+{
+"en": "She will be able to join us next week.",
+"ru": "Она сможет присоединиться к нам на следующей неделе."
+},
+{
+"en": "I haven’t been able to contact him.",
+"ru": "Мне пока не удалось с ним связаться."
+},
+{
+"en": "We might be able to finish today.",
+"ru": "Возможно, мы сможем закончить сегодня."
+}
+],
+"common_mistake": {
+"wrong": "I will can help tomorrow.",
+"right": "I will be able to help tomorrow.",
+"note": "Два модальных глагола подряд не употребляются; для будущего нужна конструкция be able to."
+},
+"quizzes": [
+{
+"prompt": "By next month, she ___ speak confidently in meetings.",
+"options": [
+"will be able to",
+"will can",
+"can to",
+"is able"
+],
+"correct_index": 0,
+"explanation": "После will используется be able to, а не can."
+},
+{
+"prompt": "We have not ___ contact the supplier yet.",
+"options": [
+"could",
+"been able to",
+"be able",
+"able to"
+],
+"correct_index": 1,
+"explanation": "После have not нужна форма been able to."
+}
+]
+},
+{
+"id": "mv_18",
+"order": 18,
+"level": "B1-B2",
+"category": "MODALITY",
+"title_en": "Be allowed to across tenses",
+"title_ru": "Be allowed to в разных временах",
+"rule": "Be allowed to используется для разрешения в тех временных и грамматических формах, где may/can неудобны: в прошлом, будущем, после других модальных глаголов и в инфинитиве.",
+"patterns": [
+"was/were allowed to",
+"will be allowed to",
+"may be allowed to",
+"want to be allowed to"
+],
+"examples": [
+{
+"en": "We were allowed to leave early.",
+"ru": "Нам разрешили уйти раньше."
+},
+{
+"en": "Registered users will be allowed to download the file.",
+"ru": "Зарегистрированным пользователям разрешат скачать файл."
+},
+{
+"en": "You may be allowed to retake the test.",
+"ru": "Возможно, вам разрешат пересдать тест."
+}
+],
+"common_mistake": {
+"wrong": "We will can enter later.",
+"right": "We will be allowed to enter later.",
+"note": "Для разрешения в будущем используется will be allowed to."
+},
+"quizzes": [
+{
+"prompt": "At school, we ___ use phones during lessons.",
+"options": [
+"could not to",
+"did not allowed to",
+"were not allowed to",
+"must not"
+],
+"correct_index": 2,
+"explanation": "Для правила в прошлом используется were not allowed to."
+},
+{
+"prompt": "Once registered, you ___ access the archive.",
+"options": [
+"will can",
+"can to",
+"are allow",
+"will be allowed to"
+],
+"correct_index": 3,
+"explanation": "Будущее разрешение выражается через will be allowed to."
+}
+]
+},
+{
+"id": "mv_19",
+"order": 19,
+"level": "B1-B2",
+"category": "OBLIGATION",
+"title_en": "Past obligation and permission",
+"title_ru": "Обязанность и разрешение в прошлом",
+"rule": "Had to выражает необходимость в прошлом. Didn’t have to означает, что необходимости не было. Wasn’t/weren’t allowed to означает запрет или отсутствие разрешения в прошлом.",
+"patterns": [
+"had to + bare infinitive",
+"didn’t have to + bare infinitive",
+"wasn’t/weren’t allowed to + bare infinitive"
+],
+"examples": [
+{
+"en": "The bus was cancelled, so we had to walk.",
+"ru": "Автобус отменили, поэтому нам пришлось идти пешком."
+},
+{
+"en": "The fee was waived, so I didn’t have to pay.",
+"ru": "Плату отменили, поэтому мне не пришлось платить."
+},
+{
+"en": "Visitors weren’t allowed to enter the laboratory.",
+"ru": "Посетителям не разрешали входить в лабораторию."
+}
+],
+"common_mistake": {
+"wrong": "Yesterday we must leave early.",
+"right": "Yesterday we had to leave early.",
+"note": "Must не имеет обычной прошедшей формы; для прошлой обязанности используется had to."
+},
+"quizzes": [
+{
+"prompt": "The last train was cancelled, so we ___ take a taxi.",
+"options": [
+"had to",
+"must",
+"have to",
+"must have"
+],
+"correct_index": 0,
+"explanation": "Прошлая необходимость из-за обстоятельств выражается had to."
+},
+{
+"prompt": "The company covered the cost, so we ___ pay anything.",
+"options": [
+"must not",
+"did not have to",
+"were not allowed to",
+"had not to"
+],
+"correct_index": 1,
+"explanation": "Необходимости платить не было: did not have to."
+}
+]
+},
+{
+"id": "mv_20",
+"order": 20,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "Should have and shouldn’t have",
+"title_ru": "Should have и shouldn’t have",
+"rule": "Should have + past participle говорит о правильном или ожидаемом действии в прошлом, которое не произошло. Shouldn’t have + past participle критикует действие, которое произошло, но было ошибочным.",
+"patterns": [
+"should have + past participle",
+"shouldn’t have + past participle"
+],
+"examples": [
+{
+"en": "You should have told me earlier.",
+"ru": "Тебе следовало сказать мне раньше."
+},
+{
+"en": "I shouldn’t have eaten so much.",
+"ru": "Мне не следовало так много есть."
+},
+{
+"en": "The report should have arrived by now.",
+"ru": "По идее, отчёт уже должен был прийти."
+}
+],
+"common_mistake": {
+"wrong": "You should told me.",
+"right": "You should have told me.",
+"note": "Для оценки прошлого используется modal + have + past participle."
+},
+"quizzes": [
+{
+"prompt": "You ___ me about the change; I could have prepared.",
+"options": [
+"should tell",
+"must tell",
+"should have told",
+"had told"
+],
+"correct_index": 2,
+"explanation": "Речь о действии, которое следовало выполнить в прошлом: should have told."
+},
+{
+"prompt": "I ___ that message while I was angry.",
+"options": [
+"must not send",
+"did not need to send",
+"cannot have sent",
+"should not have sent"
+],
+"correct_index": 3,
+"explanation": "Сообщение было отправлено, но это оценивается как ошибка: should not have sent."
+}
+]
+},
+{
+"id": "mv_21",
+"order": 21,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "Past deduction: must have and can’t have",
+"title_ru": "Вывод о прошлом: must have и can’t have",
+"rule": "Must have + past participle выражает сильный положительный вывод о прошлом. Can’t/couldn’t have + past participle выражает сильный отрицательный вывод: событие считается невозможным на основании фактов.",
+"patterns": [
+"must have + past participle",
+"can’t/couldn’t have + past participle"
+],
+"examples": [
+{
+"en": "She must have left already; her office is empty.",
+"ru": "Она, должно быть, уже ушла: её кабинет пуст."
+},
+{
+"en": "He can’t have seen the email; it was sent to the wrong address.",
+"ru": "Он не мог видеть письмо: его отправили не на тот адрес."
+},
+{
+"en": "They must have taken a different route.",
+"ru": "Они, должно быть, выбрали другой маршрут."
+}
+],
+"common_mistake": {
+"wrong": "He mustn’t have seen it.",
+"right": "He can’t have seen it.",
+"note": "Mustn’t обычно обозначает запрет; для отрицательного вывода о прошлом используется can’t have."
+},
+"quizzes": [
+{
+"prompt": "The lights were off and the door was locked. They ___ already.",
+"options": [
+"must have left",
+"should leave",
+"might be leaving",
+"had to leave"
+],
+"correct_index": 0,
+"explanation": "Сильные признаки позволяют сделать вывод: must have left."
+},
+{
+"prompt": "Mia was abroad that week, so she ___ the meeting.",
+"options": [
+"must not attend",
+"cannot have attended",
+"should not attend",
+"did not have to attend"
+],
+"correct_index": 1,
+"explanation": "Факт пребывания за границей делает участие невозможным: cannot have attended."
+}
+]
+},
+{
+"id": "mv_22",
+"order": 22,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "May, might and could have",
+"title_ru": "May, might и could have",
+"rule": "May have, might have и could have + past participle выражают возможное объяснение прошлого, когда говорящий не уверен, что именно произошло. May have обычно немного формальнее; выбор зависит от контекста.",
+"patterns": [
+"may/might/could have + past participle",
+"may/might/could not have + past participle"
+],
+"examples": [
+{
+"en": "She might have missed the train.",
+"ru": "Возможно, она опоздала на поезд."
+},
+{
+"en": "The error may have affected the results.",
+"ru": "Возможно, ошибка повлияла на результаты."
+},
+{
+"en": "They could have taken the wrong turning.",
+"ru": "Возможно, они свернули не туда."
+}
+],
+"common_mistake": {
+"wrong": "She might has forgotten.",
+"right": "She might have forgotten.",
+"note": "После модального глагола используется have, затем past participle."
+},
+"quizzes": [
+{
+"prompt": "She is not answering. She ___ asleep.",
+"options": [
+"must fall",
+"should be falling",
+"might have fallen",
+"is able to fall"
+],
+"correct_index": 2,
+"explanation": "Might have fallen выражает возможное объяснение прошлого."
+},
+{
+"prompt": "They may have ___ the wrong train.",
+"options": [
+"took",
+"take",
+"taking",
+"taken"
+],
+"correct_index": 3,
+"explanation": "После may have требуется past participle: taken."
+}
+]
+},
+{
+"id": "mv_23",
+"order": 23,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "Could have: unrealised possibility",
+"title_ru": "Could have: нереализованная возможность",
+"rule": "Could have + past participle может обозначать возможность или способность в прошлом, которой не воспользовались. В упрёке конструкция показывает, что человек мог поступить иначе.",
+"patterns": [
+"could have + past participle",
+"couldn’t have + past participle"
+],
+"examples": [
+{
+"en": "We could have won, but we made two mistakes.",
+"ru": "Мы могли бы выиграть, но допустили две ошибки."
+},
+{
+"en": "You could have called me.",
+"ru": "Ты мог бы мне позвонить."
+},
+{
+"en": "The delay could have been avoided.",
+"ru": "Задержки можно было избежать."
+}
+],
+"common_mistake": {
+"wrong": "You could called me.",
+"right": "You could have called me.",
+"note": "Для нереализованной возможности в прошлом нужна форма could have + past participle."
+},
+"quizzes": [
+{
+"prompt": "You ___ me that the meeting had been cancelled.",
+"options": [
+"could have told",
+"would have told",
+"were able to tell",
+"might have told"
+],
+"correct_index": 0,
+"explanation": "В упрёке could have told означает, что возможность сообщить была, но действие не произошло."
+},
+{
+"prompt": "With more time, we could have ___ the analysis.",
+"options": [
+"finish",
+"finished",
+"finishing",
+"been finish"
+],
+"correct_index": 1,
+"explanation": "После could have используется past participle: finished."
+}
+]
+},
+{
+"id": "mv_24",
+"order": 24,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "Needn’t have done vs didn’t need to",
+"title_ru": "Needn’t have done и didn’t need to",
+"rule": "Needn’t have + past participle означает, что действие произошло, но оказалось ненужным. Didn’t need to + infinitive сообщает, что необходимости не было; контекст часто показывает, что действие не выполнялось.",
+"patterns": [
+"needn’t have + past participle — сделали зря",
+"didn’t need to + bare infinitive — необходимости не было"
+],
+"examples": [
+{
+"en": "I needn’t have bought milk; there was plenty at home.",
+"ru": "Мне не нужно было покупать молоко: дома его было достаточно."
+},
+{
+"en": "The meeting was cancelled, so we didn’t need to travel.",
+"ru": "Встречу отменили, поэтому нам не пришлось ехать."
+},
+{
+"en": "You needn’t have worried; everything was fine.",
+"ru": "Тебе не нужно было беспокоиться: всё было хорошо."
+}
+],
+"common_mistake": {
+"wrong": "I didn’t need to buy it, but I bought it anyway.",
+"right": "I needn’t have bought it.",
+"note": "Если действие точно произошло и было лишним, точнее needn’t have done."
+},
+"quizzes": [
+{
+"prompt": "I bought a ticket, but admission was free. I ___.",
+"options": [
+"did not need to buy one",
+"must not have bought one",
+"needn’t have bought one",
+"could not buy one"
+],
+"correct_index": 2,
+"explanation": "Билет был куплен, но зря: needn’t have bought one."
+},
+{
+"prompt": "The interview was online, so we stayed home and ___ to the office.",
+"options": [
+"need not have travelled",
+"must not travel",
+"could not have travelled",
+"did not need to travel"
+],
+"correct_index": 3,
+"explanation": "Контекст прямо показывает, что поездка не состоялась: did not need to travel."
+}
+]
+},
+{
+"id": "mv_25",
+"order": 25,
+"level": "B2-C1",
+"category": "PERFECT",
+"title_en": "Progressive and passive modal forms",
+"title_ru": "Продолженные и пассивные формы после модальных глаголов",
+"rule": "После модального глагола могут стоять progressive, perfect progressive и passive infinitive forms. Modal + be + -ing описывает возможное или предполагаемое действие в процессе; modal + have been + -ing — процесс до момента в прошлом; modal + be/have been + past participle — пассив.",
+"patterns": [
+"modal + be + -ing",
+"modal + have been + -ing",
+"modal + be + past participle",
+"modal + have been + past participle"
+],
+"examples": [
+{
+"en": "She may be working from home today.",
+"ru": "Возможно, сегодня она работает из дома."
+},
+{
+"en": "They must have been waiting for hours.",
+"ru": "Они, должно быть, ждали несколько часов."
+},
+{
+"en": "The data should have been checked before publication.",
+"ru": "Данные следовало проверить до публикации."
+}
+],
+"common_mistake": {
+"wrong": "The figures should have checked.",
+"right": "The figures should have been checked.",
+"note": "В пассивной modal perfect form требуется have been + past participle."
+},
+"quizzes": [
+{
+"prompt": "Do not call now; she may ___.",
+"options": [
+"be sleeping",
+"sleeping",
+"to sleep",
+"been sleeping"
+],
+"correct_index": 0,
+"explanation": "Для возможного действия в процессе используется may be + -ing."
+},
+{
+"prompt": "The figures should have ___ before publication.",
+"options": [
+"verified",
+"been verified",
+"be verified",
+"been verifying"
+],
+"correct_index": 1,
+"explanation": "Пассивная форма о прошлом: should have been verified."
+}
+]
+}
+]

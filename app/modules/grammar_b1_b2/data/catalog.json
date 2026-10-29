@@ -1,0 +1,10 @@
+{
+  "course_id": "grammar_b1_b2_v1",
+  "course_version": "2026-07-v1",
+  "total_topics": 70,
+  "total_quizzes": 210,
+  "levels": {
+    "B1": 35,
+    "B2": 35
+  }
+}

@@ -1,0 +1,4370 @@
+[
+{
+"base_card_id": "pv_int_001_wake_up",
+"card_order": 1,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "wake up",
+"translation": "просыпаться; будить",
+"questions": [
+{
+"id": "pv_int_001_wake_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ обычно просыпаюсь до звонка будильника.",
+"options": [
+"I usually wake up before the alarm rings.",
+"You must hand in the essay by Friday.",
+"Could you speak up? I cannot hear you.",
+"Come in and take a seat."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «wake up» — «просыпаться; будить». Правильное предложение: I usually wake up before the alarm rings.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_001_wake_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nPlease wake me up at seven.",
+"options": [
+"сдавать работу или документ",
+"просыпаться; будить",
+"говорить громче; высказываться",
+"входить"
+],
+"correct_index": 1,
+"explanation": "Здесь «wake up» означает «просыпаться; будить». Контекст: Пожалуйста, разбуди меня в семь.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_002_get_up",
+"card_order": 2,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "get up",
+"translation": "вставать с постели",
+"questions": [
+{
+"id": "pv_int_002_get_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ проснулся в шесть, но встал только в половине седьмого.",
+"options": [
+"I looked up the word in an online dictionary.",
+"She pointed out a mistake in the report.",
+"I woke up at six but did not get up until half past six.",
+"We rarely go out during the week."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «get up» — «вставать с постели». Правильное предложение: I woke up at six but did not get up until half past six.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_002_get_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWhat time do you get up on weekdays?",
+"options": [
+"искать информацию в справочнике или системе",
+"указывать; обращать внимание",
+"выходить; идти куда-либо развлекаться",
+"вставать с постели"
+],
+"correct_index": 3,
+"explanation": "Здесь «get up» означает «вставать с постели». Контекст: Во сколько ты встаёшь по будням?",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_003_put_on",
+"card_order": 3,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "put on",
+"translation": "надевать; включать",
+"questions": [
+{
+"id": "pv_int_003_put_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНадень куртку: на улице холодно.",
+"options": [
+"Put on a jacket; it is cold outside.",
+"We need to find out why the system failed.",
+"She brought up the budget during the meeting.",
+"What time will you come back?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «put on» — «надевать; включать». Правильное предложение: Put on a jacket; it is cold outside.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_003_put_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe put her glasses on to read the label.",
+"options": [
+"выяснять; узнавать",
+"надевать; включать",
+"поднимать тему",
+"возвращаться к говорящему или исходной точке"
+],
+"correct_index": 1,
+"explanation": "Здесь «put on» означает «надевать; включать». Контекст: Она надела очки, чтобы прочитать этикетку.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_004_take_off",
+"card_order": 4,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "take off",
+"translation": "снимать; взлетать",
+"questions": [
+{
+"id": "pv_int_004_take_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПожалуйста, снимите обувь у двери.",
+"options": [
+"We finally worked out the answer.",
+"The diagram helps get the main idea across.",
+"Please take off your shoes at the door.",
+"I need to go back to the office."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «take off» — «снимать; взлетать». Правильное предложение: Please take off your shoes at the door.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_004_take_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe took his wet jacket off.",
+"options": [
+"решить; вычислить; разобраться",
+"ясно донести мысль",
+"возвращаться туда",
+"снимать; взлетать"
+],
+"correct_index": 3,
+"explanation": "Здесь «take off» означает «снимать; взлетать». Контекст: Он снял мокрую куртку.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_005_turn_on",
+"card_order": 5,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "turn on",
+"translation": "включать",
+"questions": [
+{
+"id": "pv_int_005_turn_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе мог бы ты включить свет на кухне?",
+"options": [
+"Could you turn on the kitchen light?",
+"The university carried out a large survey.",
+"I am in a meeting; can I call you back?",
+"The new tenants move in next Saturday."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «turn on» — «включать». Правильное предложение: Could you turn on the kitchen light?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_005_turn_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe turned the computer on and checked her email.",
+"options": [
+"проводить; выполнять",
+"включать",
+"перезванивать",
+"въезжать в новое жильё"
+],
+"correct_index": 1,
+"explanation": "Здесь «turn on» означает «включать». Контекст: Она включила компьютер и проверила почту.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_006_turn_off",
+"card_order": 6,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "turn off",
+"translation": "выключать",
+"questions": [
+{
+"id": "pv_int_006_turn_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВыключи духовку, когда прозвенит таймер.",
+"options": [
+"She reads every day to keep up with the course.",
+"Do not hang up; I need to ask one more question.",
+"Turn off the oven when the timer rings.",
+"Our neighbours moved out last week."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «turn off» — «выключать». Правильное предложение: Turn off the oven when the timer rings.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_006_turn_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI turned my phone off during the meeting.",
+"options": [
+"не отставать от; успевать следить за",
+"заканчивать телефонный разговор",
+"съезжать из жилья",
+"выключать"
+],
+"correct_index": 3,
+"explanation": "Здесь «turn off» означает «выключать». Контекст: Я выключил телефон во время встречи.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_007_clean_up",
+"card_order": 7,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "clean up",
+"translation": "убирать; приводить в порядок",
+"questions": [
+{
+"id": "pv_int_007_clean_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам нужно убрать после вечеринки.",
+"options": [
+"We need to clean up after the party.",
+"I spent Sunday catching up on emails.",
+"We were cut off in the middle of the call.",
+"Would you like to come over for coffee?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «clean up» — «убирать; приводить в порядок». Правильное предложение: We need to clean up after the party.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_007_clean_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe children cleaned their room up before lunch.",
+"options": [
+"наверстать; сделать накопившееся",
+"убирать; приводить в порядок",
+"прерывать; разъединять",
+"заходить в гости"
+],
+"correct_index": 1,
+"explanation": "Здесь «clean up» означает «убирать; приводить в порядок». Контекст: Дети убрали свою комнату до обеда.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_008_run_out_of",
+"card_order": 8,
+"level_code": "i",
+"level": "Intermediate",
+"category": "DAILY",
+"phrasal_verb": "run out of",
+"translation": "исчерпать запас; остаться без",
+"questions": [
+{
+"id": "pv_int_008_run_out_of_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nУ нас закончился кофе.",
+"options": [
+"They put off the meeting until next week.",
+"Can you fill me in on what happened?",
+"We have run out of coffee.",
+"I ran into an old classmate at the station."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «run out of» — «исчерпать запас; остаться без». Правильное предложение: We have run out of coffee.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_008_run_out_of_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI am running out of time.",
+"options": [
+"откладывать",
+"ввести в курс дела",
+"случайно встретить",
+"исчерпать запас; остаться без"
+],
+"correct_index": 3,
+"explanation": "Здесь «run out of» означает «исчерпать запас; остаться без». Контекст: У меня заканчивается время.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_009_hand_in",
+"card_order": 9,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "hand in",
+"translation": "сдавать работу или документ",
+"questions": [
+{
+"id": "pv_int_009_hand_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВы должны сдать эссе к пятнице.",
+"options": [
+"You must hand in the essay by Friday.",
+"We set off before sunrise.",
+"I get along well with my neighbours.",
+"We need to deal with this complaint quickly."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «hand in» — «сдавать работу или документ». Правильное предложение: You must hand in the essay by Friday.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_009_hand_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI handed my application in yesterday.",
+"options": [
+"отправляться в путь",
+"сдавать работу или документ",
+"ладить с кем-либо",
+"иметь дело с; решать проблему"
+],
+"correct_index": 1,
+"explanation": "Здесь «hand in» означает «сдавать работу или документ». Контекст: Я подал заявление вчера.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_010_look_up",
+"card_order": 10,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "look up",
+"translation": "искать информацию в справочнике или системе",
+"questions": [
+{
+"id": "pv_int_010_look_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ посмотрел это слово в онлайн-словаре.",
+"options": [
+"You can check in online twenty-four hours before the flight.",
+"She fell out with a close friend over money.",
+"I looked up the word in an online dictionary.",
+"We need to sort out the payment problem."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «look up» — «искать информацию в справочнике или системе». Правильное предложение: I looked up the word in an online dictionary.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_010_look_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nCan you look the train times up?",
+"options": [
+"регистрироваться в отеле или на рейс",
+"поссориться с кем-либо",
+"разобраться; уладить",
+"искать информацию в справочнике или системе"
+],
+"correct_index": 3,
+"explanation": "Здесь «look up» означает «искать информацию в справочнике или системе». Контекст: Ты можешь посмотреть расписание поездов?",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_011_find_out",
+"card_order": 11,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "find out",
+"translation": "выяснять; узнавать",
+"questions": [
+{
+"id": "pv_int_011_find_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам нужно выяснить, почему система дала сбой.",
+"options": [
+"We need to find out why the system failed.",
+"Guests must check out by eleven.",
+"They argued in the morning but made up by lunchtime.",
+"I cannot figure out how this app works."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «find out» — «выяснять; узнавать». Правильное предложение: We need to find out why the system failed.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_011_find_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI found out about the course through a friend.",
+"options": [
+"выписываться из отеля",
+"выяснять; узнавать",
+"помириться",
+"понять; найти решение"
+],
+"correct_index": 1,
+"explanation": "Здесь «find out» означает «выяснять; узнавать». Контекст: Я узнал о курсе от друга.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_012_work_out",
+"card_order": 12,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "work out",
+"translation": "решить; вычислить; разобраться",
+"questions": [
+{
+"id": "pv_int_012_work_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы наконец нашли ответ.",
+"options": [
+"We got on the train at platform six.",
+"Cheer up; things may improve tomorrow.",
+"We finally worked out the answer.",
+"Do not give up after one mistake."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «work out» — «решить; вычислить; разобраться». Правильное предложение: We finally worked out the answer.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_012_work_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nCan you work out how much we owe?",
+"options": [
+"садиться в транспорт; входить",
+"взбодриться; подбодрить",
+"сдаваться; прекращать попытки",
+"решить; вычислить; разобраться"
+],
+"correct_index": 3,
+"explanation": "Здесь «work out» означает «решить; вычислить; разобраться». Контекст: Ты можешь рассчитать, сколько мы должны?",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_013_carry_out",
+"card_order": 13,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "carry out",
+"translation": "проводить; выполнять",
+"questions": [
+{
+"id": "pv_int_013_carry_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nУниверситет провёл крупный опрос.",
+"options": [
+"The university carried out a large survey.",
+"We get off at the next station.",
+"Take a few deep breaths and calm down.",
+"Please carry on with your work."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «carry out» — «проводить; выполнять». Правильное предложение: The university carried out a large survey.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_013_carry_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nEngineers will carry out safety checks tomorrow.",
+"options": [
+"выходить из транспорта",
+"проводить; выполнять",
+"успокаиваться; успокаивать",
+"продолжать"
+],
+"correct_index": 1,
+"explanation": "Здесь «carry out» означает «проводить; выполнять». Контекст: Инженеры завтра проведут проверку безопасности.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_014_keep_up_with",
+"card_order": 14,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "keep up with",
+"translation": "не отставать от; успевать следить за",
+"questions": [
+{
+"id": "pv_int_014_keep_up_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна читает каждый день, чтобы не отставать от курса.",
+"options": [
+"I will pick you up outside the station.",
+"Could you look after my cat this weekend?",
+"She reads every day to keep up with the course.",
+"It took him weeks to get over the flu."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «keep up with» — «не отставать от; успевать следить за». Правильное предложение: She reads every day to keep up with the course.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_014_keep_up_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nIt is difficult to keep up with changes in technology.",
+"options": [
+"забирать; подбирать",
+"заботиться; присматривать",
+"оправиться; преодолеть",
+"не отставать от; успевать следить за"
+],
+"correct_index": 3,
+"explanation": "Здесь «keep up with» означает «не отставать от; успевать следить за». Контекст: Трудно успевать за изменениями в технологиях.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_015_catch_up_on",
+"card_order": 15,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "catch up on",
+"translation": "наверстать; сделать накопившееся",
+"questions": [
+{
+"id": "pv_int_015_catch_up_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ провёл воскресенье, разбирая накопившиеся письма.",
+"options": [
+"I spent Sunday catching up on emails.",
+"Could you drop me off near the entrance?",
+"Her family stood by her throughout the trial.",
+"Our car broke down on the way home."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «catch up on» — «наверстать; сделать накопившееся». Правильное предложение: I spent Sunday catching up on emails.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_015_catch_up_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe needs to catch up on the lessons she missed.",
+"options": [
+"высаживать; доставлять по пути",
+"наверстать; сделать накопившееся",
+"поддерживать; оставаться верным",
+"ломаться; переставать работать"
+],
+"correct_index": 1,
+"explanation": "Здесь «catch up on» означает «наверстать; сделать накопившееся». Контекст: Ей нужно наверстать пропущенные уроки.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_016_put_off",
+"card_order": 16,
+"level_code": "i",
+"level": "Intermediate",
+"category": "WORK_STUDY",
+"phrasal_verb": "put off",
+"translation": "откладывать",
+"questions": [
+{
+"id": "pv_int_016_put_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОни отложили встречу до следующей недели.",
+"options": [
+"We stopped over in Dubai on the way to Australia.",
+"I am sorry I let you down.",
+"They put off the meeting until next week.",
+"We need to come up with a better plan."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «put off» — «откладывать». Правильное предложение: They put off the meeting until next week.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_016_put_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nDo not put the decision off for too long.",
+"options": [
+"останавливаться в пути на короткое время",
+"подвести; разочаровать",
+"придумывать; предлагать",
+"откладывать"
+],
+"correct_index": 3,
+"explanation": "Здесь «put off» означает «откладывать». Контекст: Не откладывай решение слишком надолго.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_017_set_off",
+"card_order": 17,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "set off",
+"translation": "отправляться в путь",
+"questions": [
+{
+"id": "pv_int_017_set_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы отправились в путь до восхода солнца.",
+"options": [
+"We set off before sunrise.",
+"Could you speak up? I cannot hear you.",
+"Come in and take a seat.",
+"I usually wake up before the alarm rings."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «set off» — «отправляться в путь». Правильное предложение: We set off before sunrise.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_017_set_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey set off for the coast after breakfast.",
+"options": [
+"говорить громче; высказываться",
+"отправляться в путь",
+"входить",
+"просыпаться; будить"
+],
+"correct_index": 1,
+"explanation": "Здесь «set off» означает «отправляться в путь». Контекст: После завтрака они отправились к побережью.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_018_check_in",
+"card_order": 18,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "check in",
+"translation": "регистрироваться в отеле или на рейс",
+"questions": [
+{
+"id": "pv_int_018_check_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВы можете зарегистрироваться онлайн за двадцать четыре часа до рейса.",
+"options": [
+"She pointed out a mistake in the report.",
+"We rarely go out during the week.",
+"You can check in online twenty-four hours before the flight.",
+"I woke up at six but did not get up until half past six."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «check in» — «регистрироваться в отеле или на рейс». Правильное предложение: You can check in online twenty-four hours before the flight.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_018_check_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe checked in at the hotel just after three.",
+"options": [
+"указывать; обращать внимание",
+"выходить; идти куда-либо развлекаться",
+"вставать с постели",
+"регистрироваться в отеле или на рейс"
+],
+"correct_index": 3,
+"explanation": "Здесь «check in» означает «регистрироваться в отеле или на рейс». Контекст: Мы зарегистрировались в отеле сразу после трёх.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_019_check_out",
+"card_order": 19,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "check out",
+"translation": "выписываться из отеля",
+"questions": [
+{
+"id": "pv_int_019_check_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nГости должны выписаться до одиннадцати.",
+"options": [
+"Guests must check out by eleven.",
+"She brought up the budget during the meeting.",
+"What time will you come back?",
+"Put on a jacket; it is cold outside."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «check out» — «выписываться из отеля». Правильное предложение: Guests must check out by eleven.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_019_check_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe checked out of the hotel and left our bags at reception.",
+"options": [
+"поднимать тему",
+"выписываться из отеля",
+"возвращаться к говорящему или исходной точке",
+"надевать; включать"
+],
+"correct_index": 1,
+"explanation": "Здесь «check out» означает «выписываться из отеля». Контекст: Мы выписались из отеля и оставили сумки на стойке регистрации.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_020_get_on",
+"card_order": 20,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "get on",
+"translation": "садиться в транспорт; входить",
+"questions": [
+{
+"id": "pv_int_020_get_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы сели на поезд на шестой платформе.",
+"options": [
+"The diagram helps get the main idea across.",
+"I need to go back to the office.",
+"We got on the train at platform six.",
+"Please take off your shoes at the door."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «get on» — «садиться в транспорт; входить». Правильное предложение: We got on the train at platform six.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_020_get_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nMore passengers got on at the next stop.",
+"options": [
+"ясно донести мысль",
+"возвращаться туда",
+"снимать; взлетать",
+"садиться в транспорт; входить"
+],
+"correct_index": 3,
+"explanation": "Здесь «get on» означает «садиться в транспорт; входить». Контекст: На следующей остановке вошло ещё больше пассажиров.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_021_get_off",
+"card_order": 21,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "get off",
+"translation": "выходить из транспорта",
+"questions": [
+{
+"id": "pv_int_021_get_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы выходим на следующей станции.",
+"options": [
+"We get off at the next station.",
+"I am in a meeting; can I call you back?",
+"The new tenants move in next Saturday.",
+"Could you turn on the kitchen light?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «get off» — «выходить из транспорта». Правильное предложение: We get off at the next station.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_021_get_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe got off the bus near the museum.",
+"options": [
+"перезванивать",
+"выходить из транспорта",
+"въезжать в новое жильё",
+"включать"
+],
+"correct_index": 1,
+"explanation": "Здесь «get off» означает «выходить из транспорта». Контекст: Она вышла из автобуса возле музея.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_022_pick_up",
+"card_order": 22,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "pick up",
+"translation": "забирать; подбирать",
+"questions": [
+{
+"id": "pv_int_022_pick_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ заберу тебя у вокзала.",
+"options": [
+"Do not hang up; I need to ask one more question.",
+"Our neighbours moved out last week.",
+"I will pick you up outside the station.",
+"Turn off the oven when the timer rings."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «pick up» — «забирать; подбирать». Правильное предложение: I will pick you up outside the station.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_022_pick_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe shuttle picks passengers up every half hour.",
+"options": [
+"заканчивать телефонный разговор",
+"съезжать из жилья",
+"выключать",
+"забирать; подбирать"
+],
+"correct_index": 3,
+"explanation": "Здесь «pick up» означает «забирать; подбирать». Контекст: Шаттл забирает пассажиров каждые полчаса.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_023_drop_off",
+"card_order": 23,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "drop off",
+"translation": "высаживать; доставлять по пути",
+"questions": [
+{
+"id": "pv_int_023_drop_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе мог бы ты высадить меня возле входа?",
+"options": [
+"Could you drop me off near the entrance?",
+"We were cut off in the middle of the call.",
+"Would you like to come over for coffee?",
+"We need to clean up after the party."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «drop off» — «высаживать; доставлять по пути». Правильное предложение: Could you drop me off near the entrance?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_023_drop_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe dropped the children off at school.",
+"options": [
+"прерывать; разъединять",
+"высаживать; доставлять по пути",
+"заходить в гости",
+"убирать; приводить в порядок"
+],
+"correct_index": 1,
+"explanation": "Здесь «drop off» означает «высаживать; доставлять по пути». Контекст: Она отвезла детей в школу.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_024_stop_over",
+"card_order": 24,
+"level_code": "i",
+"level": "Intermediate",
+"category": "TRAVEL",
+"phrasal_verb": "stop over",
+"translation": "останавливаться в пути на короткое время",
+"questions": [
+{
+"id": "pv_int_024_stop_over_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы сделали остановку в Дубае по пути в Австралию.",
+"options": [
+"Can you fill me in on what happened?",
+"I ran into an old classmate at the station.",
+"We stopped over in Dubai on the way to Australia.",
+"We have run out of coffee."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «stop over» — «останавливаться в пути на короткое время». Правильное предложение: We stopped over in Dubai on the way to Australia.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_024_stop_over_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey stopped over for one night before continuing north.",
+"options": [
+"ввести в курс дела",
+"случайно встретить",
+"исчерпать запас; остаться без",
+"останавливаться в пути на короткое время"
+],
+"correct_index": 3,
+"explanation": "Здесь «stop over» означает «останавливаться в пути на короткое время». Контекст: Они остановились на одну ночь, прежде чем продолжить путь на север.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_025_speak_up",
+"card_order": 25,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "speak up",
+"translation": "говорить громче; высказываться",
+"questions": [
+{
+"id": "pv_int_025_speak_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе могли бы вы говорить громче? Я вас не слышу.",
+"options": [
+"Could you speak up? I cannot hear you.",
+"I get along well with my neighbours.",
+"We need to deal with this complaint quickly.",
+"You must hand in the essay by Friday."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «speak up» — «говорить громче; высказываться». Правильное предложение: Could you speak up? I cannot hear you.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_025_speak_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nEmployees should feel able to speak up about safety concerns.",
+"options": [
+"ладить с кем-либо",
+"говорить громче; высказываться",
+"иметь дело с; решать проблему",
+"сдавать работу или документ"
+],
+"correct_index": 1,
+"explanation": "Здесь «speak up» означает «говорить громче; высказываться». Контекст: Сотрудники должны иметь возможность открыто говорить о проблемах безопасности.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_026_point_out",
+"card_order": 26,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "point out",
+"translation": "указывать; обращать внимание",
+"questions": [
+{
+"id": "pv_int_026_point_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна указала на ошибку в отчёте.",
+"options": [
+"She fell out with a close friend over money.",
+"We need to sort out the payment problem.",
+"She pointed out a mistake in the report.",
+"I looked up the word in an online dictionary."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «point out» — «указывать; обращать внимание». Правильное предложение: She pointed out a mistake in the report.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_026_point_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI should point out that the figures are preliminary.",
+"options": [
+"поссориться с кем-либо",
+"разобраться; уладить",
+"искать информацию в справочнике или системе",
+"указывать; обращать внимание"
+],
+"correct_index": 3,
+"explanation": "Здесь «point out» означает «указывать; обращать внимание». Контекст: Следует отметить, что эти цифры предварительные.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_027_bring_up",
+"card_order": 27,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "bring up",
+"translation": "поднимать тему",
+"questions": [
+{
+"id": "pv_int_027_bring_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна подняла вопрос бюджета во время встречи.",
+"options": [
+"She brought up the budget during the meeting.",
+"They argued in the morning but made up by lunchtime.",
+"I cannot figure out how this app works.",
+"We need to find out why the system failed."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «bring up» — «поднимать тему». Правильное предложение: She brought up the budget during the meeting.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_027_bring_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI did not want to bring the problem up at dinner.",
+"options": [
+"помириться",
+"поднимать тему",
+"понять; найти решение",
+"выяснять; узнавать"
+],
+"correct_index": 1,
+"explanation": "Здесь «bring up» означает «поднимать тему». Контекст: Я не хотел поднимать эту проблему за ужином.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_028_get_across",
+"card_order": 28,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "get across",
+"translation": "ясно донести мысль",
+"questions": [
+{
+"id": "pv_int_028_get_across_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСхема помогает ясно донести основную идею.",
+"options": [
+"Cheer up; things may improve tomorrow.",
+"Do not give up after one mistake.",
+"The diagram helps get the main idea across.",
+"We finally worked out the answer."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «get across» — «ясно донести мысль». Правильное предложение: The diagram helps get the main idea across.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_028_get_across_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe struggled to get his point across in English.",
+"options": [
+"взбодриться; подбодрить",
+"сдаваться; прекращать попытки",
+"решить; вычислить; разобраться",
+"ясно донести мысль"
+],
+"correct_index": 3,
+"explanation": "Здесь «get across» означает «ясно донести мысль». Контекст: Ему было трудно донести свою мысль на английском.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_029_call_back",
+"card_order": 29,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "call back",
+"translation": "перезванивать",
+"questions": [
+{
+"id": "pv_int_029_call_back_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ на встрече; можно я тебе перезвоню?",
+"options": [
+"I am in a meeting; can I call you back?",
+"Take a few deep breaths and calm down.",
+"Please carry on with your work.",
+"The university carried out a large survey."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «call back» — «перезванивать». Правильное предложение: I am in a meeting; can I call you back?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_029_call_back_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe called the customer back within ten minutes.",
+"options": [
+"успокаиваться; успокаивать",
+"перезванивать",
+"продолжать",
+"проводить; выполнять"
+],
+"correct_index": 1,
+"explanation": "Здесь «call back» означает «перезванивать». Контекст: Она перезвонила клиенту в течение десяти минут.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_030_hang_up",
+"card_order": 30,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "hang up",
+"translation": "заканчивать телефонный разговор",
+"questions": [
+{
+"id": "pv_int_030_hang_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе вешай трубку: мне нужно задать ещё один вопрос.",
+"options": [
+"Could you look after my cat this weekend?",
+"It took him weeks to get over the flu.",
+"Do not hang up; I need to ask one more question.",
+"She reads every day to keep up with the course."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «hang up» — «заканчивать телефонный разговор». Правильное предложение: Do not hang up; I need to ask one more question.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_030_hang_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe hung up before I could reply.",
+"options": [
+"заботиться; присматривать",
+"оправиться; преодолеть",
+"не отставать от; успевать следить за",
+"заканчивать телефонный разговор"
+],
+"correct_index": 3,
+"explanation": "Здесь «hang up» означает «заканчивать телефонный разговор». Контекст: Он положил трубку, прежде чем я успел ответить.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_031_cut_off",
+"card_order": 31,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "cut off",
+"translation": "прерывать; разъединять",
+"questions": [
+{
+"id": "pv_int_031_cut_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСвязь оборвалась в середине разговора.",
+"options": [
+"We were cut off in the middle of the call.",
+"Her family stood by her throughout the trial.",
+"Our car broke down on the way home.",
+"I spent Sunday catching up on emails."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «cut off» — «прерывать; разъединять». Правильное предложение: We were cut off in the middle of the call.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_031_cut_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nPlease do not cut me off while I am explaining.",
+"options": [
+"поддерживать; оставаться верным",
+"прерывать; разъединять",
+"ломаться; переставать работать",
+"наверстать; сделать накопившееся"
+],
+"correct_index": 1,
+"explanation": "Здесь «cut off» означает «прерывать; разъединять». Контекст: Пожалуйста, не перебивай меня, пока я объясняю.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_032_fill_in",
+"card_order": 32,
+"level_code": "i",
+"level": "Intermediate",
+"category": "COMMUNICATION",
+"phrasal_verb": "fill in",
+"translation": "ввести в курс дела",
+"questions": [
+{
+"id": "pv_int_032_fill_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМожешь ввести меня в курс того, что произошло?",
+"options": [
+"I am sorry I let you down.",
+"We need to come up with a better plan.",
+"Can you fill me in on what happened?",
+"They put off the meeting until next week."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «fill in» — «ввести в курс дела». Правильное предложение: Can you fill me in on what happened?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_032_fill_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI will fill the new manager in before the meeting.",
+"options": [
+"подвести; разочаровать",
+"придумывать; предлагать",
+"откладывать",
+"ввести в курс дела"
+],
+"correct_index": 3,
+"explanation": "Здесь «fill in» означает «ввести в курс дела». Контекст: Я введу нового руководителя в курс дела перед встречей.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_033_get_along_with",
+"card_order": 33,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "get along with",
+"translation": "ладить с кем-либо",
+"questions": [
+{
+"id": "pv_int_033_get_along_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ хорошо лажу с соседями.",
+"options": [
+"I get along well with my neighbours.",
+"Come in and take a seat.",
+"I usually wake up before the alarm rings.",
+"We set off before sunrise."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «get along with» — «ладить с кем-либо». Правильное предложение: I get along well with my neighbours.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_033_get_along_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nDo you get along with your new manager?",
+"options": [
+"входить",
+"ладить с кем-либо",
+"просыпаться; будить",
+"отправляться в путь"
+],
+"correct_index": 1,
+"explanation": "Здесь «get along with» означает «ладить с кем-либо». Контекст: Ты ладишь со своим новым руководителем?",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_034_fall_out_with",
+"card_order": 34,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "fall out with",
+"translation": "поссориться с кем-либо",
+"questions": [
+{
+"id": "pv_int_034_fall_out_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна поссорилась с близкой подругой из-за денег.",
+"options": [
+"We rarely go out during the week.",
+"I woke up at six but did not get up until half past six.",
+"She fell out with a close friend over money.",
+"You can check in online twenty-four hours before the flight."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «fall out with» — «поссориться с кем-либо». Правильное предложение: She fell out with a close friend over money.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_034_fall_out_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey had fallen out and were not speaking.",
+"options": [
+"выходить; идти куда-либо развлекаться",
+"вставать с постели",
+"регистрироваться в отеле или на рейс",
+"поссориться с кем-либо"
+],
+"correct_index": 3,
+"explanation": "Здесь «fall out with» означает «поссориться с кем-либо». Контекст: Они поссорились и не разговаривали.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_035_make_up",
+"card_order": 35,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "make up",
+"translation": "помириться",
+"questions": [
+{
+"id": "pv_int_035_make_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОни поссорились утром, но к обеду помирились.",
+"options": [
+"They argued in the morning but made up by lunchtime.",
+"What time will you come back?",
+"Put on a jacket; it is cold outside.",
+"Guests must check out by eleven."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «make up» — «помириться». Правильное предложение: They argued in the morning but made up by lunchtime.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_035_make_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI hope you make up with your sister soon.",
+"options": [
+"возвращаться к говорящему или исходной точке",
+"помириться",
+"надевать; включать",
+"выписываться из отеля"
+],
+"correct_index": 1,
+"explanation": "Здесь «make up» означает «помириться». Контекст: Надеюсь, ты скоро помиришься с сестрой.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_036_cheer_up",
+"card_order": 36,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "cheer up",
+"translation": "взбодриться; подбодрить",
+"questions": [
+{
+"id": "pv_int_036_cheer_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе унывай: завтра всё может стать лучше.",
+"options": [
+"I need to go back to the office.",
+"Please take off your shoes at the door.",
+"Cheer up; things may improve tomorrow.",
+"We got on the train at platform six."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «cheer up» — «взбодриться; подбодрить». Правильное предложение: Cheer up; things may improve tomorrow.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_036_cheer_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe message from her friend cheered her up.",
+"options": [
+"возвращаться туда",
+"снимать; взлетать",
+"садиться в транспорт; входить",
+"взбодриться; подбодрить"
+],
+"correct_index": 3,
+"explanation": "Здесь «cheer up» означает «взбодриться; подбодрить». Контекст: Сообщение от подруги подняло ей настроение.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_037_calm_down",
+"card_order": 37,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "calm down",
+"translation": "успокаиваться; успокаивать",
+"questions": [
+{
+"id": "pv_int_037_calm_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСделай несколько глубоких вдохов и успокойся.",
+"options": [
+"Take a few deep breaths and calm down.",
+"The new tenants move in next Saturday.",
+"Could you turn on the kitchen light?",
+"We get off at the next station."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «calm down» — «успокаиваться; успокаивать». Правильное предложение: Take a few deep breaths and calm down.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_037_calm_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nIt took several minutes to calm the child down.",
+"options": [
+"въезжать в новое жильё",
+"успокаиваться; успокаивать",
+"включать",
+"выходить из транспорта"
+],
+"correct_index": 1,
+"explanation": "Здесь «calm down» означает «успокаиваться; успокаивать». Контекст: Потребовалось несколько минут, чтобы успокоить ребёнка.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_038_look_after",
+"card_order": 38,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "look after",
+"translation": "заботиться; присматривать",
+"questions": [
+{
+"id": "pv_int_038_look_after_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе мог бы ты присмотреть за моей кошкой в эти выходные?",
+"options": [
+"Our neighbours moved out last week.",
+"Turn off the oven when the timer rings.",
+"Could you look after my cat this weekend?",
+"I will pick you up outside the station."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «look after» — «заботиться; присматривать». Правильное предложение: Could you look after my cat this weekend?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_038_look_after_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe stayed home to look after her father.",
+"options": [
+"съезжать из жилья",
+"выключать",
+"забирать; подбирать",
+"заботиться; присматривать"
+],
+"correct_index": 3,
+"explanation": "Здесь «look after» означает «заботиться; присматривать». Контекст: Она осталась дома, чтобы ухаживать за отцом.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_039_stand_by",
+"card_order": 39,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "stand by",
+"translation": "поддерживать; оставаться верным",
+"questions": [
+{
+"id": "pv_int_039_stand_by_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСемья поддерживала её на протяжении всего судебного процесса.",
+"options": [
+"Her family stood by her throughout the trial.",
+"Would you like to come over for coffee?",
+"We need to clean up after the party.",
+"Could you drop me off near the entrance?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «stand by» — «поддерживать; оставаться верным». Правильное предложение: Her family stood by her throughout the trial.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_039_stand_by_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI will stand by you whatever happens.",
+"options": [
+"заходить в гости",
+"поддерживать; оставаться верным",
+"убирать; приводить в порядок",
+"высаживать; доставлять по пути"
+],
+"correct_index": 1,
+"explanation": "Здесь «stand by» означает «поддерживать; оставаться верным». Контекст: Я буду рядом и поддержу тебя, что бы ни случилось.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_040_let_down",
+"card_order": 40,
+"level_code": "i",
+"level": "Intermediate",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "let down",
+"translation": "подвести; разочаровать",
+"questions": [
+{
+"id": "pv_int_040_let_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМне жаль, что я тебя подвёл.",
+"options": [
+"I ran into an old classmate at the station.",
+"We have run out of coffee.",
+"I am sorry I let you down.",
+"We stopped over in Dubai on the way to Australia."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «let down» — «подвести; разочаровать». Правильное предложение: I am sorry I let you down.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_040_let_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe supplier let us down at the last minute.",
+"options": [
+"случайно встретить",
+"исчерпать запас; остаться без",
+"останавливаться в пути на короткое время",
+"подвести; разочаровать"
+],
+"correct_index": 3,
+"explanation": "Здесь «let down» означает «подвести; разочаровать». Контекст: Поставщик подвёл нас в последний момент.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_041_come_in",
+"card_order": 41,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "come in",
+"translation": "входить",
+"questions": [
+{
+"id": "pv_int_041_come_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВходите и садитесь.",
+"options": [
+"Come in and take a seat.",
+"We need to deal with this complaint quickly.",
+"You must hand in the essay by Friday.",
+"Could you speak up? I cannot hear you."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «come in» — «входить». Правильное предложение: Come in and take a seat.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_041_come_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nA cold wind came in through the open window.",
+"options": [
+"иметь дело с; решать проблему",
+"входить",
+"сдавать работу или документ",
+"говорить громче; высказываться"
+],
+"correct_index": 1,
+"explanation": "Здесь «come in» означает «входить». Контекст: Холодный ветер проник через открытое окно.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_042_go_out",
+"card_order": 42,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "go out",
+"translation": "выходить; идти куда-либо развлекаться",
+"questions": [
+{
+"id": "pv_int_042_go_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы редко куда-либо ходим по будням.",
+"options": [
+"We need to sort out the payment problem.",
+"I looked up the word in an online dictionary.",
+"We rarely go out during the week.",
+"She pointed out a mistake in the report."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «go out» — «выходить; идти куда-либо развлекаться». Правильное предложение: We rarely go out during the week.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_042_go_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe went out for dinner with colleagues.",
+"options": [
+"разобраться; уладить",
+"искать информацию в справочнике или системе",
+"указывать; обращать внимание",
+"выходить; идти куда-либо развлекаться"
+],
+"correct_index": 3,
+"explanation": "Здесь «go out» означает «выходить; идти куда-либо развлекаться». Контекст: Она пошла ужинать с коллегами.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_043_come_back",
+"card_order": 43,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "come back",
+"translation": "возвращаться к говорящему или исходной точке",
+"questions": [
+{
+"id": "pv_int_043_come_back_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВо сколько ты вернёшься?",
+"options": [
+"What time will you come back?",
+"I cannot figure out how this app works.",
+"We need to find out why the system failed.",
+"She brought up the budget during the meeting."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «come back» — «возвращаться к говорящему или исходной точке». Правильное предложение: What time will you come back?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_043_come_back_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe came back from Spain on Monday.",
+"options": [
+"понять; найти решение",
+"возвращаться к говорящему или исходной точке",
+"выяснять; узнавать",
+"поднимать тему"
+],
+"correct_index": 1,
+"explanation": "Здесь «come back» означает «возвращаться к говорящему или исходной точке». Контекст: Она вернулась из Испании в понедельник.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_044_go_back",
+"card_order": 44,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "go back",
+"translation": "возвращаться туда",
+"questions": [
+{
+"id": "pv_int_044_go_back_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМне нужно вернуться в офис.",
+"options": [
+"Do not give up after one mistake.",
+"We finally worked out the answer.",
+"I need to go back to the office.",
+"The diagram helps get the main idea across."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «go back» — «возвращаться туда». Правильное предложение: I need to go back to the office.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_044_go_back_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey went back home after the concert.",
+"options": [
+"сдаваться; прекращать попытки",
+"решить; вычислить; разобраться",
+"ясно донести мысль",
+"возвращаться туда"
+],
+"correct_index": 3,
+"explanation": "Здесь «go back» означает «возвращаться туда». Контекст: Они вернулись домой после концерта.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_045_move_in",
+"card_order": 45,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "move in",
+"translation": "въезжать в новое жильё",
+"questions": [
+{
+"id": "pv_int_045_move_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНовые жильцы въезжают в следующую субботу.",
+"options": [
+"The new tenants move in next Saturday.",
+"Please carry on with your work.",
+"The university carried out a large survey.",
+"I am in a meeting; can I call you back?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «move in» — «въезжать в новое жильё». Правильное предложение: The new tenants move in next Saturday.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_045_move_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe moved in with a friend while looking for a flat.",
+"options": [
+"продолжать",
+"въезжать в новое жильё",
+"проводить; выполнять",
+"перезванивать"
+],
+"correct_index": 1,
+"explanation": "Здесь «move in» означает «въезжать в новое жильё». Контекст: Она поселилась у подруги, пока искала квартиру.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_046_move_out",
+"card_order": 46,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "move out",
+"translation": "съезжать из жилья",
+"questions": [
+{
+"id": "pv_int_046_move_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНаши соседи съехали на прошлой неделе.",
+"options": [
+"It took him weeks to get over the flu.",
+"She reads every day to keep up with the course.",
+"Our neighbours moved out last week.",
+"Do not hang up; I need to ask one more question."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «move out» — «съезжать из жилья». Правильное предложение: Our neighbours moved out last week.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_046_move_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe is moving out of the flat at the end of June.",
+"options": [
+"оправиться; преодолеть",
+"не отставать от; успевать следить за",
+"заканчивать телефонный разговор",
+"съезжать из жилья"
+],
+"correct_index": 3,
+"explanation": "Здесь «move out» означает «съезжать из жилья». Контекст: Он съезжает из квартиры в конце июня.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_047_come_over",
+"card_order": 47,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "come over",
+"translation": "заходить в гости",
+"questions": [
+{
+"id": "pv_int_047_come_over_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nХочешь зайти на кофе?",
+"options": [
+"Would you like to come over for coffee?",
+"Our car broke down on the way home.",
+"I spent Sunday catching up on emails.",
+"We were cut off in the middle of the call."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «come over» — «заходить в гости». Правильное предложение: Would you like to come over for coffee?",
+"source_example_index": 0
+},
+{
+"id": "pv_int_047_come_over_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nSome friends are coming over tonight.",
+"options": [
+"ломаться; переставать работать",
+"заходить в гости",
+"наверстать; сделать накопившееся",
+"прерывать; разъединять"
+],
+"correct_index": 1,
+"explanation": "Здесь «come over» означает «заходить в гости». Контекст: Сегодня вечером к нам придут друзья.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_048_run_into",
+"card_order": 48,
+"level_code": "i",
+"level": "Intermediate",
+"category": "MOVEMENT",
+"phrasal_verb": "run into",
+"translation": "случайно встретить",
+"questions": [
+{
+"id": "pv_int_048_run_into_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ случайно встретил старого одноклассника на вокзале.",
+"options": [
+"We need to come up with a better plan.",
+"They put off the meeting until next week.",
+"I ran into an old classmate at the station.",
+"Can you fill me in on what happened?"
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «run into» — «случайно встретить». Правильное предложение: I ran into an old classmate at the station.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_048_run_into_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nGuess who I ran into yesterday.",
+"options": [
+"придумывать; предлагать",
+"откладывать",
+"ввести в курс дела",
+"случайно встретить"
+],
+"correct_index": 3,
+"explanation": "Здесь «run into» означает «случайно встретить». Контекст: Угадай, кого я вчера случайно встретил.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_049_deal_with",
+"card_order": 49,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "deal with",
+"translation": "иметь дело с; решать проблему",
+"questions": [
+{
+"id": "pv_int_049_deal_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам нужно быстро разобраться с этой жалобой.",
+"options": [
+"We need to deal with this complaint quickly.",
+"I usually wake up before the alarm rings.",
+"We set off before sunrise.",
+"I get along well with my neighbours."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «deal with» — «иметь дело с; решать проблему». Правильное предложение: We need to deal with this complaint quickly.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_049_deal_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe deals with customer enquiries.",
+"options": [
+"просыпаться; будить",
+"иметь дело с; решать проблему",
+"отправляться в путь",
+"ладить с кем-либо"
+],
+"correct_index": 1,
+"explanation": "Здесь «deal with» означает «иметь дело с; решать проблему». Контекст: Она занимается запросами клиентов.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_050_sort_out",
+"card_order": 50,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "sort out",
+"translation": "разобраться; уладить",
+"questions": [
+{
+"id": "pv_int_050_sort_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам нужно решить проблему с оплатой.",
+"options": [
+"I woke up at six but did not get up until half past six.",
+"You can check in online twenty-four hours before the flight.",
+"We need to sort out the payment problem.",
+"She fell out with a close friend over money."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «sort out» — «разобраться; уладить». Правильное предложение: We need to sort out the payment problem.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_050_sort_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nDo not worry; I will sort it out.",
+"options": [
+"вставать с постели",
+"регистрироваться в отеле или на рейс",
+"поссориться с кем-либо",
+"разобраться; уладить"
+],
+"correct_index": 3,
+"explanation": "Здесь «sort out» означает «разобраться; уладить». Контекст: Не волнуйся, я всё улажу.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_051_figure_out",
+"card_order": 51,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "figure out",
+"translation": "понять; найти решение",
+"questions": [
+{
+"id": "pv_int_051_figure_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЯ не могу понять, как работает это приложение.",
+"options": [
+"I cannot figure out how this app works.",
+"Put on a jacket; it is cold outside.",
+"Guests must check out by eleven.",
+"They argued in the morning but made up by lunchtime."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «figure out» — «понять; найти решение». Правильное предложение: I cannot figure out how this app works.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_051_figure_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe finally figured the problem out.",
+"options": [
+"надевать; включать",
+"понять; найти решение",
+"выписываться из отеля",
+"помириться"
+],
+"correct_index": 1,
+"explanation": "Здесь «figure out» означает «понять; найти решение». Контекст: Мы наконец разобрались с проблемой.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_052_give_up",
+"card_order": 52,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "give up",
+"translation": "сдаваться; прекращать попытки",
+"questions": [
+{
+"id": "pv_int_052_give_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНе сдавайся после одной ошибки.",
+"options": [
+"Please take off your shoes at the door.",
+"We got on the train at platform six.",
+"Do not give up after one mistake.",
+"Cheer up; things may improve tomorrow."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «give up» — «сдаваться; прекращать попытки». Правильное предложение: Do not give up after one mistake.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_052_give_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe gave up smoking last year.",
+"options": [
+"снимать; взлетать",
+"садиться в транспорт; входить",
+"взбодриться; подбодрить",
+"сдаваться; прекращать попытки"
+],
+"correct_index": 3,
+"explanation": "Здесь «give up» означает «сдаваться; прекращать попытки». Контекст: В прошлом году он бросил курить.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_053_carry_on",
+"card_order": 53,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "carry on",
+"translation": "продолжать",
+"questions": [
+{
+"id": "pv_int_053_carry_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПожалуйста, продолжайте работу.",
+"options": [
+"Please carry on with your work.",
+"Could you turn on the kitchen light?",
+"We get off at the next station.",
+"Take a few deep breaths and calm down."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «carry on» — «продолжать». Правильное предложение: Please carry on with your work.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_053_carry_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe carried on talking despite the interruption.",
+"options": [
+"включать",
+"продолжать",
+"выходить из транспорта",
+"успокаиваться; успокаивать"
+],
+"correct_index": 1,
+"explanation": "Здесь «carry on» означает «продолжать». Контекст: Она продолжала говорить, несмотря на помеху.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_054_get_over",
+"card_order": 54,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "get over",
+"translation": "оправиться; преодолеть",
+"questions": [
+{
+"id": "pv_int_054_get_over_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЕму потребовались недели, чтобы оправиться от гриппа.",
+"options": [
+"Turn off the oven when the timer rings.",
+"I will pick you up outside the station.",
+"It took him weeks to get over the flu.",
+"Could you look after my cat this weekend?"
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «get over» — «оправиться; преодолеть». Правильное предложение: It took him weeks to get over the flu.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_054_get_over_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe has not fully got over the disappointment.",
+"options": [
+"выключать",
+"забирать; подбирать",
+"заботиться; присматривать",
+"оправиться; преодолеть"
+],
+"correct_index": 3,
+"explanation": "Здесь «get over» означает «оправиться; преодолеть». Контекст: Она ещё не полностью оправилась от разочарования.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_055_break_down",
+"card_order": 55,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "break down",
+"translation": "ломаться; переставать работать",
+"questions": [
+{
+"id": "pv_int_055_break_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНаша машина сломалась по дороге домой.",
+"options": [
+"Our car broke down on the way home.",
+"We need to clean up after the party.",
+"Could you drop me off near the entrance?",
+"Her family stood by her throughout the trial."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «break down» — «ломаться; переставать работать». Правильное предложение: Our car broke down on the way home.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_055_break_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe heating system has broken down again.",
+"options": [
+"убирать; приводить в порядок",
+"ломаться; переставать работать",
+"высаживать; доставлять по пути",
+"поддерживать; оставаться верным"
+],
+"correct_index": 1,
+"explanation": "Здесь «break down» означает «ломаться; переставать работать». Контекст: Система отопления снова сломалась.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_int_056_come_up_with",
+"card_order": 56,
+"level_code": "i",
+"level": "Intermediate",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "come up with",
+"translation": "придумывать; предлагать",
+"questions": [
+{
+"id": "pv_int_056_come_up_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам нужно придумать план получше.",
+"options": [
+"We have run out of coffee.",
+"We stopped over in Dubai on the way to Australia.",
+"We need to come up with a better plan.",
+"I am sorry I let you down."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «come up with» — «придумывать; предлагать». Правильное предложение: We need to come up with a better plan.",
+"source_example_index": 0
+},
+{
+"id": "pv_int_056_come_up_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe came up with an elegant solution.",
+"options": [
+"исчерпать запас; остаться без",
+"останавливаться в пути на короткое время",
+"подвести; разочаровать",
+"придумывать; предлагать"
+],
+"correct_index": 3,
+"explanation": "Здесь «come up with» означает «придумывать; предлагать». Контекст: Она предложила изящное решение.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_001_do_away_with",
+"card_order": 1,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "do away with",
+"translation": "отменить; устранить; покончить с чем-либо",
+"questions": [
+{
+"id": "pv_adv_001_do_away_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nКомпания отказалась от нескольких ненужных этапов согласования.",
+"options": [
+"The company did away with several unnecessary approval stages.",
+"The lawyers drew up a revised agreement.",
+"The contract spells out the responsibilities of both parties.",
+"A narrow path branches off to the left."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «do away with» — «отменить; устранить; покончить с чем-либо». Правильное предложение: The company did away with several unnecessary approval stages.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_001_do_away_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nMany people want to do away with the outdated regulation.",
+"options": [
+"составить официальный документ или план",
+"отменить; устранить; покончить с чем-либо",
+"ясно и подробно объяснить",
+"ответвляться; свернуть с основной дороги"
+],
+"correct_index": 1,
+"explanation": "Здесь «do away with» означает «отменить; устранить; покончить с чем-либо». Контекст: Многие хотят отменить устаревшее правило.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_002_make_do_with",
+"card_order": 2,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "make do with",
+"translation": "обходиться тем, что есть",
+"questions": [
+{
+"id": "pv_adv_002_make_do_with_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам пришлось обходиться гораздо меньшей кухней.",
+"options": [
+"She took on responsibility for the entire project.",
+"She put her argument across with remarkable clarity.",
+"We had to make do with a much smaller kitchen.",
+"The car veered off the road and hit a barrier."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «make do with» — «обходиться тем, что есть». Правильное предложение: We had to make do with a much smaller kitchen.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_002_make_do_with_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThere was no fresh milk, so I made do with powdered milk.",
+"options": [
+"взять на себя; нанять; приобрести качество",
+"ясно донести мысль",
+"резко отклониться от курса",
+"обходиться тем, что есть"
+],
+"correct_index": 3,
+"explanation": "Здесь «make do with» означает «обходиться тем, что есть». Контекст: Свежего молока не было, поэтому я обошёлся сухим.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_003_fall_back_on",
+"card_order": 3,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "fall back on",
+"translation": "прибегнуть к запасному варианту",
+"questions": [
+{
+"id": "pv_adv_003_fall_back_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЕсли переговоры провалятся, мы сможем вернуться к первоначальному предложению.",
+"options": [
+"If the negotiations fail, we can fall back on the original proposal.",
+"The chief executive will step down at the end of the year.",
+"Customers dislike being talked down to.",
+"We missed the turning and had to double back."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «fall back on» — «прибегнуть к запасному варианту». Правильное предложение: If the negotiations fail, we can fall back on the original proposal.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_003_fall_back_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe has years of experience to fall back on.",
+"options": [
+"уйти с должности",
+"прибегнуть к запасному варианту",
+"разговаривать свысока",
+"вернуться тем же путём"
+],
+"correct_index": 1,
+"explanation": "Здесь «fall back on» означает «прибегнуть к запасному варианту». Контекст: У неё есть многолетний опыт, на который можно опереться.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_004_cut_back_on",
+"card_order": 4,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "cut back on",
+"translation": "сократить потребление или расходы",
+"questions": [
+{
+"id": "pv_adv_004_cut_back_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы стараемся сократить ненужные подписки.",
+"options": [
+"The new assessment system will be phased in over two years.",
+"The minister brushed aside questions about the cost.",
+"We are trying to cut back on unnecessary subscriptions.",
+"The police were closing in on the suspect."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «cut back on» — «сократить потребление или расходы». Правильное предложение: We are trying to cut back on unnecessary subscriptions.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_004_cut_back_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHer doctor advised her to cut back on salt.",
+"options": [
+"вводить постепенно",
+"отмахнуться; проигнорировать",
+"приближаться и окружать",
+"сократить потребление или расходы"
+],
+"correct_index": 3,
+"explanation": "Здесь «cut back on» означает «сократить потребление или расходы». Контекст: Врач посоветовал ей уменьшить потребление соли.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_005_stock_up_on",
+"card_order": 5,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "stock up on",
+"translation": "запастись чем-либо",
+"questions": [
+{
+"id": "pv_adv_005_stock_up_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы запаслись бутилированной водой перед бурей.",
+"options": [
+"We stocked up on bottled water before the storm.",
+"The manufacturer is phasing out the older model.",
+"Officials tried to play down the scale of the disruption.",
+"She drew back when the dog growled."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «stock up on» — «запастись чем-либо». Правильное предложение: We stocked up on bottled water before the storm.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_005_stock_up_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe always stocks up on medicine before travelling.",
+"options": [
+"постепенно выводить из употребления",
+"запастись чем-либо",
+"преуменьшать значение",
+"отступить; отпрянуть"
+],
+"correct_index": 1,
+"explanation": "Здесь «stock up on» означает «запастись чем-либо». Контекст: Она всегда запасается лекарствами перед поездкой.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_006_splash_out_on",
+"card_order": 6,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "splash out on",
+"translation": "потратиться на что-либо дорогое",
+"questions": [
+{
+"id": "pv_adv_006_splash_out_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОни потратились на роскошные выходные в Риме.",
+"options": [
+"The government must follow through on its commitment to reform.",
+"There is little value in dwelling on past mistakes.",
+"They splashed out on a luxury weekend in Rome.",
+"The government pressed ahead with the reform despite protests."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «splash out on» — «потратиться на что-либо дорогое». Правильное предложение: They splashed out on a luxury weekend in Rome.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_006_splash_out_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI rarely buy designer clothes, but I splashed out for the wedding.",
+"options": [
+"довести обещание или план до конца",
+"подробно или слишком долго останавливаться на",
+"решительно продолжать движение или работу",
+"потратиться на что-либо дорогое"
+],
+"correct_index": 3,
+"explanation": "Здесь «splash out on» означает «потратиться на что-либо дорогое». Контекст: Я редко покупаю дизайнерскую одежду, но ради свадьбы решил потратиться.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_007_live_off",
+"card_order": 7,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "live off",
+"translation": "жить за счёт; питаться преимущественно чем-либо",
+"questions": [
+{
+"id": "pv_adv_007_live_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОн жил на свои сбережения, пока создавал бизнес.",
+"options": [
+"He lived off his savings while setting up the business.",
+"We still need to iron out a few technical issues.",
+"The lecture touched on several ethical questions.",
+"A powerful storm was bearing down on the coast."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «live off» — «жить за счёт; питаться преимущественно чем-либо». Правильное предложение: He lived off his savings while setting up the business.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_007_live_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe students seemed to live off coffee and sandwiches.",
+"options": [
+"устранить мелкие трудности; уладить детали",
+"жить за счёт; питаться преимущественно чем-либо",
+"кратко затронуть тему",
+"быстро и угрожающе приближаться; давить"
+],
+"correct_index": 1,
+"explanation": "Здесь «live off» означает «жить за счёт; питаться преимущественно чем-либо». Контекст: Казалось, студенты жили на одном кофе и бутербродах.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_008_go_without",
+"card_order": 8,
+"level_code": "a",
+"level": "Advanced",
+"category": "DAILY",
+"phrasal_verb": "go without",
+"translation": "обходиться без чего-либо",
+"questions": [
+{
+"id": "pv_adv_008_go_without_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНекоторым семьям пришлось несколько дней обходиться без отопления.",
+"options": [
+"The outgoing director handed over responsibility to her successor.",
+"The final paragraph sums up the author’s main argument.",
+"Some families had to go without heating for several days.",
+"Soft light filtered through the curtains."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «go without» — «обходиться без чего-либо». Правильное предложение: Some families had to go without heating for several days.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_008_go_without_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI can go without dessert, but not without coffee.",
+"options": [
+"передать контроль, ответственность или предмет",
+"подвести итог; кратко резюмировать",
+"постепенно проходить или распространяться",
+"обходиться без чего-либо"
+],
+"correct_index": 3,
+"explanation": "Здесь «go without» означает «обходиться без чего-либо». Контекст: Я могу обойтись без десерта, но не без кофе.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_009_draw_up",
+"card_order": 9,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "draw up",
+"translation": "составить официальный документ или план",
+"questions": [
+{
+"id": "pv_adv_009_draw_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЮристы составили пересмотренное соглашение.",
+"options": [
+"The lawyers drew up a revised agreement.",
+"We headed off for the coast before sunrise.",
+"Bottling up anger can make the situation worse.",
+"We have narrowed the list down to four candidates."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «draw up» — «составить официальный документ или план». Правильное предложение: The lawyers drew up a revised agreement.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_009_draw_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe need to draw up a realistic timetable.",
+"options": [
+"отправиться; предотвратить",
+"составить официальный документ или план",
+"подавлять и скрывать эмоции",
+"сузить выбор или круг причин"
+],
+"correct_index": 1,
+"explanation": "Здесь «draw up» означает «составить официальный документ или план». Контекст: Нам нужно составить реалистичный график.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_010_take_on",
+"card_order": 10,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "take on",
+"translation": "взять на себя; нанять; приобрести качество",
+"questions": [
+{
+"id": "pv_adv_010_take_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна взяла на себя ответственность за весь проект.",
+"options": [
+"We went to the station to see her off.",
+"He lashed out at his colleagues after the decision.",
+"She took on responsibility for the entire project.",
+"The tests ruled out a serious infection."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «take on» — «взять на себя; нанять; приобрести качество». Правильное предложение: She took on responsibility for the entire project.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_010_take_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe firm is taking on twenty new graduates.",
+"options": [
+"проводить уезжающего",
+"резко наброситься словами или действиями",
+"исключить возможность",
+"взять на себя; нанять; приобрести качество"
+],
+"correct_index": 3,
+"explanation": "Здесь «take on» означает «взять на себя; нанять; приобрести качество». Контекст: Компания нанимает двадцать новых выпускников.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_011_step_down",
+"card_order": 11,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "step down",
+"translation": "уйти с должности",
+"questions": [
+{
+"id": "pv_adv_011_step_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nГенеральный директор уйдёт с должности в конце года.",
+"options": [
+"The chief executive will step down at the end of the year.",
+"The plane touched down safely despite the strong wind.",
+"It took months before he opened up to his counsellor.",
+"How do you account for the sudden decline in sales?"
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «step down» — «уйти с должности». Правильное предложение: The chief executive will step down at the end of the year.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_011_step_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe stepped down as chair after ten years.",
+"options": [
+"приземлиться",
+"уйти с должности",
+"открыться кому-либо",
+"объяснять; составлять долю"
+],
+"correct_index": 1,
+"explanation": "Здесь «step down» означает «уйти с должности». Контекст: Она покинула пост председателя после десяти лет работы.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_012_phase_in",
+"card_order": 12,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "phase in",
+"translation": "вводить постепенно",
+"questions": [
+{
+"id": "pv_adv_012_phase_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНовую систему оценивания будут вводить в течение двух лет.",
+"options": [
+"The overnight train pulled in just after dawn.",
+"They remained friendly but gradually grew apart.",
+"The new assessment system will be phased in over two years.",
+"The flexible schedule makes up for the lower salary."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «phase in» — «вводить постепенно». Правильное предложение: The new assessment system will be phased in over two years.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_012_phase_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe company is phasing in flexible working arrangements.",
+"options": [
+"прибыть и остановиться; съехать к краю",
+"постепенно отдалиться друг от друга",
+"компенсировать недостаток или потерю",
+"вводить постепенно"
+],
+"correct_index": 3,
+"explanation": "Здесь «phase in» означает «вводить постепенно». Контекст: Компания постепенно вводит гибкий режим работы.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_013_phase_out",
+"card_order": 13,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "phase out",
+"translation": "постепенно выводить из употребления",
+"questions": [
+{
+"id": "pv_adv_013_phase_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПроизводитель постепенно снимает старую модель с производства.",
+"options": [
+"The manufacturer is phasing out the older model.",
+"The train pulled out of the station exactly on time.",
+"They met for coffee and managed to patch things up.",
+"Regulators are cracking down on misleading advertising."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «phase out» — «постепенно выводить из употребления». Правильное предложение: The manufacturer is phasing out the older model.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_013_phase_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nSingle-use plastics will be phased out by 2030.",
+"options": [
+"отправиться со станции; выехать",
+"постепенно выводить из употребления",
+"помириться; восстановить отношения",
+"жёстко пресечь; усилить меры против"
+],
+"correct_index": 1,
+"explanation": "Здесь «phase out» означает «постепенно выводить из употребления». Контекст: Одноразовый пластик постепенно выведут из употребления к 2030 году.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_014_follow_through_on",
+"card_order": 14,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "follow through on",
+"translation": "довести обещание или план до конца",
+"questions": [
+{
+"id": "pv_adv_014_follow_through_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПравительство должно выполнить своё обязательство провести реформу.",
+"options": [
+"Roadworks held us up for nearly an hour.",
+"She finally stood up to her controlling manager.",
+"The government must follow through on its commitment to reform.",
+"The company managed to fend off a hostile takeover bid."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «follow through on» — «довести обещание или план до конца». Правильное предложение: The government must follow through on its commitment to reform.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_014_follow_through_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe proposed several changes but did not follow through on them.",
+"options": [
+"задержать; ограбить",
+"противостоять; не позволять запугивать себя",
+"отразить угрозу; временно предотвратить",
+"довести обещание или план до конца"
+],
+"correct_index": 3,
+"explanation": "Здесь «follow through on» означает «довести обещание или план до конца». Контекст: Она предложила несколько изменений, но не довела их до реализации.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_015_iron_out",
+"card_order": 15,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "iron out",
+"translation": "устранить мелкие трудности; уладить детали",
+"questions": [
+{
+"id": "pv_adv_015_iron_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНам всё ещё нужно устранить несколько технических проблем.",
+"options": [
+"We still need to iron out a few technical issues.",
+"The metro is the easiest way to get around the city.",
+"He looks down on anyone without a university degree.",
+"The government refused to bail out the failing company."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «iron out» — «устранить мелкие трудности; уладить детали». Правильное предложение: We still need to iron out a few technical issues.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_015_iron_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe two sides met to iron out the final details.",
+"options": [
+"передвигаться; обходить препятствие; распространяться",
+"устранить мелкие трудности; уладить детали",
+"смотреть свысока; считать хуже себя",
+"выручить финансово; покинуть ситуацию"
+],
+"correct_index": 1,
+"explanation": "Здесь «iron out» означает «устранить мелкие трудности; уладить детали». Контекст: Стороны встретились, чтобы согласовать последние детали.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_016_hand_over",
+"card_order": 16,
+"level_code": "a",
+"level": "Advanced",
+"category": "WORK_STUDY",
+"phrasal_verb": "hand over",
+"translation": "передать контроль, ответственность или предмет",
+"questions": [
+{
+"id": "pv_adv_016_hand_over_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nУходящий директор передал ответственность своему преемнику.",
+"options": [
+"After taking the wrong train, we wound up in a small coastal town.",
+"The sequel did not live up to the standard set by the original film.",
+"The outgoing director handed over responsibility to her successor.",
+"This loan should tide us over until sales recover."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «hand over» — «передать контроль, ответственность или предмет». Правильное предложение: The outgoing director handed over responsibility to her successor.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_016_hand_over_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nPlease hand the documents over to the legal team.",
+"options": [
+"в итоге оказаться в месте или ситуации",
+"оправдать ожидания; соответствовать стандарту",
+"помочь пережить трудный период",
+"передать контроль, ответственность или предмет"
+],
+"correct_index": 3,
+"explanation": "Здесь «hand over» означает «передать контроль, ответственность или предмет». Контекст: Пожалуйста, передайте документы юридическому отделу.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_017_head_off",
+"card_order": 17,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "head off",
+"translation": "отправиться; предотвратить",
+"questions": [
+{
+"id": "pv_adv_017_head_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы отправились к побережью до восхода солнца.",
+"options": [
+"We headed off for the coast before sunrise.",
+"The contract spells out the responsibilities of both parties.",
+"A narrow path branches off to the left.",
+"The company did away with several unnecessary approval stages."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «head off» — «отправиться; предотвратить». Правильное предложение: We headed off for the coast before sunrise.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_017_head_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe is heading off to Berlin tomorrow.",
+"options": [
+"ясно и подробно объяснить",
+"отправиться; предотвратить",
+"ответвляться; свернуть с основной дороги",
+"отменить; устранить; покончить с чем-либо"
+],
+"correct_index": 1,
+"explanation": "Здесь «head off» означает «отправиться; предотвратить». Контекст: Завтра она отправляется в Берлин.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_018_see_off",
+"card_order": 18,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "see off",
+"translation": "проводить уезжающего",
+"questions": [
+{
+"id": "pv_adv_018_see_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы поехали на вокзал проводить её.",
+"options": [
+"She put her argument across with remarkable clarity.",
+"The car veered off the road and hit a barrier.",
+"We went to the station to see her off.",
+"We had to make do with a much smaller kitchen."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «see off» — «проводить уезжающего». Правильное предложение: We went to the station to see her off.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_018_see_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nA crowd gathered to see the team off at the airport.",
+"options": [
+"ясно донести мысль",
+"резко отклониться от курса",
+"обходиться тем, что есть",
+"проводить уезжающего"
+],
+"correct_index": 3,
+"explanation": "Здесь «see off» означает «проводить уезжающего». Контекст: В аэропорту собралась толпа, чтобы проводить команду.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_019_touch_down",
+"card_order": 19,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "touch down",
+"translation": "приземлиться",
+"questions": [
+{
+"id": "pv_adv_019_touch_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСамолёт благополучно приземлился, несмотря на сильный ветер.",
+"options": [
+"The plane touched down safely despite the strong wind.",
+"Customers dislike being talked down to.",
+"We missed the turning and had to double back.",
+"If the negotiations fail, we can fall back on the original proposal."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «touch down» — «приземлиться». Правильное предложение: The plane touched down safely despite the strong wind.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_019_touch_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe are due to touch down in Singapore at six.",
+"options": [
+"разговаривать свысока",
+"приземлиться",
+"вернуться тем же путём",
+"прибегнуть к запасному варианту"
+],
+"correct_index": 1,
+"explanation": "Здесь «touch down» означает «приземлиться». Контекст: Мы должны приземлиться в Сингапуре в шесть.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_020_pull_in",
+"card_order": 20,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "pull in",
+"translation": "прибыть и остановиться; съехать к краю",
+"questions": [
+{
+"id": "pv_adv_020_pull_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНочной поезд прибыл вскоре после рассвета.",
+"options": [
+"The minister brushed aside questions about the cost.",
+"The police were closing in on the suspect.",
+"The overnight train pulled in just after dawn.",
+"We are trying to cut back on unnecessary subscriptions."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «pull in» — «прибыть и остановиться; съехать к краю». Правильное предложение: The overnight train pulled in just after dawn.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_020_pull_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nA taxi pulled in outside the hotel.",
+"options": [
+"отмахнуться; проигнорировать",
+"приближаться и окружать",
+"сократить потребление или расходы",
+"прибыть и остановиться; съехать к краю"
+],
+"correct_index": 3,
+"explanation": "Здесь «pull in» означает «прибыть и остановиться; съехать к краю». Контекст: Такси подъехало к отелю.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_021_pull_out",
+"card_order": 21,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "pull out",
+"translation": "отправиться со станции; выехать",
+"questions": [
+{
+"id": "pv_adv_021_pull_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПоезд отправился со станции точно по расписанию.",
+"options": [
+"The train pulled out of the station exactly on time.",
+"Officials tried to play down the scale of the disruption.",
+"She drew back when the dog growled.",
+"We stocked up on bottled water before the storm."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «pull out» — «отправиться со станции; выехать». Правильное предложение: The train pulled out of the station exactly on time.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_021_pull_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe arrived just as the coach was pulling out.",
+"options": [
+"преуменьшать значение",
+"отправиться со станции; выехать",
+"отступить; отпрянуть",
+"запастись чем-либо"
+],
+"correct_index": 1,
+"explanation": "Здесь «pull out» означает «отправиться со станции; выехать». Контекст: Мы приехали как раз в тот момент, когда автобус отъезжал.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_022_hold_up",
+"card_order": 22,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "hold up",
+"translation": "задержать; ограбить",
+"questions": [
+{
+"id": "pv_adv_022_hold_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nДорожные работы задержали нас почти на час.",
+"options": [
+"There is little value in dwelling on past mistakes.",
+"The government pressed ahead with the reform despite protests.",
+"Roadworks held us up for nearly an hour.",
+"They splashed out on a luxury weekend in Rome."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «hold up» — «задержать; ограбить». Правильное предложение: Roadworks held us up for nearly an hour.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_022_hold_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe flight was held up by a technical fault.",
+"options": [
+"подробно или слишком долго останавливаться на",
+"решительно продолжать движение или работу",
+"потратиться на что-либо дорогое",
+"задержать; ограбить"
+],
+"correct_index": 3,
+"explanation": "Здесь «hold up» означает «задержать; ограбить». Контекст: Рейс задержали из-за технической неисправности.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_023_get_around",
+"card_order": 23,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "get around",
+"translation": "передвигаться; обходить препятствие; распространяться",
+"questions": [
+{
+"id": "pv_adv_023_get_around_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМетро — самый простой способ передвигаться по городу.",
+"options": [
+"The metro is the easiest way to get around the city.",
+"The lecture touched on several ethical questions.",
+"A powerful storm was bearing down on the coast.",
+"He lived off his savings while setting up the business."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «get around» — «передвигаться; обходить препятствие; распространяться». Правильное предложение: The metro is the easiest way to get around the city.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_023_get_around_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey found a way to get around the restriction.",
+"options": [
+"кратко затронуть тему",
+"передвигаться; обходить препятствие; распространяться",
+"быстро и угрожающе приближаться; давить",
+"жить за счёт; питаться преимущественно чем-либо"
+],
+"correct_index": 1,
+"explanation": "Здесь «get around» означает «передвигаться; обходить препятствие; распространяться». Контекст: Они нашли способ обойти ограничение.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_024_wind_up_in",
+"card_order": 24,
+"level_code": "a",
+"level": "Advanced",
+"category": "TRAVEL",
+"phrasal_verb": "wind up in",
+"translation": "в итоге оказаться в месте или ситуации",
+"questions": [
+{
+"id": "pv_adv_024_wind_up_in_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nСев не на тот поезд, мы в итоге оказались в маленьком прибрежном городе.",
+"options": [
+"The final paragraph sums up the author’s main argument.",
+"Soft light filtered through the curtains.",
+"After taking the wrong train, we wound up in a small coastal town.",
+"Some families had to go without heating for several days."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «wind up in» — «в итоге оказаться в месте или ситуации». Правильное предложение: After taking the wrong train, we wound up in a small coastal town.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_024_wind_up_in_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThey wound up spending the night at the airport.",
+"options": [
+"подвести итог; кратко резюмировать",
+"постепенно проходить или распространяться",
+"обходиться без чего-либо",
+"в итоге оказаться в месте или ситуации"
+],
+"correct_index": 3,
+"explanation": "Здесь «wind up in» означает «в итоге оказаться в месте или ситуации». Контекст: В итоге им пришлось провести ночь в аэропорту.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_025_spell_out",
+"card_order": 25,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "spell out",
+"translation": "ясно и подробно объяснить",
+"questions": [
+{
+"id": "pv_adv_025_spell_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nВ договоре подробно прописаны обязанности обеих сторон.",
+"options": [
+"The contract spells out the responsibilities of both parties.",
+"Bottling up anger can make the situation worse.",
+"We have narrowed the list down to four candidates.",
+"The lawyers drew up a revised agreement."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «spell out» — «ясно и подробно объяснить». Правильное предложение: The contract spells out the responsibilities of both parties.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_025_spell_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nLet me spell out exactly what the change means.",
+"options": [
+"подавлять и скрывать эмоции",
+"ясно и подробно объяснить",
+"сузить выбор или круг причин",
+"составить официальный документ или план"
+],
+"correct_index": 1,
+"explanation": "Здесь «spell out» означает «ясно и подробно объяснить». Контекст: Позвольте мне ясно объяснить, что именно означает это изменение.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_026_put_across",
+"card_order": 26,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "put across",
+"translation": "ясно донести мысль",
+"questions": [
+{
+"id": "pv_adv_026_put_across_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна изложила свой аргумент с удивительной ясностью.",
+"options": [
+"He lashed out at his colleagues after the decision.",
+"The tests ruled out a serious infection.",
+"She put her argument across with remarkable clarity.",
+"She took on responsibility for the entire project."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «put across» — «ясно донести мысль». Правильное предложение: She put her argument across with remarkable clarity.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_026_put_across_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe campaign failed to put its central message across.",
+"options": [
+"резко наброситься словами или действиями",
+"исключить возможность",
+"взять на себя; нанять; приобрести качество",
+"ясно донести мысль"
+],
+"correct_index": 3,
+"explanation": "Здесь «put across» означает «ясно донести мысль». Контекст: Кампания не смогла донести свою основную мысль.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_027_talk_down_to",
+"card_order": 27,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "talk down to",
+"translation": "разговаривать свысока",
+"questions": [
+{
+"id": "pv_adv_027_talk_down_to_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПокупателям не нравится, когда с ними разговаривают свысока.",
+"options": [
+"Customers dislike being talked down to.",
+"It took months before he opened up to his counsellor.",
+"How do you account for the sudden decline in sales?",
+"The chief executive will step down at the end of the year."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «talk down to» — «разговаривать свысока». Правильное предложение: Customers dislike being talked down to.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_027_talk_down_to_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe explained the issue clearly without talking down to the audience.",
+"options": [
+"открыться кому-либо",
+"разговаривать свысока",
+"объяснять; составлять долю",
+"уйти с должности"
+],
+"correct_index": 1,
+"explanation": "Здесь «talk down to» означает «разговаривать свысока». Контекст: Она ясно объяснила вопрос, не разговаривая с аудиторией свысока.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_028_brush_aside",
+"card_order": 28,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "brush aside",
+"translation": "отмахнуться; проигнорировать",
+"questions": [
+{
+"id": "pv_adv_028_brush_aside_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМинистр отмахнулся от вопросов о стоимости.",
+"options": [
+"They remained friendly but gradually grew apart.",
+"The flexible schedule makes up for the lower salary.",
+"The minister brushed aside questions about the cost.",
+"The new assessment system will be phased in over two years."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «brush aside» — «отмахнуться; проигнорировать». Правильное предложение: The minister brushed aside questions about the cost.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_028_brush_aside_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHer concerns were brushed aside as irrelevant.",
+"options": [
+"постепенно отдалиться друг от друга",
+"компенсировать недостаток или потерю",
+"вводить постепенно",
+"отмахнуться; проигнорировать"
+],
+"correct_index": 3,
+"explanation": "Здесь «brush aside» означает «отмахнуться; проигнорировать». Контекст: Её опасения отвергли как несущественные.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_029_play_down",
+"card_order": 29,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "play down",
+"translation": "преуменьшать значение",
+"questions": [
+{
+"id": "pv_adv_029_play_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЧиновники пытались преуменьшить масштаб сбоев.",
+"options": [
+"Officials tried to play down the scale of the disruption.",
+"They met for coffee and managed to patch things up.",
+"Regulators are cracking down on misleading advertising.",
+"The manufacturer is phasing out the older model."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «play down» — «преуменьшать значение». Правильное предложение: Officials tried to play down the scale of the disruption.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_029_play_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe played her own contribution down during the interview.",
+"options": [
+"помириться; восстановить отношения",
+"преуменьшать значение",
+"жёстко пресечь; усилить меры против",
+"постепенно выводить из употребления"
+],
+"correct_index": 1,
+"explanation": "Здесь «play down» означает «преуменьшать значение». Контекст: Во время интервью она преуменьшила собственный вклад.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_030_dwell_on",
+"card_order": 30,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "dwell on",
+"translation": "подробно или слишком долго останавливаться на",
+"questions": [
+{
+"id": "pv_adv_030_dwell_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНет большого смысла постоянно возвращаться к прошлым ошибкам.",
+"options": [
+"She finally stood up to her controlling manager.",
+"The company managed to fend off a hostile takeover bid.",
+"There is little value in dwelling on past mistakes.",
+"The government must follow through on its commitment to reform."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «dwell on» — «подробно или слишком долго останавливаться на». Правильное предложение: There is little value in dwelling on past mistakes.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_030_dwell_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe report dwells on the weaknesses but ignores the achievements.",
+"options": [
+"противостоять; не позволять запугивать себя",
+"отразить угрозу; временно предотвратить",
+"довести обещание или план до конца",
+"подробно или слишком долго останавливаться на"
+],
+"correct_index": 3,
+"explanation": "Здесь «dwell on» означает «подробно или слишком долго останавливаться на». Контекст: Отчёт подробно рассматривает недостатки, но игнорирует достижения.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_031_touch_on",
+"card_order": 31,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "touch on",
+"translation": "кратко затронуть тему",
+"questions": [
+{
+"id": "pv_adv_031_touch_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЛекция кратко затронула несколько этических вопросов.",
+"options": [
+"The lecture touched on several ethical questions.",
+"He looks down on anyone without a university degree.",
+"The government refused to bail out the failing company.",
+"We still need to iron out a few technical issues."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «touch on» — «кратко затронуть тему». Правильное предложение: The lecture touched on several ethical questions.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_031_touch_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nI would like to touch briefly on the financial implications.",
+"options": [
+"смотреть свысока; считать хуже себя",
+"кратко затронуть тему",
+"выручить финансово; покинуть ситуацию",
+"устранить мелкие трудности; уладить детали"
+],
+"correct_index": 1,
+"explanation": "Здесь «touch on» означает «кратко затронуть тему». Контекст: Я хотел бы кратко остановиться на финансовых последствиях.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_032_sum_up",
+"card_order": 32,
+"level_code": "a",
+"level": "Advanced",
+"category": "COMMUNICATION",
+"phrasal_verb": "sum up",
+"translation": "подвести итог; кратко резюмировать",
+"questions": [
+{
+"id": "pv_adv_032_sum_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПоследний абзац подводит итог основному аргументу автора.",
+"options": [
+"The sequel did not live up to the standard set by the original film.",
+"This loan should tide us over until sales recover.",
+"The final paragraph sums up the author’s main argument.",
+"The outgoing director handed over responsibility to her successor."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «sum up» — «подвести итог; кратко резюмировать». Правильное предложение: The final paragraph sums up the author’s main argument.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_032_sum_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nIt is difficult to sum the situation up in a single sentence.",
+"options": [
+"оправдать ожидания; соответствовать стандарту",
+"помочь пережить трудный период",
+"передать контроль, ответственность или предмет",
+"подвести итог; кратко резюмировать"
+],
+"correct_index": 3,
+"explanation": "Здесь «sum up» означает «подвести итог; кратко резюмировать». Контекст: Трудно описать ситуацию одним предложением.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_033_bottle_up",
+"card_order": 33,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "bottle up",
+"translation": "подавлять и скрывать эмоции",
+"questions": [
+{
+"id": "pv_adv_033_bottle_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПодавление гнева может усугубить ситуацию.",
+"options": [
+"Bottling up anger can make the situation worse.",
+"A narrow path branches off to the left.",
+"The company did away with several unnecessary approval stages.",
+"We headed off for the coast before sunrise."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «bottle up» — «подавлять и скрывать эмоции». Правильное предложение: Bottling up anger can make the situation worse.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_033_bottle_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHe had bottled his feelings up for years.",
+"options": [
+"ответвляться; свернуть с основной дороги",
+"подавлять и скрывать эмоции",
+"отменить; устранить; покончить с чем-либо",
+"отправиться; предотвратить"
+],
+"correct_index": 1,
+"explanation": "Здесь «bottle up» означает «подавлять и скрывать эмоции». Контекст: Он годами держал свои чувства внутри.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_034_lash_out_at",
+"card_order": 34,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "lash out at",
+"translation": "резко наброситься словами или действиями",
+"questions": [
+{
+"id": "pv_adv_034_lash_out_at_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПосле решения он резко набросился на коллег.",
+"options": [
+"The car veered off the road and hit a barrier.",
+"We had to make do with a much smaller kitchen.",
+"He lashed out at his colleagues after the decision.",
+"We went to the station to see her off."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «lash out at» — «резко наброситься словами или действиями». Правильное предложение: He lashed out at his colleagues after the decision.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_034_lash_out_at_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nPeople under pressure sometimes lash out at those closest to them.",
+"options": [
+"резко отклониться от курса",
+"обходиться тем, что есть",
+"проводить уезжающего",
+"резко наброситься словами или действиями"
+],
+"correct_index": 3,
+"explanation": "Здесь «lash out at» означает «резко наброситься словами или действиями». Контекст: Люди под давлением иногда срываются на самых близких.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_035_open_up_to",
+"card_order": 35,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "open up to",
+"translation": "открыться кому-либо",
+"questions": [
+{
+"id": "pv_adv_035_open_up_to_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПотребовались месяцы, прежде чем он открылся психологу.",
+"options": [
+"It took months before he opened up to his counsellor.",
+"We missed the turning and had to double back.",
+"If the negotiations fail, we can fall back on the original proposal.",
+"The plane touched down safely despite the strong wind."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «open up to» — «открыться кому-либо». Правильное предложение: It took months before he opened up to his counsellor.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_035_open_up_to_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe rarely opens up about her childhood.",
+"options": [
+"вернуться тем же путём",
+"открыться кому-либо",
+"прибегнуть к запасному варианту",
+"приземлиться"
+],
+"correct_index": 1,
+"explanation": "Здесь «open up to» означает «открыться кому-либо». Контекст: Она редко рассказывает о своём детстве.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_036_grow_apart",
+"card_order": 36,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "grow apart",
+"translation": "постепенно отдалиться друг от друга",
+"questions": [
+{
+"id": "pv_adv_036_grow_apart_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОни сохранили дружеские отношения, но постепенно отдалились.",
+"options": [
+"The police were closing in on the suspect.",
+"We are trying to cut back on unnecessary subscriptions.",
+"They remained friendly but gradually grew apart.",
+"The overnight train pulled in just after dawn."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «grow apart» — «постепенно отдалиться друг от друга». Правильное предложение: They remained friendly but gradually grew apart.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_036_grow_apart_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nOld friends can grow apart when their lives take different directions.",
+"options": [
+"приближаться и окружать",
+"сократить потребление или расходы",
+"прибыть и остановиться; съехать к краю",
+"постепенно отдалиться друг от друга"
+],
+"correct_index": 3,
+"explanation": "Здесь «grow apart» означает «постепенно отдалиться друг от друга». Контекст: Старые друзья могут отдалиться, когда их жизнь идёт разными путями.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_037_patch_things_up",
+"card_order": 37,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "patch things up",
+"translation": "помириться; восстановить отношения",
+"questions": [
+{
+"id": "pv_adv_037_patch_things_up_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОни встретились за кофе и смогли помириться.",
+"options": [
+"They met for coffee and managed to patch things up.",
+"She drew back when the dog growled.",
+"We stocked up on bottled water before the storm.",
+"The train pulled out of the station exactly on time."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «patch things up» — «помириться; восстановить отношения». Правильное предложение: They met for coffee and managed to patch things up.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_037_patch_things_up_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe wants to patch things up with her sister.",
+"options": [
+"отступить; отпрянуть",
+"помириться; восстановить отношения",
+"запастись чем-либо",
+"отправиться со станции; выехать"
+],
+"correct_index": 1,
+"explanation": "Здесь «patch things up» означает «помириться; восстановить отношения». Контекст: Она хочет наладить отношения с сестрой.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_038_stand_up_to",
+"card_order": 38,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "stand up to",
+"translation": "противостоять; не позволять запугивать себя",
+"questions": [
+{
+"id": "pv_adv_038_stand_up_to_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nНаконец она дала отпор своему контролирующему руководителю.",
+"options": [
+"The government pressed ahead with the reform despite protests.",
+"They splashed out on a luxury weekend in Rome.",
+"She finally stood up to her controlling manager.",
+"Roadworks held us up for nearly an hour."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «stand up to» — «противостоять; не позволять запугивать себя». Правильное предложение: She finally stood up to her controlling manager.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_038_stand_up_to_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe organisation stood up to intense political pressure.",
+"options": [
+"решительно продолжать движение или работу",
+"потратиться на что-либо дорогое",
+"задержать; ограбить",
+"противостоять; не позволять запугивать себя"
+],
+"correct_index": 3,
+"explanation": "Здесь «stand up to» означает «противостоять; не позволять запугивать себя». Контекст: Организация выдержала сильное политическое давление и не уступила ему.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_039_look_down_on",
+"card_order": 39,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "look down on",
+"translation": "смотреть свысока; считать хуже себя",
+"questions": [
+{
+"id": "pv_adv_039_look_down_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОн смотрит свысока на всех, у кого нет университетского образования.",
+"options": [
+"He looks down on anyone without a university degree.",
+"A powerful storm was bearing down on the coast.",
+"He lived off his savings while setting up the business.",
+"The metro is the easiest way to get around the city."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «look down on» — «смотреть свысока; считать хуже себя». Правильное предложение: He looks down on anyone without a university degree.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_039_look_down_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nNo one should be looked down on because of their accent.",
+"options": [
+"быстро и угрожающе приближаться; давить",
+"смотреть свысока; считать хуже себя",
+"жить за счёт; питаться преимущественно чем-либо",
+"передвигаться; обходить препятствие; распространяться"
+],
+"correct_index": 1,
+"explanation": "Здесь «look down on» означает «смотреть свысока; считать хуже себя». Контекст: Ни на кого не следует смотреть свысока из-за акцента.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_040_live_up_to",
+"card_order": 40,
+"level_code": "a",
+"level": "Advanced",
+"category": "EMOTIONS_RELATIONSHIPS",
+"phrasal_verb": "live up to",
+"translation": "оправдать ожидания; соответствовать стандарту",
+"questions": [
+{
+"id": "pv_adv_040_live_up_to_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПродолжение не дотянуло до уровня, заданного оригинальным фильмом.",
+"options": [
+"Soft light filtered through the curtains.",
+"Some families had to go without heating for several days.",
+"The sequel did not live up to the standard set by the original film.",
+"After taking the wrong train, we wound up in a small coastal town."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «live up to» — «оправдать ожидания; соответствовать стандарту». Правильное предложение: The sequel did not live up to the standard set by the original film.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_040_live_up_to_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe hotel fully lived up to its reputation.",
+"options": [
+"постепенно проходить или распространяться",
+"обходиться без чего-либо",
+"в итоге оказаться в месте или ситуации",
+"оправдать ожидания; соответствовать стандарту"
+],
+"correct_index": 3,
+"explanation": "Здесь «live up to» означает «оправдать ожидания; соответствовать стандарту». Контекст: Отель полностью оправдал свою репутацию.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_041_branch_off",
+"card_order": 41,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "branch off",
+"translation": "ответвляться; свернуть с основной дороги",
+"questions": [
+{
+"id": "pv_adv_041_branch_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nУзкая тропа ответвляется влево.",
+"options": [
+"A narrow path branches off to the left.",
+"We have narrowed the list down to four candidates.",
+"The lawyers drew up a revised agreement.",
+"The contract spells out the responsibilities of both parties."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «branch off» — «ответвляться; свернуть с основной дороги». Правильное предложение: A narrow path branches off to the left.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_041_branch_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe branched off from the main road near the village.",
+"options": [
+"сузить выбор или круг причин",
+"ответвляться; свернуть с основной дороги",
+"составить официальный документ или план",
+"ясно и подробно объяснить"
+],
+"correct_index": 1,
+"explanation": "Здесь «branch off» означает «ответвляться; свернуть с основной дороги». Контекст: Мы свернули с главной дороги возле деревни.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_042_veer_off",
+"card_order": 42,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "veer off",
+"translation": "резко отклониться от курса",
+"questions": [
+{
+"id": "pv_adv_042_veer_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМашина съехала с дороги и врезалась в ограждение.",
+"options": [
+"The tests ruled out a serious infection.",
+"She took on responsibility for the entire project.",
+"The car veered off the road and hit a barrier.",
+"She put her argument across with remarkable clarity."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «veer off» — «резко отклониться от курса». Правильное предложение: The car veered off the road and hit a barrier.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_042_veer_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe boat began to veer off course.",
+"options": [
+"исключить возможность",
+"взять на себя; нанять; приобрести качество",
+"ясно донести мысль",
+"резко отклониться от курса"
+],
+"correct_index": 3,
+"explanation": "Здесь «veer off» означает «резко отклониться от курса». Контекст: Лодка начала отклоняться от курса.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_043_double_back",
+"card_order": 43,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "double back",
+"translation": "вернуться тем же путём",
+"questions": [
+{
+"id": "pv_adv_043_double_back_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы пропустили поворот, и нам пришлось вернуться.",
+"options": [
+"We missed the turning and had to double back.",
+"How do you account for the sudden decline in sales?",
+"The chief executive will step down at the end of the year.",
+"Customers dislike being talked down to."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «double back» — «вернуться тем же путём». Правильное предложение: We missed the turning and had to double back.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_043_double_back_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe hikers doubled back to the last signpost.",
+"options": [
+"объяснять; составлять долю",
+"вернуться тем же путём",
+"уйти с должности",
+"разговаривать свысока"
+],
+"correct_index": 1,
+"explanation": "Здесь «double back» означает «вернуться тем же путём». Контекст: Туристы вернулись к последнему указателю.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_044_close_in_on",
+"card_order": 44,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "close in on",
+"translation": "приближаться и окружать",
+"questions": [
+{
+"id": "pv_adv_044_close_in_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПолиция всё ближе подбиралась к подозреваемому.",
+"options": [
+"The flexible schedule makes up for the lower salary.",
+"The new assessment system will be phased in over two years.",
+"The police were closing in on the suspect.",
+"The minister brushed aside questions about the cost."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «close in on» — «приближаться и окружать». Правильное предложение: The police were closing in on the suspect.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_044_close_in_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nNight was closing in as we reached the valley.",
+"options": [
+"компенсировать недостаток или потерю",
+"вводить постепенно",
+"отмахнуться; проигнорировать",
+"приближаться и окружать"
+],
+"correct_index": 3,
+"explanation": "Здесь «close in on» означает «приближаться и окружать». Контекст: Когда мы достигли долины, сгущалась ночь.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_045_draw_back",
+"card_order": 45,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "draw back",
+"translation": "отступить; отпрянуть",
+"questions": [
+{
+"id": "pv_adv_045_draw_back_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nОна отпрянула, когда собака зарычала.",
+"options": [
+"She drew back when the dog growled.",
+"Regulators are cracking down on misleading advertising.",
+"The manufacturer is phasing out the older model.",
+"Officials tried to play down the scale of the disruption."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «draw back» — «отступить; отпрянуть». Правильное предложение: She drew back when the dog growled.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_045_draw_back_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe company drew back from making a firm commitment.",
+"options": [
+"жёстко пресечь; усилить меры против",
+"отступить; отпрянуть",
+"постепенно выводить из употребления",
+"преуменьшать значение"
+],
+"correct_index": 1,
+"explanation": "Здесь «draw back» означает «отступить; отпрянуть». Контекст: Компания отказалась от твёрдого обязательства.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_046_press_ahead",
+"card_order": 46,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "press ahead",
+"translation": "решительно продолжать движение или работу",
+"questions": [
+{
+"id": "pv_adv_046_press_ahead_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПравительство продолжило реформу, несмотря на протесты.",
+"options": [
+"The company managed to fend off a hostile takeover bid.",
+"The government must follow through on its commitment to reform.",
+"The government pressed ahead with the reform despite protests.",
+"There is little value in dwelling on past mistakes."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «press ahead» — «решительно продолжать движение или работу». Правильное предложение: The government pressed ahead with the reform despite protests.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_046_press_ahead_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe decided to press ahead even though the weather was deteriorating.",
+"options": [
+"отразить угрозу; временно предотвратить",
+"довести обещание или план до конца",
+"подробно или слишком долго останавливаться на",
+"решительно продолжать движение или работу"
+],
+"correct_index": 3,
+"explanation": "Здесь «press ahead» означает «решительно продолжать движение или работу». Контекст: Мы решили продолжать путь, хотя погода ухудшалась.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_047_bear_down_on",
+"card_order": 47,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "bear down on",
+"translation": "быстро и угрожающе приближаться; давить",
+"questions": [
+{
+"id": "pv_adv_047_bear_down_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМощный шторм приближался к побережью.",
+"options": [
+"A powerful storm was bearing down on the coast.",
+"The government refused to bail out the failing company.",
+"We still need to iron out a few technical issues.",
+"The lecture touched on several ethical questions."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «bear down on» — «быстро и угрожающе приближаться; давить». Правильное предложение: A powerful storm was bearing down on the coast.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_047_bear_down_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe defender bore down on the striker.",
+"options": [
+"выручить финансово; покинуть ситуацию",
+"быстро и угрожающе приближаться; давить",
+"устранить мелкие трудности; уладить детали",
+"кратко затронуть тему"
+],
+"correct_index": 1,
+"explanation": "Здесь «bear down on» означает «быстро и угрожающе приближаться; давить». Контекст: Защитник стремительно приблизился к нападающему.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_048_filter_through",
+"card_order": 48,
+"level_code": "a",
+"level": "Advanced",
+"category": "MOVEMENT",
+"phrasal_verb": "filter through",
+"translation": "постепенно проходить или распространяться",
+"questions": [
+{
+"id": "pv_adv_048_filter_through_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМягкий свет проникал сквозь шторы.",
+"options": [
+"This loan should tide us over until sales recover.",
+"The outgoing director handed over responsibility to her successor.",
+"Soft light filtered through the curtains.",
+"The final paragraph sums up the author’s main argument."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «filter through» — «постепенно проходить или распространяться». Правильное предложение: Soft light filtered through the curtains.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_048_filter_through_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nPassengers began to filter through the gate.",
+"options": [
+"помочь пережить трудный период",
+"передать контроль, ответственность или предмет",
+"подвести итог; кратко резюмировать",
+"постепенно проходить или распространяться"
+],
+"correct_index": 3,
+"explanation": "Здесь «filter through» означает «постепенно проходить или распространяться». Контекст: Пассажиры начали постепенно проходить через выход.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_049_narrow_down",
+"card_order": 49,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "narrow down",
+"translation": "сузить выбор или круг причин",
+"questions": [
+{
+"id": "pv_adv_049_narrow_down_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nМы сократили список до четырёх кандидатов.",
+"options": [
+"We have narrowed the list down to four candidates.",
+"The company did away with several unnecessary approval stages.",
+"We headed off for the coast before sunrise.",
+"Bottling up anger can make the situation worse."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «narrow down» — «сузить выбор или круг причин». Правильное предложение: We have narrowed the list down to four candidates.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_049_narrow_down_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nFurther tests should narrow down the possible causes.",
+"options": [
+"отменить; устранить; покончить с чем-либо",
+"сузить выбор или круг причин",
+"отправиться; предотвратить",
+"подавлять и скрывать эмоции"
+],
+"correct_index": 1,
+"explanation": "Здесь «narrow down» означает «сузить выбор или круг причин». Контекст: Дополнительные тесты должны сузить круг возможных причин.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_050_rule_out",
+"card_order": 50,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "rule out",
+"translation": "исключить возможность",
+"questions": [
+{
+"id": "pv_adv_050_rule_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nАнализы исключили серьёзную инфекцию.",
+"options": [
+"We had to make do with a much smaller kitchen.",
+"We went to the station to see her off.",
+"The tests ruled out a serious infection.",
+"He lashed out at his colleagues after the decision."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «rule out» — «исключить возможность». Правильное предложение: The tests ruled out a serious infection.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_050_rule_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe cannot rule out the possibility of further delays.",
+"options": [
+"обходиться тем, что есть",
+"проводить уезжающего",
+"резко наброситься словами или действиями",
+"исключить возможность"
+],
+"correct_index": 3,
+"explanation": "Здесь «rule out» означает «исключить возможность». Контекст: Мы не можем исключить возможность дальнейших задержек.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_051_account_for",
+"card_order": 51,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "account for",
+"translation": "объяснять; составлять долю",
+"questions": [
+{
+"id": "pv_adv_051_account_for_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nКак вы объясните внезапное снижение продаж?",
+"options": [
+"How do you account for the sudden decline in sales?",
+"If the negotiations fail, we can fall back on the original proposal.",
+"The plane touched down safely despite the strong wind.",
+"It took months before he opened up to his counsellor."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «account for» — «объяснять; составлять долю». Правильное предложение: How do you account for the sudden decline in sales?",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_051_account_for_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nOnline orders account for nearly half of our revenue.",
+"options": [
+"прибегнуть к запасному варианту",
+"объяснять; составлять долю",
+"приземлиться",
+"открыться кому-либо"
+],
+"correct_index": 1,
+"explanation": "Здесь «account for» означает «объяснять; составлять долю». Контекст: Онлайн-заказы составляют почти половину нашей выручки.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_052_make_up_for",
+"card_order": 52,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "make up for",
+"translation": "компенсировать недостаток или потерю",
+"questions": [
+{
+"id": "pv_adv_052_make_up_for_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nГибкий график компенсирует более низкую зарплату.",
+"options": [
+"We are trying to cut back on unnecessary subscriptions.",
+"The overnight train pulled in just after dawn.",
+"The flexible schedule makes up for the lower salary.",
+"They remained friendly but gradually grew apart."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «make up for» — «компенсировать недостаток или потерю». Правильное предложение: The flexible schedule makes up for the lower salary.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_052_make_up_for_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nWe worked late to make up for lost time.",
+"options": [
+"сократить потребление или расходы",
+"прибыть и остановиться; съехать к краю",
+"постепенно отдалиться друг от друга",
+"компенсировать недостаток или потерю"
+],
+"correct_index": 3,
+"explanation": "Здесь «make up for» означает «компенсировать недостаток или потерю». Контекст: Мы работали допоздна, чтобы наверстать потерянное время.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_053_crack_down_on",
+"card_order": 53,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "crack down on",
+"translation": "жёстко пресечь; усилить меры против",
+"questions": [
+{
+"id": "pv_adv_053_crack_down_on_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nРегуляторы усиливают меры против вводящей в заблуждение рекламы.",
+"options": [
+"Regulators are cracking down on misleading advertising.",
+"We stocked up on bottled water before the storm.",
+"The train pulled out of the station exactly on time.",
+"They met for coffee and managed to patch things up."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «crack down on» — «жёстко пресечь; усилить меры против». Правильное предложение: Regulators are cracking down on misleading advertising.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_053_crack_down_on_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nThe city launched a campaign to crack down on illegal parking.",
+"options": [
+"запастись чем-либо",
+"жёстко пресечь; усилить меры против",
+"отправиться со станции; выехать",
+"помириться; восстановить отношения"
+],
+"correct_index": 1,
+"explanation": "Здесь «crack down on» означает «жёстко пресечь; усилить меры против». Контекст: Город начал кампанию по борьбе с незаконной парковкой.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_054_fend_off",
+"card_order": 54,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "fend off",
+"translation": "отразить угрозу; временно предотвратить",
+"questions": [
+{
+"id": "pv_adv_054_fend_off_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nКомпания сумела отразить попытку недружественного поглощения.",
+"options": [
+"They splashed out on a luxury weekend in Rome.",
+"Roadworks held us up for nearly an hour.",
+"The company managed to fend off a hostile takeover bid.",
+"She finally stood up to her controlling manager."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «fend off» — «отразить угрозу; временно предотвратить». Правильное предложение: The company managed to fend off a hostile takeover bid.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_054_fend_off_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nShe used humour to fend off awkward questions.",
+"options": [
+"потратиться на что-либо дорогое",
+"задержать; ограбить",
+"противостоять; не позволять запугивать себя",
+"отразить угрозу; временно предотвратить"
+],
+"correct_index": 3,
+"explanation": "Здесь «fend off» означает «отразить угрозу; временно предотвратить». Контекст: Она использовала юмор, чтобы уйти от неловких вопросов.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_055_bail_out",
+"card_order": 55,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "bail out",
+"translation": "выручить финансово; покинуть ситуацию",
+"questions": [
+{
+"id": "pv_adv_055_bail_out_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nПравительство отказалось финансово спасать терпящую крах компанию.",
+"options": [
+"The government refused to bail out the failing company.",
+"He lived off his savings while setting up the business.",
+"The metro is the easiest way to get around the city.",
+"He looks down on anyone without a university degree."
+],
+"correct_index": 0,
+"explanation": "В этом контексте подходит «bail out» — «выручить финансово; покинуть ситуацию». Правильное предложение: The government refused to bail out the failing company.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_055_bail_out_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nHis parents repeatedly bailed him out when he got into financial trouble.",
+"options": [
+"жить за счёт; питаться преимущественно чем-либо",
+"выручить финансово; покинуть ситуацию",
+"передвигаться; обходить препятствие; распространяться",
+"смотреть свысока; считать хуже себя"
+],
+"correct_index": 1,
+"explanation": "Здесь «bail out» означает «выручить финансово; покинуть ситуацию». Контекст: Родители неоднократно выручали его, когда он попадал в финансовые затруднения.",
+"source_example_index": 1
+}
+]
+},
+{
+"base_card_id": "pv_adv_056_tide_over",
+"card_order": 56,
+"level_code": "a",
+"level": "Advanced",
+"category": "PROBLEMS_SOLUTIONS",
+"phrasal_verb": "tide over",
+"translation": "помочь пережить трудный период",
+"questions": [
+{
+"id": "pv_adv_056_tide_over_extra_1",
+"type": "context_to_form",
+"prompt": "Какое английское предложение точнее всего соответствует этому смыслу?\n\nЭтого займа должно хватить, чтобы продержаться до восстановления продаж.",
+"options": [
+"Some families had to go without heating for several days.",
+"After taking the wrong train, we wound up in a small coastal town.",
+"This loan should tide us over until sales recover.",
+"The sequel did not live up to the standard set by the original film."
+],
+"correct_index": 2,
+"explanation": "В этом контексте подходит «tide over» — «помочь пережить трудный период». Правильное предложение: This loan should tide us over until sales recover.",
+"source_example_index": 0
+},
+{
+"id": "pv_adv_056_tide_over_extra_2",
+"type": "meaning_in_context",
+"prompt": "Что означает фразовый глагол в этом контексте?\n\nA small grant helped tide the organisation over during the winter.",
+"options": [
+"обходиться без чего-либо",
+"в итоге оказаться в месте или ситуации",
+"оправдать ожидания; соответствовать стандарту",
+"помочь пережить трудный период"
+],
+"correct_index": 3,
+"explanation": "Здесь «tide over» означает «помочь пережить трудный период». Контекст: Небольшой грант помог организации пережить зиму.",
+"source_example_index": 1
+}
+]
+}
+]

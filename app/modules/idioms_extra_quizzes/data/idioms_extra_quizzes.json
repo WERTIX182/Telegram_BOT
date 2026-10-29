@@ -1,0 +1,4370 @@
+[
+  {
+    "base_card_id": "idiom_01",
+    "card_order": 1,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "a piece of cake",
+    "translation": "проще простого",
+    "questions": [
+      {
+        "id": "idiom_01_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «проще простого»?",
+        "options": [
+          "The online form was a piece of cake to complete.",
+          "I can’t go out tonight; I need to hit the books.",
+          "She was over the moon about her exam result.",
+          "That tiny apartment costs an arm and a leg."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «a piece of cake»: оно означает «проще простого».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_01_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nDon’t worry about the quiz — it should be a piece of cake.",
+        "options": [
+          "засесть за учёбу",
+          "проще простого",
+          "на седьмом небе от счастья",
+          "стоить целое состояние"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «a piece of cake» означает «проще простого».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_02",
+    "card_order": 2,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "under the weather",
+    "translation": "неважно себя чувствовать",
+    "questions": [
+      {
+        "id": "idiom_02_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «неважно себя чувствовать»?",
+        "options": [
+          "It took me a month to learn the ropes at my new job.",
+          "He’s been down in the dumps since the interview.",
+          "I’m staying home because I’m feeling under the weather.",
+          "Many families are struggling to make ends meet."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «under the weather»: оно означает «неважно себя чувствовать».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_02_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe looked under the weather during the meeting.",
+        "options": [
+          "освоить основы работы",
+          "в подавленном настроении",
+          "сводить концы с концами",
+          "неважно себя чувствовать"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «under the weather» означает «неважно себя чувствовать».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_03",
+    "card_order": 3,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "once in a blue moon",
+    "translation": "крайне редко",
+    "questions": [
+      {
+        "id": "idiom_03_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «крайне редко»?",
+        "options": [
+          "We eat out only once in a blue moon.",
+          "Your analysis is on the right track.",
+          "He got cold feet before the presentation.",
+          "Try to save a little money for a rainy day."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «once in a blue moon»: оно означает «крайне редко».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_03_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nOnce in a blue moon, he takes a full day off.",
+        "options": [
+          "двигаться в правильном направлении",
+          "крайне редко",
+          "струсить в последний момент",
+          "откладывать на чёрный день"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «once in a blue moon» означает «крайне редко».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_04",
+    "card_order": 4,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "just around the corner",
+    "translation": "совсем скоро; совсем рядом",
+    "questions": [
+      {
+        "id": "idiom_04_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «совсем скоро; совсем рядом»?",
+        "options": [
+          "Our support team always goes the extra mile for customers.",
+          "She kept her cool during the argument.",
+          "The holidays are just around the corner.",
+          "We’ll have to tighten our belts this month."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «just around the corner»: оно означает «совсем скоро; совсем рядом».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_04_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThere’s a pharmacy right around the corner.",
+        "options": [
+          "сделать больше, чем требуется",
+          "сохранять спокойствие",
+          "сократить расходы",
+          "совсем скоро; совсем рядом"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «just around the corner» означает «совсем скоро; совсем рядом».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_05",
+    "card_order": 5,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "on the go",
+    "translation": "в постоянном движении; очень занят",
+    "questions": [
+      {
+        "id": "idiom_05_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «в постоянном движении; очень занят»?",
+        "options": [
+          "I’ve been on the go since seven this morning.",
+          "We’ve done enough; let’s call it a day.",
+          "He lost his temper when the computer crashed again.",
+          "The business has been in the red for three months."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «on the go»: оно означает «в постоянном движении; очень занят».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_05_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe often has lunch on the go.",
+        "options": [
+          "закончить работу на сегодня",
+          "в постоянном движении; очень занят",
+          "выйти из себя",
+          "быть в долгах; нести убытки"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «on the go» означает «в постоянном движении; очень занят».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_06",
+    "card_order": 6,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "out of the blue",
+    "translation": "совершенно неожиданно",
+    "questions": [
+      {
+        "id": "idiom_06_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «совершенно неожиданно»?",
+        "options": [
+          "The experiment failed, so we’re back to square one.",
+          "I always feel a little blue after the holidays.",
+          "He called me out of the blue after ten years.",
+          "The café is finally back in the black."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «out of the blue»: оно означает «совершенно неожиданно».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_06_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe job offer came out of the blue.",
+        "options": [
+          "снова с самого начала",
+          "грустить; хандрить",
+          "быть прибыльным; иметь положительный баланс",
+          "совершенно неожиданно"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «out of the blue» означает «совершенно неожиданно».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_07",
+    "card_order": 7,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "the last straw",
+    "translation": "последняя капля",
+    "questions": [
+      {
+        "id": "idiom_07_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «последняя капля»?",
+        "options": [
+          "When the bus broke down again, it was the last straw.",
+          "We need to think outside the box to reduce costs.",
+          "I’m fed up with these constant delays.",
+          "They made the film on a shoestring."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «the last straw»: оно означает «последняя капля».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_07_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHis rude message was the last straw for me.",
+        "options": [
+          "мыслить нестандартно",
+          "последняя капля",
+          "быть сытым по горло",
+          "с очень небольшим бюджетом"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «the last straw» означает «последняя капля».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_08",
+    "card_order": 8,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "DAILY",
+    "idiom": "get the hang of something",
+    "translation": "наловчиться; понять, как это делается",
+    "questions": [
+      {
+        "id": "idiom_08_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «наловчиться; понять, как это делается»?",
+        "options": [
+          "I can’t take on another task; I already have a lot on my plate.",
+          "Everyone was on edge before the announcement.",
+          "You’ll get the hang of the software after a few days.",
+          "You can’t buy everything you see — money doesn’t grow on trees."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «get the hang of something»: оно означает «наловчиться; понять, как это делается».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_08_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nIt took me a while to get the hang of driving on the left.",
+        "options": [
+          "иметь слишком много дел",
+          "быть на взводе",
+          "деньги не растут на деревьях",
+          "наловчиться; понять, как это делается"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «get the hang of something» означает «наловчиться; понять, как это делается».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_09",
+    "card_order": 9,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "hit the books",
+    "translation": "засесть за учёбу",
+    "questions": [
+      {
+        "id": "idiom_09_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «засесть за учёбу»?",
+        "options": [
+          "I can’t go out tonight; I need to hit the books.",
+          "I’ll get straight to the point: we need more time.",
+          "I introduced them, and they hit it off immediately.",
+          "I finally bit the bullet and called the bank."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «hit the books»: оно означает «засесть за учёбу».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_09_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe hit the books before her final exams.",
+        "options": [
+          "сразу перейти к сути",
+          "засесть за учёбу",
+          "сразу поладить; быстро найти общий язык",
+          "собраться с духом и сделать неприятное"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «hit the books» означает «засесть за учёбу».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_10",
+    "card_order": 10,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "learn the ropes",
+    "translation": "освоить основы работы",
+    "questions": [
+      {
+        "id": "idiom_10_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «освоить основы работы»?",
+        "options": [
+          "If you read between the lines, the email is quite critical.",
+          "We don’t always see eye to eye on money.",
+          "It took me a month to learn the ropes at my new job.",
+          "He knew he had to face the music."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «learn the ropes»: оно означает «освоить основы работы».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_10_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nMaya showed the new assistant the ropes.",
+        "options": [
+          "читать между строк",
+          "быть полностью согласными",
+          "ответить за последствия",
+          "освоить основы работы"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «learn the ropes» означает «освоить основы работы».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_11",
+    "card_order": 11,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "be on the right track",
+    "translation": "двигаться в правильном направлении",
+    "questions": [
+      {
+        "id": "idiom_11_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «двигаться в правильном направлении»?",
+        "options": [
+          "Your analysis is on the right track.",
+          "Don’t be afraid to speak your mind in the meeting.",
+          "I’ve always had a soft spot for my old teacher.",
+          "I think I’ve bitten off more than I can chew with this project."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be on the right track»: оно означает «двигаться в правильном направлении».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_11_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe first results suggest we’re on the right track.",
+        "options": [
+          "откровенно высказать своё мнение",
+          "двигаться в правильном направлении",
+          "испытывать особую симпатию",
+          "взяться за непосильную задачу"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be on the right track» означает «двигаться в правильном направлении».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_12",
+    "card_order": 12,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "go the extra mile",
+    "translation": "сделать больше, чем требуется",
+    "questions": [
+      {
+        "id": "idiom_12_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сделать больше, чем требуется»?",
+        "options": [
+          "Let’s make sure we’re all on the same page.",
+          "She gave me the cold shoulder at the party.",
+          "Our support team always goes the extra mile for customers.",
+          "He’s in hot water for missing the deadline."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «go the extra mile»: оно означает «сделать больше, чем требуется».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_12_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe went the extra mile to help the project succeed.",
+        "options": [
+          "одинаково понимать ситуацию",
+          "демонстративно игнорировать",
+          "попасть в неприятности",
+          "сделать больше, чем требуется"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «go the extra mile» означает «сделать больше, чем требуется».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_13",
+    "card_order": 13,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "call it a day",
+    "translation": "закончить работу на сегодня",
+    "questions": [
+      {
+        "id": "idiom_13_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «закончить работу на сегодня»?",
+        "options": [
+          "We’ve done enough; let’s call it a day.",
+          "Please keep me in the loop about any changes.",
+          "We met for coffee to clear the air.",
+          "Our search for cheaper premises hit a dead end."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «call it a day»: оно означает «закончить работу на сегодня».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_13_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nAt six, the team called it a day.",
+        "options": [
+          "держать кого-либо в курсе",
+          "закончить работу на сегодня",
+          "прояснить ситуацию и снять напряжение",
+          "зайти в тупик"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «call it a day» означает «закончить работу на сегодня».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_14",
+    "card_order": 14,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "back to square one",
+    "translation": "снова с самого начала",
+    "questions": [
+      {
+        "id": "idiom_14_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «снова с самого начала»?",
+        "options": [
+          "Most customers heard about us by word of mouth.",
+          "After years of arguing, they finally buried the hatchet.",
+          "The experiment failed, so we’re back to square one.",
+          "What if the plan fails? We’ll cross that bridge when we come to it."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «back to square one»: оно означает «снова с самого начала».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_14_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nLosing the file sent us back to square one.",
+        "options": [
+          "из уст в уста; по личным рекомендациям",
+          "помириться; прекратить вражду",
+          "решать проблему, когда она действительно возникнет",
+          "снова с самого начала"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «back to square one» означает «снова с самого начала».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_15",
+    "card_order": 15,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "think outside the box",
+    "translation": "мыслить нестандартно",
+    "questions": [
+      {
+        "id": "idiom_15_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «мыслить нестандартно»?",
+        "options": [
+          "We need to think outside the box to reduce costs.",
+          "To put it in a nutshell, the plan is too expensive.",
+          "That constant tapping is getting on my nerves.",
+          "We need to weigh up the pros and cons before moving."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «think outside the box»: оно означает «мыслить нестандартно».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_15_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHer solution showed that she could think outside the box.",
+        "options": [
+          "выразить кратко; в двух словах",
+          "мыслить нестандартно",
+          "сильно раздражать кого-либо",
+          "взвесить все плюсы и минусы"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «think outside the box» означает «мыслить нестандартно».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_16",
+    "card_order": 16,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "WORK_STUDY",
+    "idiom": "have a lot on your plate",
+    "translation": "иметь слишком много дел",
+    "questions": [
+      {
+        "id": "idiom_16_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «иметь слишком много дел»?",
+        "options": [
+          "Take his predictions with a pinch of salt.",
+          "Don’t blame yourself; we’re all in the same boat.",
+          "I can’t take on another task; I already have a lot on my plate.",
+          "She took the bull by the horns and spoke to the manager."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «have a lot on your plate»: оно означает «иметь слишком много дел».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_16_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe has enough on her plate this week.",
+        "options": [
+          "относиться к информации с долей сомнения",
+          "оказаться в одинаковой трудной ситуации",
+          "решительно взяться за проблему",
+          "иметь слишком много дел"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «have a lot on your plate» означает «иметь слишком много дел».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_17",
+    "card_order": 17,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "get straight to the point",
+    "translation": "сразу перейти к сути",
+    "questions": [
+      {
+        "id": "idiom_17_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сразу перейти к сути»?",
+        "options": [
+          "I’ll get straight to the point: we need more time.",
+          "She was over the moon about her exam result.",
+          "That tiny apartment costs an arm and a leg.",
+          "The online form was a piece of cake to complete."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «get straight to the point»: оно означает «сразу перейти к сути».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_17_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nCould you come to the point, please?",
+        "options": [
+          "на седьмом небе от счастья",
+          "сразу перейти к сути",
+          "стоить целое состояние",
+          "проще простого"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «get straight to the point» означает «сразу перейти к сути».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_18",
+    "card_order": 18,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "read between the lines",
+    "translation": "читать между строк",
+    "questions": [
+      {
+        "id": "idiom_18_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «читать между строк»?",
+        "options": [
+          "He’s been down in the dumps since the interview.",
+          "Many families are struggling to make ends meet.",
+          "If you read between the lines, the email is quite critical.",
+          "I’m staying home because I’m feeling under the weather."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «read between the lines»: оно означает «читать между строк».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_18_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe never said she was leaving, but I read between the lines.",
+        "options": [
+          "в подавленном настроении",
+          "сводить концы с концами",
+          "неважно себя чувствовать",
+          "читать между строк"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «read between the lines» означает «читать между строк».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_19",
+    "card_order": 19,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "speak your mind",
+    "translation": "откровенно высказать своё мнение",
+    "questions": [
+      {
+        "id": "idiom_19_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «откровенно высказать своё мнение»?",
+        "options": [
+          "Don’t be afraid to speak your mind in the meeting.",
+          "He got cold feet before the presentation.",
+          "Try to save a little money for a rainy day.",
+          "We eat out only once in a blue moon."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «speak your mind»: оно означает «откровенно высказать своё мнение».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_19_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe spoke his mind, but he remained polite.",
+        "options": [
+          "струсить в последний момент",
+          "откровенно высказать своё мнение",
+          "откладывать на чёрный день",
+          "крайне редко"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «speak your mind» означает «откровенно высказать своё мнение».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_20",
+    "card_order": 20,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "be on the same page",
+    "translation": "одинаково понимать ситуацию",
+    "questions": [
+      {
+        "id": "idiom_20_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «одинаково понимать ситуацию»?",
+        "options": [
+          "She kept her cool during the argument.",
+          "We’ll have to tighten our belts this month.",
+          "Let’s make sure we’re all on the same page.",
+          "The holidays are just around the corner."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be on the same page»: оно означает «одинаково понимать ситуацию».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_20_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe two departments are not yet on the same page.",
+        "options": [
+          "сохранять спокойствие",
+          "сократить расходы",
+          "совсем скоро; совсем рядом",
+          "одинаково понимать ситуацию"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be on the same page» означает «одинаково понимать ситуацию».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_21",
+    "card_order": 21,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "keep someone in the loop",
+    "translation": "держать кого-либо в курсе",
+    "questions": [
+      {
+        "id": "idiom_21_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «держать кого-либо в курсе»?",
+        "options": [
+          "Please keep me in the loop about any changes.",
+          "He lost his temper when the computer crashed again.",
+          "The business has been in the red for three months.",
+          "I’ve been on the go since seven this morning."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «keep someone in the loop»: оно означает «держать кого-либо в курсе».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_21_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe need to keep the client in the loop.",
+        "options": [
+          "выйти из себя",
+          "держать кого-либо в курсе",
+          "быть в долгах; нести убытки",
+          "в постоянном движении; очень занят"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «keep someone in the loop» означает «держать кого-либо в курсе».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_22",
+    "card_order": 22,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "by word of mouth",
+    "translation": "из уст в уста; по личным рекомендациям",
+    "questions": [
+      {
+        "id": "idiom_22_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «из уст в уста; по личным рекомендациям»?",
+        "options": [
+          "I always feel a little blue after the holidays.",
+          "The café is finally back in the black.",
+          "Most customers heard about us by word of mouth.",
+          "He called me out of the blue after ten years."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «by word of mouth»: оно означает «из уст в уста; по личным рекомендациям».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_22_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe news spread quickly by word of mouth.",
+        "options": [
+          "грустить; хандрить",
+          "быть прибыльным; иметь положительный баланс",
+          "совершенно неожиданно",
+          "из уст в уста; по личным рекомендациям"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «by word of mouth» означает «из уст в уста; по личным рекомендациям».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_23",
+    "card_order": 23,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "put it in a nutshell",
+    "translation": "выразить кратко; в двух словах",
+    "questions": [
+      {
+        "id": "idiom_23_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «выразить кратко; в двух словах»?",
+        "options": [
+          "To put it in a nutshell, the plan is too expensive.",
+          "I’m fed up with these constant delays.",
+          "They made the film on a shoestring.",
+          "When the bus broke down again, it was the last straw."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «put it in a nutshell»: оно означает «выразить кратко; в двух словах».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_23_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nCan you put the proposal in a nutshell?",
+        "options": [
+          "быть сытым по горло",
+          "выразить кратко; в двух словах",
+          "с очень небольшим бюджетом",
+          "последняя капля"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «put it in a nutshell» означает «выразить кратко; в двух словах».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_24",
+    "card_order": 24,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "idiom": "take something with a pinch of salt",
+    "translation": "относиться к информации с долей сомнения",
+    "questions": [
+      {
+        "id": "idiom_24_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «относиться к информации с долей сомнения»?",
+        "options": [
+          "Everyone was on edge before the announcement.",
+          "You can’t buy everything you see — money doesn’t grow on trees.",
+          "Take his predictions with a pinch of salt.",
+          "You’ll get the hang of the software after a few days."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «take something with a pinch of salt»: оно означает «относиться к информации с долей сомнения».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_24_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI’d take that online review with a grain of salt.",
+        "options": [
+          "быть на взводе",
+          "деньги не растут на деревьях",
+          "наловчиться; понять, как это делается",
+          "относиться к информации с долей сомнения"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «take something with a pinch of salt» означает «относиться к информации с долей сомнения».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_25",
+    "card_order": 25,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "over the moon",
+    "translation": "на седьмом небе от счастья",
+    "questions": [
+      {
+        "id": "idiom_25_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «на седьмом небе от счастья»?",
+        "options": [
+          "She was over the moon about her exam result.",
+          "I introduced them, and they hit it off immediately.",
+          "I finally bit the bullet and called the bank.",
+          "I can’t go out tonight; I need to hit the books."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «over the moon»: оно означает «на седьмом небе от счастья».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_25_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe’re over the moon to hear your news.",
+        "options": [
+          "сразу поладить; быстро найти общий язык",
+          "на седьмом небе от счастья",
+          "собраться с духом и сделать неприятное",
+          "засесть за учёбу"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «over the moon» означает «на седьмом небе от счастья».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_26",
+    "card_order": 26,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "down in the dumps",
+    "translation": "в подавленном настроении",
+    "questions": [
+      {
+        "id": "idiom_26_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «в подавленном настроении»?",
+        "options": [
+          "We don’t always see eye to eye on money.",
+          "He knew he had to face the music.",
+          "He’s been down in the dumps since the interview.",
+          "It took me a month to learn the ropes at my new job."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «down in the dumps»: оно означает «в подавленном настроении».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_26_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI felt a little down in the dumps yesterday.",
+        "options": [
+          "быть полностью согласными",
+          "ответить за последствия",
+          "освоить основы работы",
+          "в подавленном настроении"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «down in the dumps» означает «в подавленном настроении».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_27",
+    "card_order": 27,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "get cold feet",
+    "translation": "струсить в последний момент",
+    "questions": [
+      {
+        "id": "idiom_27_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «струсить в последний момент»?",
+        "options": [
+          "He got cold feet before the presentation.",
+          "I’ve always had a soft spot for my old teacher.",
+          "I think I’ve bitten off more than I can chew with this project.",
+          "Your analysis is on the right track."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «get cold feet»: оно означает «струсить в последний момент».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_27_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nDon’t get cold feet now — you’re ready.",
+        "options": [
+          "испытывать особую симпатию",
+          "струсить в последний момент",
+          "взяться за непосильную задачу",
+          "двигаться в правильном направлении"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «get cold feet» означает «струсить в последний момент».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_28",
+    "card_order": 28,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "keep your cool",
+    "translation": "сохранять спокойствие",
+    "questions": [
+      {
+        "id": "idiom_28_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сохранять спокойствие»?",
+        "options": [
+          "She gave me the cold shoulder at the party.",
+          "He’s in hot water for missing the deadline.",
+          "She kept her cool during the argument.",
+          "Our support team always goes the extra mile for customers."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «keep your cool»: оно означает «сохранять спокойствие».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_28_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nIt’s important to keep your cool under pressure.",
+        "options": [
+          "демонстративно игнорировать",
+          "попасть в неприятности",
+          "сделать больше, чем требуется",
+          "сохранять спокойствие"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «keep your cool» означает «сохранять спокойствие».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_29",
+    "card_order": 29,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "lose your temper",
+    "translation": "выйти из себя",
+    "questions": [
+      {
+        "id": "idiom_29_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «выйти из себя»?",
+        "options": [
+          "He lost his temper when the computer crashed again.",
+          "We met for coffee to clear the air.",
+          "Our search for cheaper premises hit a dead end.",
+          "We’ve done enough; let’s call it a day."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «lose your temper»: оно означает «выйти из себя».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_29_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI’m sorry I lost my temper.",
+        "options": [
+          "прояснить ситуацию и снять напряжение",
+          "выйти из себя",
+          "зайти в тупик",
+          "закончить работу на сегодня"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «lose your temper» означает «выйти из себя».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_30",
+    "card_order": 30,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "feel blue",
+    "translation": "грустить; хандрить",
+    "questions": [
+      {
+        "id": "idiom_30_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «грустить; хандрить»?",
+        "options": [
+          "After years of arguing, they finally buried the hatchet.",
+          "What if the plan fails? We’ll cross that bridge when we come to it.",
+          "I always feel a little blue after the holidays.",
+          "The experiment failed, so we’re back to square one."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «feel blue»: оно означает «грустить; хандрить».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_30_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe was feeling blue, so we invited her out.",
+        "options": [
+          "помириться; прекратить вражду",
+          "решать проблему, когда она действительно возникнет",
+          "снова с самого начала",
+          "грустить; хандрить"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «feel blue» означает «грустить; хандрить».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_31",
+    "card_order": 31,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "be fed up with something",
+    "translation": "быть сытым по горло",
+    "questions": [
+      {
+        "id": "idiom_31_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть сытым по горло»?",
+        "options": [
+          "I’m fed up with these constant delays.",
+          "That constant tapping is getting on my nerves.",
+          "We need to weigh up the pros and cons before moving.",
+          "We need to think outside the box to reduce costs."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be fed up with something»: оно означает «быть сытым по горло».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_31_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe got fed up with waiting.",
+        "options": [
+          "сильно раздражать кого-либо",
+          "быть сытым по горло",
+          "взвесить все плюсы и минусы",
+          "мыслить нестандартно"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be fed up with something» означает «быть сытым по горло».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_32",
+    "card_order": 32,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "idiom": "be on edge",
+    "translation": "быть на взводе",
+    "questions": [
+      {
+        "id": "idiom_32_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть на взводе»?",
+        "options": [
+          "Don’t blame yourself; we’re all in the same boat.",
+          "She took the bull by the horns and spoke to the manager.",
+          "Everyone was on edge before the announcement.",
+          "I can’t take on another task; I already have a lot on my plate."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be on edge»: оно означает «быть на взводе».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_32_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nToo much coffee makes me feel on edge.",
+        "options": [
+          "оказаться в одинаковой трудной ситуации",
+          "решительно взяться за проблему",
+          "иметь слишком много дел",
+          "быть на взводе"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be on edge» означает «быть на взводе».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_33",
+    "card_order": 33,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "hit it off",
+    "translation": "сразу поладить; быстро найти общий язык",
+    "questions": [
+      {
+        "id": "idiom_33_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сразу поладить; быстро найти общий язык»?",
+        "options": [
+          "I introduced them, and they hit it off immediately.",
+          "That tiny apartment costs an arm and a leg.",
+          "The online form was a piece of cake to complete.",
+          "I’ll get straight to the point: we need more time."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «hit it off»: оно означает «сразу поладить; быстро найти общий язык».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_33_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe really hit it off with her new colleague.",
+        "options": [
+          "стоить целое состояние",
+          "сразу поладить; быстро найти общий язык",
+          "проще простого",
+          "сразу перейти к сути"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «hit it off» означает «сразу поладить; быстро найти общий язык».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_34",
+    "card_order": 34,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "see eye to eye",
+    "translation": "быть полностью согласными",
+    "questions": [
+      {
+        "id": "idiom_34_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть полностью согласными»?",
+        "options": [
+          "Many families are struggling to make ends meet.",
+          "I’m staying home because I’m feeling under the weather.",
+          "We don’t always see eye to eye on money.",
+          "If you read between the lines, the email is quite critical."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «see eye to eye»: оно означает «быть полностью согласными».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_34_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe managers finally saw eye to eye.",
+        "options": [
+          "сводить концы с концами",
+          "неважно себя чувствовать",
+          "читать между строк",
+          "быть полностью согласными"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «see eye to eye» означает «быть полностью согласными».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_35",
+    "card_order": 35,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "have a soft spot for someone",
+    "translation": "испытывать особую симпатию",
+    "questions": [
+      {
+        "id": "idiom_35_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «испытывать особую симпатию»?",
+        "options": [
+          "I’ve always had a soft spot for my old teacher.",
+          "Try to save a little money for a rainy day.",
+          "We eat out only once in a blue moon.",
+          "Don’t be afraid to speak your mind in the meeting."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «have a soft spot for someone»: оно означает «испытывать особую симпатию».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_35_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe has a soft spot for stray animals.",
+        "options": [
+          "откладывать на чёрный день",
+          "испытывать особую симпатию",
+          "крайне редко",
+          "откровенно высказать своё мнение"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «have a soft spot for someone» означает «испытывать особую симпатию».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_36",
+    "card_order": 36,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "give someone the cold shoulder",
+    "translation": "демонстративно игнорировать",
+    "questions": [
+      {
+        "id": "idiom_36_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «демонстративно игнорировать»?",
+        "options": [
+          "We’ll have to tighten our belts this month.",
+          "The holidays are just around the corner.",
+          "She gave me the cold shoulder at the party.",
+          "Let’s make sure we’re all on the same page."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «give someone the cold shoulder»: оно означает «демонстративно игнорировать».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_36_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nAfter the argument, he got the cold shoulder from his friends.",
+        "options": [
+          "сократить расходы",
+          "совсем скоро; совсем рядом",
+          "одинаково понимать ситуацию",
+          "демонстративно игнорировать"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «give someone the cold shoulder» означает «демонстративно игнорировать».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_37",
+    "card_order": 37,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "clear the air",
+    "translation": "прояснить ситуацию и снять напряжение",
+    "questions": [
+      {
+        "id": "idiom_37_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «прояснить ситуацию и снять напряжение»?",
+        "options": [
+          "We met for coffee to clear the air.",
+          "The business has been in the red for three months.",
+          "I’ve been on the go since seven this morning.",
+          "Please keep me in the loop about any changes."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «clear the air»: оно означает «прояснить ситуацию и снять напряжение».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_37_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nAn honest conversation might clear the air.",
+        "options": [
+          "быть в долгах; нести убытки",
+          "прояснить ситуацию и снять напряжение",
+          "в постоянном движении; очень занят",
+          "держать кого-либо в курсе"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «clear the air» означает «прояснить ситуацию и снять напряжение».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_38",
+    "card_order": 38,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "bury the hatchet",
+    "translation": "помириться; прекратить вражду",
+    "questions": [
+      {
+        "id": "idiom_38_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «помириться; прекратить вражду»?",
+        "options": [
+          "The café is finally back in the black.",
+          "He called me out of the blue after ten years.",
+          "After years of arguing, they finally buried the hatchet.",
+          "Most customers heard about us by word of mouth."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «bury the hatchet»: оно означает «помириться; прекратить вражду».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_38_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nLet’s bury the hatchet and start again.",
+        "options": [
+          "быть прибыльным; иметь положительный баланс",
+          "совершенно неожиданно",
+          "из уст в уста; по личным рекомендациям",
+          "помириться; прекратить вражду"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «bury the hatchet» означает «помириться; прекратить вражду».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_39",
+    "card_order": 39,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on someone's nerves",
+    "translation": "сильно раздражать кого-либо",
+    "questions": [
+      {
+        "id": "idiom_39_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сильно раздражать кого-либо»?",
+        "options": [
+          "That constant tapping is getting on my nerves.",
+          "They made the film on a shoestring.",
+          "When the bus broke down again, it was the last straw.",
+          "To put it in a nutshell, the plan is too expensive."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «get on someone's nerves»: оно означает «сильно раздражать кого-либо».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_39_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe got on each other’s nerves during the long trip.",
+        "options": [
+          "с очень небольшим бюджетом",
+          "сильно раздражать кого-либо",
+          "последняя капля",
+          "выразить кратко; в двух словах"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «get on someone's nerves» означает «сильно раздражать кого-либо».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_40",
+    "card_order": 40,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "idiom": "be in the same boat",
+    "translation": "оказаться в одинаковой трудной ситуации",
+    "questions": [
+      {
+        "id": "idiom_40_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «оказаться в одинаковой трудной ситуации»?",
+        "options": [
+          "You can’t buy everything you see — money doesn’t grow on trees.",
+          "You’ll get the hang of the software after a few days.",
+          "Don’t blame yourself; we’re all in the same boat.",
+          "Take his predictions with a pinch of salt."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be in the same boat»: оно означает «оказаться в одинаковой трудной ситуации».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_40_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nSmall businesses are in the same boat right now.",
+        "options": [
+          "деньги не растут на деревьях",
+          "наловчиться; понять, как это делается",
+          "относиться к информации с долей сомнения",
+          "оказаться в одинаковой трудной ситуации"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be in the same boat» означает «оказаться в одинаковой трудной ситуации».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_41",
+    "card_order": 41,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "cost an arm and a leg",
+    "translation": "стоить целое состояние",
+    "questions": [
+      {
+        "id": "idiom_41_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «стоить целое состояние»?",
+        "options": [
+          "That tiny apartment costs an arm and a leg.",
+          "I finally bit the bullet and called the bank.",
+          "I can’t go out tonight; I need to hit the books.",
+          "She was over the moon about her exam result."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «cost an arm and a leg»: оно означает «стоить целое состояние».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_41_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe paid an arm and a leg for the tickets.",
+        "options": [
+          "собраться с духом и сделать неприятное",
+          "стоить целое состояние",
+          "засесть за учёбу",
+          "на седьмом небе от счастья"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «cost an arm and a leg» означает «стоить целое состояние».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_42",
+    "card_order": 42,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "make ends meet",
+    "translation": "сводить концы с концами",
+    "questions": [
+      {
+        "id": "idiom_42_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сводить концы с концами»?",
+        "options": [
+          "He knew he had to face the music.",
+          "It took me a month to learn the ropes at my new job.",
+          "Many families are struggling to make ends meet.",
+          "He’s been down in the dumps since the interview."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «make ends meet»: оно означает «сводить концы с концами».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_42_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe took a second job to make ends meet.",
+        "options": [
+          "ответить за последствия",
+          "освоить основы работы",
+          "в подавленном настроении",
+          "сводить концы с концами"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «make ends meet» означает «сводить концы с концами».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_43",
+    "card_order": 43,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "save for a rainy day",
+    "translation": "откладывать на чёрный день",
+    "questions": [
+      {
+        "id": "idiom_43_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «откладывать на чёрный день»?",
+        "options": [
+          "Try to save a little money for a rainy day.",
+          "I think I’ve bitten off more than I can chew with this project.",
+          "Your analysis is on the right track.",
+          "He got cold feet before the presentation."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «save for a rainy day»: оно означает «откладывать на чёрный день».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_43_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThey keep some cash for a rainy day.",
+        "options": [
+          "взяться за непосильную задачу",
+          "откладывать на чёрный день",
+          "двигаться в правильном направлении",
+          "струсить в последний момент"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «save for a rainy day» означает «откладывать на чёрный день».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_44",
+    "card_order": 44,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "tighten your belt",
+    "translation": "сократить расходы",
+    "questions": [
+      {
+        "id": "idiom_44_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сократить расходы»?",
+        "options": [
+          "He’s in hot water for missing the deadline.",
+          "Our support team always goes the extra mile for customers.",
+          "We’ll have to tighten our belts this month.",
+          "She kept her cool during the argument."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «tighten your belt»: оно означает «сократить расходы».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_44_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe company tightened its belt during the downturn.",
+        "options": [
+          "попасть в неприятности",
+          "сделать больше, чем требуется",
+          "сохранять спокойствие",
+          "сократить расходы"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «tighten your belt» означает «сократить расходы».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_45",
+    "card_order": 45,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "be in the red",
+    "translation": "быть в долгах; нести убытки",
+    "questions": [
+      {
+        "id": "idiom_45_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть в долгах; нести убытки»?",
+        "options": [
+          "The business has been in the red for three months.",
+          "Our search for cheaper premises hit a dead end.",
+          "We’ve done enough; let’s call it a day.",
+          "He lost his temper when the computer crashed again."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be in the red»: оно означает «быть в долгах; нести убытки».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_45_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nMy account went into the red after the payment.",
+        "options": [
+          "зайти в тупик",
+          "быть в долгах; нести убытки",
+          "закончить работу на сегодня",
+          "выйти из себя"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be in the red» означает «быть в долгах; нести убытки».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_46",
+    "card_order": 46,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "be in the black",
+    "translation": "быть прибыльным; иметь положительный баланс",
+    "questions": [
+      {
+        "id": "idiom_46_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть прибыльным; иметь положительный баланс»?",
+        "options": [
+          "What if the plan fails? We’ll cross that bridge when we come to it.",
+          "The experiment failed, so we’re back to square one.",
+          "The café is finally back in the black.",
+          "I always feel a little blue after the holidays."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be in the black»: оно означает «быть прибыльным; иметь положительный баланс».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_46_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe need higher sales to stay in the black.",
+        "options": [
+          "решать проблему, когда она действительно возникнет",
+          "снова с самого начала",
+          "грустить; хандрить",
+          "быть прибыльным; иметь положительный баланс"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be in the black» означает «быть прибыльным; иметь положительный баланс».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_47",
+    "card_order": 47,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "on a shoestring",
+    "translation": "с очень небольшим бюджетом",
+    "questions": [
+      {
+        "id": "idiom_47_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «с очень небольшим бюджетом»?",
+        "options": [
+          "They made the film on a shoestring.",
+          "We need to weigh up the pros and cons before moving.",
+          "We need to think outside the box to reduce costs.",
+          "I’m fed up with these constant delays."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «on a shoestring»: оно означает «с очень небольшим бюджетом».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_47_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe travelled around the country on a shoestring.",
+        "options": [
+          "взвесить все плюсы и минусы",
+          "с очень небольшим бюджетом",
+          "мыслить нестандартно",
+          "быть сытым по горло"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «on a shoestring» означает «с очень небольшим бюджетом».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_48",
+    "card_order": 48,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "MONEY",
+    "idiom": "money doesn’t grow on trees",
+    "translation": "деньги не растут на деревьях",
+    "questions": [
+      {
+        "id": "idiom_48_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «деньги не растут на деревьях»?",
+        "options": [
+          "She took the bull by the horns and spoke to the manager.",
+          "I can’t take on another task; I already have a lot on my plate.",
+          "You can’t buy everything you see — money doesn’t grow on trees.",
+          "Everyone was on edge before the announcement."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «money doesn’t grow on trees»: оно означает «деньги не растут на деревьях».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_48_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe spends as if money grew on trees.",
+        "options": [
+          "решительно взяться за проблему",
+          "иметь слишком много дел",
+          "быть на взводе",
+          "деньги не растут на деревьях"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «money doesn’t grow on trees» означает «деньги не растут на деревьях».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_49",
+    "card_order": 49,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite the bullet",
+    "translation": "собраться с духом и сделать неприятное",
+    "questions": [
+      {
+        "id": "idiom_49_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «собраться с духом и сделать неприятное»?",
+        "options": [
+          "I finally bit the bullet and called the bank.",
+          "The online form was a piece of cake to complete.",
+          "I’ll get straight to the point: we need more time.",
+          "I introduced them, and they hit it off immediately."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «bite the bullet»: оно означает «собраться с духом и сделать неприятное».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_49_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe may have to bite the bullet and raise prices.",
+        "options": [
+          "проще простого",
+          "собраться с духом и сделать неприятное",
+          "сразу перейти к сути",
+          "сразу поладить; быстро найти общий язык"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «bite the bullet» означает «собраться с духом и сделать неприятное».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_50",
+    "card_order": 50,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "face the music",
+    "translation": "ответить за последствия",
+    "questions": [
+      {
+        "id": "idiom_50_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «ответить за последствия»?",
+        "options": [
+          "I’m staying home because I’m feeling under the weather.",
+          "If you read between the lines, the email is quite critical.",
+          "He knew he had to face the music.",
+          "We don’t always see eye to eye on money."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «face the music»: оно означает «ответить за последствия».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_50_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nIt’s time to face the music and admit the mistake.",
+        "options": [
+          "неважно себя чувствовать",
+          "читать между строк",
+          "быть полностью согласными",
+          "ответить за последствия"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «face the music» означает «ответить за последствия».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_51",
+    "card_order": 51,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite off more than you can chew",
+    "translation": "взяться за непосильную задачу",
+    "questions": [
+      {
+        "id": "idiom_51_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «взяться за непосильную задачу»?",
+        "options": [
+          "I think I’ve bitten off more than I can chew with this project.",
+          "We eat out only once in a blue moon.",
+          "Don’t be afraid to speak your mind in the meeting.",
+          "I’ve always had a soft spot for my old teacher."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «bite off more than you can chew»: оно означает «взяться за непосильную задачу».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_51_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nDon’t bite off more than you can chew.",
+        "options": [
+          "крайне редко",
+          "взяться за непосильную задачу",
+          "откровенно высказать своё мнение",
+          "испытывать особую симпатию"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «bite off more than you can chew» означает «взяться за непосильную задачу».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_52",
+    "card_order": 52,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be in hot water",
+    "translation": "попасть в неприятности",
+    "questions": [
+      {
+        "id": "idiom_52_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «попасть в неприятности»?",
+        "options": [
+          "The holidays are just around the corner.",
+          "Let’s make sure we’re all on the same page.",
+          "He’s in hot water for missing the deadline.",
+          "She gave me the cold shoulder at the party."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be in hot water»: оно означает «попасть в неприятности».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_52_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe company got into hot water over the false claim.",
+        "options": [
+          "совсем скоро; совсем рядом",
+          "одинаково понимать ситуацию",
+          "демонстративно игнорировать",
+          "попасть в неприятности"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be in hot water» означает «попасть в неприятности».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_53",
+    "card_order": 53,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "hit a dead end",
+    "translation": "зайти в тупик",
+    "questions": [
+      {
+        "id": "idiom_53_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «зайти в тупик»?",
+        "options": [
+          "Our search for cheaper premises hit a dead end.",
+          "I’ve been on the go since seven this morning.",
+          "Please keep me in the loop about any changes.",
+          "We met for coffee to clear the air."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «hit a dead end»: оно означает «зайти в тупик».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_53_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe investigation appears to have hit a dead end.",
+        "options": [
+          "в постоянном движении; очень занят",
+          "зайти в тупик",
+          "держать кого-либо в курсе",
+          "прояснить ситуацию и снять напряжение"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «hit a dead end» означает «зайти в тупик».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_54",
+    "card_order": 54,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "cross that bridge when you come to it",
+    "translation": "решать проблему, когда она действительно возникнет",
+    "questions": [
+      {
+        "id": "idiom_54_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «решать проблему, когда она действительно возникнет»?",
+        "options": [
+          "He called me out of the blue after ten years.",
+          "Most customers heard about us by word of mouth.",
+          "What if the plan fails? We’ll cross that bridge when we come to it.",
+          "After years of arguing, they finally buried the hatchet."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «cross that bridge when you come to it»: оно означает «решать проблему, когда она действительно возникнет».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_54_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nLet’s not worry about next year; we can cross that bridge later.",
+        "options": [
+          "совершенно неожиданно",
+          "из уст в уста; по личным рекомендациям",
+          "помириться; прекратить вражду",
+          "решать проблему, когда она действительно возникнет"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «cross that bridge when you come to it» означает «решать проблему, когда она действительно возникнет».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_55",
+    "card_order": 55,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "weigh up the pros and cons",
+    "translation": "взвесить все плюсы и минусы",
+    "questions": [
+      {
+        "id": "idiom_55_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «взвесить все плюсы и минусы»?",
+        "options": [
+          "We need to weigh up the pros and cons before moving.",
+          "When the bus broke down again, it was the last straw.",
+          "To put it in a nutshell, the plan is too expensive.",
+          "That constant tapping is getting on my nerves."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «weigh up the pros and cons»: оно означает «взвесить все плюсы и минусы».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_55_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe carefully weighed the pros and cons of the offer.",
+        "options": [
+          "последняя капля",
+          "взвесить все плюсы и минусы",
+          "выразить кратко; в двух словах",
+          "сильно раздражать кого-либо"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «weigh up the pros and cons» означает «взвесить все плюсы и минусы».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_56",
+    "card_order": 56,
+    "level_code": "i",
+    "level": "Intermediate",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "take the bull by the horns",
+    "translation": "решительно взяться за проблему",
+    "questions": [
+      {
+        "id": "idiom_56_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «решительно взяться за проблему»?",
+        "options": [
+          "You’ll get the hang of the software after a few days.",
+          "Take his predictions with a pinch of salt.",
+          "She took the bull by the horns and spoke to the manager.",
+          "Don’t blame yourself; we’re all in the same boat."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «take the bull by the horns»: оно означает «решительно взяться за проблему».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_56_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nIt’s time to take the bull by the horns.",
+        "options": [
+          "наловчиться; понять, как это делается",
+          "относиться к информации с долей сомнения",
+          "оказаться в одинаковой трудной ситуации",
+          "решительно взяться за проблему"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «take the bull by the horns» означает «решительно взяться за проблему».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_01",
+    "card_order": 1,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "by and large",
+    "translation": "в целом; в общем и целом",
+    "questions": [
+      {
+        "id": "idiom_adv_01_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «в целом; в общем и целом»?",
+        "options": [
+          "By and large, the new timetable has worked well.",
+          "We met every requirement, but the client moved the goalposts again.",
+          "He flew off the handle when the figures were questioned.",
+          "Only investors with deep pockets could sustain losses for that long."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «by and large»: оно означает «в целом; в общем и целом».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_01_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe audience was, by and large, supportive of the proposal.",
+        "options": [
+          "менять правила по ходу дела",
+          "в целом; в общем и целом",
+          "внезапно выйти из себя",
+          "располагать большими финансовыми ресурсами"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «by and large» означает «в целом; в общем и целом».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_02",
+    "card_order": 2,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "at the drop of a hat",
+    "translation": "мгновенно и без подготовки",
+    "questions": [
+      {
+        "id": "idiom_adv_02_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «мгновенно и без подготовки»?",
+        "options": [
+          "The contractor cut corners on insulation, and the building soon developed damp.",
+          "He has a chip on his shoulder about not attending an elite university.",
+          "She would travel abroad at the drop of a hat.",
+          "The university agreed to foot the bill for the additional laboratory tests."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «at the drop of a hat»: оно означает «мгновенно и без подготовки».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_02_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe can produce a convincing speech at the drop of a hat.",
+        "options": [
+          "экономить на качестве; делать кое-как ради скорости или дешевизны",
+          "быть постоянно обиженным и болезненно воспринимать неуважение",
+          "оплатить счёт или расходы",
+          "мгновенно и без подготовки"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «at the drop of a hat» означает «мгновенно и без подготовки».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_03",
+    "card_order": 3,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "go against the grain",
+    "translation": "противоречить своим убеждениям или привычкам",
+    "questions": [
+      {
+        "id": "idiom_adv_03_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «противоречить своим убеждениям или привычкам»?",
+        "options": [
+          "It goes against the grain for me to take credit for someone else’s work.",
+          "The revised course has raised the bar for online language teaching.",
+          "Lena wears her heart on her sleeve, so everyone knew the criticism had hurt her.",
+          "We paid through the nose for a last-minute hotel room."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «go against the grain»: оно означает «противоречить своим убеждениям или привычкам».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_03_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe rigid dress code went against the grain in an organisation that valued individuality.",
+        "options": [
+          "повысить требования или стандарт",
+          "противоречить своим убеждениям или привычкам",
+          "открыто показывать свои чувства",
+          "заплатить непомерно высокую цену"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «go against the grain» означает «противоречить своим убеждениям или привычкам».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_04",
+    "card_order": 4,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "take something in your stride",
+    "translation": "спокойно справиться с трудностью",
+    "questions": [
+      {
+        "id": "idiom_adv_04_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «спокойно справиться с трудностью»?",
+        "options": [
+          "After the introductions, we got down to brass tacks and discussed the budget.",
+          "She was beside herself with worry when the child failed to come home.",
+          "Maya took the sudden change of venue in her stride.",
+          "Housing takes the lion’s share of many families’ income."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «take something in your stride»: оно означает «спокойно справиться с трудностью».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_04_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nExperienced speakers learn to take awkward questions in their stride.",
+        "options": [
+          "перейти к конкретным практическим деталям",
+          "быть вне себя от сильной эмоции",
+          "львиная доля; самая большая часть",
+          "спокойно справиться с трудностью"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «take something in your stride» означает «спокойно справиться с трудностью».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_05",
+    "card_order": 5,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "catch someone off guard",
+    "translation": "застать кого-либо врасплох",
+    "questions": [
+      {
+        "id": "idiom_adv_05_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «застать кого-либо врасплох»?",
+        "options": [
+          "The interviewer’s final question caught me off guard.",
+          "The company stayed ahead of the curve by investing early in accessibility.",
+          "Write down everything you want to say, just to get the anger out of your system.",
+          "The investors provide the money, but the founders still call the shots."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «catch someone off guard»: оно означает «застать кого-либо врасплох».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_05_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nInvestors were caught off guard by the abrupt announcement.",
+        "options": [
+          "опережать тенденции или конкурентов",
+          "застать кого-либо врасплох",
+          "дать выход чувству или желанию и освободиться от него",
+          "принимать основные решения и контролировать ситуацию"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «catch someone off guard» означает «застать кого-либо врасплох».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_06",
+    "card_order": 6,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "keep something at bay",
+    "translation": "не подпускать; сдерживать",
+    "questions": [
+      {
+        "id": "idiom_adv_06_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «не подпускать; сдерживать»?",
+        "options": [
+          "With only two days left, the editing team has its work cut out.",
+          "After weeks of unresolved complaints, the residents were at the end of their tether.",
+          "Regular breaks helped keep exhaustion at bay.",
+          "She pulled a few strings and secured an appointment within a week."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «keep something at bay»: оно означает «не подпускать; сдерживать».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_06_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe temporary barrier kept the floodwater at bay.",
+        "options": [
+          "иметь впереди очень трудную задачу",
+          "быть на пределе сил или терпения",
+          "использовать связи для получения преимущества",
+          "не подпускать; сдерживать"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «keep something at bay» означает «не подпускать; сдерживать».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_07",
+    "card_order": 7,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "be on the brink of something",
+    "translation": "быть на грани чего-либо",
+    "questions": [
+      {
+        "id": "idiom_adv_07_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть на грани чего-либо»?",
+        "options": [
+          "The species is on the brink of extinction.",
+          "The new manager hit the ground running and resolved two long-standing issues in her first week.",
+          "Try not to take the reviewer’s harsh wording to heart.",
+          "Because the patent was still valid, the manufacturer held all the cards."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be on the brink of something»: оно означает «быть на грани чего-либо».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_07_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe negotiations were on the brink of breaking down.",
+        "options": [
+          "сразу активно и эффективно приступить к делу",
+          "быть на грани чего-либо",
+          "слишком близко принять что-либо к сердцу",
+          "иметь решающее преимущество и контроль"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be on the brink of something» означает «быть на грани чего-либо».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_08",
+    "card_order": 8,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "DAILY",
+    "idiom": "a far cry from something",
+    "translation": "совсем не то; сильно отличаться от чего-либо",
+    "questions": [
+      {
+        "id": "idiom_adv_08_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «совсем не то; сильно отличаться от чего-либо»?",
+        "options": [
+          "You cannot burn the candle at both ends throughout the entire semester.",
+          "He kept a stiff upper lip throughout the farewell, although he was deeply upset.",
+          "The finished apartment was a far cry from the glossy advertisement.",
+          "The officials were accused of lining their pockets through inflated contracts."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «a far cry from something»: оно означает «совсем не то; сильно отличаться от чего-либо».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_08_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nToday’s service is a far cry from what customers once received.",
+        "options": [
+          "изнурять себя, работая с утра до ночи",
+          "не показывать сильных эмоций в трудной ситуации",
+          "нечестно обогащаться",
+          "совсем не то; сильно отличаться от чего-либо"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «a far cry from something» означает «совсем не то; сильно отличаться от чего-либо».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_09",
+    "card_order": 9,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "move the goalposts",
+    "translation": "менять правила по ходу дела",
+    "questions": [
+      {
+        "id": "idiom_adv_09_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «менять правила по ходу дела»?",
+        "options": [
+          "We met every requirement, but the client moved the goalposts again.",
+          "The joke fell flat because the speaker failed to read the room.",
+          "The director threw the junior analyst under the bus when the forecast proved wrong.",
+          "Changing the ownership rules could open a can of worms."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «move the goalposts»: оно означает «менять правила по ходу дела».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_09_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nApplicants complained that the committee kept moving the goalposts.",
+        "options": [
+          "учитывать настроение и реакцию присутствующих",
+          "менять правила по ходу дела",
+          "предать или подставить кого-либо ради собственной выгоды",
+          "создать множество новых сложных проблем"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «move the goalposts» означает «менять правила по ходу дела».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_10",
+    "card_order": 10,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "cut corners",
+    "translation": "экономить на качестве; делать кое-как ради скорости или дешевизны",
+    "questions": [
+      {
+        "id": "idiom_adv_10_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «экономить на качестве; делать кое-как ради скорости или дешевизны»?",
+        "options": [
+          "We got our wires crossed: I thought the meeting was online.",
+          "The supplier withdrew at the last minute and left us in the lurch.",
+          "The contractor cut corners on insulation, and the building soon developed damp.",
+          "The council was between a rock and a hard place: raise taxes or cut essential services."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «cut corners»: оно означает «экономить на качестве; делать кое-как ради скорости или дешевизны».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_10_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nYou cannot cut corners when checking medical data.",
+        "options": [
+          "неправильно понять друг друга",
+          "бросить кого-либо в трудной ситуации",
+          "оказаться между двумя одинаково плохими вариантами",
+          "экономить на качестве; делать кое-как ради скорости или дешевизны"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «cut corners» означает «экономить на качестве; делать кое-как ради скорости или дешевизны».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_11",
+    "card_order": 11,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "raise the bar",
+    "translation": "повысить требования или стандарт",
+    "questions": [
+      {
+        "id": "idiom_adv_11_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «повысить требования или стандарт»?",
+        "options": [
+          "The revised course has raised the bar for online language teaching.",
+          "Please do not put words in my mouth; I never opposed the whole project.",
+          "She remained polite but kept her new colleagues at arm’s length.",
+          "Let me play devil’s advocate: what happens if demand falls by half?"
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «raise the bar»: оно означает «повысить требования или стандарт».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_11_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHer first report raised the bar for the rest of the team.",
+        "options": [
+          "приписывать человеку то, чего он не говорил",
+          "повысить требования или стандарт",
+          "держать кого-либо на расстоянии и не допускать близости",
+          "намеренно отстаивать противоположную позицию ради проверки аргументов"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «raise the bar» означает «повысить требования или стандарт».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_12",
+    "card_order": 12,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "get down to brass tacks",
+    "translation": "перейти к конкретным практическим деталям",
+    "questions": [
+      {
+        "id": "idiom_adv_12_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «перейти к конкретным практическим деталям»?",
+        "options": [
+          "Her refusal to answer spoke volumes about the level of trust in the team.",
+          "His confident manner rubbed several committee members up the wrong way.",
+          "After the introductions, we got down to brass tacks and discussed the budget.",
+          "I am willing to revise the schedule, but I draw the line at cancelling the safety checks."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «get down to brass tacks»: оно означает «перейти к конкретным практическим деталям».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_12_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nLet’s get down to brass tacks: who is responsible for delivery?",
+        "options": [
+          "говорить о многом без прямых слов",
+          "раздражать кого-либо своей манерой поведения",
+          "установить предел допустимого",
+          "перейти к конкретным практическим деталям"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «get down to brass tacks» означает «перейти к конкретным практическим деталям».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_13",
+    "card_order": 13,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "be ahead of the curve",
+    "translation": "опережать тенденции или конкурентов",
+    "questions": [
+      {
+        "id": "idiom_adv_13_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «опережать тенденции или конкурентов»?",
+        "options": [
+          "The company stayed ahead of the curve by investing early in accessibility.",
+          "The inspector did not mince her words when describing the safety failures.",
+          "The two researchers were joined at the hip throughout the conference.",
+          "Investigators promised to leave no stone unturned in the search for the missing records."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be ahead of the curve»: оно означает «опережать тенденции или конкурентов».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_13_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nStudents who master data literacy will be ahead of the curve.",
+        "options": [
+          "говорить прямо, не смягчая формулировок",
+          "опережать тенденции или конкурентов",
+          "быть неразлучными",
+          "использовать все возможные способы"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be ahead of the curve» означает «опережать тенденции или конкурентов».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_14",
+    "card_order": 14,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "have your work cut out",
+    "translation": "иметь впереди очень трудную задачу",
+    "questions": [
+      {
+        "id": "idiom_adv_14_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «иметь впереди очень трудную задачу»?",
+        "options": [
+          "We had been talking at cross purposes: she meant the draft, while I meant the final report.",
+          "I introduced them at lunch, and they got on like a house on fire.",
+          "With only two days left, the editing team has its work cut out.",
+          "The complaints were repeatedly swept under the carpet."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «have your work cut out»: оно означает «иметь впереди очень трудную задачу».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_14_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nYou will have your work cut out for you if you want to restore the archive alone.",
+        "options": [
+          "говорить о разном, не осознавая недопонимания",
+          "сразу прекрасно поладить",
+          "скрыть проблему вместо её решения",
+          "иметь впереди очень трудную задачу"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «have your work cut out» означает «иметь впереди очень трудную задачу».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_15",
+    "card_order": 15,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "hit the ground running",
+    "translation": "сразу активно и эффективно приступить к делу",
+    "questions": [
+      {
+        "id": "idiom_adv_15_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сразу активно и эффективно приступить к делу»?",
+        "options": [
+          "The new manager hit the ground running and resolved two long-standing issues in her first week.",
+          "It is time for both parties to lay their cards on the table.",
+          "They supported each other through thick and thin for more than thirty years.",
+          "Choosing the software before defining the requirements is putting the cart before the horse."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «hit the ground running»: оно означает «сразу активно и эффективно приступить к делу».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_15_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe induction programme helps recruits hit the ground running.",
+        "options": [
+          "открыто изложить свои намерения или позицию",
+          "сразу активно и эффективно приступить к делу",
+          "и в хорошие, и в плохие времена",
+          "делать всё в неправильном порядке"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «hit the ground running» означает «сразу активно и эффективно приступить к делу».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_16",
+    "card_order": 16,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "WORK_STUDY",
+    "idiom": "burn the candle at both ends",
+    "translation": "изнурять себя, работая с утра до ночи",
+    "questions": [
+      {
+        "id": "idiom_adv_16_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «изнурять себя, работая с утра до ночи»?",
+        "options": [
+          "We are splitting hairs over terminology while the main problem remains unsolved.",
+          "After the dispute, the neighbours were barely on speaking terms.",
+          "You cannot burn the candle at both ends throughout the entire semester.",
+          "Remote work can be a double-edged sword: it offers freedom but may increase isolation."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «burn the candle at both ends»: оно означает «изнурять себя, работая с утра до ночи».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_16_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe was burning the candle at both ends and eventually had to take leave.",
+        "options": [
+          "спорить о несущественных различиях",
+          "поддерживать хотя бы минимальное общение",
+          "нечто одновременно полезное и вредное",
+          "изнурять себя, работая с утра до ночи"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «burn the candle at both ends» означает «изнурять себя, работая с утра до ночи».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_17",
+    "card_order": 17,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "read the room",
+    "translation": "учитывать настроение и реакцию присутствующих",
+    "questions": [
+      {
+        "id": "idiom_adv_17_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «учитывать настроение и реакцию присутствующих»?",
+        "options": [
+          "The joke fell flat because the speaker failed to read the room.",
+          "He flew off the handle when the figures were questioned.",
+          "Only investors with deep pockets could sustain losses for that long.",
+          "By and large, the new timetable has worked well."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «read the room»: оно означает «учитывать настроение и реакцию присутствующих».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_17_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nRead the room before raising such a sensitive subject.",
+        "options": [
+          "внезапно выйти из себя",
+          "учитывать настроение и реакцию присутствующих",
+          "располагать большими финансовыми ресурсами",
+          "в целом; в общем и целом"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «read the room» означает «учитывать настроение и реакцию присутствующих».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_18",
+    "card_order": 18,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "get your wires crossed",
+    "translation": "неправильно понять друг друга",
+    "questions": [
+      {
+        "id": "idiom_adv_18_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «неправильно понять друг друга»?",
+        "options": [
+          "He has a chip on his shoulder about not attending an elite university.",
+          "The university agreed to foot the bill for the additional laboratory tests.",
+          "We got our wires crossed: I thought the meeting was online.",
+          "She would travel abroad at the drop of a hat."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «get your wires crossed»: оно означает «неправильно понять друг друга».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_18_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe two departments had their wires crossed about who should approve the invoice.",
+        "options": [
+          "быть постоянно обиженным и болезненно воспринимать неуважение",
+          "оплатить счёт или расходы",
+          "мгновенно и без подготовки",
+          "неправильно понять друг друга"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «get your wires crossed» означает «неправильно понять друг друга».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_19",
+    "card_order": 19,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "put words in someone's mouth",
+    "translation": "приписывать человеку то, чего он не говорил",
+    "questions": [
+      {
+        "id": "idiom_adv_19_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «приписывать человеку то, чего он не говорил»?",
+        "options": [
+          "Please do not put words in my mouth; I never opposed the whole project.",
+          "Lena wears her heart on her sleeve, so everyone knew the criticism had hurt her.",
+          "We paid through the nose for a last-minute hotel room.",
+          "It goes against the grain for me to take credit for someone else’s work."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «put words in someone's mouth»: оно означает «приписывать человеку то, чего он не говорил».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_19_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe headline put words in the researcher’s mouth.",
+        "options": [
+          "открыто показывать свои чувства",
+          "приписывать человеку то, чего он не говорил",
+          "заплатить непомерно высокую цену",
+          "противоречить своим убеждениям или привычкам"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «put words in someone's mouth» означает «приписывать человеку то, чего он не говорил».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_20",
+    "card_order": 20,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "speak volumes",
+    "translation": "говорить о многом без прямых слов",
+    "questions": [
+      {
+        "id": "idiom_adv_20_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «говорить о многом без прямых слов»?",
+        "options": [
+          "She was beside herself with worry when the child failed to come home.",
+          "Housing takes the lion’s share of many families’ income.",
+          "Her refusal to answer spoke volumes about the level of trust in the team.",
+          "Maya took the sudden change of venue in her stride."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «speak volumes»: оно означает «говорить о многом без прямых слов».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_20_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe empty seats speak volumes about public interest in the scheme.",
+        "options": [
+          "быть вне себя от сильной эмоции",
+          "львиная доля; самая большая часть",
+          "спокойно справиться с трудностью",
+          "говорить о многом без прямых слов"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «speak volumes» означает «говорить о многом без прямых слов».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_21",
+    "card_order": 21,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "not mince your words",
+    "translation": "говорить прямо, не смягчая формулировок",
+    "questions": [
+      {
+        "id": "idiom_adv_21_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «говорить прямо, не смягчая формулировок»?",
+        "options": [
+          "The inspector did not mince her words when describing the safety failures.",
+          "Write down everything you want to say, just to get the anger out of your system.",
+          "The investors provide the money, but the founders still call the shots.",
+          "The interviewer’s final question caught me off guard."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «not mince your words»: оно означает «говорить прямо, не смягчая формулировок».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_21_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWithout mincing words, the editor called the argument incoherent.",
+        "options": [
+          "дать выход чувству или желанию и освободиться от него",
+          "говорить прямо, не смягчая формулировок",
+          "принимать основные решения и контролировать ситуацию",
+          "застать кого-либо врасплох"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «not mince your words» означает «говорить прямо, не смягчая формулировок».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_22",
+    "card_order": 22,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "talk at cross purposes",
+    "translation": "говорить о разном, не осознавая недопонимания",
+    "questions": [
+      {
+        "id": "idiom_adv_22_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «говорить о разном, не осознавая недопонимания»?",
+        "options": [
+          "After weeks of unresolved complaints, the residents were at the end of their tether.",
+          "She pulled a few strings and secured an appointment within a week.",
+          "We had been talking at cross purposes: she meant the draft, while I meant the final report.",
+          "Regular breaks helped keep exhaustion at bay."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «talk at cross purposes»: оно означает «говорить о разном, не осознавая недопонимания».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_22_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe discussion went nowhere because the two sides were at cross purposes.",
+        "options": [
+          "быть на пределе сил или терпения",
+          "использовать связи для получения преимущества",
+          "не подпускать; сдерживать",
+          "говорить о разном, не осознавая недопонимания"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «talk at cross purposes» означает «говорить о разном, не осознавая недопонимания».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_23",
+    "card_order": 23,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "lay your cards on the table",
+    "translation": "открыто изложить свои намерения или позицию",
+    "questions": [
+      {
+        "id": "idiom_adv_23_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «открыто изложить свои намерения или позицию»?",
+        "options": [
+          "It is time for both parties to lay their cards on the table.",
+          "Try not to take the reviewer’s harsh wording to heart.",
+          "Because the patent was still valid, the manufacturer held all the cards.",
+          "The species is on the brink of extinction."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «lay your cards on the table»: оно означает «открыто изложить свои намерения или позицию».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_23_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe laid her cards on the table and explained why she might resign.",
+        "options": [
+          "слишком близко принять что-либо к сердцу",
+          "открыто изложить свои намерения или позицию",
+          "иметь решающее преимущество и контроль",
+          "быть на грани чего-либо"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «lay your cards on the table» означает «открыто изложить свои намерения или позицию».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_24",
+    "card_order": 24,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "COMMUNICATION",
+    "idiom": "split hairs",
+    "translation": "спорить о несущественных различиях",
+    "questions": [
+      {
+        "id": "idiom_adv_24_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «спорить о несущественных различиях»?",
+        "options": [
+          "He kept a stiff upper lip throughout the farewell, although he was deeply upset.",
+          "The officials were accused of lining their pockets through inflated contracts.",
+          "We are splitting hairs over terminology while the main problem remains unsolved.",
+          "The finished apartment was a far cry from the glossy advertisement."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «split hairs»: оно означает «спорить о несущественных различиях».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_24_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe distinction is technically valid, but insisting on it here would be splitting hairs.",
+        "options": [
+          "не показывать сильных эмоций в трудной ситуации",
+          "нечестно обогащаться",
+          "совсем не то; сильно отличаться от чего-либо",
+          "спорить о несущественных различиях"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «split hairs» означает «спорить о несущественных различиях».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_25",
+    "card_order": 25,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "fly off the handle",
+    "translation": "внезапно выйти из себя",
+    "questions": [
+      {
+        "id": "idiom_adv_25_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «внезапно выйти из себя»?",
+        "options": [
+          "He flew off the handle when the figures were questioned.",
+          "The director threw the junior analyst under the bus when the forecast proved wrong.",
+          "Changing the ownership rules could open a can of worms.",
+          "We met every requirement, but the client moved the goalposts again."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «fly off the handle»: оно означает «внезапно выйти из себя».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_25_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThere was no need to fly off the handle over a minor delay.",
+        "options": [
+          "предать или подставить кого-либо ради собственной выгоды",
+          "внезапно выйти из себя",
+          "создать множество новых сложных проблем",
+          "менять правила по ходу дела"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «fly off the handle» означает «внезапно выйти из себя».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_26",
+    "card_order": 26,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "have a chip on your shoulder",
+    "translation": "быть постоянно обиженным и болезненно воспринимать неуважение",
+    "questions": [
+      {
+        "id": "idiom_adv_26_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть постоянно обиженным и болезненно воспринимать неуважение»?",
+        "options": [
+          "The supplier withdrew at the last minute and left us in the lurch.",
+          "The council was between a rock and a hard place: raise taxes or cut essential services.",
+          "He has a chip on his shoulder about not attending an elite university.",
+          "The contractor cut corners on insulation, and the building soon developed damp."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «have a chip on your shoulder»: оно означает «быть постоянно обиженным и болезненно воспринимать неуважение».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_26_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHer criticism sounded less objective because she clearly had a chip on her shoulder.",
+        "options": [
+          "бросить кого-либо в трудной ситуации",
+          "оказаться между двумя одинаково плохими вариантами",
+          "экономить на качестве; делать кое-как ради скорости или дешевизны",
+          "быть постоянно обиженным и болезненно воспринимать неуважение"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «have a chip on your shoulder» означает «быть постоянно обиженным и болезненно воспринимать неуважение».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_27",
+    "card_order": 27,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "wear your heart on your sleeve",
+    "translation": "открыто показывать свои чувства",
+    "questions": [
+      {
+        "id": "idiom_adv_27_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «открыто показывать свои чувства»?",
+        "options": [
+          "Lena wears her heart on her sleeve, so everyone knew the criticism had hurt her.",
+          "She remained polite but kept her new colleagues at arm’s length.",
+          "Let me play devil’s advocate: what happens if demand falls by half?",
+          "The revised course has raised the bar for online language teaching."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «wear your heart on your sleeve»: оно означает «открыто показывать свои чувства».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_27_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe rarely wears his heart on his sleeve in professional settings.",
+        "options": [
+          "держать кого-либо на расстоянии и не допускать близости",
+          "открыто показывать свои чувства",
+          "намеренно отстаивать противоположную позицию ради проверки аргументов",
+          "повысить требования или стандарт"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «wear your heart on your sleeve» означает «открыто показывать свои чувства».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_28",
+    "card_order": 28,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "be beside yourself",
+    "translation": "быть вне себя от сильной эмоции",
+    "questions": [
+      {
+        "id": "idiom_adv_28_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть вне себя от сильной эмоции»?",
+        "options": [
+          "His confident manner rubbed several committee members up the wrong way.",
+          "I am willing to revise the schedule, but I draw the line at cancelling the safety checks.",
+          "She was beside herself with worry when the child failed to come home.",
+          "After the introductions, we got down to brass tacks and discussed the budget."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be beside yourself»: оно означает «быть вне себя от сильной эмоции».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_28_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe players were beside themselves with excitement after the announcement.",
+        "options": [
+          "раздражать кого-либо своей манерой поведения",
+          "установить предел допустимого",
+          "перейти к конкретным практическим деталям",
+          "быть вне себя от сильной эмоции"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be beside yourself» означает «быть вне себя от сильной эмоции».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_29",
+    "card_order": 29,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "get something out of your system",
+    "translation": "дать выход чувству или желанию и освободиться от него",
+    "questions": [
+      {
+        "id": "idiom_adv_29_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «дать выход чувству или желанию и освободиться от него»?",
+        "options": [
+          "Write down everything you want to say, just to get the anger out of your system.",
+          "The two researchers were joined at the hip throughout the conference.",
+          "Investigators promised to leave no stone unturned in the search for the missing records.",
+          "The company stayed ahead of the curve by investing early in accessibility."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «get something out of your system»: оно означает «дать выход чувству или желанию и освободиться от него».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_29_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nHe spent a year travelling alone to get his urge for adventure out of his system.",
+        "options": [
+          "быть неразлучными",
+          "дать выход чувству или желанию и освободиться от него",
+          "использовать все возможные способы",
+          "опережать тенденции или конкурентов"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «get something out of your system» означает «дать выход чувству или желанию и освободиться от него».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_30",
+    "card_order": 30,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "be at the end of your tether",
+    "translation": "быть на пределе сил или терпения",
+    "questions": [
+      {
+        "id": "idiom_adv_30_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть на пределе сил или терпения»?",
+        "options": [
+          "I introduced them at lunch, and they got on like a house on fire.",
+          "The complaints were repeatedly swept under the carpet.",
+          "After weeks of unresolved complaints, the residents were at the end of their tether.",
+          "With only two days left, the editing team has its work cut out."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be at the end of your tether»: оно означает «быть на пределе сил или терпения».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_30_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI am reaching the end of my tether with these repeated system failures.",
+        "options": [
+          "сразу прекрасно поладить",
+          "скрыть проблему вместо её решения",
+          "иметь впереди очень трудную задачу",
+          "быть на пределе сил или терпения"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be at the end of your tether» означает «быть на пределе сил или терпения».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_31",
+    "card_order": 31,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "take something to heart",
+    "translation": "слишком близко принять что-либо к сердцу",
+    "questions": [
+      {
+        "id": "idiom_adv_31_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «слишком близко принять что-либо к сердцу»?",
+        "options": [
+          "Try not to take the reviewer’s harsh wording to heart.",
+          "They supported each other through thick and thin for more than thirty years.",
+          "Choosing the software before defining the requirements is putting the cart before the horse.",
+          "The new manager hit the ground running and resolved two long-standing issues in her first week."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «take something to heart»: оно означает «слишком близко принять что-либо к сердцу».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_31_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe took the rejection to heart and stopped submitting her work.",
+        "options": [
+          "и в хорошие, и в плохие времена",
+          "слишком близко принять что-либо к сердцу",
+          "делать всё в неправильном порядке",
+          "сразу активно и эффективно приступить к делу"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «take something to heart» означает «слишком близко принять что-либо к сердцу».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_32",
+    "card_order": 32,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "EMOTIONS",
+    "idiom": "keep a stiff upper lip",
+    "translation": "не показывать сильных эмоций в трудной ситуации",
+    "questions": [
+      {
+        "id": "idiom_adv_32_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «не показывать сильных эмоций в трудной ситуации»?",
+        "options": [
+          "After the dispute, the neighbours were barely on speaking terms.",
+          "Remote work can be a double-edged sword: it offers freedom but may increase isolation.",
+          "He kept a stiff upper lip throughout the farewell, although he was deeply upset.",
+          "You cannot burn the candle at both ends throughout the entire semester."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «keep a stiff upper lip»: оно означает «не показывать сильных эмоций в трудной ситуации».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_32_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe kept a stiff upper lip during the ceremony and cried only when she got home.",
+        "options": [
+          "поддерживать хотя бы минимальное общение",
+          "нечто одновременно полезное и вредное",
+          "изнурять себя, работая с утра до ночи",
+          "не показывать сильных эмоций в трудной ситуации"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «keep a stiff upper lip» означает «не показывать сильных эмоций в трудной ситуации».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_33",
+    "card_order": 33,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "throw someone under the bus",
+    "translation": "предать или подставить кого-либо ради собственной выгоды",
+    "questions": [
+      {
+        "id": "idiom_adv_33_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «предать или подставить кого-либо ради собственной выгоды»?",
+        "options": [
+          "The director threw the junior analyst under the bus when the forecast proved wrong.",
+          "Only investors with deep pockets could sustain losses for that long.",
+          "By and large, the new timetable has worked well.",
+          "The joke fell flat because the speaker failed to read the room."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «throw someone under the bus»: оно означает «предать или подставить кого-либо ради собственной выгоды».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_33_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI will not throw my colleague under the bus to protect my reputation.",
+        "options": [
+          "располагать большими финансовыми ресурсами",
+          "предать или подставить кого-либо ради собственной выгоды",
+          "в целом; в общем и целом",
+          "учитывать настроение и реакцию присутствующих"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «throw someone under the bus» означает «предать или подставить кого-либо ради собственной выгоды».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_34",
+    "card_order": 34,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "leave someone in the lurch",
+    "translation": "бросить кого-либо в трудной ситуации",
+    "questions": [
+      {
+        "id": "idiom_adv_34_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «бросить кого-либо в трудной ситуации»?",
+        "options": [
+          "The university agreed to foot the bill for the additional laboratory tests.",
+          "She would travel abroad at the drop of a hat.",
+          "The supplier withdrew at the last minute and left us in the lurch.",
+          "We got our wires crossed: I thought the meeting was online."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «leave someone in the lurch»: оно означает «бросить кого-либо в трудной ситуации».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_34_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe felt that her closest friends had left her in the lurch.",
+        "options": [
+          "оплатить счёт или расходы",
+          "мгновенно и без подготовки",
+          "неправильно понять друг друга",
+          "бросить кого-либо в трудной ситуации"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «leave someone in the lurch» означает «бросить кого-либо в трудной ситуации».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_35",
+    "card_order": 35,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "keep someone at arm's length",
+    "translation": "держать кого-либо на расстоянии и не допускать близости",
+    "questions": [
+      {
+        "id": "idiom_adv_35_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «держать кого-либо на расстоянии и не допускать близости»?",
+        "options": [
+          "She remained polite but kept her new colleagues at arm’s length.",
+          "We paid through the nose for a last-minute hotel room.",
+          "It goes against the grain for me to take credit for someone else’s work.",
+          "Please do not put words in my mouth; I never opposed the whole project."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «keep someone at arm's length»: оно означает «держать кого-либо на расстоянии и не допускать близости».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_35_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe organisation keeps commercial sponsors at arm’s length from editorial decisions.",
+        "options": [
+          "заплатить непомерно высокую цену",
+          "держать кого-либо на расстоянии и не допускать близости",
+          "противоречить своим убеждениям или привычкам",
+          "приписывать человеку то, чего он не говорил"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «keep someone at arm's length» означает «держать кого-либо на расстоянии и не допускать близости».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_36",
+    "card_order": 36,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "rub someone up the wrong way",
+    "translation": "раздражать кого-либо своей манерой поведения",
+    "questions": [
+      {
+        "id": "idiom_adv_36_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «раздражать кого-либо своей манерой поведения»?",
+        "options": [
+          "Housing takes the lion’s share of many families’ income.",
+          "Maya took the sudden change of venue in her stride.",
+          "His confident manner rubbed several committee members up the wrong way.",
+          "Her refusal to answer spoke volumes about the level of trust in the team."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «rub someone up the wrong way»: оно означает «раздражать кого-либо своей манерой поведения».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_36_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nI did not mean to rub you up the wrong way with that comment.",
+        "options": [
+          "львиная доля; самая большая часть",
+          "спокойно справиться с трудностью",
+          "говорить о многом без прямых слов",
+          "раздражать кого-либо своей манерой поведения"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «rub someone up the wrong way» означает «раздражать кого-либо своей манерой поведения».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_37",
+    "card_order": 37,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "be joined at the hip",
+    "translation": "быть неразлучными",
+    "questions": [
+      {
+        "id": "idiom_adv_37_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «быть неразлучными»?",
+        "options": [
+          "The two researchers were joined at the hip throughout the conference.",
+          "The investors provide the money, but the founders still call the shots.",
+          "The interviewer’s final question caught me off guard.",
+          "The inspector did not mince her words when describing the safety failures."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «be joined at the hip»: оно означает «быть неразлучными».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_37_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nSince starting the business, the sisters have seemed joined at the hip.",
+        "options": [
+          "принимать основные решения и контролировать ситуацию",
+          "быть неразлучными",
+          "застать кого-либо врасплох",
+          "говорить прямо, не смягчая формулировок"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «be joined at the hip» означает «быть неразлучными».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_38",
+    "card_order": 38,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on like a house on fire",
+    "translation": "сразу прекрасно поладить",
+    "questions": [
+      {
+        "id": "idiom_adv_38_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «сразу прекрасно поладить»?",
+        "options": [
+          "She pulled a few strings and secured an appointment within a week.",
+          "Regular breaks helped keep exhaustion at bay.",
+          "I introduced them at lunch, and they got on like a house on fire.",
+          "We had been talking at cross purposes: she meant the draft, while I meant the final report."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «get on like a house on fire»: оно означает «сразу прекрасно поладить».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_38_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe two new team members are getting on like a house on fire.",
+        "options": [
+          "использовать связи для получения преимущества",
+          "не подпускать; сдерживать",
+          "говорить о разном, не осознавая недопонимания",
+          "сразу прекрасно поладить"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «get on like a house on fire» означает «сразу прекрасно поладить».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_39",
+    "card_order": 39,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "through thick and thin",
+    "translation": "и в хорошие, и в плохие времена",
+    "questions": [
+      {
+        "id": "idiom_adv_39_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «и в хорошие, и в плохие времена»?",
+        "options": [
+          "They supported each other through thick and thin for more than thirty years.",
+          "Because the patent was still valid, the manufacturer held all the cards.",
+          "The species is on the brink of extinction.",
+          "It is time for both parties to lay their cards on the table."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «through thick and thin»: оно означает «и в хорошие, и в плохие времена».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_39_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nA reliable partner stays with you through thick and thin.",
+        "options": [
+          "иметь решающее преимущество и контроль",
+          "и в хорошие, и в плохие времена",
+          "быть на грани чего-либо",
+          "открыто изложить свои намерения или позицию"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «through thick and thin» означает «и в хорошие, и в плохие времена».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_40",
+    "card_order": 40,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "RELATIONSHIPS",
+    "idiom": "be on speaking terms",
+    "translation": "поддерживать хотя бы минимальное общение",
+    "questions": [
+      {
+        "id": "idiom_adv_40_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «поддерживать хотя бы минимальное общение»?",
+        "options": [
+          "The officials were accused of lining their pockets through inflated contracts.",
+          "The finished apartment was a far cry from the glossy advertisement.",
+          "After the dispute, the neighbours were barely on speaking terms.",
+          "We are splitting hairs over terminology while the main problem remains unsolved."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be on speaking terms»: оно означает «поддерживать хотя бы минимальное общение».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_40_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nAre you still on speaking terms with your former business partner?",
+        "options": [
+          "нечестно обогащаться",
+          "совсем не то; сильно отличаться от чего-либо",
+          "спорить о несущественных различиях",
+          "поддерживать хотя бы минимальное общение"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be on speaking terms» означает «поддерживать хотя бы минимальное общение».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_41",
+    "card_order": 41,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "have deep pockets",
+    "translation": "располагать большими финансовыми ресурсами",
+    "questions": [
+      {
+        "id": "idiom_adv_41_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «располагать большими финансовыми ресурсами»?",
+        "options": [
+          "Only investors with deep pockets could sustain losses for that long.",
+          "Changing the ownership rules could open a can of worms.",
+          "We met every requirement, but the client moved the goalposts again.",
+          "He flew off the handle when the figures were questioned."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «have deep pockets»: оно означает «располагать большими финансовыми ресурсами».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_41_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe campaign is supported by an organisation with deep pockets.",
+        "options": [
+          "создать множество новых сложных проблем",
+          "располагать большими финансовыми ресурсами",
+          "менять правила по ходу дела",
+          "внезапно выйти из себя"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «have deep pockets» означает «располагать большими финансовыми ресурсами».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_42",
+    "card_order": 42,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "foot the bill",
+    "translation": "оплатить счёт или расходы",
+    "questions": [
+      {
+        "id": "idiom_adv_42_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «оплатить счёт или расходы»?",
+        "options": [
+          "The council was between a rock and a hard place: raise taxes or cut essential services.",
+          "The contractor cut corners on insulation, and the building soon developed damp.",
+          "The university agreed to foot the bill for the additional laboratory tests.",
+          "He has a chip on his shoulder about not attending an elite university."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «foot the bill»: оно означает «оплатить счёт или расходы».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_42_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nTaxpayers should not have to foot the bill for private mistakes.",
+        "options": [
+          "оказаться между двумя одинаково плохими вариантами",
+          "экономить на качестве; делать кое-как ради скорости или дешевизны",
+          "быть постоянно обиженным и болезненно воспринимать неуважение",
+          "оплатить счёт или расходы"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «foot the bill» означает «оплатить счёт или расходы».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_43",
+    "card_order": 43,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "pay through the nose",
+    "translation": "заплатить непомерно высокую цену",
+    "questions": [
+      {
+        "id": "idiom_adv_43_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «заплатить непомерно высокую цену»?",
+        "options": [
+          "We paid through the nose for a last-minute hotel room.",
+          "Let me play devil’s advocate: what happens if demand falls by half?",
+          "The revised course has raised the bar for online language teaching.",
+          "Lena wears her heart on her sleeve, so everyone knew the criticism had hurt her."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «pay through the nose»: оно означает «заплатить непомерно высокую цену».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_43_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nSmall firms often pay through the nose for short-term credit.",
+        "options": [
+          "намеренно отстаивать противоположную позицию ради проверки аргументов",
+          "заплатить непомерно высокую цену",
+          "повысить требования или стандарт",
+          "открыто показывать свои чувства"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «pay through the nose» означает «заплатить непомерно высокую цену».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_44",
+    "card_order": 44,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "the lion's share",
+    "translation": "львиная доля; самая большая часть",
+    "questions": [
+      {
+        "id": "idiom_adv_44_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «львиная доля; самая большая часть»?",
+        "options": [
+          "I am willing to revise the schedule, but I draw the line at cancelling the safety checks.",
+          "After the introductions, we got down to brass tacks and discussed the budget.",
+          "Housing takes the lion’s share of many families’ income.",
+          "She was beside herself with worry when the child failed to come home."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «the lion's share»: оно означает «львиная доля; самая большая часть».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_44_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe senior partner received the lion’s share of the profits.",
+        "options": [
+          "установить предел допустимого",
+          "перейти к конкретным практическим деталям",
+          "быть вне себя от сильной эмоции",
+          "львиная доля; самая большая часть"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «the lion's share» означает «львиная доля; самая большая часть».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_45",
+    "card_order": 45,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "call the shots",
+    "translation": "принимать основные решения и контролировать ситуацию",
+    "questions": [
+      {
+        "id": "idiom_adv_45_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «принимать основные решения и контролировать ситуацию»?",
+        "options": [
+          "The investors provide the money, but the founders still call the shots.",
+          "Investigators promised to leave no stone unturned in the search for the missing records.",
+          "The company stayed ahead of the curve by investing early in accessibility.",
+          "Write down everything you want to say, just to get the anger out of your system."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «call the shots»: оно означает «принимать основные решения и контролировать ситуацию».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_45_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nIt became clear that the parent company was calling the shots.",
+        "options": [
+          "использовать все возможные способы",
+          "принимать основные решения и контролировать ситуацию",
+          "опережать тенденции или конкурентов",
+          "дать выход чувству или желанию и освободиться от него"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «call the shots» означает «принимать основные решения и контролировать ситуацию».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_46",
+    "card_order": 46,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "pull strings",
+    "translation": "использовать связи для получения преимущества",
+    "questions": [
+      {
+        "id": "idiom_adv_46_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «использовать связи для получения преимущества»?",
+        "options": [
+          "The complaints were repeatedly swept under the carpet.",
+          "With only two days left, the editing team has its work cut out.",
+          "She pulled a few strings and secured an appointment within a week.",
+          "After weeks of unresolved complaints, the residents were at the end of their tether."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «pull strings»: оно означает «использовать связи для получения преимущества».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_46_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe should not need to pull strings to obtain a routine permit.",
+        "options": [
+          "скрыть проблему вместо её решения",
+          "иметь впереди очень трудную задачу",
+          "быть на пределе сил или терпения",
+          "использовать связи для получения преимущества"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «pull strings» означает «использовать связи для получения преимущества».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_47",
+    "card_order": 47,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "hold all the cards",
+    "translation": "иметь решающее преимущество и контроль",
+    "questions": [
+      {
+        "id": "idiom_adv_47_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «иметь решающее преимущество и контроль»?",
+        "options": [
+          "Because the patent was still valid, the manufacturer held all the cards.",
+          "Choosing the software before defining the requirements is putting the cart before the horse.",
+          "The new manager hit the ground running and resolved two long-standing issues in her first week.",
+          "Try not to take the reviewer’s harsh wording to heart."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «hold all the cards»: оно означает «иметь решающее преимущество и контроль».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_47_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nAt this stage of the negotiations, the landlord appears to hold all the cards.",
+        "options": [
+          "делать всё в неправильном порядке",
+          "иметь решающее преимущество и контроль",
+          "сразу активно и эффективно приступить к делу",
+          "слишком близко принять что-либо к сердцу"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «hold all the cards» означает «иметь решающее преимущество и контроль».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_48",
+    "card_order": 48,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "MONEY",
+    "idiom": "line your pockets",
+    "translation": "нечестно обогащаться",
+    "questions": [
+      {
+        "id": "idiom_adv_48_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «нечестно обогащаться»?",
+        "options": [
+          "Remote work can be a double-edged sword: it offers freedom but may increase isolation.",
+          "You cannot burn the candle at both ends throughout the entire semester.",
+          "The officials were accused of lining their pockets through inflated contracts.",
+          "He kept a stiff upper lip throughout the farewell, although he was deeply upset."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «line your pockets»: оно означает «нечестно обогащаться».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_48_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe charity was not created to line anyone’s pockets.",
+        "options": [
+          "нечто одновременно полезное и вредное",
+          "изнурять себя, работая с утра до ночи",
+          "не показывать сильных эмоций в трудной ситуации",
+          "нечестно обогащаться"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «line your pockets» означает «нечестно обогащаться».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_49",
+    "card_order": 49,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "open a can of worms",
+    "translation": "создать множество новых сложных проблем",
+    "questions": [
+      {
+        "id": "idiom_adv_49_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «создать множество новых сложных проблем»?",
+        "options": [
+          "Changing the ownership rules could open a can of worms.",
+          "By and large, the new timetable has worked well.",
+          "The joke fell flat because the speaker failed to read the room.",
+          "The director threw the junior analyst under the bus when the forecast proved wrong."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «open a can of worms»: оно означает «создать множество новых сложных проблем».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_49_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe seemingly simple question opened a whole new can of worms.",
+        "options": [
+          "в целом; в общем и целом",
+          "создать множество новых сложных проблем",
+          "учитывать настроение и реакцию присутствующих",
+          "предать или подставить кого-либо ради собственной выгоды"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «open a can of worms» означает «создать множество новых сложных проблем».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_50",
+    "card_order": 50,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be between a rock and a hard place",
+    "translation": "оказаться между двумя одинаково плохими вариантами",
+    "questions": [
+      {
+        "id": "idiom_adv_50_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «оказаться между двумя одинаково плохими вариантами»?",
+        "options": [
+          "She would travel abroad at the drop of a hat.",
+          "We got our wires crossed: I thought the meeting was online.",
+          "The council was between a rock and a hard place: raise taxes or cut essential services.",
+          "The supplier withdrew at the last minute and left us in the lurch."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «be between a rock and a hard place»: оно означает «оказаться между двумя одинаково плохими вариантами».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_50_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe found herself between a rock and a hard place after both teams rejected the compromise.",
+        "options": [
+          "мгновенно и без подготовки",
+          "неправильно понять друг друга",
+          "бросить кого-либо в трудной ситуации",
+          "оказаться между двумя одинаково плохими вариантами"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «be between a rock and a hard place» означает «оказаться между двумя одинаково плохими вариантами».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_51",
+    "card_order": 51,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "play devil's advocate",
+    "translation": "намеренно отстаивать противоположную позицию ради проверки аргументов",
+    "questions": [
+      {
+        "id": "idiom_adv_51_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «намеренно отстаивать противоположную позицию ради проверки аргументов»?",
+        "options": [
+          "Let me play devil’s advocate: what happens if demand falls by half?",
+          "It goes against the grain for me to take credit for someone else’s work.",
+          "Please do not put words in my mouth; I never opposed the whole project.",
+          "She remained polite but kept her new colleagues at arm’s length."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «play devil's advocate»: оно означает «намеренно отстаивать противоположную позицию ради проверки аргументов».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_51_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nShe was not rejecting the plan; she was simply playing devil’s advocate.",
+        "options": [
+          "противоречить своим убеждениям или привычкам",
+          "намеренно отстаивать противоположную позицию ради проверки аргументов",
+          "приписывать человеку то, чего он не говорил",
+          "держать кого-либо на расстоянии и не допускать близости"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «play devil's advocate» означает «намеренно отстаивать противоположную позицию ради проверки аргументов».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_52",
+    "card_order": 52,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "draw the line",
+    "translation": "установить предел допустимого",
+    "questions": [
+      {
+        "id": "idiom_adv_52_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «установить предел допустимого»?",
+        "options": [
+          "Maya took the sudden change of venue in her stride.",
+          "Her refusal to answer spoke volumes about the level of trust in the team.",
+          "I am willing to revise the schedule, but I draw the line at cancelling the safety checks.",
+          "His confident manner rubbed several committee members up the wrong way."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «draw the line»: оно означает «установить предел допустимого».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_52_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nThe policy must draw a clear line between criticism and harassment.",
+        "options": [
+          "спокойно справиться с трудностью",
+          "говорить о многом без прямых слов",
+          "раздражать кого-либо своей манерой поведения",
+          "установить предел допустимого"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «draw the line» означает «установить предел допустимого».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_53",
+    "card_order": 53,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "leave no stone unturned",
+    "translation": "использовать все возможные способы",
+    "questions": [
+      {
+        "id": "idiom_adv_53_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «использовать все возможные способы»?",
+        "options": [
+          "Investigators promised to leave no stone unturned in the search for the missing records.",
+          "The interviewer’s final question caught me off guard.",
+          "The inspector did not mince her words when describing the safety failures.",
+          "The two researchers were joined at the hip throughout the conference."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «leave no stone unturned»: оно означает «использовать все возможные способы».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_53_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe will leave no stone unturned to identify the source of the error.",
+        "options": [
+          "застать кого-либо врасплох",
+          "использовать все возможные способы",
+          "говорить прямо, не смягчая формулировок",
+          "быть неразлучными"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «leave no stone unturned» означает «использовать все возможные способы».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_54",
+    "card_order": 54,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "sweep something under the carpet",
+    "translation": "скрыть проблему вместо её решения",
+    "questions": [
+      {
+        "id": "idiom_adv_54_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «скрыть проблему вместо её решения»?",
+        "options": [
+          "Regular breaks helped keep exhaustion at bay.",
+          "We had been talking at cross purposes: she meant the draft, while I meant the final report.",
+          "The complaints were repeatedly swept under the carpet.",
+          "I introduced them at lunch, and they got on like a house on fire."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «sweep something under the carpet»: оно означает «скрыть проблему вместо её решения».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_54_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe cannot sweep the funding gap under the carpet any longer.",
+        "options": [
+          "не подпускать; сдерживать",
+          "говорить о разном, не осознавая недопонимания",
+          "сразу прекрасно поладить",
+          "скрыть проблему вместо её решения"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «sweep something under the carpet» означает «скрыть проблему вместо её решения».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_55",
+    "card_order": 55,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "put the cart before the horse",
+    "translation": "делать всё в неправильном порядке",
+    "questions": [
+      {
+        "id": "idiom_adv_55_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «делать всё в неправильном порядке»?",
+        "options": [
+          "Choosing the software before defining the requirements is putting the cart before the horse.",
+          "The species is on the brink of extinction.",
+          "It is time for both parties to lay their cards on the table.",
+          "They supported each other through thick and thin for more than thirty years."
+        ],
+        "correct_index": 0,
+        "explanation": "Подходит предложение с выражением «put the cart before the horse»: оно означает «делать всё в неправильном порядке».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_55_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nWe would be putting the cart before the horse if we announced a date before securing the venue.",
+        "options": [
+          "быть на грани чего-либо",
+          "делать всё в неправильном порядке",
+          "открыто изложить свои намерения или позицию",
+          "и в хорошие, и в плохие времена"
+        ],
+        "correct_index": 1,
+        "explanation": "В этом предложении «put the cart before the horse» означает «делать всё в неправильном порядке».",
+        "source_example_index": 1
+      }
+    ]
+  },
+  {
+    "base_card_id": "idiom_adv_56",
+    "card_order": 56,
+    "level_code": "a",
+    "level": "Advanced",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "a double-edged sword",
+    "translation": "нечто одновременно полезное и вредное",
+    "questions": [
+      {
+        "id": "idiom_adv_56_extra_1",
+        "type": "sentence_match",
+        "prompt": "Какое предложение лучше всего передаёт смысл «нечто одновременно полезное и вредное»?",
+        "options": [
+          "The finished apartment was a far cry from the glossy advertisement.",
+          "We are splitting hairs over terminology while the main problem remains unsolved.",
+          "Remote work can be a double-edged sword: it offers freedom but may increase isolation.",
+          "After the dispute, the neighbours were barely on speaking terms."
+        ],
+        "correct_index": 2,
+        "explanation": "Подходит предложение с выражением «a double-edged sword»: оно означает «нечто одновременно полезное и вредное».",
+        "source_example_index": 0
+      },
+      {
+        "id": "idiom_adv_56_extra_2",
+        "type": "meaning_in_context",
+        "prompt": "Что означает устойчивое выражение в этом контексте?\n\nPublic attention proved to be a double-edged sword for the small organisation.",
+        "options": [
+          "совсем не то; сильно отличаться от чего-либо",
+          "спорить о несущественных различиях",
+          "поддерживать хотя бы минимальное общение",
+          "нечто одновременно полезное и вредное"
+        ],
+        "correct_index": 3,
+        "explanation": "В этом предложении «a double-edged sword» означает «нечто одновременно полезное и вредное».",
+        "source_example_index": 1
+      }
+    ]
+  }
+]

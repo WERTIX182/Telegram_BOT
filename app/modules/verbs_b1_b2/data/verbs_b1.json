@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "verb_001_manage_succeed_in",
+    "order": 1,
+    "level": "B1",
+    "category": "Achievement",
+    "title_en": "manage / succeed in",
+    "title_ru": "справиться и добиться успеха",
+    "rule": "Manage обычно употребляется с to-infinitive и подчёркивает, что действие удалось выполнить, часто несмотря на трудности. Succeed употребляется с in + -ing или существительным.",
+    "forms": [
+      "manage to do something",
+      "succeed in doing something",
+      "succeed in a task/field"
+    ],
+    "meanings": [
+      "суметь, справиться",
+      "преуспеть, добиться результата"
+    ],
+    "contrast": "После manage нужен инфинитив с to, а после succeed in — форма -ing.",
+    "examples": [
+      {
+        "en": "She managed to finish the report on time.",
+        "ru": "Ей удалось закончить отчёт вовремя."
+      },
+      {
+        "en": "He succeeded in finding a cheaper flat.",
+        "ru": "Ему удалось найти более дешёвую квартиру."
+      },
+      {
+        "en": "Did you manage to contact the client?",
+        "ru": "Тебе удалось связаться с клиентом?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We succeeded to solve the problem.",
+      "right": "We succeeded in solving the problem.",
+      "note": "После succeed in используется существительное или форма -ing."
+    },
+    "quiz": {
+      "prompt": "Complete: Despite the traffic, we ___ to arrive before the meeting.",
+      "options": [
+        "managed",
+        "succeeded",
+        "avoided"
+      ],
+      "correct_index": 0,
+      "explanation": "Здесь нужна модель manage to arrive: действие удалось выполнить."
+    }
+  },
+  {
+    "id": "verb_002_avoid_prevent",
+    "order": 2,
+    "level": "B1",
+    "category": "Avoidance",
+    "title_en": "avoid / prevent",
+    "title_ru": "избегать и предотвращать",
+    "rule": "Avoid означает не делать или не встречать что-либо. Prevent означает не дать событию произойти или помешать кому-либо что-либо сделать.",
+    "forms": [
+      "avoid doing something",
+      "avoid someone/something",
+      "prevent someone from doing something"
+    ],
+    "meanings": [
+      "избегать действия или ситуации",
+      "предотвращать событие",
+      "мешать кому-либо действовать"
+    ],
+    "contrast": "Avoid относится к поведению самого человека, а prevent — к внешнему препятствию или причине.",
+    "examples": [
+      {
+        "en": "I avoid checking emails late at night.",
+        "ru": "Я стараюсь не проверять почту поздно вечером."
+      },
+      {
+        "en": "The barrier prevented cars from entering.",
+        "ru": "Шлагбаум не позволил машинам въехать."
+      },
+      {
+        "en": "Regular backups can prevent data loss.",
+        "ru": "Регулярные резервные копии могут предотвратить потерю данных."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The rain prevented us to leave.",
+      "right": "The rain prevented us from leaving.",
+      "note": "После prevent someone используется from + -ing."
+    },
+    "quiz": {
+      "prompt": "Choose the correct form: This app prevents users ___ weak passwords.",
+      "options": [
+        "to choose",
+        "from choosing",
+        "choose"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильная модель: prevent someone from doing something."
+    }
+  },
+  {
+    "id": "verb_003_suggest_recommend",
+    "order": 3,
+    "level": "B1",
+    "category": "Suggestions",
+    "title_en": "suggest / recommend",
+    "title_ru": "предлагать и рекомендовать",
+    "rule": "Оба глагола могут вводить идею или совет. После них часто употребляется -ing или that-clause. В нейтральном стандартном английском обычно не говорят suggest/recommend someone to do.",
+    "forms": [
+      "suggest doing something",
+      "suggest that someone (should) do something",
+      "recommend doing / recommend that ..."
+    ],
+    "meanings": [
+      "предлагать идею",
+      "советовать вариант",
+      "рекомендовать"
+    ],
+    "contrast": "Suggest чаще представляет идею, recommend сильнее выражает совет, основанный на мнении или опыте.",
+    "examples": [
+      {
+        "en": "She suggested taking the earlier train.",
+        "ru": "Она предложила поехать более ранним поездом."
+      },
+      {
+        "en": "I recommend booking in advance.",
+        "ru": "Я рекомендую бронировать заранее."
+      },
+      {
+        "en": "They suggested that we meet online.",
+        "ru": "Они предложили встретиться онлайн."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I suggest you to wait.",
+      "right": "I suggest that you wait.",
+      "note": "После suggest лучше использовать that-clause или форму -ing."
+    },
+    "quiz": {
+      "prompt": "Choose the natural sentence.",
+      "options": [
+        "I recommend to take a taxi.",
+        "I recommend taking a taxi.",
+        "I recommend you take to a taxi."
+      ],
+      "correct_index": 1,
+      "explanation": "После recommend естественно употребить форму -ing: recommend taking."
+    }
+  },
+  {
+    "id": "verb_004_offer_promise",
+    "order": 4,
+    "level": "B1",
+    "category": "Commitment",
+    "title_en": "offer / promise",
+    "title_ru": "предлагать помощь и обещать",
+    "rule": "Offer to do выражает готовность сделать что-либо. Promise to do — обязательство выполнить действие в будущем.",
+    "forms": [
+      "offer to do something",
+      "offer someone something",
+      "promise to do something"
+    ],
+    "meanings": [
+      "предлагать сделать",
+      "предлагать предмет или помощь",
+      "обещать сделать"
+    ],
+    "contrast": "Offer можно принять или отклонить; promise создаёт ожидание, что говорящий выполнит обязательство.",
+    "examples": [
+      {
+        "en": "Mia offered to drive us home.",
+        "ru": "Миа предложила отвезти нас домой."
+      },
+      {
+        "en": "He promised to call after work.",
+        "ru": "Он обещал позвонить после работы."
+      },
+      {
+        "en": "They offered me a temporary job.",
+        "ru": "Они предложили мне временную работу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She offered helping me.",
+      "right": "She offered to help me.",
+      "note": "После offer в значении «предложить сделать» употребляется to-infinitive."
+    },
+    "quiz": {
+      "prompt": "Complete: The company ___ to refund the full amount.",
+      "options": [
+        "promised",
+        "offered me",
+        "suggested me"
+      ],
+      "correct_index": 0,
+      "explanation": "Promise to refund выражает обязательство компании вернуть деньги."
+    }
+  },
+  {
+    "id": "verb_005_agree_accept",
+    "order": 5,
+    "level": "B1",
+    "category": "Agreement",
+    "title_en": "agree / accept",
+    "title_ru": "соглашаться и принимать",
+    "rule": "Agree выражает совпадение мнений или согласие сделать что-либо. Accept означает принять предложение, приглашение, объяснение или факт.",
+    "forms": [
+      "agree with a person/opinion",
+      "agree to a proposal / agree to do",
+      "accept an offer/invitation/apology"
+    ],
+    "meanings": [
+      "соглашаться с мнением",
+      "давать согласие",
+      "принимать предложение или факт"
+    ],
+    "contrast": "Agree обычно описывает позицию, а accept — действие по принятию чего-либо.",
+    "examples": [
+      {
+        "en": "I agree with your main point.",
+        "ru": "Я согласен с твоей основной мыслью."
+      },
+      {
+        "en": "She agreed to join the project.",
+        "ru": "Она согласилась присоединиться к проекту."
+      },
+      {
+        "en": "We accepted their invitation.",
+        "ru": "Мы приняли их приглашение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I agreed the invitation.",
+      "right": "I accepted the invitation.",
+      "note": "Приглашение принимают с accept; agree требует другой модели."
+    },
+    "quiz": {
+      "prompt": "Complete: After some discussion, they ___ to change the deadline.",
+      "options": [
+        "accepted",
+        "agreed",
+        "received"
+      ],
+      "correct_index": 1,
+      "explanation": "Модель agree to do: agreed to change."
+    }
+  },
+  {
+    "id": "verb_006_refuse_deny",
+    "order": 6,
+    "level": "B1",
+    "category": "Refusal",
+    "title_en": "refuse / deny",
+    "title_ru": "отказываться и отрицать",
+    "rule": "Refuse означает не согласиться сделать или принять что-либо. Deny означает заявить, что обвинение или утверждение неверно, либо отрицать совершённое действие.",
+    "forms": [
+      "refuse to do something",
+      "refuse an offer/request",
+      "deny doing something / deny that ..."
+    ],
+    "meanings": [
+      "отказаться действовать",
+      "отклонить предложение",
+      "отрицать факт или действие"
+    ],
+    "contrast": "Refuse относится к решению не делать; deny — к отрицанию правдивости.",
+    "examples": [
+      {
+        "en": "He refused to answer the question.",
+        "ru": "Он отказался отвечать на вопрос."
+      },
+      {
+        "en": "She denied copying the file.",
+        "ru": "Она отрицала, что скопировала файл."
+      },
+      {
+        "en": "They refused our request for a refund.",
+        "ru": "Они отклонили нашу просьбу о возврате денег."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He denied to take the money.",
+      "right": "He denied taking the money.",
+      "note": "После deny употребляется форма -ing или that-clause."
+    },
+    "quiz": {
+      "prompt": "Complete: The witness ___ seeing the suspect that evening.",
+      "options": [
+        "refused",
+        "denied",
+        "rejected to"
+      ],
+      "correct_index": 1,
+      "explanation": "Deny doing означает отрицать, что действие произошло."
+    }
+  },
+  {
+    "id": "verb_007_provide_supply",
+    "order": 7,
+    "level": "B1",
+    "category": "Provision",
+    "title_en": "provide / supply",
+    "title_ru": "предоставлять и снабжать",
+    "rule": "Provide и supply означают дать необходимые вещи, услуги или информацию. Provide часто употребляется с with или for. Supply также употребляется с with, а при передаче вещи получателю возможна модель supply something to someone.",
+    "forms": [
+      "provide someone with something",
+      "provide something for someone",
+      "supply someone with something / supply something to someone"
+    ],
+    "meanings": [
+      "предоставлять необходимое",
+      "обеспечивать ресурсом",
+      "поставлять"
+    ],
+    "contrast": "Нельзя *provide someone something в стандартной учебной модели: используйте provide someone with something или provide something for someone.",
+    "examples": [
+      {
+        "en": "The hotel provides guests with free Wi-Fi.",
+        "ru": "Отель предоставляет гостям бесплатный Wi-Fi."
+      },
+      {
+        "en": "We provide training for all new employees.",
+        "ru": "Мы проводим обучение для всех новых сотрудников."
+      },
+      {
+        "en": "The company supplies equipment to local schools.",
+        "ru": "Компания поставляет оборудование местным школам."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The course provides students useful materials.",
+      "right": "The course provides students with useful materials.",
+      "note": "После человека в модели provide someone with something нужен with."
+    },
+    "quiz": {
+      "prompt": "Complete: The charity ___ families with food and medicine.",
+      "options": [
+        "provides",
+        "provides to",
+        "offers for"
+      ],
+      "correct_index": 0,
+      "explanation": "Нормативная модель: provide someone with something."
+    }
+  },
+  {
+    "id": "verb_008_remind_remember",
+    "order": 8,
+    "level": "B1",
+    "category": "Memory",
+    "title_en": "remind / remember",
+    "title_ru": "напоминать и помнить",
+    "rule": "Remind требует объект: кто-то или что-то напоминает человеку. Remember описывает память самого человека. Remember to do — не забыть действие; remember doing — помнить прошлое событие.",
+    "forms": [
+      "remind someone to do",
+      "remind someone of/about something",
+      "remember to do / remember doing"
+    ],
+    "meanings": [
+      "напомнить человеку",
+      "вызвать воспоминание",
+      "помнить или не забыть"
+    ],
+    "contrast": "Remind не употребляется без указания того, кому напоминают, когда речь идёт о просьбе.",
+    "examples": [
+      {
+        "en": "Please remind me to send the invoice.",
+        "ru": "Пожалуйста, напомни мне отправить счёт."
+      },
+      {
+        "en": "I remember meeting her at a conference.",
+        "ru": "Я помню, как встретил её на конференции."
+      },
+      {
+        "en": "This song reminds me of school.",
+        "ru": "Эта песня напоминает мне о школе."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Remind to lock the door.",
+      "right": "Remember to lock the door.",
+      "note": "Когда человек сам должен не забыть действие, используется remember to do."
+    },
+    "quiz": {
+      "prompt": "Complete: Could you ___ me to call the dentist?",
+      "options": [
+        "remember",
+        "remind",
+        "recall"
+      ],
+      "correct_index": 1,
+      "explanation": "Remind someone to do — напомнить кому-либо сделать что-либо."
+    }
+  },
+  {
+    "id": "verb_009_allow_let",
+    "order": 9,
+    "level": "B1",
+    "category": "Permission",
+    "title_en": "allow / let",
+    "title_ru": "разрешать",
+    "rule": "Allow — более нейтральный или формальный глагол; после объекта используется to-infinitive. Let — разговорнее, после объекта ставится инфинитив без to.",
+    "forms": [
+      "allow someone to do",
+      "allow doing something",
+      "let someone do"
+    ],
+    "meanings": [
+      "разрешать человеку",
+      "допускать действие",
+      "позволять в разговорной речи"
+    ],
+    "contrast": "Сравните: allow me to leave, но let me leave.",
+    "examples": [
+      {
+        "en": "The app allows users to edit photos.",
+        "ru": "Приложение позволяет пользователям редактировать фотографии."
+      },
+      {
+        "en": "My parents let me travel alone.",
+        "ru": "Родители разрешили мне путешествовать одному."
+      },
+      {
+        "en": "Smoking is not allowed here.",
+        "ru": "Курить здесь не разрешается."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They let us to leave early.",
+      "right": "They let us leave early.",
+      "note": "После let употребляется инфинитив без to."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The teacher allowed us use dictionaries.",
+        "The teacher allowed us to use dictionaries.",
+        "The teacher let us to use dictionaries."
+      ],
+      "correct_index": 1,
+      "explanation": "После allow + object нужен to-infinitive."
+    }
+  },
+  {
+    "id": "verb_010_make_force",
+    "order": 10,
+    "level": "B1",
+    "category": "Compulsion",
+    "title_en": "make / force",
+    "title_ru": "заставлять",
+    "rule": "Make someone do обычно описывает прямое давление или причину и требует инфинитив без to. Force someone to do подчёркивает более сильное принуждение и требует to-infinitive.",
+    "forms": [
+      "make someone do",
+      "be made to do",
+      "force someone to do"
+    ],
+    "meanings": [
+      "заставлять",
+      "быть вынужденным",
+      "принуждать"
+    ],
+    "contrast": "В активе make используется без to, но в пассиве: be made to do.",
+    "examples": [
+      {
+        "en": "The film made me laugh.",
+        "ru": "Фильм заставил меня смеяться."
+      },
+      {
+        "en": "They forced him to resign.",
+        "ru": "Они вынудили его уйти в отставку."
+      },
+      {
+        "en": "We were made to wait outside.",
+        "ru": "Нас заставили ждать снаружи."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The joke made everyone to laugh.",
+      "right": "The joke made everyone laugh.",
+      "note": "После make + object в активном залоге to не используется."
+    },
+    "quiz": {
+      "prompt": "Complete: The new rules ___ staff to wear badges.",
+      "options": [
+        "made staff to wear",
+        "forced staff to wear",
+        "forced staff wear"
+      ],
+      "correct_index": 1,
+      "explanation": "Force someone to do требует инфинитив с to."
+    }
+  },
+  {
+    "id": "verb_011_advise_warn",
+    "order": 11,
+    "level": "B1",
+    "category": "Advice",
+    "title_en": "advise / warn",
+    "title_ru": "советовать и предупреждать",
+    "rule": "Advise предлагает полезное действие. Warn сообщает об опасности или нежелательном последствии.",
+    "forms": [
+      "advise someone to do",
+      "advise doing something",
+      "warn someone not to do / warn about"
+    ],
+    "meanings": [
+      "советовать",
+      "давать рекомендацию",
+      "предупреждать об опасности"
+    ],
+    "contrast": "Advice — существительное, advise — глагол. Warn обычно содержит идею риска.",
+    "examples": [
+      {
+        "en": "The doctor advised me to rest.",
+        "ru": "Врач посоветовал мне отдохнуть."
+      },
+      {
+        "en": "They warned us not to touch the wire.",
+        "ru": "Нас предупредили не трогать провод."
+      },
+      {
+        "en": "I would advise booking early.",
+        "ru": "Я бы посоветовал бронировать заранее."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She adviced me to wait.",
+      "right": "She advised me to wait.",
+      "note": "Глагол пишется advise; advice — существительное."
+    },
+    "quiz": {
+      "prompt": "Complete: The guide ___ us not to drink the tap water.",
+      "options": [
+        "advised about",
+        "warned",
+        "recommended us"
+      ],
+      "correct_index": 1,
+      "explanation": "Warn someone not to do — предупредить не делать что-либо."
+    }
+  },
+  {
+    "id": "verb_012_complain_criticize",
+    "order": 12,
+    "level": "B1",
+    "category": "Evaluation",
+    "title_en": "complain / criticize",
+    "title_ru": "жаловаться и критиковать",
+    "rule": "Complain выражает недовольство ситуацией. Criticize даёт отрицательную оценку человеку, решению или действию.",
+    "forms": [
+      "complain about something",
+      "complain to someone",
+      "criticize someone/something for doing"
+    ],
+    "meanings": [
+      "жаловаться на проблему",
+      "обращаться с жалобой",
+      "критиковать за действие"
+    ],
+    "contrast": "Можно complain to a manager about service, но criticize the service or criticize someone for poor service.",
+    "examples": [
+      {
+        "en": "Guests complained about the noise.",
+        "ru": "Гости пожаловались на шум."
+      },
+      {
+        "en": "She complained to the manager.",
+        "ru": "Она пожаловалась менеджеру."
+      },
+      {
+        "en": "The report criticized the company for ignoring safety rules.",
+        "ru": "В отчёте компанию критиковали за игнорирование правил безопасности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He complained the food.",
+      "right": "He complained about the food.",
+      "note": "После complain перед предметом жалобы нужен about."
+    },
+    "quiz": {
+      "prompt": "Complete: Several customers ___ to the manager about the delay.",
+      "options": [
+        "criticized",
+        "complained",
+        "blamed"
+      ],
+      "correct_index": 1,
+      "explanation": "Complain to someone about something — пожаловаться кому-либо на что-либо."
+    }
+  },
+  {
+    "id": "verb_013_depend_on_rely_on",
+    "order": 13,
+    "level": "B1",
+    "category": "Dependence",
+    "title_en": "depend on / rely on",
+    "title_ru": "зависеть и полагаться",
+    "rule": "Depend on описывает зависимость результата от условия. Rely on подчёркивает доверие к человеку, системе или источнику помощи.",
+    "forms": [
+      "depend on something",
+      "depend on whether/what/how",
+      "rely on someone/something"
+    ],
+    "meanings": [
+      "зависеть от условия",
+      "определяться фактором",
+      "полагаться, рассчитывать"
+    ],
+    "contrast": "Оба требуют предлога on; rely чаще содержит идею доверия.",
+    "examples": [
+      {
+        "en": "The price depends on the season.",
+        "ru": "Цена зависит от сезона."
+      },
+      {
+        "en": "You can rely on Sam to keep his word.",
+        "ru": "На Сэма можно положиться: он сдержит слово."
+      },
+      {
+        "en": "It depends on whether we get permission.",
+        "ru": "Это зависит от того, получим ли мы разрешение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Success depends from luck.",
+      "right": "Success depends on luck.",
+      "note": "После depend используется on, а не from."
+    },
+    "quiz": {
+      "prompt": "Complete: We need a system we can ___ in an emergency.",
+      "options": [
+        "depend from",
+        "rely on",
+        "rely of"
+      ],
+      "correct_index": 1,
+      "explanation": "Rely on означает доверять системе и рассчитывать на неё."
+    }
+  },
+  {
+    "id": "verb_014_belong_to_own",
+    "order": 14,
+    "level": "B1",
+    "category": "Possession",
+    "title_en": "belong to / own",
+    "title_ru": "принадлежать и владеть",
+    "rule": "Belong to описывает принадлежность и обычно не употребляется в Continuous. Own — переходный глагол: владелец непосредственно владеет объектом.",
+    "forms": [
+      "something belongs to someone",
+      "someone owns something",
+      "be owned by someone"
+    ],
+    "meanings": [
+      "принадлежать",
+      "владеть",
+      "находиться в собственности"
+    ],
+    "contrast": "Belong требует to перед владельцем; own принимает прямое дополнение.",
+    "examples": [
+      {
+        "en": "This bag belongs to Nina.",
+        "ru": "Эта сумка принадлежит Нине."
+      },
+      {
+        "en": "They own a small apartment.",
+        "ru": "Они владеют небольшой квартирой."
+      },
+      {
+        "en": "The building is owned by the city.",
+        "ru": "Здание принадлежит городу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "This laptop is belonging to me.",
+      "right": "This laptop belongs to me.",
+      "note": "Belong — глагол состояния и обычно не используется в Continuous."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Who does this key belong to?",
+        "Who is this key belonging?",
+        "Who owns to this key?"
+      ],
+      "correct_index": 0,
+      "explanation": "Belong to требует предлога to; вопрос естественно заканчивается на to."
+    }
+  },
+  {
+    "id": "verb_015_consist_of_contain_include",
+    "order": 15,
+    "level": "B1",
+    "category": "Composition",
+    "title_en": "consist of / contain / include",
+    "title_ru": "состоять, содержать и включать",
+    "rule": "Consist of перечисляет основные части целого. Contain означает иметь что-либо внутри. Include показывает, что названный элемент является частью более широкого набора, но список может быть неполным.",
+    "forms": [
+      "consist of parts",
+      "contain something inside",
+      "include an item/person/example"
+    ],
+    "meanings": [
+      "состоять из",
+      "содержать внутри",
+      "включать в состав"
+    ],
+    "contrast": "Consist of не употребляется в пассиве: не *is consisted of.",
+    "examples": [
+      {
+        "en": "The course consists of twelve units.",
+        "ru": "Курс состоит из двенадцати разделов."
+      },
+      {
+        "en": "This drink contains no sugar.",
+        "ru": "Этот напиток не содержит сахара."
+      },
+      {
+        "en": "The fee includes breakfast.",
+        "ru": "В стоимость входит завтрак."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The team is consisted of six people.",
+      "right": "The team consists of six people.",
+      "note": "Consist of используется в активной форме."
+    },
+    "quiz": {
+      "prompt": "Complete: The price ___ delivery, but not installation.",
+      "options": [
+        "consists of",
+        "includes",
+        "contains inside"
+      ],
+      "correct_index": 1,
+      "explanation": "Include показывает, что доставка входит в общую стоимость."
+    }
+  },
+  {
+    "id": "verb_016_achieve_reach",
+    "order": 16,
+    "level": "B1",
+    "category": "Goals",
+    "title_en": "achieve / reach",
+    "title_ru": "достигать цели и уровня",
+    "rule": "Achieve обычно сочетается с целью, успехом или результатом. Reach употребляется с местом, уровнем, решением, соглашением или конкретной точкой.",
+    "forms": [
+      "achieve a goal/result/success",
+      "reach a place/level/decision",
+      "reach an agreement"
+    ],
+    "meanings": [
+      "добиться результата",
+      "достичь точки или уровня",
+      "прийти к соглашению"
+    ],
+    "contrast": "Оба могут переводиться «достичь», но их типичные дополнения различаются.",
+    "examples": [
+      {
+        "en": "She achieved her main goal.",
+        "ru": "Она достигла своей главной цели."
+      },
+      {
+        "en": "Sales reached a record level.",
+        "ru": "Продажи достигли рекордного уровня."
+      },
+      {
+        "en": "The two sides reached an agreement.",
+        "ru": "Две стороны пришли к соглашению."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We achieved the airport at six.",
+      "right": "We reached the airport at six.",
+      "note": "С местом употребляется reach, а не achieve."
+    },
+    "quiz": {
+      "prompt": "Complete: After months of talks, they finally ___ an agreement.",
+      "options": [
+        "achieved",
+        "reached",
+        "arrived"
+      ],
+      "correct_index": 1,
+      "explanation": "Устойчивое сочетание: reach an agreement."
+    }
+  },
+  {
+    "id": "verb_017_earn_win_gain",
+    "order": 17,
+    "level": "B1",
+    "category": "Results",
+    "title_en": "earn / win / gain",
+    "title_ru": "зарабатывать, выигрывать и приобретать",
+    "rule": "Earn означает получить деньги или признание благодаря работе. Win — победить в соревновании или получить приз. Gain — приобрести опыт, знания, преимущество или поддержку.",
+    "forms": [
+      "earn money/a salary/respect",
+      "win a game/prize/election",
+      "gain experience/knowledge/support"
+    ],
+    "meanings": [
+      "зарабатывать",
+      "выигрывать",
+      "приобретать, получать"
+    ],
+    "contrast": "Деньги обычно earn, соревнование win, опыт и преимущество gain.",
+    "examples": [
+      {
+        "en": "She earns enough to live comfortably.",
+        "ru": "Она зарабатывает достаточно для комфортной жизни."
+      },
+      {
+        "en": "Our team won the final.",
+        "ru": "Наша команда выиграла финал."
+      },
+      {
+        "en": "The internship helped me gain experience.",
+        "ru": "Стажировка помогла мне приобрести опыт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He won a lot of money at his job.",
+      "right": "He earned a lot of money at his job.",
+      "note": "Доход от работы выражается глаголом earn."
+    },
+    "quiz": {
+      "prompt": "Complete: The campaign has ___ widespread public support.",
+      "options": [
+        "earned a salary",
+        "gained",
+        "won a match"
+      ],
+      "correct_index": 1,
+      "explanation": "Gain support — получить поддержку."
+    }
+  },
+  {
+    "id": "verb_018_repair_fix_mend",
+    "order": 18,
+    "level": "B1",
+    "category": "Repair",
+    "title_en": "repair / fix / mend",
+    "title_ru": "ремонтировать и чинить",
+    "rule": "Repair — нейтральное или более формальное слово для восстановления машины, здания или устройства. Fix очень распространено в разговорной речи и также может означать решить проблему. Mend часто употребляется с одеждой, небольшими повреждениями и отношениями.",
+    "forms": [
+      "repair a machine/building/device",
+      "fix a device/problem",
+      "mend clothes/a hole/a relationship"
+    ],
+    "meanings": [
+      "ремонтировать технически",
+      "починить или исправить",
+      "заштопать, восстановить"
+    ],
+    "contrast": "Fix шире и разговорнее; mend особенно естественно с тканью и небольшими повреждениями.",
+    "examples": [
+      {
+        "en": "The mechanic repaired the engine.",
+        "ru": "Механик отремонтировал двигатель."
+      },
+      {
+        "en": "Can you fix this printer?",
+        "ru": "Ты можешь починить этот принтер?"
+      },
+      {
+        "en": "She mended a hole in her jacket.",
+        "ru": "Она заштопала дырку в куртке."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I need to repair this small hole in my sock.",
+      "right": "I need to mend this small hole in my sock.",
+      "note": "Для одежды и ткани обычно естественнее mend."
+    },
+    "quiz": {
+      "prompt": "Complete: The technician is trying to ___ the connection problem.",
+      "options": [
+        "mend a shirt",
+        "fix",
+        "sew"
+      ],
+      "correct_index": 1,
+      "explanation": "Fix a problem — исправить проблему."
+    }
+  },
+  {
+    "id": "verb_019_notice_realize_recognize",
+    "order": 19,
+    "level": "B1",
+    "category": "Awareness",
+    "title_en": "notice / realize / recognize",
+    "title_ru": "замечать, осознавать и узнавать",
+    "rule": "Notice означает увидеть или услышать деталь. Realize — понять факт или ситуацию. Recognize — опознать знакомого человека, предмет, голос или образ.",
+    "forms": [
+      "notice something / notice someone doing",
+      "realize that ...",
+      "recognize someone/something"
+    ],
+    "meanings": [
+      "заметить органами чувств",
+      "осознать",
+      "узнать как знакомое"
+    ],
+    "contrast": "Можно notice a mistake, realize why it happened и recognize the person who made it.",
+    "examples": [
+      {
+        "en": "I noticed a small crack in the screen.",
+        "ru": "Я заметил небольшую трещину на экране."
+      },
+      {
+        "en": "She realized that she had the wrong address.",
+        "ru": "Она поняла, что адрес был неверным."
+      },
+      {
+        "en": "I recognized his voice immediately.",
+        "ru": "Я сразу узнал его голос."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I recognized that I was late.",
+      "right": "I realized that I was late.",
+      "note": "Осознание факта выражается realize; recognize означает опознать."
+    },
+    "quiz": {
+      "prompt": "Complete: I did not ___ her at first because she had changed her hairstyle.",
+      "options": [
+        "realize",
+        "recognize",
+        "notice that"
+      ],
+      "correct_index": 1,
+      "explanation": "Нужно опознать знакомого человека — recognize."
+    }
+  },
+  {
+    "id": "verb_020_discover_find_out",
+    "order": 20,
+    "level": "B1",
+    "category": "Information",
+    "title_en": "discover / find out",
+    "title_ru": "обнаруживать и выяснять",
+    "rule": "Discover часто означает обнаружить неизвестный факт, место или явление. Find out — выяснить конкретную информацию, обычно благодаря вопросу, поиску или проверке.",
+    "forms": [
+      "discover something / discover that ...",
+      "find out something",
+      "find out who/why/when/how"
+    ],
+    "meanings": [
+      "обнаружить новое",
+      "узнать факт",
+      "выяснить подробности"
+    ],
+    "contrast": "Find out — фразовый глагол, но здесь он нужен для точного сравнения с частотным discover; в отдельном разделе фразовых глаголов будут другие контексты.",
+    "examples": [
+      {
+        "en": "Scientists discovered a new species.",
+        "ru": "Учёные обнаружили новый вид."
+      },
+      {
+        "en": "I found out why the train was delayed.",
+        "ru": "Я выяснил, почему поезд задержался."
+      },
+      {
+        "en": "We discovered that the file was missing.",
+        "ru": "Мы обнаружили, что файл отсутствует."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I found the answer out from the receptionist.",
+      "right": "I found out the answer from the receptionist.",
+      "note": "С существительным возможна модель find out the answer; место частицы зависит от объекта, но здесь естественнее не разделять сочетание."
+    },
+    "quiz": {
+      "prompt": "Complete: Can you ___ what time the museum closes?",
+      "options": [
+        "discover a species",
+        "find out",
+        "recognize"
+      ],
+      "correct_index": 1,
+      "explanation": "Речь идёт о получении конкретной информации — find out."
+    }
+  },
+  {
+    "id": "verb_021_explain_describe",
+    "order": 21,
+    "level": "B1",
+    "category": "Communication",
+    "title_en": "explain / describe",
+    "title_ru": "объяснять и описывать",
+    "rule": "Explain делает причину, процесс или идею понятной. Describe сообщает, как человек, предмет, место или ситуация выглядит или ощущается.",
+    "forms": [
+      "explain something to someone",
+      "explain why/how/that ...",
+      "describe someone/something to someone"
+    ],
+    "meanings": [
+      "объяснять смысл или причину",
+      "описывать признаки",
+      "передавать картину словами"
+    ],
+    "contrast": "Нельзя говорить explain me something: нужен порядок explain something to me.",
+    "examples": [
+      {
+        "en": "Could you explain the rule to me?",
+        "ru": "Можешь объяснить мне это правило?"
+      },
+      {
+        "en": "She described the room in detail.",
+        "ru": "Она подробно описала комнату."
+      },
+      {
+        "en": "He explained why the plan had changed.",
+        "ru": "Он объяснил, почему план изменился."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Please explain me this word.",
+      "right": "Please explain this word to me.",
+      "note": "Explain принимает прямое дополнение вещи и to перед человеком."
+    },
+    "quiz": {
+      "prompt": "Complete: The witness ___ the suspect as tall and dark-haired.",
+      "options": [
+        "explained",
+        "described",
+        "told"
+      ],
+      "correct_index": 1,
+      "explanation": "Describe используется для внешних признаков человека."
+    }
+  },
+  {
+    "id": "verb_022_leave_quit_resign",
+    "order": 22,
+    "level": "B1",
+    "category": "Work",
+    "title_en": "leave / quit / resign",
+    "title_ru": "уходить, бросать и увольняться",
+    "rule": "Leave означает покинуть место или работу. Quit — разговорное «бросить» работу или занятие. Resign — официально уйти с должности; часто употребляется с from.",
+    "forms": [
+      "leave a place/job",
+      "quit a job/activity / quit doing",
+      "resign from a position"
+    ],
+    "meanings": [
+      "покинуть",
+      "бросить, прекратить",
+      "официально уйти в отставку"
+    ],
+    "contrast": "Resign не означает «уволить»: это добровольный уход самого человека.",
+    "examples": [
+      {
+        "en": "She left the office at six.",
+        "ru": "Она ушла из офиса в шесть."
+      },
+      {
+        "en": "He quit his job to travel.",
+        "ru": "Он уволился, чтобы путешествовать."
+      },
+      {
+        "en": "The minister resigned from office.",
+        "ru": "Министр ушёл в отставку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The company resigned him.",
+      "right": "He resigned from the company.",
+      "note": "Resign обычно описывает добровольный уход; для увольнения компанией нужен dismiss/fire."
+    },
+    "quiz": {
+      "prompt": "Complete: After the scandal, the director ___ from his position.",
+      "options": [
+        "resigned",
+        "left from",
+        "quit to"
+      ],
+      "correct_index": 0,
+      "explanation": "Устойчиво: resign from a position."
+    }
+  },
+  {
+    "id": "verb_023_attend_visit",
+    "order": 23,
+    "level": "B1",
+    "category": "Events",
+    "title_en": "attend / visit",
+    "title_ru": "посещать мероприятие и навещать",
+    "rule": "Attend употребляется с мероприятием, занятием, школой или встречей и не требует предлога. Visit употребляется с человеком или местом.",
+    "forms": [
+      "attend a meeting/class/course",
+      "visit a person/place",
+      "pay a visit to"
+    ],
+    "meanings": [
+      "присутствовать на мероприятии",
+      "посещать место",
+      "навещать человека"
+    ],
+    "contrast": "Нельзя attend to a meeting в значении «посетить»; attend to означает «заняться, уделить внимание».",
+    "examples": [
+      {
+        "en": "More than 200 people attended the conference.",
+        "ru": "Конференцию посетили более двухсот человек."
+      },
+      {
+        "en": "We visited our grandparents at the weekend.",
+        "ru": "На выходных мы навестили бабушку и дедушку."
+      },
+      {
+        "en": "She attends an evening class twice a week.",
+        "ru": "Она дважды в неделю посещает вечерние занятия."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I attended to the workshop yesterday.",
+      "right": "I attended the workshop yesterday.",
+      "note": "Attend в значении присутствия принимает прямое дополнение без to."
+    },
+    "quiz": {
+      "prompt": "Complete: Are you going to ___ the training session tomorrow?",
+      "options": [
+        "visit to",
+        "attend",
+        "attend to"
+      ],
+      "correct_index": 1,
+      "explanation": "Мероприятие или занятие посещают с attend без предлога."
+    }
+  },
+  {
+    "id": "verb_024_improve_increase_develop",
+    "order": 24,
+    "level": "B1",
+    "category": "Change",
+    "title_en": "improve / increase / develop",
+    "title_ru": "улучшать, увеличивать и развивать",
+    "rule": "Improve означает сделать качество лучше или стать лучше. Increase — сделать количество или уровень выше либо вырасти. Develop — постепенно создать или развить навык, продукт, систему или ситуацию.",
+    "forms": [
+      "improve something / something improves",
+      "increase something / something increases",
+      "develop a skill/product / something develops"
+    ],
+    "meanings": [
+      "улучшать качество",
+      "увеличивать количество",
+      "развивать постепенно"
+    ],
+    "contrast": "Improve и increase могут быть переходными и непереходными; develop часто подчёркивает процесс во времени.",
+    "examples": [
+      {
+        "en": "Her English has improved a lot.",
+        "ru": "Её английский значительно улучшился."
+      },
+      {
+        "en": "The company increased its prices.",
+        "ru": "Компания повысила цены."
+      },
+      {
+        "en": "You need time to develop confidence.",
+        "ru": "Нужно время, чтобы развить уверенность."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The price was increased itself.",
+      "right": "The price increased.",
+      "note": "Когда показатель растёт сам, increase употребляется без объекта и без возвратной формы."
+    },
+    "quiz": {
+      "prompt": "Complete: Regular practice will help you ___ your speaking skills.",
+      "options": [
+        "increase the number",
+        "develop",
+        "rise"
+      ],
+      "correct_index": 1,
+      "explanation": "Навык постепенно развивается: develop a skill."
+    }
+  },
+  {
+    "id": "verb_025_solve_deal_with_cope_with",
+    "order": 25,
+    "level": "B1",
+    "category": "Problems",
+    "title_en": "solve / deal with / cope with",
+    "title_ru": "решать проблему и справляться",
+    "rule": "Solve означает найти решение задачи или проблемы. Deal with — заняться вопросом или человеком. Cope with — успешно справляться с трудной ситуацией или нагрузкой.",
+    "forms": [
+      "solve a problem/puzzle",
+      "deal with an issue/person",
+      "cope with stress/change/workload"
+    ],
+    "meanings": [
+      "решить",
+      "разобраться, заняться",
+      "справиться"
+    ],
+    "contrast": "Не каждую трудность можно сразу solve, но с ней можно deal with или cope with.",
+    "examples": [
+      {
+        "en": "We need to solve this technical problem.",
+        "ru": "Нам нужно решить эту техническую проблему."
+      },
+      {
+        "en": "The manager will deal with the complaint.",
+        "ru": "Менеджер разберётся с жалобой."
+      },
+      {
+        "en": "She is learning to cope with stress.",
+        "ru": "Она учится справляться со стрессом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I cannot cope this workload.",
+      "right": "I cannot cope with this workload.",
+      "note": "После cope нужен предлог with."
+    },
+    "quiz": {
+      "prompt": "Complete: The support team is dealing ___ a large number of requests.",
+      "options": [
+        "to",
+        "with",
+        "for"
+      ],
+      "correct_index": 1,
+      "explanation": "Устойчивое сочетание: deal with."
+    }
+  }
+]

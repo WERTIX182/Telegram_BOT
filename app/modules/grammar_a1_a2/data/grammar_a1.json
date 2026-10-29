@@ -1,0 +1,737 @@
+[
+  {
+    "id": "a1_01_subject_pronouns",
+    "order": 1,
+    "level": "A1",
+    "category": "Pronouns and possession",
+    "title_en": "Subject pronouns",
+    "title_ru": "Личные местоимения в роли подлежащего",
+    "rule": "Личное местоимение заменяет имя человека, животного или предмета и обычно стоит перед глаголом. I всегда пишется с заглавной буквы; he и she употребляются о людях, it — о предметах, явлениях и животных, когда пол не важен.",
+    "forms": ["I — я; you — ты/вы", "he — он; she — она; it — оно/это", "we — мы; they — они"],
+    "examples": [
+      {"en": "Anna is a teacher. She works at school.", "ru": "Анна — учитель. Она работает в школе."},
+      {"en": "My phone is new. It is very fast.", "ru": "Мой телефон новый. Он очень быстрый."},
+      {"en": "Tom and I are friends. We live nearby.", "ru": "Мы с Томом друзья. Мы живём рядом."}
+    ],
+    "common_mistake": {"wrong": "Me am tired.", "right": "I am tired.", "note": "В роли подлежащего используется I, а не объектная форма me."},
+    "quizzes": [
+      {"prompt": "___ am from Poland.", "options": ["I", "Me", "My"], "correct_index": 0, "explanation": "Перед am нужна форма подлежащего I."},
+      {"prompt": "Kate is my sister. ___ is twelve.", "options": ["He", "She", "It"], "correct_index": 1, "explanation": "О девочке или женщине говорим she."},
+      {"prompt": "The books are on the desk. ___ are new.", "options": ["It", "They", "We"], "correct_index": 1, "explanation": "Books — множественное число, поэтому they."}
+    ]
+  },
+  {
+    "id": "a1_02_be_affirmative",
+    "order": 2,
+    "level": "A1",
+    "category": "Verb be",
+    "title_en": "Verb be: affirmative",
+    "title_ru": "Глагол be: утвердительная форма",
+    "rule": "В настоящем времени be имеет три формы: am, is, are. Форма зависит от подлежащего. В разговорной речи часто используются сокращения.",
+    "forms": ["I am / I’m", "he, she, it is / he’s, she’s, it’s", "you, we, they are / you’re, we’re, they’re"],
+    "examples": [
+      {"en": "I am ready.", "ru": "Я готов."},
+      {"en": "She is at home.", "ru": "Она дома."},
+      {"en": "They are busy today.", "ru": "Они сегодня заняты."}
+    ],
+    "common_mistake": {"wrong": "He are my friend.", "right": "He is my friend.", "note": "После he, she, it используется is."},
+    "quizzes": [
+      {"prompt": "We ___ students.", "options": ["am", "is", "are"], "correct_index": 2, "explanation": "После we используется are."},
+      {"prompt": "My name ___ Alex.", "options": ["am", "is", "are"], "correct_index": 1, "explanation": "Подлежащее my name — единственное число, поэтому is."},
+      {"prompt": "I ___ happy to see you.", "options": ["am", "is", "are"], "correct_index": 0, "explanation": "С I употребляется am."}
+    ]
+  },
+  {
+    "id": "a1_03_be_negative",
+    "order": 3,
+    "level": "A1",
+    "category": "Verb be",
+    "title_en": "Verb be: negative",
+    "title_ru": "Глагол be: отрицательная форма",
+    "rule": "Чтобы сделать отрицание с be, поставьте not после am, is или are. Формы is not и are not часто сокращаются: isn’t, aren’t. У am not нет стандартного сокращения *amn’t*.",
+    "forms": ["I am not", "he, she, it is not / isn’t", "you, we, they are not / aren’t"],
+    "examples": [
+      {"en": "I am not cold.", "ru": "Мне не холодно."},
+      {"en": "He isn’t at work.", "ru": "Он не на работе."},
+      {"en": "We aren’t late.", "ru": "Мы не опоздали."}
+    ],
+    "common_mistake": {"wrong": "She not is tired.", "right": "She is not tired.", "note": "Not ставится после формы be."},
+    "quizzes": [
+      {"prompt": "They ___ at home.", "options": ["isn’t", "aren’t", "am not"], "correct_index": 1, "explanation": "С they используется aren’t."},
+      {"prompt": "I ___ hungry.", "options": ["am not", "is not", "are not"], "correct_index": 0, "explanation": "С I употребляется am not."},
+      {"prompt": "This bag ___ expensive.", "options": ["aren’t", "isn’t", "am not"], "correct_index": 1, "explanation": "This bag — единственное число, поэтому isn’t."}
+    ]
+  },
+  {
+    "id": "a1_04_be_questions",
+    "order": 4,
+    "level": "A1",
+    "category": "Verb be",
+    "title_en": "Verb be: questions and short answers",
+    "title_ru": "Вопросы и краткие ответы с be",
+    "rule": "В вопросе форма be ставится перед подлежащим. В кратком ответе повторяется подходящая форма am, is или are. Нельзя отвечать только *Yes, I’m* или *No, he isn’t?* без правильной структуры.",
+    "forms": ["Am I ...?", "Is he/she/it ...?", "Are you/we/they ...?", "Yes, I am. / No, I’m not."],
+    "examples": [
+      {"en": "Are you ready? — Yes, I am.", "ru": "Ты готов? — Да."},
+      {"en": "Is it cold? — No, it isn’t.", "ru": "Холодно? — Нет."},
+      {"en": "Are they here? — Yes, they are.", "ru": "Они здесь? — Да."}
+    ],
+    "common_mistake": {"wrong": "You are tired?", "right": "Are you tired?", "note": "В стандартном вопросе be переносится перед подлежащим."},
+    "quizzes": [
+      {"prompt": "___ she your teacher?", "options": ["Am", "Is", "Are"], "correct_index": 1, "explanation": "С she вопрос начинается с Is."},
+      {"prompt": "Are you busy? — No, ___.", "options": ["I isn't", "I'm not", "I not"], "correct_index": 1, "explanation": "Правильный краткий ответ: No, I’m not."},
+      {"prompt": "___ the shops open?", "options": ["Is", "Are", "Am"], "correct_index": 1, "explanation": "Shops — множественное число, поэтому Are."}
+    ]
+  },
+  {
+    "id": "a1_05_possessive_adjectives",
+    "order": 5,
+    "level": "A1",
+    "category": "Pronouns and possession",
+    "title_en": "Possessive adjectives",
+    "title_ru": "Притяжательные прилагательные",
+    "rule": "Притяжательные прилагательные показывают принадлежность и стоят перед существительным. Они не меняются по числу и не употребляются самостоятельно.",
+    "forms": ["my, your", "his, her, its", "our, their"],
+    "examples": [
+      {"en": "This is my book.", "ru": "Это моя книга."},
+      {"en": "Her name is Emma.", "ru": "Её зовут Эмма."},
+      {"en": "Their house is very old.", "ru": "Их дом очень старый."}
+    ],
+    "common_mistake": {"wrong": "This is mine book.", "right": "This is my book.", "note": "Перед существительным нужна форма my, а mine употребляется без существительного."},
+    "quizzes": [
+      {"prompt": "Ben has a dog. ___ dog is black.", "options": ["His", "Her", "Its"], "correct_index": 0, "explanation": "С владельцем Ben используется his."},
+      {"prompt": "We live here. This is ___ flat.", "options": ["our", "their", "his"], "correct_index": 0, "explanation": "Для we притяжательное прилагательное — our."},
+      {"prompt": "Anna and Mia are sisters. ___ parents are doctors.", "options": ["Her", "Their", "Our"], "correct_index": 1, "explanation": "Anna and Mia = they, поэтому their."}
+    ]
+  },
+  {
+    "id": "a1_06_possessive_s",
+    "order": 6,
+    "level": "A1",
+    "category": "Pronouns and possession",
+    "title_en": "Possessive ’s",
+    "title_ru": "Притяжательная форма с ’s",
+    "rule": "Чтобы показать, кому принадлежит предмет, добавьте ’s к имени или существительному в единственном числе. После обычного множественного числа на -s ставится только апостроф.",
+    "forms": ["Tom’s bike", "the girl’s bag", "my parents’ house"],
+    "examples": [
+      {"en": "This is Maria’s phone.", "ru": "Это телефон Марии."},
+      {"en": "The children’s room is upstairs.", "ru": "Детская комната наверху."},
+      {"en": "My friends’ car is outside.", "ru": "Машина моих друзей на улице."}
+    ],
+    "common_mistake": {"wrong": "The book of Anna is new.", "right": "Anna’s book is new.", "note": "Для людей в повседневной речи обычно естественнее конструкция с ’s."},
+    "quizzes": [
+      {"prompt": "This is ___ coat.", "options": ["John", "Johns", "John’s"], "correct_index": 2, "explanation": "Принадлежность одному человеку выражается John’s."},
+      {"prompt": "The ___ toys are on the floor.", "options": ["children’s", "childrens", "childrens’"], "correct_index": 0, "explanation": "Children — неправильное множественное число, добавляем ’s."},
+      {"prompt": "My ___ room is small.", "options": ["parents", "parents’", "parent’s"], "correct_index": 1, "explanation": "Parents — множественное число на -s, поэтому только апостроф."}
+    ]
+  },
+  {
+    "id": "a1_07_have_got",
+    "order": 7,
+    "level": "A1",
+    "category": "Verb have",
+    "title_en": "Have got / has got",
+    "title_ru": "Конструкция have got / has got",
+    "rule": "Have got и has got употребляются, чтобы говорить о принадлежности, семье, внешности и некоторых состояниях. После he, she, it используется has got; после I, you, we, they — have got.",
+    "forms": ["I/you/we/they have got", "he/she/it has got", "haven’t got / hasn’t got", "Have ... got? / Has ... got?"],
+    "examples": [
+      {"en": "I’ve got a new laptop.", "ru": "У меня новый ноутбук."},
+      {"en": "She hasn’t got any brothers.", "ru": "У неё нет братьев."},
+      {"en": "Have you got a car?", "ru": "У тебя есть машина?"}
+    ],
+    "common_mistake": {"wrong": "He have got blue eyes.", "right": "He has got blue eyes.", "note": "С he, she, it используется has got."},
+    "quizzes": [
+      {"prompt": "My sister ___ a bicycle.", "options": ["have got", "has got", "got has"], "correct_index": 1, "explanation": "My sister = she, поэтому has got."},
+      {"prompt": "___ they got any pets?", "options": ["Have", "Has", "Do"], "correct_index": 0, "explanation": "В вопросе с they используется Have ... got?"},
+      {"prompt": "I ___ any money with me.", "options": ["hasn’t got", "haven’t got", "don’t got"], "correct_index": 1, "explanation": "С I отрицательная форма — haven’t got."}
+    ]
+  },
+  {
+    "id": "a1_08_demonstratives",
+    "order": 8,
+    "level": "A1",
+    "category": "Pronouns and determiners",
+    "title_en": "This, that, these, those",
+    "title_ru": "Указательные слова this, that, these, those",
+    "rule": "This и these указывают на предметы рядом; that и those — на предметы дальше. This/that употребляются с единственным числом, these/those — с множественным.",
+    "forms": ["this book — эта книга", "that car — та машина", "these shoes — эти туфли", "those houses — те дома"],
+    "examples": [
+      {"en": "This apple is sweet.", "ru": "Это яблоко сладкое."},
+      {"en": "Those people are my neighbours.", "ru": "Те люди — мои соседи."},
+      {"en": "Are these keys yours?", "ru": "Эти ключи твои?"}
+    ],
+    "common_mistake": {"wrong": "This shoes are new.", "right": "These shoes are new.", "note": "Shoes — множественное число, поэтому these."},
+    "quizzes": [
+      {"prompt": "___ chair here is broken.", "options": ["This", "These", "Those"], "correct_index": 0, "explanation": "Chair — единственное число и предмет рядом: this."},
+      {"prompt": "Look at ___ stars over there.", "options": ["this", "that", "those"], "correct_index": 2, "explanation": "Stars — множественное число и далеко: those."},
+      {"prompt": "Are ___ your glasses?", "options": ["these", "this", "that"], "correct_index": 0, "explanation": "Glasses — множественное число, поэтому these."}
+    ]
+  },
+  {
+    "id": "a1_09_plural_nouns",
+    "order": 9,
+    "level": "A1",
+    "category": "Nouns and articles",
+    "title_en": "Singular and plural nouns",
+    "title_ru": "Единственное и множественное число существительных",
+    "rule": "Обычно множественное число образуется с -s или -es. После согласной + y буква y меняется на i: city → cities. Некоторые существительные имеют неправильные формы.",
+    "forms": ["book → books", "box → boxes", "city → cities", "child → children; man → men"],
+    "examples": [
+      {"en": "I have two sisters.", "ru": "У меня две сестры."},
+      {"en": "There are three boxes.", "ru": "Там три коробки."},
+      {"en": "The children are outside.", "ru": "Дети на улице."}
+    ],
+    "common_mistake": {"wrong": "Two childs are playing.", "right": "Two children are playing.", "note": "У child неправильная форма множественного числа children."},
+    "quizzes": [
+      {"prompt": "one watch — two ___", "options": ["watchs", "watches", "watchies"], "correct_index": 1, "explanation": "После -ch добавляется -es."},
+      {"prompt": "one baby — three ___", "options": ["babys", "babies", "babyes"], "correct_index": 1, "explanation": "После согласной + y: y меняется на ies."},
+      {"prompt": "one woman — two ___", "options": ["womans", "women", "womens"], "correct_index": 1, "explanation": "Неправильная форма множественного числа woman → women."}
+    ]
+  },
+  {
+    "id": "a1_10_articles_a_an",
+    "order": 10,
+    "level": "A1",
+    "category": "Nouns and articles",
+    "title_en": "Articles a and an",
+    "title_ru": "Артикли a и an",
+    "rule": "A и an употребляются перед исчисляемым существительным в единственном числе, когда предмет упоминается впервые или является одним из многих. Выбор зависит от звука: an перед гласным звуком, a перед согласным.",
+    "forms": ["a book, a university", "an apple, an hour"],
+    "examples": [
+      {"en": "She is a doctor.", "ru": "Она врач."},
+      {"en": "I need an umbrella.", "ru": "Мне нужен зонт."},
+      {"en": "He studies at a university.", "ru": "Он учится в университете."}
+    ],
+    "common_mistake": {"wrong": "an university", "right": "a university", "note": "University начинается со звука /j/, поэтому используется a."},
+    "quizzes": [
+      {"prompt": "It is ___ interesting film.", "options": ["a", "an", "the"], "correct_index": 1, "explanation": "Interesting начинается с гласного звука."},
+      {"prompt": "He is ___ engineer.", "options": ["a", "an", "—"], "correct_index": 1, "explanation": "Перед названием профессии в единственном числе нужен an."},
+      {"prompt": "I waited for ___ hour.", "options": ["a", "an", "the"], "correct_index": 1, "explanation": "В hour буква h не произносится, первый звук гласный."}
+    ]
+  },
+  {
+    "id": "a1_11_article_the_basic",
+    "order": 11,
+    "level": "A1",
+    "category": "Nouns and articles",
+    "title_en": "The: basic use",
+    "title_ru": "Артикль the: базовое употребление",
+    "rule": "The употребляется, когда собеседнику понятно, о каком конкретном человеке или предмете идёт речь: он уже упоминался, единственный в ситуации или уточнён контекстом.",
+    "forms": ["a/an — один из многих, впервые", "the — конкретный, известный"],
+    "examples": [
+      {"en": "I saw a dog. The dog was very friendly.", "ru": "Я увидел собаку. Эта собака была очень дружелюбной."},
+      {"en": "Close the door, please.", "ru": "Закрой дверь, пожалуйста."},
+      {"en": "The sun is shining.", "ru": "Солнце светит."}
+    ],
+    "common_mistake": {"wrong": "I bought a book. A book is interesting.", "right": "I bought a book. The book is interesting.", "note": "При повторном упоминании используется the."},
+    "quizzes": [
+      {"prompt": "Please turn off ___ light in this room.", "options": ["a", "an", "the"], "correct_index": 2, "explanation": "Речь о конкретном свете в комнате."},
+      {"prompt": "I have a cat. ___ cat is white.", "options": ["A", "An", "The"], "correct_index": 2, "explanation": "Кошка уже упомянута, поэтому the."},
+      {"prompt": "___ moon looks beautiful tonight.", "options": ["A", "The", "—"], "correct_index": 1, "explanation": "Луна уникальна в данном контексте, употребляется the."}
+    ]
+  },
+  {
+    "id": "a1_12_object_pronouns",
+    "order": 12,
+    "level": "A1",
+    "category": "Pronouns and possession",
+    "title_en": "Object pronouns",
+    "title_ru": "Объектные местоимения",
+    "rule": "Объектные местоимения употребляются после глагола или предлога, когда человек или предмет является объектом действия. Они отличаются от форм подлежащего.",
+    "forms": ["me, you", "him, her, it", "us, them"],
+    "examples": [
+      {"en": "Can you help me?", "ru": "Ты можешь мне помочь?"},
+      {"en": "I see her every day.", "ru": "Я вижу её каждый день."},
+      {"en": "This present is for them.", "ru": "Этот подарок для них."}
+    ],
+    "common_mistake": {"wrong": "Please call I.", "right": "Please call me.", "note": "После глагола call нужна объектная форма me."},
+    "quizzes": [
+      {"prompt": "I know Tom. I work with ___.", "options": ["he", "him", "his"], "correct_index": 1, "explanation": "После предлога with используется him."},
+      {"prompt": "These flowers are for ___.", "options": ["we", "us", "our"], "correct_index": 1, "explanation": "После for нужна объектная форма us."},
+      {"prompt": "Anna likes this song. She listens to ___ every day.", "options": ["it", "its", "it’s"], "correct_index": 0, "explanation": "Song заменяется объектным местоимением it."}
+    ]
+  },
+  {
+    "id": "a1_13_possessive_pronouns",
+    "order": 13,
+    "level": "A1",
+    "category": "Pronouns and possession",
+    "title_en": "Possessive pronouns",
+    "title_ru": "Притяжательные местоимения",
+    "rule": "Притяжательные местоимения заменяют сочетание «притяжательное прилагательное + существительное». После них существительное не ставится.",
+    "forms": ["mine, yours", "his, hers", "ours, theirs"],
+    "examples": [
+      {"en": "This book is mine.", "ru": "Эта книга моя."},
+      {"en": "Is this seat yours?", "ru": "Это место твоё?"},
+      {"en": "Their flat is bigger than ours.", "ru": "Их квартира больше нашей."}
+    ],
+    "common_mistake": {"wrong": "This pen is my.", "right": "This pen is mine.", "note": "Без существительного используется mine, а не my."},
+    "quizzes": [
+      {"prompt": "That bag belongs to Sara. It is ___.", "options": ["her", "hers", "she"], "correct_index": 1, "explanation": "Hers употребляется самостоятельно."},
+      {"prompt": "Our car is old, but ___ is new.", "options": ["their", "theirs", "them"], "correct_index": 1, "explanation": "Вместо their car используется theirs."},
+      {"prompt": "Is this phone ___?", "options": ["your", "yours", "you"], "correct_index": 1, "explanation": "После phone существительное больше не требуется, поэтому yours."}
+    ]
+  },
+  {
+    "id": "a1_14_there_is_are",
+    "order": 14,
+    "level": "A1",
+    "category": "Nouns and articles",
+    "title_en": "There is / there are",
+    "title_ru": "Конструкция there is / there are",
+    "rule": "There is и there are сообщают о наличии человека или предмета в каком-либо месте. There is используется с единственным числом и неисчисляемыми существительными, there are — с множественным.",
+    "forms": ["There is ... / There isn’t ...", "There are ... / There aren’t ...", "Is there ...? / Are there ...?"],
+    "examples": [
+      {"en": "There is a café near my house.", "ru": "Рядом с моим домом есть кафе."},
+      {"en": "There are two windows in the room.", "ru": "В комнате два окна."},
+      {"en": "Is there any milk?", "ru": "Есть молоко?"}
+    ],
+    "common_mistake": {"wrong": "There have a park here.", "right": "There is a park here.", "note": "Для сообщения о наличии используется there is/are, а не have."},
+    "quizzes": [
+      {"prompt": "___ a bus stop near here.", "options": ["There is", "There are", "It is"], "correct_index": 0, "explanation": "Bus stop — единственное число."},
+      {"prompt": "___ any chairs in the kitchen?", "options": ["Is there", "Are there", "There are"], "correct_index": 1, "explanation": "Chairs — множественное число, вопрос начинается Are there."},
+      {"prompt": "There ___ some water in the bottle.", "options": ["is", "are", "be"], "correct_index": 0, "explanation": "Water — неисчисляемое существительное, поэтому is."}
+    ]
+  },
+  {
+    "id": "a1_15_some_any",
+    "order": 15,
+    "level": "A1",
+    "category": "Quantifiers",
+    "title_en": "Some and any",
+    "title_ru": "Some и any",
+    "rule": "Some обычно употребляется в утвердительных предложениях, any — в вопросах и отрицаниях. В предложениях-просьбах и предложениях помощи some возможно, если ожидается положительный ответ.",
+    "forms": ["some bread", "any questions?", "not any money", "Would you like some tea?"],
+    "examples": [
+      {"en": "I bought some apples.", "ru": "Я купил несколько яблок."},
+      {"en": "We don’t have any cheese.", "ru": "У нас нет сыра."},
+      {"en": "Would you like some coffee?", "ru": "Хотите кофе?"}
+    ],
+    "common_mistake": {"wrong": "I don’t have some time.", "right": "I don’t have any time.", "note": "В обычном отрицании употребляется any."},
+    "quizzes": [
+      {"prompt": "There are ___ biscuits on the plate.", "options": ["some", "any", "much"], "correct_index": 0, "explanation": "Утвердительное предложение: some."},
+      {"prompt": "Do you have ___ brothers?", "options": ["some", "any", "a"], "correct_index": 1, "explanation": "В обычном вопросе используется any."},
+      {"prompt": "Can I have ___ water, please?", "options": ["some", "any", "many"], "correct_index": 0, "explanation": "В просьбе естественно употребляется some."}
+    ]
+  },
+  {
+    "id": "a1_16_countable_uncountable",
+    "order": 16,
+    "level": "A1",
+    "category": "Nouns and articles",
+    "title_en": "Countable and uncountable nouns",
+    "title_ru": "Исчисляемые и неисчисляемые существительные",
+    "rule": "Исчисляемые существительные можно посчитать: one apple, two apples. Неисчисляемые обычно не имеют формы множественного числа и не употребляются с a/an: water, information, advice.",
+    "forms": ["a chair / chairs", "some rice", "a piece of advice", "a bottle of water"],
+    "examples": [
+      {"en": "I need some information.", "ru": "Мне нужна информация."},
+      {"en": "She bought three apples.", "ru": "Она купила три яблока."},
+      {"en": "Can I have a cup of tea?", "ru": "Можно мне чашку чая?"}
+    ],
+    "common_mistake": {"wrong": "an advice", "right": "a piece of advice", "note": "Advice — неисчисляемое; для одной единицы используется a piece of."},
+    "quizzes": [
+      {"prompt": "Which noun is uncountable?", "options": ["chair", "money", "ticket"], "correct_index": 1, "explanation": "Money обычно неисчисляемое существительное."},
+      {"prompt": "Choose the correct phrase.", "options": ["an information", "some information", "two informations"], "correct_index": 1, "explanation": "Information неисчисляемое и употребляется с some."},
+      {"prompt": "We need three ___ of bread.", "options": ["breads", "loaves", "bread"], "correct_index": 1, "explanation": "Отдельные буханки считаются словом loaves."}
+    ]
+  },
+  {
+    "id": "a1_17_much_many_a_lot",
+    "order": 17,
+    "level": "A1",
+    "category": "Quantifiers",
+    "title_en": "Much, many, a lot of",
+    "title_ru": "Much, many и a lot of",
+    "rule": "Many употребляется с исчисляемыми существительными во множественном числе, much — с неисчисляемыми. A lot of подходит к обоим типам и особенно часто встречается в утвердительных предложениях.",
+    "forms": ["many books", "much time", "a lot of friends", "a lot of work"],
+    "examples": [
+      {"en": "How many people are there?", "ru": "Сколько там людей?"},
+      {"en": "We don’t have much time.", "ru": "У нас мало времени."},
+      {"en": "She has a lot of homework.", "ru": "У неё много домашней работы."}
+    ],
+    "common_mistake": {"wrong": "much cars", "right": "many cars", "note": "Cars — исчисляемое существительное во множественном числе."},
+    "quizzes": [
+      {"prompt": "How ___ milk do you drink?", "options": ["many", "much", "a few"], "correct_index": 1, "explanation": "Milk неисчисляемое, поэтому much."},
+      {"prompt": "There are ___ shops in this street.", "options": ["much", "many", "little"], "correct_index": 1, "explanation": "Shops исчисляемое во множественном числе."},
+      {"prompt": "He has ___ free time at weekends.", "options": ["a lot of", "many", "a few"], "correct_index": 0, "explanation": "A lot of подходит к неисчисляемому time."}
+    ]
+  },
+  {
+    "id": "a1_18_present_simple_affirmative",
+    "order": 18,
+    "level": "A1",
+    "category": "Present simple",
+    "title_en": "Present simple: affirmative",
+    "title_ru": "Present Simple: утверждение",
+    "rule": "Present Simple описывает регулярные действия, факты и постоянные ситуации. После he, she, it к глаголу обычно добавляется -s или -es.",
+    "forms": ["I/you/we/they work", "he/she/it works", "go → goes; study → studies"],
+    "examples": [
+      {"en": "I get up at seven.", "ru": "Я встаю в семь."},
+      {"en": "She works in a bank.", "ru": "Она работает в банке."},
+      {"en": "Water boils at 100°C.", "ru": "Вода кипит при 100°C."}
+    ],
+    "common_mistake": {"wrong": "He work every day.", "right": "He works every day.", "note": "В утвердительном Present Simple после he/she/it добавляется -s."},
+    "quizzes": [
+      {"prompt": "My parents ___ in London.", "options": ["lives", "live", "living"], "correct_index": 1, "explanation": "С my parents = they используется базовая форма live."},
+      {"prompt": "Emma ___ English at school.", "options": ["study", "studies", "studys"], "correct_index": 1, "explanation": "После she: study → studies."},
+      {"prompt": "The shop ___ at nine.", "options": ["open", "opens", "opening"], "correct_index": 1, "explanation": "The shop = it, поэтому opens."}
+    ]
+  },
+  {
+    "id": "a1_19_present_simple_negative",
+    "order": 19,
+    "level": "A1",
+    "category": "Present simple",
+    "title_en": "Present simple: negative",
+    "title_ru": "Present Simple: отрицание",
+    "rule": "Отрицание образуется с do not (don’t) или does not (doesn’t) и базовой формой глагола. После doesn’t окончание -s у смыслового глагола исчезает.",
+    "forms": ["I/you/we/they don’t work", "he/she/it doesn’t work"],
+    "examples": [
+      {"en": "I don’t drink coffee.", "ru": "Я не пью кофе."},
+      {"en": "He doesn’t drive.", "ru": "Он не водит машину."},
+      {"en": "The bus doesn’t stop here.", "ru": "Автобус здесь не останавливается."}
+    ],
+    "common_mistake": {"wrong": "She doesn’t likes tea.", "right": "She doesn’t like tea.", "note": "После doesn’t используется базовая форма без -s."},
+    "quizzes": [
+      {"prompt": "We ___ TV in the morning.", "options": ["doesn’t watch", "don’t watch", "not watch"], "correct_index": 1, "explanation": "С we используется don’t + базовая форма."},
+      {"prompt": "Tom ___ meat.", "options": ["don’t eat", "doesn’t eats", "doesn’t eat"], "correct_index": 2, "explanation": "С Tom = he: doesn’t eat."},
+      {"prompt": "This machine ___ well.", "options": ["doesn’t work", "don’t work", "doesn’t works"], "correct_index": 0, "explanation": "После doesn’t глагол остаётся в базовой форме."}
+    ]
+  },
+  {
+    "id": "a1_20_present_simple_questions",
+    "order": 20,
+    "level": "A1",
+    "category": "Present simple",
+    "title_en": "Present simple: questions",
+    "title_ru": "Present Simple: вопросы",
+    "rule": "Общие вопросы образуются с do или does перед подлежащим. После do/does используется базовая форма глагола. В специальных вопросах вопросительное слово ставится перед do/does.",
+    "forms": ["Do I/you/we/they work?", "Does he/she/it work?", "Where do you live?"],
+    "examples": [
+      {"en": "Do you speak English?", "ru": "Ты говоришь по-английски?"},
+      {"en": "Does she work here?", "ru": "Она здесь работает?"},
+      {"en": "What time does the film start?", "ru": "Во сколько начинается фильм?"}
+    ],
+    "common_mistake": {"wrong": "Does he lives here?", "right": "Does he live here?", "note": "После does глагол употребляется без -s."},
+    "quizzes": [
+      {"prompt": "___ your friends play football?", "options": ["Do", "Does", "Are"], "correct_index": 0, "explanation": "Friends = they, поэтому Do."},
+      {"prompt": "Where ___ Anna live?", "options": ["do", "does", "is"], "correct_index": 1, "explanation": "Anna = she, вопрос с does."},
+      {"prompt": "Does this train ___ at Oxford?", "options": ["stops", "stop", "stopping"], "correct_index": 1, "explanation": "После does нужна базовая форма stop."}
+    ]
+  },
+  {
+    "id": "a1_21_frequency_adverbs",
+    "order": 21,
+    "level": "A1",
+    "category": "Present simple",
+    "title_en": "Adverbs of frequency",
+    "title_ru": "Наречия частотности",
+    "rule": "Always, usually, often, sometimes, rarely и never показывают, как часто происходит действие. Обычно они стоят перед смысловым глаголом, но после глагола be.",
+    "forms": ["I usually walk to work.", "She is always friendly.", "They never eat meat."],
+    "examples": [
+      {"en": "We often go to the cinema.", "ru": "Мы часто ходим в кино."},
+      {"en": "He is sometimes late.", "ru": "Он иногда опаздывает."},
+      {"en": "I never smoke.", "ru": "Я никогда не курю."}
+    ],
+    "common_mistake": {"wrong": "She goes always by bus.", "right": "She always goes by bus.", "note": "Наречие частотности ставится перед смысловым глаголом."},
+    "quizzes": [
+      {"prompt": "I ___ have breakfast before work.", "options": ["usually", "am usually", "have usually"], "correct_index": 0, "explanation": "Перед смысловым глаголом have ставится usually."},
+      {"prompt": "They are ___ tired after training.", "options": ["often", "often are", "are often"], "correct_index": 0, "explanation": "После уже стоящего are ставим often."},
+      {"prompt": "Which word means “никогда”?", "options": ["sometimes", "never", "usually"], "correct_index": 1, "explanation": "Never означает «никогда»."}
+    ]
+  },
+  {
+    "id": "a1_22_can_ability",
+    "order": 22,
+    "level": "A1",
+    "category": "Modal verbs",
+    "title_en": "Can and can’t: ability",
+    "title_ru": "Can и can’t: умение и возможность",
+    "rule": "Can выражает умение или возможность, can’t — отсутствие умения или невозможность. После can/can’t всегда используется базовая форма глагола без to и без -s.",
+    "forms": ["I can swim.", "She can’t drive.", "Can you help?"],
+    "examples": [
+      {"en": "He can speak Spanish.", "ru": "Он умеет говорить по-испански."},
+      {"en": "I can’t come today.", "ru": "Я не могу прийти сегодня."},
+      {"en": "Can birds fly?", "ru": "Птицы умеют летать?"}
+    ],
+    "common_mistake": {"wrong": "She can to dance.", "right": "She can dance.", "note": "После can частица to не употребляется."},
+    "quizzes": [
+      {"prompt": "My baby brother ___ walk yet.", "options": ["can’t", "doesn’t can", "can’t to"], "correct_index": 0, "explanation": "Правильная отрицательная форма — can’t + глагол."},
+      {"prompt": "___ you play the piano?", "options": ["Do can", "Can", "Are"], "correct_index": 1, "explanation": "Вопрос начинается с Can."},
+      {"prompt": "He can ___ very fast.", "options": ["runs", "to run", "run"], "correct_index": 2, "explanation": "После can используется базовая форма run."}
+    ]
+  },
+  {
+    "id": "a1_23_imperatives_lets",
+    "order": 23,
+    "level": "A1",
+    "category": "Commands and requests",
+    "title_en": "Imperatives and let’s",
+    "title_ru": "Повелительное наклонение и let’s",
+    "rule": "Повелительная форма совпадает с базовой формой глагола и используется для инструкций, просьб и команд. Отрицание: don’t + глагол. Let’s предлагает совместное действие.",
+    "forms": ["Open the window.", "Don’t touch it.", "Let’s go home."],
+    "examples": [
+      {"en": "Please sit down.", "ru": "Пожалуйста, садитесь."},
+      {"en": "Don’t be late.", "ru": "Не опаздывай."},
+      {"en": "Let’s have lunch.", "ru": "Давайте пообедаем."}
+    ],
+    "common_mistake": {"wrong": "To open the book.", "right": "Open the book.", "note": "В повелительном предложении используется базовая форма без to."},
+    "quizzes": [
+      {"prompt": "___ your name here, please.", "options": ["Write", "Writing", "To write"], "correct_index": 0, "explanation": "Инструкция начинается с базовой формы Write."},
+      {"prompt": "___ run in the corridor.", "options": ["Not", "Don’t", "Doesn’t"], "correct_index": 1, "explanation": "Отрицательная команда: Don’t + глагол."},
+      {"prompt": "___ watch a film tonight.", "options": ["Let’s", "Let", "We can to"], "correct_index": 0, "explanation": "Let’s используется для совместного предложения."}
+    ]
+  },
+  {
+    "id": "a1_24_question_words",
+    "order": 24,
+    "level": "A1",
+    "category": "Questions",
+    "title_en": "Question words",
+    "title_ru": "Вопросительные слова",
+    "rule": "Вопросительные слова уточняют нужную информацию. После них сохраняется обычный порядок вопроса: вопросительное слово + вспомогательный глагол + подлежащее.",
+    "forms": ["who — кто", "what — что/какой", "where — где", "when — когда", "why — почему", "how — как"],
+    "examples": [
+      {"en": "Where do you live?", "ru": "Где ты живёшь?"},
+      {"en": "Why is she upset?", "ru": "Почему она расстроена?"},
+      {"en": "How old are you?", "ru": "Сколько тебе лет?"}
+    ],
+    "common_mistake": {"wrong": "Where you live?", "right": "Where do you live?", "note": "В Present Simple после вопросительного слова нужен do/does."},
+    "quizzes": [
+      {"prompt": "___ is your birthday? — In May.", "options": ["Where", "When", "Why"], "correct_index": 1, "explanation": "Для времени используется When."},
+      {"prompt": "___ do you go to work? — By bus.", "options": ["How", "Who", "What"], "correct_index": 0, "explanation": "Для способа действия используется How."},
+      {"prompt": "___ is that woman? — My aunt.", "options": ["Who", "Where", "When"], "correct_index": 0, "explanation": "О человеке спрашиваем Who."}
+    ]
+  },
+  {
+    "id": "a1_25_prepositions_place",
+    "order": 25,
+    "level": "A1",
+    "category": "Prepositions",
+    "title_en": "Prepositions of place",
+    "title_ru": "Предлоги места",
+    "rule": "Предлоги места показывают положение предмета. In — внутри, on — на поверхности, at — в точке/месте, under — под, next to — рядом, between — между двумя объектами, behind — позади, in front of — перед.",
+    "forms": ["in the box", "on the table", "at the station", "between the chairs"],
+    "examples": [
+      {"en": "The keys are on the shelf.", "ru": "Ключи на полке."},
+      {"en": "She is waiting at the bus stop.", "ru": "Она ждёт на автобусной остановке."},
+      {"en": "The bank is next to the pharmacy.", "ru": "Банк рядом с аптекой."}
+    ],
+    "common_mistake": {"wrong": "The picture is in the wall.", "right": "The picture is on the wall.", "note": "Для предмета на поверхности стены используется on."},
+    "quizzes": [
+      {"prompt": "The cat is ___ the table.", "options": ["under", "between", "at"], "correct_index": 0, "explanation": "Если кот находится под столом, используется under."},
+      {"prompt": "There is a garden ___ the house.", "options": ["in front of", "on", "at"], "correct_index": 0, "explanation": "Перед домом — in front of the house."},
+      {"prompt": "Meet me ___ the entrance.", "options": ["in", "at", "on"], "correct_index": 1, "explanation": "Точка встречи обозначается at."}
+    ]
+  },
+  {
+    "id": "a1_26_prepositions_time",
+    "order": 26,
+    "level": "A1",
+    "category": "Prepositions",
+    "title_en": "Prepositions of time: at, on, in",
+    "title_ru": "Предлоги времени at, on, in",
+    "rule": "At употребляется с точным временем и некоторыми устойчивыми выражениями; on — с днями и датами; in — с месяцами, годами, сезонами и частями дня.",
+    "forms": ["at 7 o’clock, at night", "on Monday, on 5 May", "in July, in 2026, in the morning"],
+    "examples": [
+      {"en": "The lesson starts at nine.", "ru": "Урок начинается в девять."},
+      {"en": "We meet on Friday.", "ru": "Мы встречаемся в пятницу."},
+      {"en": "She was born in 2001.", "ru": "Она родилась в 2001 году."}
+    ],
+    "common_mistake": {"wrong": "in Monday", "right": "on Monday", "note": "С днями недели используется on."},
+    "quizzes": [
+      {"prompt": "My birthday is ___ November.", "options": ["at", "on", "in"], "correct_index": 2, "explanation": "С месяцами используется in."},
+      {"prompt": "The train leaves ___ 6:30.", "options": ["at", "on", "in"], "correct_index": 0, "explanation": "С точным временем используется at."},
+      {"prompt": "We have English ___ Tuesdays.", "options": ["at", "on", "in"], "correct_index": 1, "explanation": "С днями недели используется on."}
+    ]
+  },
+  {
+    "id": "a1_27_adjective_position",
+    "order": 27,
+    "level": "A1",
+    "category": "Adjectives",
+    "title_en": "Adjectives: position and form",
+    "title_ru": "Прилагательные: место и форма",
+    "rule": "Прилагательное обычно стоит перед существительным или после глагола be. Английские прилагательные не получают окончания множественного числа и не меняются по роду.",
+    "forms": ["a small house", "The house is small.", "two small houses"],
+    "examples": [
+      {"en": "She has long hair.", "ru": "У неё длинные волосы."},
+      {"en": "The film is interesting.", "ru": "Фильм интересный."},
+      {"en": "They are friendly people.", "ru": "Они дружелюбные люди."}
+    ],
+    "common_mistake": {"wrong": "two reds cars", "right": "two red cars", "note": "Прилагательное не получает окончание -s."},
+    "quizzes": [
+      {"prompt": "Choose the correct phrase.", "options": ["a car new", "a new car", "a newly car"], "correct_index": 1, "explanation": "Прилагательное обычно стоит перед существительным."},
+      {"prompt": "These shoes are ___.", "options": ["comfortables", "comfortable", "comfortably"], "correct_index": 1, "explanation": "После are нужно прилагательное comfortable."},
+      {"prompt": "We live in a ___ flat.", "options": ["small", "smallly", "smalls"], "correct_index": 0, "explanation": "Перед существительным используется неизменяемое прилагательное."}
+    ]
+  },
+  {
+    "id": "a1_28_present_continuous_affirmative",
+    "order": 28,
+    "level": "A1",
+    "category": "Present continuous",
+    "title_en": "Present continuous: affirmative",
+    "title_ru": "Present Continuous: утверждение",
+    "rule": "Present Continuous описывает действие, происходящее сейчас или вокруг настоящего момента. Он образуется с am/is/are + глагол-ing.",
+    "forms": ["I am working", "he/she/it is working", "you/we/they are working"],
+    "examples": [
+      {"en": "I am reading now.", "ru": "Я сейчас читаю."},
+      {"en": "She is talking on the phone.", "ru": "Она разговаривает по телефону."},
+      {"en": "They are staying with friends this week.", "ru": "На этой неделе они живут у друзей."}
+    ],
+    "common_mistake": {"wrong": "He is play football.", "right": "He is playing football.", "note": "После am/is/are нужна форма с -ing."},
+    "quizzes": [
+      {"prompt": "Look! It ___.", "options": ["rains", "is raining", "rain"], "correct_index": 1, "explanation": "Действие происходит сейчас: is raining."},
+      {"prompt": "We ___ dinner at the moment.", "options": ["are cooking", "cook", "is cooking"], "correct_index": 0, "explanation": "С we используется are + cooking."},
+      {"prompt": "Anna ___ a blue dress today.", "options": ["wears", "is wearing", "wearing"], "correct_index": 1, "explanation": "Временная ситуация сегодня: is wearing."}
+    ]
+  },
+  {
+    "id": "a1_29_present_continuous_negative_questions",
+    "order": 29,
+    "level": "A1",
+    "category": "Present continuous",
+    "title_en": "Present continuous: negative and questions",
+    "title_ru": "Present Continuous: отрицание и вопросы",
+    "rule": "В отрицании not ставится после am/is/are. В вопросе am/is/are переносится перед подлежащим. Смысловой глагол остаётся в форме -ing.",
+    "forms": ["I’m not working", "He isn’t sleeping", "Are they waiting?", "What are you doing?"],
+    "examples": [
+      {"en": "She isn’t listening.", "ru": "Она не слушает."},
+      {"en": "Are you using this chair?", "ru": "Ты пользуешься этим стулом?"},
+      {"en": "Why is he laughing?", "ru": "Почему он смеётся?"}
+    ],
+    "common_mistake": {"wrong": "Do you working now?", "right": "Are you working now?", "note": "Вопрос Present Continuous строится с be, а не do."},
+    "quizzes": [
+      {"prompt": "___ Tom sleeping?", "options": ["Does", "Is", "Are"], "correct_index": 1, "explanation": "С Tom = he используется Is."},
+      {"prompt": "They ___ watching TV.", "options": ["aren’t", "don’t", "isn’t"], "correct_index": 0, "explanation": "С they отрицание — aren’t."},
+      {"prompt": "What ___ you doing?", "options": ["do", "are", "is"], "correct_index": 1, "explanation": "Вопрос: What are you doing?"}
+    ]
+  },
+  {
+    "id": "a1_30_present_simple_vs_continuous",
+    "order": 30,
+    "level": "A1",
+    "category": "Present tenses",
+    "title_en": "Present simple or present continuous",
+    "title_ru": "Present Simple и Present Continuous",
+    "rule": "Present Simple описывает привычки, факты и регулярность. Present Continuous показывает действие сейчас или временную ситуацию. Слова usually/every day часто указывают на Simple, now/at the moment — на Continuous.",
+    "forms": ["I work every day.", "I am working now."],
+    "examples": [
+      {"en": "She usually walks, but today she is taking a bus.", "ru": "Обычно она ходит пешком, но сегодня едет на автобусе."},
+      {"en": "The shop closes at six.", "ru": "Магазин закрывается в шесть."},
+      {"en": "Please be quiet. The baby is sleeping.", "ru": "Пожалуйста, тихо. Ребёнок спит."}
+    ],
+    "common_mistake": {"wrong": "I am going to work every day.", "right": "I go to work every day.", "note": "Регулярное действие выражается Present Simple."},
+    "quizzes": [
+      {"prompt": "He usually ___ coffee in the morning.", "options": ["drinks", "is drinking", "drink"], "correct_index": 0, "explanation": "Usually указывает на привычку."},
+      {"prompt": "Be quiet! I ___ to the news.", "options": ["listen", "am listening", "listens"], "correct_index": 1, "explanation": "Действие происходит сейчас."},
+      {"prompt": "This week we ___ at a hotel.", "options": ["stay", "are staying", "stays"], "correct_index": 1, "explanation": "Временная ситуация this week — Present Continuous."}
+    ]
+  },
+  {
+    "id": "a1_31_was_were",
+    "order": 31,
+    "level": "A1",
+    "category": "Past forms",
+    "title_en": "Was and were",
+    "title_ru": "Was и were",
+    "rule": "Was и were — формы глагола be в прошедшем времени. Was употребляется с I/he/she/it, were — с you/we/they. Отрицания: wasn’t, weren’t.",
+    "forms": ["I/he/she/it was", "you/we/they were", "Was ...? / Were ...?"],
+    "examples": [
+      {"en": "I was tired yesterday.", "ru": "Вчера я устал."},
+      {"en": "They were at home.", "ru": "Они были дома."},
+      {"en": "Were you busy?", "ru": "Ты был занят?"}
+    ],
+    "common_mistake": {"wrong": "We was late.", "right": "We were late.", "note": "С we используется were."},
+    "quizzes": [
+      {"prompt": "She ___ at school yesterday.", "options": ["was", "were", "is"], "correct_index": 0, "explanation": "С she в прошлом используется was."},
+      {"prompt": "___ they happy with the result?", "options": ["Was", "Were", "Did"], "correct_index": 1, "explanation": "С they вопрос начинается с Were."},
+      {"prompt": "I ___ at work last Monday.", "options": ["wasn’t", "weren’t", "didn’t be"], "correct_index": 0, "explanation": "С I отрицательная форма — wasn’t."}
+    ]
+  },
+  {
+    "id": "a1_32_past_simple_regular",
+    "order": 32,
+    "level": "A1",
+    "category": "Past simple",
+    "title_en": "Past simple: regular verbs",
+    "title_ru": "Past Simple: правильные глаголы",
+    "rule": "Past Simple описывает завершённые действия в прошлом. У правильных глаголов добавляется -ed. После согласной + y: y → ied; иногда конечная согласная удваивается.",
+    "forms": ["work → worked", "live → lived", "study → studied", "stop → stopped"],
+    "examples": [
+      {"en": "We watched a film yesterday.", "ru": "Вчера мы посмотрели фильм."},
+      {"en": "She studied French at school.", "ru": "Она изучала французский в школе."},
+      {"en": "The bus stopped near the station.", "ru": "Автобус остановился у станции."}
+    ],
+    "common_mistake": {"wrong": "He studyed last night.", "right": "He studied last night.", "note": "После согласной + y пишется -ied."},
+    "quizzes": [
+      {"prompt": "play → ___", "options": ["played", "playd", "plaied"], "correct_index": 0, "explanation": "К play просто добавляется -ed."},
+      {"prompt": "carry → ___", "options": ["carryed", "carried", "carryd"], "correct_index": 1, "explanation": "После согласной + y: carried."},
+      {"prompt": "We ___ home at six.", "options": ["arrived", "arriveed", "arriven"], "correct_index": 0, "explanation": "Правильная форма arrive → arrived."}
+    ]
+  },
+  {
+    "id": "a1_33_past_simple_irregular",
+    "order": 33,
+    "level": "A1",
+    "category": "Past simple",
+    "title_en": "Past simple: irregular verbs",
+    "title_ru": "Past Simple: неправильные глаголы",
+    "rule": "Неправильные глаголы не образуют прошедшее время по общему правилу -ed. Их формы нужно запоминать. В утвердительном предложении используется вторая форма глагола.",
+    "forms": ["go → went", "see → saw", "have → had", "buy → bought", "take → took"],
+    "examples": [
+      {"en": "I went to Rome last year.", "ru": "В прошлом году я ездил в Рим."},
+      {"en": "She bought a new coat.", "ru": "Она купила новое пальто."},
+      {"en": "We saw him yesterday.", "ru": "Мы видели его вчера."}
+    ],
+    "common_mistake": {"wrong": "I goed home.", "right": "I went home.", "note": "У go неправильная форма прошедшего времени went."},
+    "quizzes": [
+      {"prompt": "Yesterday I ___ a great book.", "options": ["readed", "read", "reads"], "correct_index": 1, "explanation": "Past Simple от read пишется read, произносится /red/."},
+      {"prompt": "They ___ dinner at eight.", "options": ["haved", "had", "have"], "correct_index": 1, "explanation": "Неправильная форма have → had."},
+      {"prompt": "Tom ___ the train to London.", "options": ["took", "taked", "taken"], "correct_index": 0, "explanation": "В Past Simple используется took."}
+    ]
+  },
+  {
+    "id": "a1_34_past_simple_negative_questions",
+    "order": 34,
+    "level": "A1",
+    "category": "Past simple",
+    "title_en": "Past simple: negative and questions",
+    "title_ru": "Past Simple: отрицание и вопросы",
+    "rule": "Отрицания и вопросы в Past Simple образуются с did. После did/didn’t смысловой глагол возвращается в базовую форму, даже если он неправильный.",
+    "forms": ["I didn’t work.", "Did you work?", "Where did she go?"],
+    "examples": [
+      {"en": "We didn’t see the message.", "ru": "Мы не увидели сообщение."},
+      {"en": "Did he call you?", "ru": "Он тебе звонил?"},
+      {"en": "What time did they leave?", "ru": "Во сколько они ушли?"}
+    ],
+    "common_mistake": {"wrong": "Did you went there?", "right": "Did you go there?", "note": "После did используется базовая форма go."},
+    "quizzes": [
+      {"prompt": "She ___ come to the party.", "options": ["didn’t", "doesn’t", "wasn’t"], "correct_index": 0, "explanation": "Для отрицания в Past Simple используется didn’t."},
+      {"prompt": "___ you enjoy the film?", "options": ["Were", "Did", "Do"], "correct_index": 1, "explanation": "Вопрос о завершённом прошлом начинается с Did."},
+      {"prompt": "Where did he ___ the keys?", "options": ["found", "find", "finds"], "correct_index": 1, "explanation": "После did нужна базовая форма find."}
+    ]
+  },
+  {
+    "id": "a1_35_basic_comparison",
+    "order": 35,
+    "level": "A1",
+    "category": "Adjectives",
+    "title_en": "Basic comparison: -er and -est",
+    "title_ru": "Базовое сравнение: -er и -est",
+    "rule": "Короткие прилагательные образуют сравнительную степень с -er и превосходную с -est. Перед превосходной степенью обычно ставится the. После сравнительной степени часто используется than.",
+    "forms": ["small → smaller → the smallest", "big → bigger → the biggest", "happy → happier → the happiest"],
+    "examples": [
+      {"en": "My room is smaller than yours.", "ru": "Моя комната меньше твоей."},
+      {"en": "This is the cheapest café here.", "ru": "Это самое дешёвое кафе здесь."},
+      {"en": "Today is hotter than yesterday.", "ru": "Сегодня жарче, чем вчера."}
+    ],
+    "common_mistake": {"wrong": "more small", "right": "smaller", "note": "Короткое прилагательное small обычно получает -er."},
+    "quizzes": [
+      {"prompt": "A train is ___ than a bicycle.", "options": ["fast", "faster", "the fastest"], "correct_index": 1, "explanation": "Сравнение двух объектов: faster than."},
+      {"prompt": "This is ___ building in the town.", "options": ["taller", "the tallest", "the taller"], "correct_index": 1, "explanation": "Превосходная степень требует the tallest."},
+      {"prompt": "easy → ___", "options": ["easyer", "easier", "more easy"], "correct_index": 1, "explanation": "После согласной + y: y меняется на i, затем -er."}
+    ]
+  }
+]

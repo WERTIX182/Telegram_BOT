@@ -1,0 +1,18 @@
+{
+  "course_id": "collocations_intermediate_v1",
+  "course_version": "2026-07-v1",
+  "level": "Intermediate",
+  "categories": {
+    "WORK": 6,
+    "EDUCATION": 6,
+    "TRAVEL": 6,
+    "COMMUNICATION": 6,
+    "EMOTIONS": 6,
+    "RELATIONSHIPS": 6,
+    "HEALTH": 6,
+    "TECHNOLOGY": 6,
+    "EVERYDAY": 6
+  },
+  "total_cards": 54,
+  "quizzes_per_card": 1
+}

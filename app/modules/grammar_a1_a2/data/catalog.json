@@ -1,0 +1,15 @@
+{
+  "course_id": "grammar_a1_a2_v1",
+  "title": "Грамматика A1–A2",
+  "version": "2026-07-v1",
+  "topic_count": 70,
+  "quiz_count": 210,
+  "levels": {
+    "A1": 35,
+    "A2": 35
+  },
+  "files": [
+    "grammar_a1.json",
+    "grammar_a2.json"
+  ]
+}

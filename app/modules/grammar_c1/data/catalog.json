@@ -1,0 +1,492 @@
+[
+  {
+    "order": 1,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "Advanced present simple and continuous",
+    "title_ru": "Продвинутое употребление Present Simple и Continuous"
+  },
+  {
+    "order": 2,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "The historic present",
+    "title_ru": "Историческое настоящее"
+  },
+  {
+    "order": 3,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "Present perfect simple and continuous: advanced contrasts",
+    "title_ru": "Present Perfect Simple и Continuous: сложные различия"
+  },
+  {
+    "order": 4,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "Narrative foreground and background",
+    "title_ru": "Передний и фоновый план в повествовании"
+  },
+  {
+    "order": 5,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "Past perfect simple and continuous",
+    "title_ru": "Past Perfect Simple и Continuous"
+  },
+  {
+    "order": 6,
+    "level": "C1",
+    "category": "Tense and aspect",
+    "title_en": "Past habits: used to, would and simple past",
+    "title_ru": "Прошлые привычки: used to, would и Past Simple"
+  },
+  {
+    "order": 7,
+    "level": "C1",
+    "category": "Future forms",
+    "title_en": "Future in the past",
+    "title_ru": "Будущее с точки зрения прошлого"
+  },
+  {
+    "order": 8,
+    "level": "C1",
+    "category": "Future forms",
+    "title_en": "Future continuous for tact and prediction",
+    "title_ru": "Future Continuous для тактичности и прогноза"
+  },
+  {
+    "order": 9,
+    "level": "C1",
+    "category": "Future forms",
+    "title_en": "Future perfect simple and continuous",
+    "title_ru": "Future Perfect Simple и Continuous"
+  },
+  {
+    "order": 10,
+    "level": "C1",
+    "category": "Future forms",
+    "title_en": "Be due to, be to, be about to and be on the point of",
+    "title_ru": "Be due to, be to, be about to и be on the point of"
+  },
+  {
+    "order": 11,
+    "level": "C1",
+    "category": "Modal verbs",
+    "title_en": "Present deduction with modal verbs",
+    "title_ru": "Модальные выводы о настоящем"
+  },
+  {
+    "order": 12,
+    "level": "C1",
+    "category": "Modal verbs",
+    "title_en": "Past deduction: modal perfect forms",
+    "title_ru": "Выводы о прошлом: modal perfect"
+  },
+  {
+    "order": 13,
+    "level": "C1",
+    "category": "Modal verbs",
+    "title_en": "Past criticism and regret",
+    "title_ru": "Критика и сожаление о прошлом"
+  },
+  {
+    "order": 14,
+    "level": "C1",
+    "category": "Modal verbs",
+    "title_en": "Hedging with modal verbs",
+    "title_ru": "Смягчение утверждений модальными глаголами"
+  },
+  {
+    "order": 15,
+    "level": "C1",
+    "category": "Modal verbs",
+    "title_en": "Needn’t have and didn’t need to",
+    "title_ru": "Needn’t have и didn’t need to"
+  },
+  {
+    "order": 16,
+    "level": "C1",
+    "category": "Subjunctive and formal patterns",
+    "title_en": "Should in that-clauses",
+    "title_ru": "Should в придаточных после требований и оценок"
+  },
+  {
+    "order": 17,
+    "level": "C1",
+    "category": "Subjunctive and formal patterns",
+    "title_en": "Mandative subjunctive",
+    "title_ru": "Мандативный сослагательный наклон"
+  },
+  {
+    "order": 18,
+    "level": "C1",
+    "category": "Subjunctive and formal patterns",
+    "title_en": "Were-subjunctive in hypothetical meaning",
+    "title_ru": "Were-subjunctive в гипотетическом значении"
+  },
+  {
+    "order": 19,
+    "level": "C1",
+    "category": "Inversion and emphasis",
+    "title_en": "Inversion after negative adverbials",
+    "title_ru": "Инверсия после отрицательных и ограничительных наречий"
+  },
+  {
+    "order": 20,
+    "level": "C1",
+    "category": "Inversion and emphasis",
+    "title_en": "Inversion with so and such",
+    "title_ru": "Инверсия с so и such"
+  },
+  {
+    "order": 21,
+    "level": "C1",
+    "category": "Conditionals",
+    "title_en": "Conditional inversion with had, were and should",
+    "title_ru": "Условная инверсия с had, were и should"
+  },
+  {
+    "order": 22,
+    "level": "C1",
+    "category": "Conditionals",
+    "title_en": "Mixed conditionals",
+    "title_ru": "Смешанные условные предложения"
+  },
+  {
+    "order": 23,
+    "level": "C1",
+    "category": "Conditionals",
+    "title_en": "Implied conditionals",
+    "title_ru": "Подразумеваемые условия"
+  },
+  {
+    "order": 24,
+    "level": "C1",
+    "category": "Conditionals",
+    "title_en": "Alternative conditional markers",
+    "title_ru": "Альтернативные маркеры условия"
+  },
+  {
+    "order": 25,
+    "level": "C1",
+    "category": "Unreal meaning",
+    "title_en": "Advanced wishes and regrets",
+    "title_ru": "Продвинутые конструкции пожелания и сожаления"
+  },
+  {
+    "order": 26,
+    "level": "C1",
+    "category": "Unreal meaning",
+    "title_en": "It’s time, would rather and as if",
+    "title_ru": "It’s time, would rather и as if"
+  },
+  {
+    "order": 27,
+    "level": "C1",
+    "category": "Passive voice",
+    "title_en": "Advanced passive review",
+    "title_ru": "Продвинутое повторение пассивного залога"
+  },
+  {
+    "order": 28,
+    "level": "C1",
+    "category": "Passive voice",
+    "title_en": "Reporting passives",
+    "title_ru": "Пассивные конструкции передачи мнения"
+  },
+  {
+    "order": 29,
+    "level": "C1",
+    "category": "Passive voice",
+    "title_en": "Passive infinitives and gerunds",
+    "title_ru": "Пассивные инфинитивы и герундии"
+  },
+  {
+    "order": 30,
+    "level": "C1",
+    "category": "Passive voice",
+    "title_en": "Get-passive and be-passive",
+    "title_ru": "Get-passive и be-passive"
+  },
+  {
+    "order": 31,
+    "level": "C1",
+    "category": "Causatives",
+    "title_en": "Have and get something done",
+    "title_ru": "Have/Get something done"
+  },
+  {
+    "order": 32,
+    "level": "C1",
+    "category": "Passive voice",
+    "title_en": "Passive with two objects and prepositional verbs",
+    "title_ru": "Пассив с двумя дополнениями и предложными глаголами"
+  },
+  {
+    "order": 33,
+    "level": "C1",
+    "category": "Reported speech",
+    "title_en": "Advanced tense and reference shifts",
+    "title_ru": "Продвинутые сдвиги времени и указателей в косвенной речи"
+  },
+  {
+    "order": 34,
+    "level": "C1",
+    "category": "Reported speech",
+    "title_en": "Reporting verbs and complementation",
+    "title_ru": "Reporting verbs и модели управления"
+  },
+  {
+    "order": 35,
+    "level": "C1",
+    "category": "Reported speech",
+    "title_en": "Reported questions, commands and requests",
+    "title_ru": "Косвенные вопросы, команды и просьбы"
+  },
+  {
+    "order": 36,
+    "level": "C1",
+    "category": "Reported speech",
+    "title_en": "Distancing and impersonal reporting",
+    "title_ru": "Дистанцирование и безличная передача информации"
+  },
+  {
+    "order": 37,
+    "level": "C1",
+    "category": "Relative clauses",
+    "title_en": "Relative clauses with prepositions",
+    "title_ru": "Относительные придаточные с предлогами"
+  },
+  {
+    "order": 38,
+    "level": "C1",
+    "category": "Relative clauses",
+    "title_en": "Reduced relative clauses",
+    "title_ru": "Сокращённые относительные придаточные"
+  },
+  {
+    "order": 39,
+    "level": "C1",
+    "category": "Participle clauses",
+    "title_en": "Present, past and perfect participle clauses",
+    "title_ru": "Причастные обороты: present, past и perfect"
+  },
+  {
+    "order": 40,
+    "level": "C1",
+    "category": "Participle clauses",
+    "title_en": "Avoiding dangling participles",
+    "title_ru": "Как избегать “висящих” причастных оборотов"
+  },
+  {
+    "order": 41,
+    "level": "C1",
+    "category": "Clause structure",
+    "title_en": "Noun clauses with that, wh-words and whether",
+    "title_ru": "Noun clauses с that, wh-словами и whether"
+  },
+  {
+    "order": 42,
+    "level": "C1",
+    "category": "Formal style",
+    "title_en": "Nominalisation in formal writing",
+    "title_ru": "Номинализация в формальном стиле"
+  },
+  {
+    "order": 43,
+    "level": "C1",
+    "category": "Emphasis",
+    "title_en": "It-clefts",
+    "title_ru": "It-clefts для эмфазы"
+  },
+  {
+    "order": 44,
+    "level": "C1",
+    "category": "Emphasis",
+    "title_en": "Wh-clefts and reversed clefts",
+    "title_ru": "Wh-clefts и обратные cleft-конструкции"
+  },
+  {
+    "order": 45,
+    "level": "C1",
+    "category": "Emphasis",
+    "title_en": "Fronting objects and complements",
+    "title_ru": "Вынесение дополнений и именных частей в начало"
+  },
+  {
+    "order": 46,
+    "level": "C1",
+    "category": "Emphasis",
+    "title_en": "Emphatic do and auxiliary emphasis",
+    "title_ru": "Эмфатическое do и ударение на вспомогательном глаголе"
+  },
+  {
+    "order": 47,
+    "level": "C1",
+    "category": "Ellipsis and substitution",
+    "title_en": "Ellipsis after auxiliaries",
+    "title_ru": "Эллипсис после вспомогательных глаголов"
+  },
+  {
+    "order": 48,
+    "level": "C1",
+    "category": "Ellipsis and substitution",
+    "title_en": "Substitution with one, ones, do so, so and not",
+    "title_ru": "Замещение с one, ones, do so, so и not"
+  },
+  {
+    "order": 49,
+    "level": "C1",
+    "category": "Cohesion",
+    "title_en": "Avoiding repetition with this, that, such and so",
+    "title_ru": "Как избегать повторов с this, that, such и so"
+  },
+  {
+    "order": 50,
+    "level": "C1",
+    "category": "Articles and reference",
+    "title_en": "Advanced article choice: generic and abstract reference",
+    "title_ru": "Продвинутый выбор артикля: общее и абстрактное значение"
+  },
+  {
+    "order": 51,
+    "level": "C1",
+    "category": "Articles and reference",
+    "title_en": "Articles with proper names and institutions",
+    "title_ru": "Артикли с именами собственными и учреждениями"
+  },
+  {
+    "order": 52,
+    "level": "C1",
+    "category": "Determiners",
+    "title_en": "All, both, whole, either and neither",
+    "title_ru": "All, both, whole, either и neither"
+  },
+  {
+    "order": 53,
+    "level": "C1",
+    "category": "Quantifiers",
+    "title_en": "Advanced nuances of few, little, quite and rather",
+    "title_ru": "Оттенки few, little, quite и rather"
+  },
+  {
+    "order": 54,
+    "level": "C1",
+    "category": "Pronouns and cohesion",
+    "title_en": "Pronoun reference and cohesion",
+    "title_ru": "Местоименная отсылка и связность текста"
+  },
+  {
+    "order": 55,
+    "level": "C1",
+    "category": "Pronouns",
+    "title_en": "Reflexive, emphatic and reciprocal pronouns",
+    "title_ru": "Возвратные, усилительные и взаимные местоимения"
+  },
+  {
+    "order": 56,
+    "level": "C1",
+    "category": "Adjectives",
+    "title_en": "Adjective order and postpositive adjectives",
+    "title_ru": "Порядок прилагательных и постпозиция"
+  },
+  {
+    "order": 57,
+    "level": "C1",
+    "category": "Adjectives",
+    "title_en": "Participial adjectives and gradability",
+    "title_ru": "Причастные прилагательные и градуируемость"
+  },
+  {
+    "order": 58,
+    "level": "C1",
+    "category": "Adjectives",
+    "title_en": "Compound adjectives",
+    "title_ru": "Сложные прилагательные"
+  },
+  {
+    "order": 59,
+    "level": "C1",
+    "category": "Adverbs",
+    "title_en": "Adverb position and stance adverbs",
+    "title_ru": "Позиция наречий и наречия позиции автора"
+  },
+  {
+    "order": 60,
+    "level": "C1",
+    "category": "Comparison",
+    "title_en": "Advanced comparative patterns",
+    "title_ru": "Продвинутые сравнительные конструкции"
+  },
+  {
+    "order": 61,
+    "level": "C1",
+    "category": "Degree and result",
+    "title_en": "Advanced so, such, too and enough",
+    "title_ru": "Продвинутые конструкции so, such, too и enough"
+  },
+  {
+    "order": 62,
+    "level": "C1",
+    "category": "Linking ideas",
+    "title_en": "Advanced contrast and concession",
+    "title_ru": "Продвинутый контраст и уступка"
+  },
+  {
+    "order": 63,
+    "level": "C1",
+    "category": "Linking ideas",
+    "title_en": "Advanced reason, result and purpose clauses",
+    "title_ru": "Продвинутые придаточные причины, результата и цели"
+  },
+  {
+    "order": 64,
+    "level": "C1",
+    "category": "Linking ideas",
+    "title_en": "Conjuncts and punctuation",
+    "title_ru": "Связующие наречия и пунктуация"
+  },
+  {
+    "order": 65,
+    "level": "C1",
+    "category": "Prepositions and complementation",
+    "title_en": "Preposition + -ing and dependent prepositions",
+    "title_ru": "Предлог + -ing и зависимые предлоги"
+  },
+  {
+    "order": 66,
+    "level": "C1",
+    "category": "Verb patterns",
+    "title_en": "Gerund or infinitive with a change of meaning",
+    "title_ru": "Герундий или инфинитив с изменением значения"
+  },
+  {
+    "order": 67,
+    "level": "C1",
+    "category": "Non-finite forms",
+    "title_en": "Perfect and passive infinitives and gerunds",
+    "title_ru": "Совершенные и пассивные инфинитивы и герундии"
+  },
+  {
+    "order": 68,
+    "level": "C1",
+    "category": "Non-finite forms",
+    "title_en": "Bare infinitives after perception and causative verbs",
+    "title_ru": "Bare infinitive после глаголов восприятия и каузативных глаголов"
+  },
+  {
+    "order": 69,
+    "level": "C1",
+    "category": "Agreement",
+    "title_en": "Agreement in complex noun phrases",
+    "title_ru": "Согласование в сложных именных группах"
+  },
+  {
+    "order": 70,
+    "level": "C1",
+    "category": "Information structure",
+    "title_en": "End-weight, end-focus and information flow",
+    "title_ru": "Конечный вес, конечный фокус и организация информации"
+  }
+]

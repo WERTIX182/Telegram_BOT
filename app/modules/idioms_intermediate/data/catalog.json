@@ -1,0 +1,394 @@
+[
+  {
+    "order": 1,
+    "id": "idiom_01",
+    "category": "DAILY",
+    "idiom": "a piece of cake",
+    "translation": "проще простого"
+  },
+  {
+    "order": 2,
+    "id": "idiom_02",
+    "category": "DAILY",
+    "idiom": "under the weather",
+    "translation": "неважно себя чувствовать"
+  },
+  {
+    "order": 3,
+    "id": "idiom_03",
+    "category": "DAILY",
+    "idiom": "once in a blue moon",
+    "translation": "крайне редко"
+  },
+  {
+    "order": 4,
+    "id": "idiom_04",
+    "category": "DAILY",
+    "idiom": "just around the corner",
+    "translation": "совсем скоро; совсем рядом"
+  },
+  {
+    "order": 5,
+    "id": "idiom_05",
+    "category": "DAILY",
+    "idiom": "on the go",
+    "translation": "в постоянном движении; очень занят"
+  },
+  {
+    "order": 6,
+    "id": "idiom_06",
+    "category": "DAILY",
+    "idiom": "out of the blue",
+    "translation": "совершенно неожиданно"
+  },
+  {
+    "order": 7,
+    "id": "idiom_07",
+    "category": "DAILY",
+    "idiom": "the last straw",
+    "translation": "последняя капля"
+  },
+  {
+    "order": 8,
+    "id": "idiom_08",
+    "category": "DAILY",
+    "idiom": "get the hang of something",
+    "translation": "наловчиться; понять, как это делается"
+  },
+  {
+    "order": 9,
+    "id": "idiom_09",
+    "category": "WORK_STUDY",
+    "idiom": "hit the books",
+    "translation": "засесть за учёбу"
+  },
+  {
+    "order": 10,
+    "id": "idiom_10",
+    "category": "WORK_STUDY",
+    "idiom": "learn the ropes",
+    "translation": "освоить основы работы"
+  },
+  {
+    "order": 11,
+    "id": "idiom_11",
+    "category": "WORK_STUDY",
+    "idiom": "be on the right track",
+    "translation": "двигаться в правильном направлении"
+  },
+  {
+    "order": 12,
+    "id": "idiom_12",
+    "category": "WORK_STUDY",
+    "idiom": "go the extra mile",
+    "translation": "сделать больше, чем требуется"
+  },
+  {
+    "order": 13,
+    "id": "idiom_13",
+    "category": "WORK_STUDY",
+    "idiom": "call it a day",
+    "translation": "закончить работу на сегодня"
+  },
+  {
+    "order": 14,
+    "id": "idiom_14",
+    "category": "WORK_STUDY",
+    "idiom": "back to square one",
+    "translation": "снова с самого начала"
+  },
+  {
+    "order": 15,
+    "id": "idiom_15",
+    "category": "WORK_STUDY",
+    "idiom": "think outside the box",
+    "translation": "мыслить нестандартно"
+  },
+  {
+    "order": 16,
+    "id": "idiom_16",
+    "category": "WORK_STUDY",
+    "idiom": "have a lot on your plate",
+    "translation": "иметь слишком много дел"
+  },
+  {
+    "order": 17,
+    "id": "idiom_17",
+    "category": "COMMUNICATION",
+    "idiom": "get straight to the point",
+    "translation": "сразу перейти к сути"
+  },
+  {
+    "order": 18,
+    "id": "idiom_18",
+    "category": "COMMUNICATION",
+    "idiom": "read between the lines",
+    "translation": "читать между строк"
+  },
+  {
+    "order": 19,
+    "id": "idiom_19",
+    "category": "COMMUNICATION",
+    "idiom": "speak your mind",
+    "translation": "откровенно высказать своё мнение"
+  },
+  {
+    "order": 20,
+    "id": "idiom_20",
+    "category": "COMMUNICATION",
+    "idiom": "be on the same page",
+    "translation": "одинаково понимать ситуацию"
+  },
+  {
+    "order": 21,
+    "id": "idiom_21",
+    "category": "COMMUNICATION",
+    "idiom": "keep someone in the loop",
+    "translation": "держать кого-либо в курсе"
+  },
+  {
+    "order": 22,
+    "id": "idiom_22",
+    "category": "COMMUNICATION",
+    "idiom": "by word of mouth",
+    "translation": "из уст в уста; по личным рекомендациям"
+  },
+  {
+    "order": 23,
+    "id": "idiom_23",
+    "category": "COMMUNICATION",
+    "idiom": "put it in a nutshell",
+    "translation": "выразить кратко; в двух словах"
+  },
+  {
+    "order": 24,
+    "id": "idiom_24",
+    "category": "COMMUNICATION",
+    "idiom": "take something with a pinch of salt",
+    "translation": "относиться к информации с долей сомнения"
+  },
+  {
+    "order": 25,
+    "id": "idiom_25",
+    "category": "EMOTIONS",
+    "idiom": "over the moon",
+    "translation": "на седьмом небе от счастья"
+  },
+  {
+    "order": 26,
+    "id": "idiom_26",
+    "category": "EMOTIONS",
+    "idiom": "down in the dumps",
+    "translation": "в подавленном настроении"
+  },
+  {
+    "order": 27,
+    "id": "idiom_27",
+    "category": "EMOTIONS",
+    "idiom": "get cold feet",
+    "translation": "струсить в последний момент"
+  },
+  {
+    "order": 28,
+    "id": "idiom_28",
+    "category": "EMOTIONS",
+    "idiom": "keep your cool",
+    "translation": "сохранять спокойствие"
+  },
+  {
+    "order": 29,
+    "id": "idiom_29",
+    "category": "EMOTIONS",
+    "idiom": "lose your temper",
+    "translation": "выйти из себя"
+  },
+  {
+    "order": 30,
+    "id": "idiom_30",
+    "category": "EMOTIONS",
+    "idiom": "feel blue",
+    "translation": "грустить; хандрить"
+  },
+  {
+    "order": 31,
+    "id": "idiom_31",
+    "category": "EMOTIONS",
+    "idiom": "be fed up with something",
+    "translation": "быть сытым по горло"
+  },
+  {
+    "order": 32,
+    "id": "idiom_32",
+    "category": "EMOTIONS",
+    "idiom": "be on edge",
+    "translation": "быть на взводе"
+  },
+  {
+    "order": 33,
+    "id": "idiom_33",
+    "category": "RELATIONSHIPS",
+    "idiom": "hit it off",
+    "translation": "сразу поладить; быстро найти общий язык"
+  },
+  {
+    "order": 34,
+    "id": "idiom_34",
+    "category": "RELATIONSHIPS",
+    "idiom": "see eye to eye",
+    "translation": "быть полностью согласными"
+  },
+  {
+    "order": 35,
+    "id": "idiom_35",
+    "category": "RELATIONSHIPS",
+    "idiom": "have a soft spot for someone",
+    "translation": "испытывать особую симпатию"
+  },
+  {
+    "order": 36,
+    "id": "idiom_36",
+    "category": "RELATIONSHIPS",
+    "idiom": "give someone the cold shoulder",
+    "translation": "демонстративно игнорировать"
+  },
+  {
+    "order": 37,
+    "id": "idiom_37",
+    "category": "RELATIONSHIPS",
+    "idiom": "clear the air",
+    "translation": "прояснить ситуацию и снять напряжение"
+  },
+  {
+    "order": 38,
+    "id": "idiom_38",
+    "category": "RELATIONSHIPS",
+    "idiom": "bury the hatchet",
+    "translation": "помириться; прекратить вражду"
+  },
+  {
+    "order": 39,
+    "id": "idiom_39",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on someone's nerves",
+    "translation": "сильно раздражать кого-либо"
+  },
+  {
+    "order": 40,
+    "id": "idiom_40",
+    "category": "RELATIONSHIPS",
+    "idiom": "be in the same boat",
+    "translation": "оказаться в одинаковой трудной ситуации"
+  },
+  {
+    "order": 41,
+    "id": "idiom_41",
+    "category": "MONEY",
+    "idiom": "cost an arm and a leg",
+    "translation": "стоить целое состояние"
+  },
+  {
+    "order": 42,
+    "id": "idiom_42",
+    "category": "MONEY",
+    "idiom": "make ends meet",
+    "translation": "сводить концы с концами"
+  },
+  {
+    "order": 43,
+    "id": "idiom_43",
+    "category": "MONEY",
+    "idiom": "save for a rainy day",
+    "translation": "откладывать на чёрный день"
+  },
+  {
+    "order": 44,
+    "id": "idiom_44",
+    "category": "MONEY",
+    "idiom": "tighten your belt",
+    "translation": "сократить расходы"
+  },
+  {
+    "order": 45,
+    "id": "idiom_45",
+    "category": "MONEY",
+    "idiom": "be in the red",
+    "translation": "быть в долгах; нести убытки"
+  },
+  {
+    "order": 46,
+    "id": "idiom_46",
+    "category": "MONEY",
+    "idiom": "be in the black",
+    "translation": "быть прибыльным; иметь положительный баланс"
+  },
+  {
+    "order": 47,
+    "id": "idiom_47",
+    "category": "MONEY",
+    "idiom": "on a shoestring",
+    "translation": "с очень небольшим бюджетом"
+  },
+  {
+    "order": 48,
+    "id": "idiom_48",
+    "category": "MONEY",
+    "idiom": "money doesn’t grow on trees",
+    "translation": "деньги не растут на деревьях"
+  },
+  {
+    "order": 49,
+    "id": "idiom_49",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite the bullet",
+    "translation": "собраться с духом и сделать неприятное"
+  },
+  {
+    "order": 50,
+    "id": "idiom_50",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "face the music",
+    "translation": "ответить за последствия"
+  },
+  {
+    "order": 51,
+    "id": "idiom_51",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "bite off more than you can chew",
+    "translation": "взяться за непосильную задачу"
+  },
+  {
+    "order": 52,
+    "id": "idiom_52",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be in hot water",
+    "translation": "попасть в неприятности"
+  },
+  {
+    "order": 53,
+    "id": "idiom_53",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "hit a dead end",
+    "translation": "зайти в тупик"
+  },
+  {
+    "order": 54,
+    "id": "idiom_54",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "cross that bridge when you come to it",
+    "translation": "решать проблему, когда она действительно возникнет"
+  },
+  {
+    "order": 55,
+    "id": "idiom_55",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "weigh up the pros and cons",
+    "translation": "взвесить все плюсы и минусы"
+  },
+  {
+    "order": 56,
+    "id": "idiom_56",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "take the bull by the horns",
+    "translation": "решительно взяться за проблему"
+  }
+]

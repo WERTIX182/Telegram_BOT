@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "coll_int_001_meet_a_deadline",
+    "order": 1,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "meet a deadline",
+    "translation": "уложиться в срок",
+    "explanation": "Выполнить работу не позднее установленного срока. Обычно употребляется с project, report, application или task.",
+    "patterns": [
+      "meet a deadline",
+      "meet a tight deadline",
+      "fail to meet a deadline"
+    ],
+    "related": [
+      "finish on time — закончить вовремя"
+    ],
+    "examples": [
+      {
+        "en": "We worked late to meet the deadline.",
+        "ru": "Мы работали допоздна, чтобы уложиться в срок."
+      },
+      {
+        "en": "The team met every deadline this quarter.",
+        "ru": "В этом квартале команда соблюла все сроки."
+      },
+      {
+        "en": "Tell me early if you cannot meet the deadline.",
+        "ru": "Сообщите заранее, если не сможете уложиться в срок."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "catch a deadline",
+      "right": "meet a deadline",
+      "note": "С deadline обычно употребляется meet, а не catch."
+    },
+    "quiz": {
+      "prompt": "The design team worked late to ___ the Friday deadline.",
+      "options": [
+        "meet",
+        "catch",
+        "achieve",
+        "attend"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: meet a deadline. С deadline обычно употребляется meet, а не catch."
+    }
+  },
+  {
+    "id": "coll_int_002_gain_experience",
+    "order": 2,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "gain experience",
+    "translation": "получить, приобрести опыт",
+    "explanation": "Получить практический опыт благодаря работе, обучению или участию в проекте.",
+    "patterns": [
+      "gain experience",
+      "gain practical experience",
+      "gain experience in a field"
+    ],
+    "related": [
+      "build up experience — постепенно накапливать опыт"
+    ],
+    "examples": [
+      {
+        "en": "The internship helped me gain practical experience.",
+        "ru": "Стажировка помогла мне получить практический опыт."
+      },
+      {
+        "en": "She gained experience in customer support.",
+        "ru": "Она приобрела опыт в поддержке клиентов."
+      },
+      {
+        "en": "Volunteering is a good way to gain experience.",
+        "ru": "Волонтёрство — хороший способ получить опыт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "win experience",
+      "right": "gain experience",
+      "note": "Experience обычно gain или get, но не win."
+    },
+    "quiz": {
+      "prompt": "A summer internship can help you ___ practical experience.",
+      "options": [
+        "win",
+        "gain",
+        "collect",
+        "grow"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: gain experience. Experience обычно gain или get, но не win."
+    }
+  },
+  {
+    "id": "coll_int_003_make_progress",
+    "order": 3,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "make progress",
+    "translation": "добиваться прогресса, продвигаться вперёд",
+    "explanation": "Улучшать результат или постепенно приближаться к цели.",
+    "patterns": [
+      "make progress",
+      "make steady progress",
+      "make progress with/on something"
+    ],
+    "related": [
+      "show improvement — демонстрировать улучшение"
+    ],
+    "examples": [
+      {
+        "en": "You are making good progress with your English.",
+        "ru": "Ты хорошо продвигаешься в английском."
+      },
+      {
+        "en": "The project made little progress in May.",
+        "ru": "В мае проект почти не продвинулся."
+      },
+      {
+        "en": "We have made significant progress on the new website.",
+        "ru": "Мы значительно продвинулись в работе над новым сайтом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do progress",
+      "right": "make progress",
+      "note": "Progress образует устойчивое сочетание с make."
+    },
+    "quiz": {
+      "prompt": "After a month of practice, she began to ___ real progress.",
+      "options": [
+        "do",
+        "build",
+        "make",
+        "produce"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: make progress. Progress образует устойчивое сочетание с make."
+    }
+  },
+  {
+    "id": "coll_int_004_take_responsibility",
+    "order": 4,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "take responsibility",
+    "translation": "брать на себя ответственность",
+    "explanation": "Признать обязанность отвечать за действие, решение или результат.",
+    "patterns": [
+      "take responsibility for something",
+      "accept responsibility for something",
+      "take full responsibility"
+    ],
+    "related": [
+      "be responsible for — отвечать за"
+    ],
+    "examples": [
+      {
+        "en": "Managers must take responsibility for their decisions.",
+        "ru": "Руководители должны отвечать за свои решения."
+      },
+      {
+        "en": "He took full responsibility for the mistake.",
+        "ru": "Он полностью взял на себя ответственность за ошибку."
+      },
+      {
+        "en": "Who will take responsibility for organising the event?",
+        "ru": "Кто возьмёт на себя ответственность за организацию мероприятия?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take responsibility of the problem",
+      "right": "take responsibility for the problem",
+      "note": "После responsibility обычно употребляется for."
+    },
+    "quiz": {
+      "prompt": "A good manager should ___ responsibility for the final decision.",
+      "options": [
+        "do",
+        "carry",
+        "hold",
+        "take"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: take responsibility. После responsibility обычно употребляется for."
+    }
+  },
+  {
+    "id": "coll_int_005_apply_for_a_job",
+    "order": 5,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "apply for a job",
+    "translation": "подать заявление на работу",
+    "explanation": "Официально выразить желание получить конкретную работу или должность.",
+    "patterns": [
+      "apply for a job/position",
+      "apply to a company",
+      "submit an application"
+    ],
+    "related": [
+      "job application — заявление о приёме на работу"
+    ],
+    "examples": [
+      {
+        "en": "I am going to apply for a job at the museum.",
+        "ru": "Я собираюсь подать заявление на работу в музей."
+      },
+      {
+        "en": "More than a hundred people applied for the position.",
+        "ru": "На эту должность подали заявления более ста человек."
+      },
+      {
+        "en": "She applied to three companies last week.",
+        "ru": "На прошлой неделе она подала заявления в три компании."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "apply to a job",
+      "right": "apply for a job",
+      "note": "Apply for — на должность; apply to — в организацию."
+    },
+    "quiz": {
+      "prompt": "He decided to ___ for a job in digital marketing.",
+      "options": [
+        "apply",
+        "request",
+        "ask",
+        "submit"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: apply for a job. Apply for — на должность; apply to — в организацию."
+    }
+  },
+  {
+    "id": "coll_int_006_earn_a_living",
+    "order": 6,
+    "level": "Intermediate",
+    "category": "WORK",
+    "phrase": "earn a living",
+    "translation": "зарабатывать на жизнь",
+    "explanation": "Получать достаточно денег для оплаты основных расходов.",
+    "patterns": [
+      "earn a living",
+      "earn a good living",
+      "make a living as/from"
+    ],
+    "related": [
+      "make a living — зарабатывать на жизнь"
+    ],
+    "examples": [
+      {
+        "en": "She earns a living as a freelance designer.",
+        "ru": "Она зарабатывает на жизнь как внештатный дизайнер."
+      },
+      {
+        "en": "It is difficult to earn a living from music.",
+        "ru": "Музыкой трудно зарабатывать на жизнь."
+      },
+      {
+        "en": "He earns a good living in software development.",
+        "ru": "Он хорошо зарабатывает в сфере разработки программного обеспечения."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "win a living",
+      "right": "earn a living",
+      "note": "Деньги и средства к существованию обычно earn, а не win."
+    },
+    "quiz": {
+      "prompt": "She ___ a living by translating technical documents.",
+      "options": [
+        "wins",
+        "earns",
+        "gains",
+        "takes"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: earn a living. Деньги и средства к существованию обычно earn, а не win."
+    }
+  },
+  {
+    "id": "coll_int_007_take_an_exam",
+    "order": 7,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "take an exam",
+    "translation": "сдавать экзамен",
+    "explanation": "Проходить экзамен как участник. В британском английском также часто употребляется sit an exam.",
+    "patterns": [
+      "take an exam",
+      "sit an exam (BrE)",
+      "take a final/written exam"
+    ],
+    "related": [
+      "exam candidate — участник экзамена"
+    ],
+    "examples": [
+      {
+        "en": "We take our final exam next Monday.",
+        "ru": "В следующий понедельник мы сдаём выпускной экзамен."
+      },
+      {
+        "en": "How many exams are you taking this term?",
+        "ru": "Сколько экзаменов ты сдаёшь в этом семестре?"
+      },
+      {
+        "en": "Students must show ID before taking the exam.",
+        "ru": "Перед экзаменом студенты должны предъявить удостоверение личности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make an exam",
+      "right": "take an exam",
+      "note": "Участник take/sit an exam; преподаватель может set или write an exam."
+    },
+    "quiz": {
+      "prompt": "Students will ___ the final exam in Room 12 at 9 a.m.",
+      "options": [
+        "make",
+        "give",
+        "take",
+        "hold"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: take an exam. Участник take/sit an exam; преподаватель может set или write an exam."
+    }
+  },
+  {
+    "id": "coll_int_008_pass_an_exam",
+    "order": 8,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "pass an exam",
+    "translation": "успешно сдать экзамен",
+    "explanation": "Получить необходимый результат и успешно завершить экзамен.",
+    "patterns": [
+      "pass an exam",
+      "pass with a high score",
+      "pass on the first attempt"
+    ],
+    "related": [
+      "fail an exam — провалить экзамен"
+    ],
+    "examples": [
+      {
+        "en": "You need 60 per cent to pass the exam.",
+        "ru": "Чтобы сдать экзамен, нужно набрать 60 процентов."
+      },
+      {
+        "en": "She passed all her exams on the first attempt.",
+        "ru": "Она сдала все экзамены с первой попытки."
+      },
+      {
+        "en": "I was relieved when I found out I had passed.",
+        "ru": "Я почувствовал облегчение, когда узнал, что сдал экзамен."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "give an exam successfully",
+      "right": "pass an exam",
+      "note": "Pass описывает успешный результат, take — сам процесс участия."
+    },
+    "quiz": {
+      "prompt": "You need at least 60 per cent to ___ the exam.",
+      "options": [
+        "take",
+        "sit",
+        "attend",
+        "pass"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: pass an exam. Pass описывает успешный результат, take — сам процесс участия."
+    }
+  },
+  {
+    "id": "coll_int_009_do_research",
+    "order": 9,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "do research",
+    "translation": "проводить исследование",
+    "explanation": "Систематически собирать и анализировать информацию. В более формальном стиле часто употребляется conduct research.",
+    "patterns": [
+      "do research into/on something",
+      "conduct research",
+      "carry out research"
+    ],
+    "related": [
+      "research findings — результаты исследования"
+    ],
+    "examples": [
+      {
+        "en": "The students are doing research into renewable energy.",
+        "ru": "Студенты проводят исследование в области возобновляемой энергии."
+      },
+      {
+        "en": "She did extensive research before writing the article.",
+        "ru": "Перед написанием статьи она провела обширное исследование."
+      },
+      {
+        "en": "Our team is conducting research on sleep patterns.",
+        "ru": "Наша команда проводит исследование режима сна."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make a research",
+      "right": "do research",
+      "note": "Research обычно неисчисляемое: do/conduct research без артикля a."
+    },
+    "quiz": {
+      "prompt": "The students are ___ research into local history.",
+      "options": [
+        "doing",
+        "making",
+        "taking",
+        "building"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: do research. Research обычно неисчисляемое: do/conduct research без артикля a."
+    }
+  },
+  {
+    "id": "coll_int_010_pay_attention",
+    "order": 10,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "pay attention",
+    "translation": "обращать внимание",
+    "explanation": "Сосредоточиться на человеке, информации или происходящем.",
+    "patterns": [
+      "pay attention",
+      "pay attention to something",
+      "pay close attention"
+    ],
+    "related": [
+      "focus on — сосредоточиться на"
+    ],
+    "examples": [
+      {
+        "en": "Please pay attention to the instructions.",
+        "ru": "Пожалуйста, обратите внимание на инструкции."
+      },
+      {
+        "en": "He was not paying attention during the lecture.",
+        "ru": "Во время лекции он был невнимателен."
+      },
+      {
+        "en": "Pay close attention to the verb form.",
+        "ru": "Обратите особое внимание на форму глагола."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "give attention to the instructions",
+      "right": "pay attention to the instructions",
+      "note": "В обычной учебной ситуации используется pay attention to."
+    },
+    "quiz": {
+      "prompt": "Please ___ attention to the examples in bold.",
+      "options": [
+        "give",
+        "pay",
+        "make",
+        "take"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: pay attention. В обычной учебной ситуации используется pay attention to."
+    }
+  },
+  {
+    "id": "coll_int_011_make_a_mistake",
+    "order": 11,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "make a mistake",
+    "translation": "допустить ошибку",
+    "explanation": "Сделать что-либо неправильно из-за неверного решения, знания или невнимательности.",
+    "patterns": [
+      "make a mistake",
+      "make a serious/common mistake",
+      "learn from a mistake"
+    ],
+    "related": [
+      "correct a mistake — исправить ошибку"
+    ],
+    "examples": [
+      {
+        "en": "Everyone makes mistakes when learning a language.",
+        "ru": "При изучении языка все допускают ошибки."
+      },
+      {
+        "en": "I made a mistake in the calculation.",
+        "ru": "Я допустил ошибку в расчёте."
+      },
+      {
+        "en": "Try to learn from your mistakes.",
+        "ru": "Старайся учиться на своих ошибках."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do a mistake",
+      "right": "make a mistake",
+      "note": "С mistake употребляется make."
+    },
+    "quiz": {
+      "prompt": "I ___ a mistake when I copied the number.",
+      "options": [
+        "did",
+        "took",
+        "made",
+        "put"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: make a mistake. С mistake употребляется make."
+    }
+  },
+  {
+    "id": "coll_int_012_acquire_knowledge",
+    "order": 12,
+    "level": "Intermediate",
+    "category": "EDUCATION",
+    "phrase": "acquire knowledge",
+    "translation": "приобретать знания",
+    "explanation": "Постепенно получать знания через обучение, чтение или практический опыт; сочетание более формальное, чем learn.",
+    "patterns": [
+      "acquire knowledge",
+      "acquire specialist knowledge",
+      "acquire knowledge of a subject"
+    ],
+    "related": [
+      "gain knowledge — получать знания"
+    ],
+    "examples": [
+      {
+        "en": "Students acquire knowledge through practice as well as reading.",
+        "ru": "Студенты получают знания как через практику, так и через чтение."
+      },
+      {
+        "en": "The course helps staff acquire specialist knowledge.",
+        "ru": "Курс помогает сотрудникам получить специальные знания."
+      },
+      {
+        "en": "She acquired a good knowledge of Italian.",
+        "ru": "Она приобрела хорошее знание итальянского языка."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "win knowledge",
+      "right": "acquire knowledge",
+      "note": "Knowledge можно acquire или gain, но не win."
+    },
+    "quiz": {
+      "prompt": "The programme helps students ___ specialist knowledge.",
+      "options": [
+        "win",
+        "catch",
+        "collect",
+        "acquire"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: acquire knowledge. Knowledge можно acquire или gain, но не win."
+    }
+  },
+  {
+    "id": "coll_int_013_catch_a_flight",
+    "order": 13,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "catch a flight",
+    "translation": "успеть на рейс, сесть на самолёт",
+    "explanation": "Успеть прибыть вовремя и воспользоваться запланированным авиарейсом.",
+    "patterns": [
+      "catch a flight",
+      "catch an early/connecting flight",
+      "catch a plane"
+    ],
+    "related": [
+      "board a flight — пройти на посадку"
+    ],
+    "examples": [
+      {
+        "en": "We left home at four to catch an early flight.",
+        "ru": "Мы выехали из дома в четыре, чтобы успеть на ранний рейс."
+      },
+      {
+        "en": "Can we still catch the connecting flight?",
+        "ru": "Мы ещё успеем на стыковочный рейс?"
+      },
+      {
+        "en": "She caught a flight to Madrid that evening.",
+        "ru": "В тот вечер она улетела рейсом в Мадрид."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "reach a flight",
+      "right": "catch a flight",
+      "note": "Catch означает успеть на транспорт; reach относится к месту."
+    },
+    "quiz": {
+      "prompt": "We left early to ___ the 6:30 flight.",
+      "options": [
+        "catch",
+        "reach",
+        "meet",
+        "collect"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: catch a flight. Catch означает успеть на транспорт; reach относится к месту."
+    }
+  },
+  {
+    "id": "coll_int_014_miss_a_train",
+    "order": 14,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "miss a train",
+    "translation": "опоздать на поезд, не успеть на поезд",
+    "explanation": "Не успеть воспользоваться поездом, потому что он уже отправился.",
+    "patterns": [
+      "miss a train/bus/flight",
+      "nearly miss a train",
+      "miss the last train"
+    ],
+    "related": [
+      "be late for the train — опоздать к поезду"
+    ],
+    "examples": [
+      {
+        "en": "We missed the last train home.",
+        "ru": "Мы не успели на последний поезд домой."
+      },
+      {
+        "en": "Hurry up or we will miss the train.",
+        "ru": "Поторопись, иначе мы опоздаем на поезд."
+      },
+      {
+        "en": "He nearly missed his flight because of traffic.",
+        "ru": "Из-за пробок он едва не опоздал на самолёт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "lose the train",
+      "right": "miss the train",
+      "note": "Если транспорт ушёл без вас, используется miss, а не lose."
+    },
+    "quiz": {
+      "prompt": "If we do not leave now, we will ___ the last train.",
+      "options": [
+        "lose",
+        "miss",
+        "fail",
+        "drop"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: miss a train. Если транспорт ушёл без вас, используется miss, а не lose."
+    }
+  },
+  {
+    "id": "coll_int_015_book_accommodation",
+    "order": 15,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "book accommodation",
+    "translation": "забронировать жильё",
+    "explanation": "Заранее заказать место для проживания: гостиницу, квартиру, хостел или другое жильё.",
+    "patterns": [
+      "book accommodation",
+      "book accommodation in advance",
+      "book a hotel room"
+    ],
+    "related": [
+      "make a reservation — сделать бронирование"
+    ],
+    "examples": [
+      {
+        "en": "We booked our accommodation online.",
+        "ru": "Мы забронировали жильё через интернет."
+      },
+      {
+        "en": "It is wise to book accommodation in advance.",
+        "ru": "Жильё разумно бронировать заранее."
+      },
+      {
+        "en": "Have you booked a hotel room yet?",
+        "ru": "Ты уже забронировал номер в гостинице?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "book an accommodation",
+      "right": "book accommodation",
+      "note": "Accommodation обычно неисчисляемое; для одного объекта можно сказать a room или a place to stay."
+    },
+    "quiz": {
+      "prompt": "You should ___ your accommodation before the festival.",
+      "options": [
+        "catch",
+        "hold",
+        "book",
+        "make"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: book accommodation. Accommodation обычно неисчисляемое; для одного объекта можно сказать a room или a place to stay."
+    }
+  },
+  {
+    "id": "coll_int_016_go_sightseeing",
+    "order": 16,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "go sightseeing",
+    "translation": "осматривать достопримечательности",
+    "explanation": "Посещать интересные места и достопримечательности, обычно во время путешествия.",
+    "patterns": [
+      "go sightseeing",
+      "spend a day sightseeing",
+      "a sightseeing tour"
+    ],
+    "related": [
+      "visit the main attractions — посетить главные достопримечательности"
+    ],
+    "examples": [
+      {
+        "en": "We went sightseeing in the old town.",
+        "ru": "Мы осматривали достопримечательности в старом городе."
+      },
+      {
+        "en": "They spent the morning sightseeing.",
+        "ru": "Они провели утро, осматривая достопримечательности."
+      },
+      {
+        "en": "A bus tour is an easy way to go sightseeing.",
+        "ru": "Автобусная экскурсия — простой способ посмотреть достопримечательности."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do sightseeing",
+      "right": "go sightseeing",
+      "note": "Для этого занятия обычно используется go sightseeing."
+    },
+    "quiz": {
+      "prompt": "Tourists often go ___ to see the city’s main attractions.",
+      "options": [
+        "commuting",
+        "boarding",
+        "booking",
+        "sightseeing"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: go sightseeing. Для этого занятия обычно используется go sightseeing."
+    }
+  },
+  {
+    "id": "coll_int_017_heavy_traffic",
+    "order": 17,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "heavy traffic",
+    "translation": "плотное движение, сильные пробки",
+    "explanation": "Большое количество транспорта, из-за которого движение становится медленным.",
+    "patterns": [
+      "heavy traffic",
+      "get stuck in heavy traffic",
+      "avoid heavy traffic"
+    ],
+    "related": [
+      "traffic jam — дорожная пробка"
+    ],
+    "examples": [
+      {
+        "en": "We were delayed by heavy traffic.",
+        "ru": "Мы задержались из-за плотного движения."
+      },
+      {
+        "en": "There is usually heavy traffic during the morning rush hour.",
+        "ru": "В утренний час пик обычно сильные пробки."
+      },
+      {
+        "en": "Try to avoid the city centre when traffic is heavy.",
+        "ru": "Старайтесь избегать центра города, когда движение особенно плотное."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "strong traffic",
+      "right": "heavy traffic",
+      "note": "С traffic употребляется heavy, а не strong."
+    },
+    "quiz": {
+      "prompt": "We were delayed by ___ traffic on the ring road.",
+      "options": [
+        "heavy",
+        "strong",
+        "hard",
+        "powerful"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: heavy traffic. С traffic употребляется heavy, а не strong."
+    }
+  },
+  {
+    "id": "coll_int_018_travel_light",
+    "order": 18,
+    "level": "Intermediate",
+    "category": "TRAVEL",
+    "phrase": "travel light",
+    "translation": "путешествовать налегке",
+    "explanation": "Брать с собой очень мало багажа.",
+    "patterns": [
+      "travel light",
+      "pack light",
+      "travel with hand luggage only"
+    ],
+    "related": [
+      "light luggage — небольшой багаж"
+    ],
+    "examples": [
+      {
+        "en": "For short trips, I prefer to travel light.",
+        "ru": "В короткие поездки я предпочитаю ездить налегке."
+      },
+      {
+        "en": "We travelled light and took only one backpack.",
+        "ru": "Мы путешествовали налегке и взяли только один рюкзак."
+      },
+      {
+        "en": "If you travel light, changing trains is easier.",
+        "ru": "Если путешествовать налегке, делать пересадки проще."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "travel lightly",
+      "right": "travel light",
+      "note": "В устойчивом выражении используется прилагательное light."
+    },
+    "quiz": {
+      "prompt": "For a weekend trip, I prefer to travel ___.",
+      "options": [
+        "lightly",
+        "light",
+        "easy",
+        "small"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: travel light. В устойчивом выражении используется прилагательное light."
+    }
+  },
+  {
+    "id": "coll_int_019_make_a_point",
+    "order": 19,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "make a point",
+    "translation": "высказать или подчеркнуть мысль",
+    "explanation": "Чётко выразить важную идею; make the point that вводит конкретную мысль.",
+    "patterns": [
+      "make a point",
+      "make an important point",
+      "make the point that ..."
+    ],
+    "related": [
+      "emphasise a point — подчеркнуть мысль"
+    ],
+    "examples": [
+      {
+        "en": "She made an important point about online safety.",
+        "ru": "Она высказала важную мысль о безопасности в интернете."
+      },
+      {
+        "en": "I would like to make one final point.",
+        "ru": "Я хотел бы высказать ещё одну заключительную мысль."
+      },
+      {
+        "en": "He made the point that costs were rising.",
+        "ru": "Он подчеркнул, что расходы растут."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do a point",
+      "right": "make a point",
+      "note": "Point в значении мысли образует сочетание с make."
+    },
+    "quiz": {
+      "prompt": "She used the example to ___ the point that small changes matter.",
+      "options": [
+        "do",
+        "say",
+        "make",
+        "hold"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: make a point. Point в значении мысли образует сочетание с make."
+    }
+  },
+  {
+    "id": "coll_int_020_keep_in_touch",
+    "order": 20,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "keep in touch",
+    "translation": "поддерживать связь",
+    "explanation": "Продолжать общаться с человеком после разлуки или на расстоянии.",
+    "patterns": [
+      "keep in touch with someone",
+      "stay in touch",
+      "keep in close touch"
+    ],
+    "related": [
+      "lose touch — потерять связь"
+    ],
+    "examples": [
+      {
+        "en": "We still keep in touch after university.",
+        "ru": "После университета мы всё ещё поддерживаем связь."
+      },
+      {
+        "en": "Please keep in touch while you are abroad.",
+        "ru": "Пожалуйста, оставайся на связи, пока находишься за границей."
+      },
+      {
+        "en": "She keeps in close touch with her former colleagues.",
+        "ru": "Она поддерживает тесную связь с бывшими коллегами."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep touch with someone",
+      "right": "keep in touch with someone",
+      "note": "В выражении обязательно используется предлог in."
+    },
+    "quiz": {
+      "prompt": "We still ___ in touch even though we live in different countries.",
+      "options": [
+        "make",
+        "do",
+        "carry",
+        "keep"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: keep in touch. В выражении обязательно используется предлог in."
+    }
+  },
+  {
+    "id": "coll_int_021_have_a_conversation",
+    "order": 21,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "have a conversation",
+    "translation": "вести разговор, беседовать",
+    "explanation": "Обмениваться мыслями или информацией с другим человеком.",
+    "patterns": [
+      "have a conversation with someone",
+      "have a serious/private conversation",
+      "start a conversation"
+    ],
+    "related": [
+      "hold a conversation — поддерживать беседу"
+    ],
+    "examples": [
+      {
+        "en": "I had a useful conversation with my tutor.",
+        "ru": "У меня состоялся полезный разговор с преподавателем."
+      },
+      {
+        "en": "We need to have a serious conversation.",
+        "ru": "Нам нужно серьёзно поговорить."
+      },
+      {
+        "en": "It is difficult to have a conversation in such a noisy room.",
+        "ru": "В такой шумной комнате трудно разговаривать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make a conversation",
+      "right": "have a conversation",
+      "note": "Обычно говорят have a conversation или start a conversation."
+    },
+    "quiz": {
+      "prompt": "We need to ___ a private conversation about the problem.",
+      "options": [
+        "have",
+        "make",
+        "do",
+        "speak"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: have a conversation. Обычно говорят have a conversation или start a conversation."
+    }
+  },
+  {
+    "id": "coll_int_022_express_an_opinion",
+    "order": 22,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "express an opinion",
+    "translation": "выражать мнение",
+    "explanation": "Формулировать и сообщать собственную точку зрения.",
+    "patterns": [
+      "express an opinion",
+      "express a personal/strong opinion",
+      "be invited to express an opinion"
+    ],
+    "related": [
+      "give your opinion — высказать своё мнение"
+    ],
+    "examples": [
+      {
+        "en": "Everyone was free to express an opinion.",
+        "ru": "Каждый мог свободно высказать мнение."
+      },
+      {
+        "en": "She expressed a strong opinion on the proposal.",
+        "ru": "Она высказала твёрдое мнение о предложении."
+      },
+      {
+        "en": "Try to express your opinion clearly and politely.",
+        "ru": "Старайтесь выражать своё мнение ясно и вежливо."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "say an opinion",
+      "right": "express an opinion",
+      "note": "Opinion обычно express, give или share, но не say."
+    },
+    "quiz": {
+      "prompt": "All participants were invited to ___ an opinion.",
+      "options": [
+        "tell",
+        "express",
+        "speak",
+        "explain"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: express an opinion. Opinion обычно express, give или share, но не say."
+    }
+  },
+  {
+    "id": "coll_int_023_ask_a_question",
+    "order": 23,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "ask a question",
+    "translation": "задать вопрос",
+    "explanation": "Обратиться к человеку с просьбой предоставить информацию.",
+    "patterns": [
+      "ask a question",
+      "ask someone a question",
+      "ask a difficult/direct question"
+    ],
+    "related": [
+      "answer a question — ответить на вопрос"
+    ],
+    "examples": [
+      {
+        "en": "May I ask a question about the timetable?",
+        "ru": "Можно задать вопрос о расписании?"
+      },
+      {
+        "en": "The interviewer asked me several questions.",
+        "ru": "Интервьюер задал мне несколько вопросов."
+      },
+      {
+        "en": "Do not be afraid to ask questions.",
+        "ru": "Не бойтесь задавать вопросы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make a question",
+      "right": "ask a question",
+      "note": "Question обычно ask; make a question — ненормативное сочетание."
+    },
+    "quiz": {
+      "prompt": "Can I ___ you a question about the new system?",
+      "options": [
+        "say",
+        "tell",
+        "ask",
+        "speak"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: ask a question. Question обычно ask; make a question — ненормативное сочетание."
+    }
+  },
+  {
+    "id": "coll_int_024_spread_the_word",
+    "order": 24,
+    "level": "Intermediate",
+    "category": "COMMUNICATION",
+    "phrase": "spread the word",
+    "translation": "распространить информацию",
+    "explanation": "Сообщить новость многим людям и попросить других сделать то же самое.",
+    "patterns": [
+      "spread the word",
+      "spread the word about something",
+      "help spread the word"
+    ],
+    "related": [
+      "raise awareness — повышать осведомлённость"
+    ],
+    "examples": [
+      {
+        "en": "Please spread the word about the charity event.",
+        "ru": "Пожалуйста, расскажите другим о благотворительном мероприятии."
+      },
+      {
+        "en": "Social media helped us spread the word quickly.",
+        "ru": "Социальные сети помогли нам быстро распространить информацию."
+      },
+      {
+        "en": "We need volunteers to help spread the word.",
+        "ru": "Нам нужны волонтёры, которые помогут распространить информацию."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "share the word about the event",
+      "right": "spread the word about the event",
+      "note": "Устойчивое выражение — spread the word."
+    },
+    "quiz": {
+      "prompt": "Please ___ the word about the free workshop.",
+      "options": [
+        "move",
+        "send",
+        "carry",
+        "spread"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: spread the word. Устойчивое выражение — spread the word."
+    }
+  },
+  {
+    "id": "coll_int_025_deeply_disappointed",
+    "order": 25,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "deeply disappointed",
+    "translation": "глубоко разочарованный",
+    "explanation": "Испытывающий сильное разочарование; deeply часто усиливает disappointed.",
+    "patterns": [
+      "be deeply disappointed",
+      "feel deeply disappointed",
+      "deeply disappointed by/with"
+    ],
+    "related": [
+      "bitterly disappointed — крайне разочарованный"
+    ],
+    "examples": [
+      {
+        "en": "Fans were deeply disappointed by the cancellation.",
+        "ru": "Поклонники были глубоко разочарованы отменой."
+      },
+      {
+        "en": "I was deeply disappointed with my result.",
+        "ru": "Я был очень разочарован своим результатом."
+      },
+      {
+        "en": "She felt deeply disappointed that nobody had called.",
+        "ru": "Она была глубоко разочарована тем, что никто не позвонил."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "strongly disappointed",
+      "right": "deeply disappointed",
+      "note": "Deeply — типичный усилитель для disappointed."
+    },
+    "quiz": {
+      "prompt": "The audience was ___ disappointed by the sudden cancellation.",
+      "options": [
+        "deeply",
+        "loudly",
+        "sharply",
+        "widely"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: deeply disappointed. Deeply — типичный усилитель для disappointed."
+    }
+  },
+  {
+    "id": "coll_int_026_genuinely_surprised",
+    "order": 26,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "genuinely surprised",
+    "translation": "искренне удивлённый",
+    "explanation": "Действительно удивлённый, без притворства или вежливой реакции.",
+    "patterns": [
+      "be genuinely surprised",
+      "look genuinely surprised",
+      "genuinely surprised by/at"
+    ],
+    "related": [
+      "pleasantly surprised — приятно удивлённый"
+    ],
+    "examples": [
+      {
+        "en": "I was genuinely surprised by their kindness.",
+        "ru": "Я был искренне удивлён их добротой."
+      },
+      {
+        "en": "He looked genuinely surprised to see us.",
+        "ru": "Он выглядел по-настоящему удивлённым, увидев нас."
+      },
+      {
+        "en": "She seemed genuinely surprised at the result.",
+        "ru": "Казалось, она действительно удивлена результатом."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "really genuinely surprised",
+      "right": "genuinely surprised",
+      "note": "Genuinely уже выражает значение «по-настоящему»; двойное усиление обычно избыточно."
+    },
+    "quiz": {
+      "prompt": "I was ___ surprised by how quickly they replied.",
+      "options": [
+        "fully",
+        "genuinely",
+        "highly",
+        "closely"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: genuinely surprised. Genuinely уже выражает значение «по-настоящему»; двойное усиление обычно избыточно."
+    }
+  },
+  {
+    "id": "coll_int_027_feel_relieved",
+    "order": 27,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "feel relieved",
+    "translation": "почувствовать облегчение",
+    "explanation": "Перестать сильно беспокоиться после хорошей новости или исчезновения проблемы.",
+    "patterns": [
+      "feel relieved",
+      "feel relieved that ...",
+      "be relieved to hear/know"
+    ],
+    "related": [
+      "a sense of relief — чувство облегчения"
+    ],
+    "examples": [
+      {
+        "en": "I felt relieved when the test results arrived.",
+        "ru": "Я почувствовал облегчение, когда пришли результаты анализов."
+      },
+      {
+        "en": "She was relieved to hear that everyone was safe.",
+        "ru": "Она испытала облегчение, услышав, что все в безопасности."
+      },
+      {
+        "en": "We felt relieved that the problem had been solved.",
+        "ru": "Мы почувствовали облегчение, потому что проблема была решена."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "feel reliefed",
+      "right": "feel relieved",
+      "note": "Relieved — прилагательное; relief — существительное."
+    },
+    "quiz": {
+      "prompt": "I felt ___ when the doctor said everything was fine.",
+      "options": [
+        "relief",
+        "relieving",
+        "relieved",
+        "relax"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: feel relieved. Relieved — прилагательное; relief — существительное."
+    }
+  },
+  {
+    "id": "coll_int_028_lose_patience",
+    "order": 28,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "lose patience",
+    "translation": "потерять терпение",
+    "explanation": "Перестать спокойно ждать или переносить раздражающую ситуацию.",
+    "patterns": [
+      "lose patience",
+      "lose patience with someone",
+      "begin to lose patience"
+    ],
+    "related": [
+      "run out of patience — исчерпать терпение"
+    ],
+    "examples": [
+      {
+        "en": "The customer began to lose patience.",
+        "ru": "Клиент начал терять терпение."
+      },
+      {
+        "en": "Do not lose patience with beginners.",
+        "ru": "Не теряйте терпения с новичками."
+      },
+      {
+        "en": "I nearly lost my patience after waiting for an hour.",
+        "ru": "Я едва не потерял терпение после часа ожидания."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "miss patience",
+      "right": "lose patience",
+      "note": "С patience употребляется lose."
+    },
+    "quiz": {
+      "prompt": "After forty minutes, the customer began to ___ patience.",
+      "options": [
+        "miss",
+        "drop",
+        "waste",
+        "lose"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: lose patience. С patience употребляется lose."
+    }
+  },
+  {
+    "id": "coll_int_029_burst_into_tears",
+    "order": 29,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "burst into tears",
+    "translation": "разразиться слезами",
+    "explanation": "Внезапно начать плакать. Аналогичная модель: burst into laughter.",
+    "patterns": [
+      "burst into tears",
+      "suddenly burst into tears",
+      "be close to tears"
+    ],
+    "related": [
+      "burst out crying — внезапно расплакаться"
+    ],
+    "examples": [
+      {
+        "en": "She burst into tears when she heard the news.",
+        "ru": "Она разразилась слезами, услышав новость."
+      },
+      {
+        "en": "The child suddenly burst into tears.",
+        "ru": "Ребёнок внезапно расплакался."
+      },
+      {
+        "en": "He was so relieved that he almost burst into tears.",
+        "ru": "Он испытал такое облегчение, что едва не расплакался."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "burst in tears",
+      "right": "burst into tears",
+      "note": "В устойчивом выражении используется into."
+    },
+    "quiz": {
+      "prompt": "When she heard the news, she burst into ___.",
+      "options": [
+        "tears",
+        "silence",
+        "patience",
+        "relief"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: burst into tears. В устойчивом выражении используется into."
+    }
+  },
+  {
+    "id": "coll_int_030_express_concern",
+    "order": 30,
+    "level": "Intermediate",
+    "category": "EMOTIONS",
+    "phrase": "express concern",
+    "translation": "выразить обеспокоенность",
+    "explanation": "Официально или нейтрально сообщить о тревоге по поводу ситуации.",
+    "patterns": [
+      "express concern",
+      "express concern about/over something",
+      "express serious concern"
+    ],
+    "related": [
+      "raise concerns — вызвать или обозначить опасения"
+    ],
+    "examples": [
+      {
+        "en": "Several parents expressed concern about the new policy.",
+        "ru": "Несколько родителей выразили обеспокоенность новой политикой."
+      },
+      {
+        "en": "Doctors have expressed serious concern over the delay.",
+        "ru": "Врачи выразили серьёзную обеспокоенность задержкой."
+      },
+      {
+        "en": "She expressed concern for the children’s safety.",
+        "ru": "Она выразила беспокойство за безопасность детей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "say concern",
+      "right": "express concern",
+      "note": "Concern в этом значении обычно express или raise."
+    },
+    "quiz": {
+      "prompt": "Several residents have ___ concern about road safety.",
+      "options": [
+        "told",
+        "expressed",
+        "spoken",
+        "made"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: express concern. Concern в этом значении обычно express или raise."
+    }
+  },
+  {
+    "id": "coll_int_031_close_friend",
+    "order": 31,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "close friend",
+    "translation": "близкий друг",
+    "explanation": "Человек, с которым существуют доверительные и тесные отношения.",
+    "patterns": [
+      "a close friend",
+      "a close friend of mine",
+      "become close friends"
+    ],
+    "related": [
+      "best friend — лучший друг"
+    ],
+    "examples": [
+      {
+        "en": "Maya is a close friend of mine.",
+        "ru": "Майя — моя близкая подруга."
+      },
+      {
+        "en": "They became close friends at university.",
+        "ru": "В университете они стали близкими друзьями."
+      },
+      {
+        "en": "Only a few close friends knew the truth.",
+        "ru": "Правду знали лишь несколько близких друзей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "a near friend",
+      "right": "a close friend",
+      "note": "Для эмоциональной близости используется close, а не near."
+    },
+    "quiz": {
+      "prompt": "Maya is a ___ friend of mine.",
+      "options": [
+        "near",
+        "nearby",
+        "close",
+        "tight"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: close friend. Для эмоциональной близости используется close, а не near."
+    }
+  },
+  {
+    "id": "coll_int_032_get_along_well",
+    "order": 32,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "get along well",
+    "translation": "хорошо ладить",
+    "explanation": "Иметь хорошие, спокойные отношения с другим человеком.",
+    "patterns": [
+      "get along well with someone",
+      "get on well with someone (BrE)",
+      "not get along"
+    ],
+    "related": [
+      "have a good relationship — иметь хорошие отношения"
+    ],
+    "examples": [
+      {
+        "en": "I get along well with my new colleagues.",
+        "ru": "Я хорошо лажу с новыми коллегами."
+      },
+      {
+        "en": "Do your children get along?",
+        "ru": "Ваши дети ладят друг с другом?"
+      },
+      {
+        "en": "She gets on well with her neighbours.",
+        "ru": "Она хорошо ладит с соседями."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "get well with someone",
+      "right": "get along well with someone",
+      "note": "В выражении нужен along; в британском варианте — get on well."
+    },
+    "quiz": {
+      "prompt": "I ___ along well with my new colleagues.",
+      "options": [
+        "go",
+        "make",
+        "put",
+        "get"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: get along well. В выражении нужен along; в британском варианте — get on well."
+    }
+  },
+  {
+    "id": "coll_int_033_fall_in_love",
+    "order": 33,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "fall in love",
+    "translation": "влюбиться",
+    "explanation": "Начать испытывать сильные романтические чувства к человеку.",
+    "patterns": [
+      "fall in love",
+      "fall in love with someone",
+      "be deeply in love"
+    ],
+    "related": [
+      "be in love — быть влюблённым"
+    ],
+    "examples": [
+      {
+        "en": "They fell in love while studying abroad.",
+        "ru": "Они влюбились во время учёбы за границей."
+      },
+      {
+        "en": "He fell in love with the city as well as its people.",
+        "ru": "Он полюбил и город, и его жителей."
+      },
+      {
+        "en": "It is a story about two people who fall in love.",
+        "ru": "Это история о двух людях, которые влюбляются."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "fall to love",
+      "right": "fall in love",
+      "note": "Устойчивое выражение требует предлога in."
+    },
+    "quiz": {
+      "prompt": "They ___ in love while working on the same project.",
+      "options": [
+        "fell",
+        "dropped",
+        "went",
+        "became"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: fall in love. Устойчивое выражение требует предлога in."
+    }
+  },
+  {
+    "id": "coll_int_034_keep_a_promise",
+    "order": 34,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "keep a promise",
+    "translation": "сдержать обещание",
+    "explanation": "Сделать то, что было обещано.",
+    "patterns": [
+      "keep a promise",
+      "break a promise",
+      "keep your word"
+    ],
+    "related": [
+      "fulfil a promise — выполнить обещание"
+    ],
+    "examples": [
+      {
+        "en": "You should always try to keep your promises.",
+        "ru": "Нужно всегда стараться сдерживать свои обещания."
+      },
+      {
+        "en": "She kept her promise and called the next day.",
+        "ru": "Она сдержала обещание и позвонила на следующий день."
+      },
+      {
+        "en": "I trust him because he keeps his word.",
+        "ru": "Я доверяю ему, потому что он держит слово."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "hold a promise",
+      "right": "keep a promise",
+      "note": "Обещание keep или break."
+    },
+    "quiz": {
+      "prompt": "You should always ___ a promise once you have made it.",
+      "options": [
+        "hold",
+        "keep",
+        "save",
+        "stay"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: keep a promise. Обещание keep или break."
+    }
+  },
+  {
+    "id": "coll_int_035_build_trust",
+    "order": 35,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "build trust",
+    "translation": "выстраивать доверие",
+    "explanation": "Постепенно создавать уверенность в честности и надёжности человека или организации.",
+    "patterns": [
+      "build trust",
+      "build trust with someone",
+      "build mutual trust"
+    ],
+    "related": [
+      "earn someone’s trust — заслужить доверие"
+    ],
+    "examples": [
+      {
+        "en": "Honest communication helps build trust.",
+        "ru": "Честное общение помогает выстраивать доверие."
+      },
+      {
+        "en": "It takes time to build trust with a new team.",
+        "ru": "Чтобы выстроить доверие в новой команде, требуется время."
+      },
+      {
+        "en": "The programme aims to build mutual trust.",
+        "ru": "Программа направлена на формирование взаимного доверия."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make trust",
+      "right": "build trust",
+      "note": "Trust в значении отношений обычно build, earn или develop."
+    },
+    "quiz": {
+      "prompt": "Open communication helps ___ trust between colleagues.",
+      "options": [
+        "do",
+        "carry",
+        "build",
+        "collect"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: build trust. Trust в значении отношений обычно build, earn или develop."
+    }
+  },
+  {
+    "id": "coll_int_036_have_an_argument",
+    "order": 36,
+    "level": "Intermediate",
+    "category": "RELATIONSHIPS",
+    "phrase": "have an argument",
+    "translation": "поссориться, спорить",
+    "explanation": "Вступить в конфликтный разговор, обычно с выражением несогласия или раздражения.",
+    "patterns": [
+      "have an argument",
+      "have an argument with someone",
+      "have an argument about/over something"
+    ],
+    "related": [
+      "get into an argument — ввязаться в спор"
+    ],
+    "examples": [
+      {
+        "en": "They had an argument about money.",
+        "ru": "Они поссорились из-за денег."
+      },
+      {
+        "en": "I do not want to have an argument with you.",
+        "ru": "Я не хочу с тобой ссориться."
+      },
+      {
+        "en": "The neighbours had a loud argument last night.",
+        "ru": "Прошлой ночью соседи громко ссорились."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make an argument with someone",
+      "right": "have an argument with someone",
+      "note": "Для события используется have an argument; make an argument означает выстроить довод."
+    },
+    "quiz": {
+      "prompt": "They ___ an argument about how to share the work.",
+      "options": [
+        "made",
+        "did",
+        "took",
+        "had"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: have an argument. Для события используется have an argument; make an argument означает выстроить довод."
+    }
+  },
+  {
+    "id": "coll_int_037_catch_a_cold",
+    "order": 37,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "catch a cold",
+    "translation": "простудиться",
+    "explanation": "Заразиться лёгкой вирусной инфекцией с насморком, кашлем или болью в горле.",
+    "patterns": [
+      "catch a cold",
+      "have a bad cold",
+      "come down with a cold"
+    ],
+    "related": [
+      "get a cold — простудиться"
+    ],
+    "examples": [
+      {
+        "en": "I caught a cold after the trip.",
+        "ru": "После поездки я простудился."
+      },
+      {
+        "en": "Wear a jacket or you may catch a cold.",
+        "ru": "Надень куртку, иначе можешь простудиться."
+      },
+      {
+        "en": "She has a bad cold and is staying at home.",
+        "ru": "Она сильно простужена и остаётся дома."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "take a cold",
+      "right": "catch a cold",
+      "note": "С cold обычно catch или get."
+    },
+    "quiz": {
+      "prompt": "He ___ a cold after travelling in wet clothes.",
+      "options": [
+        "caught",
+        "took",
+        "received",
+        "picked"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: catch a cold. С cold обычно catch или get."
+    }
+  },
+  {
+    "id": "coll_int_038_make_a_full_recovery",
+    "order": 38,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "make a full recovery",
+    "translation": "полностью выздороветь",
+    "explanation": "Полностью восстановить здоровье после болезни или травмы.",
+    "patterns": [
+      "make a full recovery",
+      "make a quick/slow recovery",
+      "recover fully"
+    ],
+    "related": [
+      "return to full health — полностью восстановить здоровье"
+    ],
+    "examples": [
+      {
+        "en": "Doctors expect her to make a full recovery.",
+        "ru": "Врачи ожидают, что она полностью выздоровеет."
+      },
+      {
+        "en": "He made a remarkably quick recovery.",
+        "ru": "Он удивительно быстро восстановился."
+      },
+      {
+        "en": "Most patients make a full recovery within a month.",
+        "ru": "Большинство пациентов полностью выздоравливают в течение месяца."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do a full recovery",
+      "right": "make a full recovery",
+      "note": "Recovery образует сочетание с make."
+    },
+    "quiz": {
+      "prompt": "Doctors expect her to ___ a full recovery.",
+      "options": [
+        "do",
+        "make",
+        "have",
+        "take"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: make a full recovery. Recovery образует сочетание с make."
+    }
+  },
+  {
+    "id": "coll_int_039_suffer_from",
+    "order": 39,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "suffer from",
+    "translation": "страдать от",
+    "explanation": "Испытывать заболевание, симптом или длительную проблему.",
+    "patterns": [
+      "suffer from an illness",
+      "suffer from headaches",
+      "suffer badly from allergies"
+    ],
+    "related": [
+      "live with a condition — жить с заболеванием"
+    ],
+    "examples": [
+      {
+        "en": "Many people suffer from seasonal allergies.",
+        "ru": "Многие люди страдают сезонной аллергией."
+      },
+      {
+        "en": "He has suffered from back pain for years.",
+        "ru": "Он много лет страдает от боли в спине."
+      },
+      {
+        "en": "Some patients suffer badly from side effects.",
+        "ru": "Некоторые пациенты сильно страдают от побочных эффектов."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "suffer with headaches",
+      "right": "suffer from headaches",
+      "note": "Для причины заболевания обычно используется from."
+    },
+    "quiz": {
+      "prompt": "Many people ___ from seasonal allergies.",
+      "options": [
+        "depend",
+        "recover",
+        "suffer",
+        "protect"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: suffer from. Для причины заболевания обычно используется from."
+    }
+  },
+  {
+    "id": "coll_int_040_take_medicine",
+    "order": 40,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "take medicine",
+    "translation": "принимать лекарство",
+    "explanation": "Употреблять назначенный или необходимый лекарственный препарат.",
+    "patterns": [
+      "take medicine",
+      "take your medication",
+      "take medicine twice a day"
+    ],
+    "related": [
+      "follow a prescription — соблюдать назначение врача"
+    ],
+    "examples": [
+      {
+        "en": "Remember to take your medicine after dinner.",
+        "ru": "Не забудь принять лекарство после ужина."
+      },
+      {
+        "en": "She takes medication for high blood pressure.",
+        "ru": "Она принимает лекарство от высокого давления."
+      },
+      {
+        "en": "Do not take this medicine on an empty stomach.",
+        "ru": "Не принимайте это лекарство натощак."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "eat medicine",
+      "right": "take medicine",
+      "note": "Лекарства обычно take, даже если это таблетка."
+    },
+    "quiz": {
+      "prompt": "Remember to ___ your medicine after dinner.",
+      "options": [
+        "eat",
+        "do",
+        "make",
+        "take"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: take medicine. Лекарства обычно take, даже если это таблетка."
+    }
+  },
+  {
+    "id": "coll_int_041_get_some_exercise",
+    "order": 41,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "get some exercise",
+    "translation": "получить физическую нагрузку, позаниматься",
+    "explanation": "Выполнить достаточно физической активности, особенно в повседневной жизни.",
+    "patterns": [
+      "get some exercise",
+      "get regular exercise",
+      "do some exercise"
+    ],
+    "related": [
+      "be physically active — быть физически активным"
+    ],
+    "examples": [
+      {
+        "en": "A short walk is a good way to get some exercise.",
+        "ru": "Короткая прогулка — хороший способ немного подвигаться."
+      },
+      {
+        "en": "I cycle to work so that I get regular exercise.",
+        "ru": "Я езжу на работу на велосипеде, чтобы регулярно получать физическую нагрузку."
+      },
+      {
+        "en": "Children need to get plenty of exercise.",
+        "ru": "Детям необходимо много двигаться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make exercise",
+      "right": "get some exercise",
+      "note": "Можно get some exercise или do some exercise, но не make exercise."
+    },
+    "quiz": {
+      "prompt": "A short walk is a good way to ___ some exercise.",
+      "options": [
+        "get",
+        "collect",
+        "earn",
+        "receive"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: get some exercise. Можно get some exercise или do some exercise, но не make exercise."
+    }
+  },
+  {
+    "id": "coll_int_042_maintain_a_healthy_diet",
+    "order": 42,
+    "level": "Intermediate",
+    "category": "HEALTH",
+    "phrase": "maintain a healthy diet",
+    "translation": "поддерживать здоровый рацион",
+    "explanation": "Регулярно придерживаться сбалансированного и полезного питания.",
+    "patterns": [
+      "maintain a healthy diet",
+      "follow a balanced diet",
+      "a healthy, varied diet"
+    ],
+    "related": [
+      "eat a balanced diet — сбалансированно питаться"
+    ],
+    "examples": [
+      {
+        "en": "It can be difficult to maintain a healthy diet while travelling.",
+        "ru": "Во время путешествия бывает трудно придерживаться здорового питания."
+      },
+      {
+        "en": "A varied menu helps you maintain a balanced diet.",
+        "ru": "Разнообразное меню помогает поддерживать сбалансированный рацион."
+      },
+      {
+        "en": "The programme encourages children to maintain healthy eating habits.",
+        "ru": "Программа поощряет детей придерживаться здоровых пищевых привычек."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "support a healthy diet",
+      "right": "maintain a healthy diet",
+      "note": "Для продолжительного соблюдения режима естественно maintain или follow."
+    },
+    "quiz": {
+      "prompt": "It can be difficult to ___ a healthy diet while travelling.",
+      "options": [
+        "carry",
+        "maintain",
+        "support",
+        "save"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: maintain a healthy diet. Для продолжительного соблюдения режима естественно maintain или follow."
+    }
+  },
+  {
+    "id": "coll_int_043_browse_the_web",
+    "order": 43,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "browse the web",
+    "translation": "просматривать сайты в интернете",
+    "explanation": "Переходить по веб-страницам и читать информацию без обязательно точного поискового запроса.",
+    "patterns": [
+      "browse the web",
+      "browse online",
+      "browse a website"
+    ],
+    "related": [
+      "search the web — искать информацию в интернете"
+    ],
+    "examples": [
+      {
+        "en": "I was browsing the web when I found the article.",
+        "ru": "Я просматривал сайты, когда нашёл эту статью."
+      },
+      {
+        "en": "She browses the web on her tablet.",
+        "ru": "Она просматривает интернет на планшете."
+      },
+      {
+        "en": "You can browse the website by category.",
+        "ru": "Сайт можно просматривать по категориям."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "browse in the web",
+      "right": "browse the web",
+      "note": "Перед the web предлог in не нужен."
+    },
+    "quiz": {
+      "prompt": "I was just ___ the web when I found the course.",
+      "options": [
+        "watching",
+        "reading",
+        "browsing",
+        "looking"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: browse the web. Перед the web предлог in не нужен."
+    }
+  },
+  {
+    "id": "coll_int_044_install_software",
+    "order": 44,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "install software",
+    "translation": "установить программное обеспечение",
+    "explanation": "Добавить программу на устройство и подготовить её к работе.",
+    "patterns": [
+      "install software",
+      "install a program/app",
+      "install software on a device"
+    ],
+    "related": [
+      "run the installer — запустить установщик"
+    ],
+    "examples": [
+      {
+        "en": "You need to install the software before the meeting.",
+        "ru": "Перед встречей нужно установить программу."
+      },
+      {
+        "en": "The technician installed new software on every laptop.",
+        "ru": "Техник установил новое программное обеспечение на каждый ноутбук."
+      },
+      {
+        "en": "Only install software from trusted sources.",
+        "ru": "Устанавливайте программы только из надёжных источников."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "put software to the computer",
+      "right": "install software on the computer",
+      "note": "Программу install on устройство."
+    },
+    "quiz": {
+      "prompt": "You need to ___ the software before you can use it.",
+      "options": [
+        "put",
+        "set",
+        "place",
+        "install"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: install software. Программу install on устройство."
+    }
+  },
+  {
+    "id": "coll_int_045_update_an_app",
+    "order": 45,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "update an app",
+    "translation": "обновить приложение",
+    "explanation": "Установить более новую версию приложения, обычно с исправлениями и новыми функциями.",
+    "patterns": [
+      "update an app",
+      "update to the latest version",
+      "install an update"
+    ],
+    "related": [
+      "upgrade software — перейти на более новую или мощную версию"
+    ],
+    "examples": [
+      {
+        "en": "Please update the app to the latest version.",
+        "ru": "Пожалуйста, обновите приложение до последней версии."
+      },
+      {
+        "en": "The phone updates most apps automatically.",
+        "ru": "Телефон обновляет большинство приложений автоматически."
+      },
+      {
+        "en": "I cannot log in until I update the app.",
+        "ru": "Я не могу войти, пока не обновлю приложение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "renew the app",
+      "right": "update the app",
+      "note": "Для новой версии программы используется update."
+    },
+    "quiz": {
+      "prompt": "To install the latest version, you need to ___ the app.",
+      "options": [
+        "update",
+        "charge",
+        "browse",
+        "save"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: update an app. Для новой версии программы используется update."
+    }
+  },
+  {
+    "id": "coll_int_046_save_a_file",
+    "order": 46,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "save a file",
+    "translation": "сохранить файл",
+    "explanation": "Записать изменения в файл, чтобы они не были потеряны.",
+    "patterns": [
+      "save a file",
+      "save changes",
+      "save a file as ..."
+    ],
+    "related": [
+      "back up a file — создать резервную копию файла"
+    ],
+    "examples": [
+      {
+        "en": "Press Ctrl+S to save the file.",
+        "ru": "Нажмите Ctrl+S, чтобы сохранить файл."
+      },
+      {
+        "en": "Remember to save your changes before closing the document.",
+        "ru": "Не забудьте сохранить изменения перед закрытием документа."
+      },
+      {
+        "en": "She saved the file as a PDF.",
+        "ru": "Она сохранила файл в формате PDF."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "keep the file by Ctrl+S",
+      "right": "save the file by pressing Ctrl+S",
+      "note": "Для записи файла на устройство используется save."
+    },
+    "quiz": {
+      "prompt": "Press Ctrl+S to ___ the file.",
+      "options": [
+        "hold",
+        "save",
+        "collect",
+        "carry"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: save a file. Для записи файла на устройство используется save."
+    }
+  },
+  {
+    "id": "coll_int_047_charge_a_device",
+    "order": 47,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "charge a device",
+    "translation": "зарядить устройство",
+    "explanation": "Пополнить заряд аккумулятора телефона, планшета или другого устройства.",
+    "patterns": [
+      "charge a device",
+      "charge a phone/battery",
+      "fully charge"
+    ],
+    "related": [
+      "battery charger — зарядное устройство"
+    ],
+    "examples": [
+      {
+        "en": "I need to charge my phone before we leave.",
+        "ru": "Мне нужно зарядить телефон перед выходом."
+      },
+      {
+        "en": "The device takes two hours to charge fully.",
+        "ru": "Устройство полностью заряжается за два часа."
+      },
+      {
+        "en": "Can I charge my laptop here?",
+        "ru": "Можно здесь зарядить ноутбук?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "load the phone",
+      "right": "charge the phone",
+      "note": "Аккумулятор или устройство charge."
+    },
+    "quiz": {
+      "prompt": "I need to ___ my phone before the journey.",
+      "options": [
+        "load",
+        "fill",
+        "charge",
+        "pack"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: charge a device. Аккумулятор или устройство charge."
+    }
+  },
+  {
+    "id": "coll_int_048_protect_personal_data",
+    "order": 48,
+    "level": "Intermediate",
+    "category": "TECHNOLOGY",
+    "phrase": "protect personal data",
+    "translation": "защищать персональные данные",
+    "explanation": "Предотвращать несанкционированный доступ, потерю или раскрытие личной информации.",
+    "patterns": [
+      "protect personal data",
+      "protect data from theft",
+      "data protection"
+    ],
+    "related": [
+      "keep information secure — обеспечивать безопасность информации"
+    ],
+    "examples": [
+      {
+        "en": "Use a strong password to protect your personal data.",
+        "ru": "Используйте надёжный пароль для защиты персональных данных."
+      },
+      {
+        "en": "The law requires companies to protect customer data.",
+        "ru": "Закон требует от компаний защищать данные клиентов."
+      },
+      {
+        "en": "Two-factor authentication helps protect accounts from attack.",
+        "ru": "Двухфакторная аутентификация помогает защищать аккаунты от атак."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "defend data with a password",
+      "right": "protect data with a password",
+      "note": "В нейтральном контексте безопасности данных обычно используется protect или secure."
+    },
+    "quiz": {
+      "prompt": "Use a strong password to ___ your personal data.",
+      "options": [
+        "browse",
+        "install",
+        "charge",
+        "protect"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: protect personal data. В нейтральном контексте безопасности данных обычно используется protect или secure."
+    }
+  },
+  {
+    "id": "coll_int_049_make_a_decision",
+    "order": 49,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "make a decision",
+    "translation": "принять решение",
+    "explanation": "Выбрать один вариант после размышления.",
+    "patterns": [
+      "make a decision",
+      "make an important/final decision",
+      "make a decision about something"
+    ],
+    "related": [
+      "reach a decision — прийти к решению"
+    ],
+    "examples": [
+      {
+        "en": "We need to make a decision by Friday.",
+        "ru": "Нам нужно принять решение до пятницы."
+      },
+      {
+        "en": "She made the difficult decision to move abroad.",
+        "ru": "Она приняла трудное решение переехать за границу."
+      },
+      {
+        "en": "Do not make a decision when you are angry.",
+        "ru": "Не принимайте решения, когда злитесь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do a decision",
+      "right": "make a decision",
+      "note": "Decision образует устойчивое сочетание с make."
+    },
+    "quiz": {
+      "prompt": "We need to ___ a decision before the end of the day.",
+      "options": [
+        "make",
+        "do",
+        "put",
+        "create"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: make a decision. Decision образует устойчивое сочетание с make."
+    }
+  },
+  {
+    "id": "coll_int_050_do_the_shopping",
+    "order": 50,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "do the shopping",
+    "translation": "делать покупки",
+    "explanation": "Покупать продукты и другие необходимые повседневные вещи.",
+    "patterns": [
+      "do the shopping",
+      "go shopping",
+      "do the weekly shopping"
+    ],
+    "related": [
+      "shopping list — список покупок"
+    ],
+    "examples": [
+      {
+        "en": "I usually do the shopping on Saturday.",
+        "ru": "Обычно я делаю покупки в субботу."
+      },
+      {
+        "en": "Can you do the shopping on your way home?",
+        "ru": "Можешь купить продукты по дороге домой?"
+      },
+      {
+        "en": "We did the weekly shopping online.",
+        "ru": "Мы сделали еженедельные покупки через интернет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make the shopping",
+      "right": "do the shopping",
+      "note": "С существительным shopping в этой конструкции употребляется do."
+    },
+    "quiz": {
+      "prompt": "I usually ___ the shopping on Saturday morning.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "go"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: do the shopping. С существительным shopping в этой конструкции употребляется do."
+    }
+  },
+  {
+    "id": "coll_int_051_have_a_break",
+    "order": 51,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "have a break",
+    "translation": "сделать перерыв",
+    "explanation": "Ненадолго прекратить работу или занятие, чтобы отдохнуть.",
+    "patterns": [
+      "have a break",
+      "take a break",
+      "have a short/lunch break"
+    ],
+    "related": [
+      "break time — время перерыва"
+    ],
+    "examples": [
+      {
+        "en": "Let us have a short break.",
+        "ru": "Давайте сделаем короткий перерыв."
+      },
+      {
+        "en": "We had a coffee break at eleven.",
+        "ru": "В одиннадцать у нас был перерыв на кофе."
+      },
+      {
+        "en": "You should have a break after working for two hours.",
+        "ru": "После двух часов работы стоит сделать перерыв."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "make a break for ten minutes",
+      "right": "have a break for ten minutes",
+      "note": "Для отдыха обычно have/take a break."
+    },
+    "quiz": {
+      "prompt": "Let us ___ a short break before the next task.",
+      "options": [
+        "make",
+        "do",
+        "have",
+        "spend"
+      ],
+      "correct_index": 2,
+      "explanation": "Правильное сочетание: have a break. Для отдыха обычно have/take a break."
+    }
+  },
+  {
+    "id": "coll_int_052_take_a_shower",
+    "order": 52,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "take a shower",
+    "translation": "принять душ",
+    "explanation": "Мыться под душем. В британском английском также очень часто have a shower.",
+    "patterns": [
+      "take a shower",
+      "have a shower (BrE)",
+      "take a quick/cold shower"
+    ],
+    "related": [
+      "take a bath — принять ванну"
+    ],
+    "examples": [
+      {
+        "en": "I usually take a shower after the gym.",
+        "ru": "Обычно после спортзала я принимаю душ."
+      },
+      {
+        "en": "She took a quick shower before breakfast.",
+        "ru": "Перед завтраком она быстро приняла душ."
+      },
+      {
+        "en": "A cold shower can help you wake up.",
+        "ru": "Холодный душ может помочь проснуться."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do a shower",
+      "right": "take a shower",
+      "note": "Обычно take a shower; в британском английском также have a shower."
+    },
+    "quiz": {
+      "prompt": "I usually ___ a shower after the gym.",
+      "options": [
+        "do",
+        "make",
+        "wash",
+        "take"
+      ],
+      "correct_index": 3,
+      "explanation": "Правильное сочетание: take a shower. Обычно take a shower; в британском английском также have a shower."
+    }
+  },
+  {
+    "id": "coll_int_053_waste_time",
+    "order": 53,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "waste time",
+    "translation": "тратить время впустую",
+    "explanation": "Использовать время без пользы или на ненужное действие.",
+    "patterns": [
+      "waste time",
+      "waste time doing something",
+      "a waste of time"
+    ],
+    "related": [
+      "save time — экономить время"
+    ],
+    "examples": [
+      {
+        "en": "Do not waste time worrying about small mistakes.",
+        "ru": "Не трать время на переживания из-за мелких ошибок."
+      },
+      {
+        "en": "We wasted an hour looking for the address.",
+        "ru": "Мы потратили впустую час, разыскивая адрес."
+      },
+      {
+        "en": "The meeting was a complete waste of time.",
+        "ru": "Встреча оказалась полной потерей времени."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "lose time on social media",
+      "right": "waste time on social media",
+      "note": "Lose time возможно в отдельных контекстах, но «тратить впустую» обычно waste time."
+    },
+    "quiz": {
+      "prompt": "Stop ___ time on tasks that do not matter.",
+      "options": [
+        "wasting",
+        "missing",
+        "throwing",
+        "dropping"
+      ],
+      "correct_index": 0,
+      "explanation": "Правильное сочетание: waste time. Lose time возможно в отдельных контекстах, но «тратить впустую» обычно waste time."
+    }
+  },
+  {
+    "id": "coll_int_054_make_an_appointment",
+    "order": 54,
+    "level": "Intermediate",
+    "category": "EVERYDAY",
+    "phrase": "make an appointment",
+    "translation": "записаться на приём, назначить встречу",
+    "explanation": "Договориться о конкретном времени встречи с врачом, специалистом или организацией.",
+    "patterns": [
+      "make an appointment",
+      "make an appointment with someone",
+      "make an appointment for a date/time"
+    ],
+    "related": [
+      "book an appointment — записаться на приём"
+    ],
+    "examples": [
+      {
+        "en": "I need to make an appointment with the dentist.",
+        "ru": "Мне нужно записаться к стоматологу."
+      },
+      {
+        "en": "She made an appointment for Tuesday morning.",
+        "ru": "Она записалась на вторник утром."
+      },
+      {
+        "en": "You can make an appointment online.",
+        "ru": "Записаться на приём можно через интернет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "do an appointment",
+      "right": "make an appointment",
+      "note": "Appointment обычно make или book."
+    },
+    "quiz": {
+      "prompt": "I need to make an ___ with the dentist.",
+      "options": [
+        "arrangement",
+        "appointment",
+        "interview",
+        "agreement"
+      ],
+      "correct_index": 1,
+      "explanation": "Правильное сочетание: make an appointment. Appointment обычно make или book."
+    }
+  }
+]

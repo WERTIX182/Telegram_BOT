@@ -23,4 +23,4 @@ __pycache__/
 
 
 # Docker volume with runtime data
-data/
+/data/

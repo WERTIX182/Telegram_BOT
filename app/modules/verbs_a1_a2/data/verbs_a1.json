@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "verb_001_be",
+    "order": 1,
+    "level": "A1",
+    "category": "Core verbs",
+    "title_en": "be",
+    "title_ru": "быть; являться; находиться",
+    "rule": "Глагол be связывает подлежащее с признаком, профессией, возрастом или местом. В настоящем времени выбираем am, is или are.",
+    "forms": [
+      "be — was/were — been",
+      "I am; he/she/it is; we/you/they are"
+    ],
+    "meanings": [
+      "состояние или характеристика",
+      "профессия, возраст, происхождение",
+      "местонахождение"
+    ],
+    "contrast": "В русском языке в настоящем времени «быть» часто опускается, но в английском предложении форма be обязательна.",
+    "examples": [
+      {
+        "en": "I am tired.",
+        "ru": "Я устал."
+      },
+      {
+        "en": "She is a doctor.",
+        "ru": "Она врач."
+      },
+      {
+        "en": "They are at home.",
+        "ru": "Они дома."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He very busy.",
+      "right": "He is very busy.",
+      "note": "После подлежащего нужен глагол-связка is."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "My friends is here.",
+        "My friends are here.",
+        "My friends be here."
+      ],
+      "correct_index": 1,
+      "explanation": "Friends — множественное число, поэтому нужна форма are."
+    }
+  },
+  {
+    "id": "verb_002_have",
+    "order": 2,
+    "level": "A1",
+    "category": "Core verbs",
+    "title_en": "have",
+    "title_ru": "иметь; обладать",
+    "rule": "Have выражает принадлежность, отношения и некоторые состояния. В 3-м лице единственного числа используется has.",
+    "forms": [
+      "have — had — had",
+      "I/you/we/they have; he/she/it has"
+    ],
+    "meanings": [
+      "иметь предмет",
+      "иметь родственников или особенности",
+      "в устойчивых сочетаниях: have breakfast, have a shower"
+    ],
+    "contrast": "В британском английском для владения часто встречается have got, но в вопросах и отрицаниях нельзя смешивать две модели.",
+    "examples": [
+      {
+        "en": "I have a new phone.",
+        "ru": "У меня новый телефон."
+      },
+      {
+        "en": "She has two brothers.",
+        "ru": "У неё два брата."
+      },
+      {
+        "en": "We have breakfast at seven.",
+        "ru": "Мы завтракаем в семь."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Does she has a car?",
+      "right": "Does she have a car?",
+      "note": "После does используется начальная форма have."
+    },
+    "quiz": {
+      "prompt": "Complete: Tom ___ a small dog.",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "correct_index": 1,
+      "explanation": "Tom соответствует he, поэтому в Present Simple нужна форма has."
+    }
+  },
+  {
+    "id": "verb_003_do",
+    "order": 3,
+    "level": "A1",
+    "category": "Core verbs",
+    "title_en": "do",
+    "title_ru": "делать; выполнять",
+    "rule": "Do обозначает выполнение действия, работы или обязанности. Также do служит вспомогательным глаголом в Present Simple.",
+    "forms": [
+      "do — did — done",
+      "I/you/we/they do; he/she/it does"
+    ],
+    "meanings": [
+      "выполнять работу или задание",
+      "заниматься деятельностью",
+      "строить вопросы и отрицания в Present Simple"
+    ],
+    "contrast": "После do/does в вопросе основной глагол остаётся в начальной форме.",
+    "examples": [
+      {
+        "en": "I do my homework after dinner.",
+        "ru": "Я делаю домашнее задание после ужина."
+      },
+      {
+        "en": "She does yoga twice a week.",
+        "ru": "Она занимается йогой дважды в неделю."
+      },
+      {
+        "en": "Do you work here?",
+        "ru": "Ты здесь работаешь?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Does he works here?",
+      "right": "Does he work here?",
+      "note": "Окончание -s уже выражено формой does."
+    },
+    "quiz": {
+      "prompt": "Choose the correct question.",
+      "options": [
+        "Do she like tea?",
+        "Does she likes tea?",
+        "Does she like tea?"
+      ],
+      "correct_index": 2,
+      "explanation": "После does употребляется базовая форма like."
+    }
+  },
+  {
+    "id": "verb_004_go_come",
+    "order": 4,
+    "level": "A1",
+    "category": "Movement",
+    "title_en": "go vs come",
+    "title_ru": "идти/ехать туда и приходить/приезжать сюда",
+    "rule": "Go описывает движение от говорящего или текущего места, а come — движение к говорящему, слушателю или месту встречи.",
+    "forms": [
+      "go — went — gone",
+      "come — came — come"
+    ],
+    "meanings": [
+      "go: двигаться туда",
+      "come: двигаться сюда или к адресату",
+      "оба глагола употребляются без to перед home"
+    ],
+    "contrast": "Выбор зависит не от русского перевода, а от направления относительно говорящего или точки встречи.",
+    "examples": [
+      {
+        "en": "I go to work by bus.",
+        "ru": "Я езжу на работу на автобусе."
+      },
+      {
+        "en": "Come here, please.",
+        "ru": "Подойди сюда, пожалуйста."
+      },
+      {
+        "en": "Are you coming to my party?",
+        "ru": "Ты придёшь на мою вечеринку?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I go home to you now.",
+      "right": "I am coming to you now.",
+      "note": "При движении к собеседнику обычно используется come."
+    },
+    "quiz": {
+      "prompt": "Your friend is waiting at home. You say: “I’m ___ now.”",
+      "options": [
+        "going",
+        "coming",
+        "gone"
+      ],
+      "correct_index": 1,
+      "explanation": "Вы движетесь к другу, поэтому естественно coming."
+    }
+  },
+  {
+    "id": "verb_005_get",
+    "order": 5,
+    "level": "A1",
+    "category": "Core verbs",
+    "title_en": "get",
+    "title_ru": "получать; становиться; добираться",
+    "rule": "Get — очень частотный глагол. Его значение определяется дополнением и контекстом.",
+    "forms": [
+      "get — got — got/gotten",
+      "get something; get + adjective; get to + place"
+    ],
+    "meanings": [
+      "получать",
+      "становиться",
+      "добираться до места"
+    ],
+    "contrast": "С home употребляется get home без предлога to.",
+    "examples": [
+      {
+        "en": "I got an email from Anna.",
+        "ru": "Я получил письмо от Анны."
+      },
+      {
+        "en": "It is getting dark.",
+        "ru": "Темнеет."
+      },
+      {
+        "en": "What time did you get home?",
+        "ru": "Во сколько ты добрался домой?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We got to home late.",
+      "right": "We got home late.",
+      "note": "Перед home после get предлог to не нужен."
+    },
+    "quiz": {
+      "prompt": "Complete: It’s ___ cold outside.",
+      "options": [
+        "getting",
+        "getting to",
+        "gotten at"
+      ],
+      "correct_index": 0,
+      "explanation": "Get + adjective означает постепенное изменение состояния."
+    }
+  },
+  {
+    "id": "verb_006_make_do",
+    "order": 6,
+    "level": "A1",
+    "category": "Confusing verbs",
+    "title_en": "make vs do",
+    "title_ru": "создавать и выполнять",
+    "rule": "Make обычно означает создать или произвести результат, а do — выполнить работу, задачу или деятельность.",
+    "forms": [
+      "make — made — made",
+      "do — did — done"
+    ],
+    "meanings": [
+      "make a cake/a plan/a mistake",
+      "do homework/housework/a job",
+      "некоторые сочетания нужно запоминать как коллокации"
+    ],
+    "contrast": "Нельзя выбирать глагол только по русскому слову «делать»: важна устойчивая сочетаемость.",
+    "examples": [
+      {
+        "en": "She made a chocolate cake.",
+        "ru": "Она приготовила шоколадный торт."
+      },
+      {
+        "en": "I need to do the washing-up.",
+        "ru": "Мне нужно вымыть посуду."
+      },
+      {
+        "en": "We made a decision.",
+        "ru": "Мы приняли решение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I made my homework.",
+      "right": "I did my homework.",
+      "note": "С homework употребляется do."
+    },
+    "quiz": {
+      "prompt": "Choose the natural phrase.",
+      "options": [
+        "do a mistake",
+        "make a mistake",
+        "make homework"
+      ],
+      "correct_index": 1,
+      "explanation": "Устойчивое сочетание — make a mistake."
+    }
+  },
+  {
+    "id": "verb_007_take_bring",
+    "order": 7,
+    "level": "A1",
+    "category": "Movement",
+    "title_en": "take vs bring",
+    "title_ru": "уносить/отвозить и приносить/привозить",
+    "rule": "Take направляет предмет или человека от текущей точки, bring — к говорящему, слушателю или месту назначения.",
+    "forms": [
+      "take — took — taken",
+      "bring — brought — brought"
+    ],
+    "meanings": [
+      "take this to the office",
+      "bring something here",
+      "take также означает брать и ехать транспортом"
+    ],
+    "contrast": "Как и с go/come, выбор определяется направлением.",
+    "examples": [
+      {
+        "en": "Please take these documents to Kate.",
+        "ru": "Отнеси эти документы Кейт."
+      },
+      {
+        "en": "Can you bring me some water?",
+        "ru": "Можешь принести мне воды?"
+      },
+      {
+        "en": "We took a taxi.",
+        "ru": "Мы взяли такси."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Bring this letter to the post office.",
+      "right": "Take this letter to the post office.",
+      "note": "Письмо перемещают от текущего места к почте."
+    },
+    "quiz": {
+      "prompt": "You are at home and ask a guest: “Please ___ your passport with you.”",
+      "options": [
+        "take",
+        "bring",
+        "brought"
+      ],
+      "correct_index": 1,
+      "explanation": "Гость принесёт паспорт к вам, поэтому bring."
+    }
+  },
+  {
+    "id": "verb_008_give",
+    "order": 8,
+    "level": "A1",
+    "category": "Core verbs",
+    "title_en": "give",
+    "title_ru": "давать; передавать",
+    "rule": "Give обычно строится по модели give someone something или give something to someone.",
+    "forms": [
+      "give — gave — given",
+      "give + person + thing; give + thing + to + person"
+    ],
+    "meanings": [
+      "давать предмет",
+      "передавать информацию или совет",
+      "устойчивые сочетания: give a call, give an answer"
+    ],
+    "contrast": "Если сначала назван предмет, перед человеком обычно нужен to.",
+    "examples": [
+      {
+        "en": "Give me the key, please.",
+        "ru": "Дай мне ключ, пожалуйста."
+      },
+      {
+        "en": "She gave the book to Tom.",
+        "ru": "Она отдала книгу Тому."
+      },
+      {
+        "en": "Can you give me some advice?",
+        "ru": "Можешь дать мне совет?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She gave to me a present.",
+      "right": "She gave me a present.",
+      "note": "В модели give someone something предлог не нужен."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "He gave me a ticket.",
+        "He gave me to a ticket.",
+        "He gave a ticket me."
+      ],
+      "correct_index": 0,
+      "explanation": "После give можно сразу поставить получателя, а затем предмет."
+    }
+  },
+  {
+    "id": "verb_009_say_tell",
+    "order": 9,
+    "level": "A1",
+    "category": "Confusing verbs",
+    "title_en": "say vs tell",
+    "title_ru": "сказать и рассказать кому-то",
+    "rule": "Say фокусируется на словах, а tell обычно требует указания человека: tell me, tell her.",
+    "forms": [
+      "say — said — said",
+      "tell — told — told"
+    ],
+    "meanings": [
+      "say something",
+      "say something to someone",
+      "tell someone something"
+    ],
+    "contrast": "После tell безличное дополнение обычно нельзя опускать, а после say перед человеком нужен to.",
+    "examples": [
+      {
+        "en": "She said hello.",
+        "ru": "Она поздоровалась."
+      },
+      {
+        "en": "He told me the truth.",
+        "ru": "Он сказал мне правду."
+      },
+      {
+        "en": "What did you say to Anna?",
+        "ru": "Что ты сказал Анне?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He said me the answer.",
+      "right": "He told me the answer.",
+      "note": "Перед человеком используем tell или say to."
+    },
+    "quiz": {
+      "prompt": "Complete: Please ___ me your name.",
+      "options": [
+        "say",
+        "tell",
+        "speak"
+      ],
+      "correct_index": 1,
+      "explanation": "Tell употребляется по модели tell someone something."
+    }
+  },
+  {
+    "id": "verb_010_speak_talk",
+    "order": 10,
+    "level": "A1",
+    "category": "Communication",
+    "title_en": "speak vs talk",
+    "title_ru": "говорить; разговаривать",
+    "rule": "Speak чаще употребляется для языков и более формальной речи, talk — для обычного разговора и общения.",
+    "forms": [
+      "speak — spoke — spoken",
+      "talk — talked — talked"
+    ],
+    "meanings": [
+      "speak English",
+      "speak to/with someone",
+      "talk to/with someone about something"
+    ],
+    "contrast": "Нельзя говорить speak about с названием языка: употребляется speak English без предлога.",
+    "examples": [
+      {
+        "en": "She speaks Spanish well.",
+        "ru": "Она хорошо говорит по-испански."
+      },
+      {
+        "en": "Can I speak to the manager?",
+        "ru": "Можно поговорить с менеджером?"
+      },
+      {
+        "en": "We talked about our holiday.",
+        "ru": "Мы поговорили об отпуске."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I talk English.",
+      "right": "I speak English.",
+      "note": "С названием языка обычно используется speak."
+    },
+    "quiz": {
+      "prompt": "Choose the best option: We ___ for an hour about school.",
+      "options": [
+        "spoke English",
+        "talked",
+        "said"
+      ],
+      "correct_index": 1,
+      "explanation": "Talked естественно описывает беседу на тему."
+    }
+  },
+  {
+    "id": "verb_011_see_look_watch",
+    "order": 11,
+    "level": "A1",
+    "category": "Perception",
+    "title_en": "see vs look vs watch",
+    "title_ru": "видеть, смотреть, наблюдать",
+    "rule": "See — замечать глазами, look — направлять взгляд, watch — наблюдать за процессом или движением.",
+    "forms": [
+      "see — saw — seen",
+      "look — looked — looked",
+      "watch — watched — watched"
+    ],
+    "meanings": [
+      "see something naturally",
+      "look at something intentionally",
+      "watch TV/a film/a match"
+    ],
+    "contrast": "После look перед объектом обычно нужен предлог at.",
+    "examples": [
+      {
+        "en": "I can see the mountains.",
+        "ru": "Я вижу горы."
+      },
+      {
+        "en": "Look at this photo.",
+        "ru": "Посмотри на эту фотографию."
+      },
+      {
+        "en": "We watched a football match.",
+        "ru": "Мы смотрели футбольный матч."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Look this picture.",
+      "right": "Look at this picture.",
+      "note": "После look перед объектом нужен at."
+    },
+    "quiz": {
+      "prompt": "Complete: We ___ a film last night.",
+      "options": [
+        "looked",
+        "saw at",
+        "watched"
+      ],
+      "correct_index": 2,
+      "explanation": "Watch употребляется, когда мы наблюдаем фильм как процесс."
+    }
+  },
+  {
+    "id": "verb_012_hear_listen",
+    "order": 12,
+    "level": "A1",
+    "category": "Perception",
+    "title_en": "hear vs listen",
+    "title_ru": "слышать и слушать",
+    "rule": "Hear означает непроизвольно воспринимать звук, listen — намеренно обращать внимание на звук.",
+    "forms": [
+      "hear — heard — heard",
+      "listen — listened — listened"
+    ],
+    "meanings": [
+      "hear a sound",
+      "listen to music/someone",
+      "can hear часто описывает способность слышать"
+    ],
+    "contrast": "После listen перед объектом требуется to.",
+    "examples": [
+      {
+        "en": "I can hear a baby crying.",
+        "ru": "Я слышу, как плачет ребёнок."
+      },
+      {
+        "en": "Listen to me, please.",
+        "ru": "Послушай меня, пожалуйста."
+      },
+      {
+        "en": "She listens to podcasts every day.",
+        "ru": "Она каждый день слушает подкасты."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I listen music.",
+      "right": "I listen to music.",
+      "note": "После listen перед объектом нужен предлог to."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Can you hear me?",
+        "Can you listen me?",
+        "Can you heard me?"
+      ],
+      "correct_index": 0,
+      "explanation": "Hear не требует предлога и после can используется базовая форма."
+    }
+  },
+  {
+    "id": "verb_013_know_meet",
+    "order": 13,
+    "level": "A1",
+    "category": "Knowledge",
+    "title_en": "know vs meet",
+    "title_ru": "знать и знакомиться/встречаться",
+    "rule": "Know описывает уже имеющееся знание или знакомство, meet — первую встречу или запланированную встречу.",
+    "forms": [
+      "know — knew — known",
+      "meet — met — met"
+    ],
+    "meanings": [
+      "know a person/fact/place",
+      "meet someone for the first time",
+      "meet someone at a time/place"
+    ],
+    "contrast": "Для первой встречи говорят Nice to meet you; если люди уже знакомы — Nice to see you.",
+    "examples": [
+      {
+        "en": "I know her brother.",
+        "ru": "Я знаю её брата."
+      },
+      {
+        "en": "We met at university.",
+        "ru": "Мы познакомились в университете."
+      },
+      {
+        "en": "I’m meeting Sam at six.",
+        "ru": "Я встречаюсь с Сэмом в шесть."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I know him yesterday.",
+      "right": "I met him yesterday.",
+      "note": "Конкретная первая встреча в прошлом выражается meet."
+    },
+    "quiz": {
+      "prompt": "Complete: Do you ___ where the station is?",
+      "options": [
+        "meet",
+        "know",
+        "knows"
+      ],
+      "correct_index": 1,
+      "explanation": "Речь идёт о знании информации, поэтому know."
+    }
+  },
+  {
+    "id": "verb_014_learn_study_teach",
+    "order": 14,
+    "level": "A1",
+    "category": "Learning",
+    "title_en": "learn vs study vs teach",
+    "title_ru": "учиться, изучать и обучать",
+    "rule": "Learn — усваивать знание или навык, study — заниматься предметом, teach — обучать другого человека.",
+    "forms": [
+      "learn — learned/learnt — learned/learnt",
+      "study — studied — studied",
+      "teach — taught — taught"
+    ],
+    "meanings": [
+      "learn to do something",
+      "study a subject",
+      "teach someone something"
+    ],
+    "contrast": "Нельзя использовать teach, когда человек сам учится.",
+    "examples": [
+      {
+        "en": "I’m learning to drive.",
+        "ru": "Я учусь водить."
+      },
+      {
+        "en": "She studies history.",
+        "ru": "Она изучает историю."
+      },
+      {
+        "en": "Mr Brown teaches us English.",
+        "ru": "Мистер Браун преподаёт нам английский."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I teach English at school as a student.",
+      "right": "I study English at school.",
+      "note": "Ученик изучает предмет: study."
+    },
+    "quiz": {
+      "prompt": "Complete: My sister ___ maths at a college. She is a lecturer.",
+      "options": [
+        "learns",
+        "studies",
+        "teaches"
+      ],
+      "correct_index": 2,
+      "explanation": "Преподаватель обучает других, поэтому teaches."
+    }
+  },
+  {
+    "id": "verb_015_like_love_enjoy",
+    "order": 15,
+    "level": "A1",
+    "category": "Preferences",
+    "title_en": "like / love / enjoy",
+    "title_ru": "нравиться; любить; получать удовольствие",
+    "rule": "После like, love и enjoy для обозначения занятия часто используется форма verb + -ing. После enjoy инфинитив с to не употребляется.",
+    "forms": [
+      "like/love/enjoy + noun",
+      "like/love/enjoy + verb-ing",
+      "would like + to-infinitive"
+    ],
+    "meanings": [
+      "like: нравиться",
+      "love: очень нравиться",
+      "enjoy: получать удовольствие от процесса"
+    ],
+    "contrast": "Would like и like строятся по-разному: would like to go, но like going.",
+    "examples": [
+      {
+        "en": "I like reading.",
+        "ru": "Мне нравится читать."
+      },
+      {
+        "en": "She loves animals.",
+        "ru": "Она любит животных."
+      },
+      {
+        "en": "We enjoyed walking by the sea.",
+        "ru": "Нам понравилось гулять у моря."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I enjoy to swim.",
+      "right": "I enjoy swimming.",
+      "note": "После enjoy используется герундий."
+    },
+    "quiz": {
+      "prompt": "Choose the correct form: He enjoys ___ photos.",
+      "options": [
+        "take",
+        "taking",
+        "to took"
+      ],
+      "correct_index": 1,
+      "explanation": "После enjoy употребляется форма на -ing."
+    }
+  },
+  {
+    "id": "verb_016_want_would_like",
+    "order": 16,
+    "level": "A1",
+    "category": "Wants",
+    "title_en": "want vs would like",
+    "title_ru": "хотеть и вежливо хотеть",
+    "rule": "Want выражает прямое желание, would like звучит мягче и часто используется в просьбах и заказах.",
+    "forms": [
+      "want + noun/to-infinitive",
+      "would like + noun/to-infinitive",
+      "Would you like ...?"
+    ],
+    "meanings": [
+      "want: обычное желание",
+      "would like: вежливое желание",
+      "Would you like ...?: предложение"
+    ],
+    "contrast": "После would like используется to-infinitive, а не форма на -ing.",
+    "examples": [
+      {
+        "en": "I want a new laptop.",
+        "ru": "Я хочу новый ноутбук."
+      },
+      {
+        "en": "I’d like to order soup.",
+        "ru": "Я хотел бы заказать суп."
+      },
+      {
+        "en": "Would you like some tea?",
+        "ru": "Хотите чаю?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I would like going home.",
+      "right": "I would like to go home.",
+      "note": "После would like нужен инфинитив с to."
+    },
+    "quiz": {
+      "prompt": "Complete politely: I ___ a glass of water, please.",
+      "options": [
+        "want",
+        "would like",
+        "am liking"
+      ],
+      "correct_index": 1,
+      "explanation": "В заказе would like звучит вежливо и естественно."
+    }
+  },
+  {
+    "id": "verb_017_need",
+    "order": 17,
+    "level": "A1",
+    "category": "Needs",
+    "title_en": "need",
+    "title_ru": "нуждаться; требоваться",
+    "rule": "Need употребляется с существительным или инфинитивом с to, когда человеку необходимо что-то иметь или сделать.",
+    "forms": [
+      "need + noun",
+      "need + to-infinitive",
+      "do not need to + verb"
+    ],
+    "meanings": [
+      "нуждаться в предмете",
+      "необходимо сделать действие",
+      "отсутствие необходимости"
+    ],
+    "contrast": "Needn’t и don’t need to выражают отсутствие необходимости, а не запрет.",
+    "examples": [
+      {
+        "en": "I need some help.",
+        "ru": "Мне нужна помощь."
+      },
+      {
+        "en": "We need to leave now.",
+        "ru": "Нам нужно уйти сейчас."
+      },
+      {
+        "en": "You don’t need to hurry.",
+        "ru": "Тебе не нужно спешить."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She needs go.",
+      "right": "She needs to go.",
+      "note": "После need перед глаголом требуется to."
+    },
+    "quiz": {
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I need buy food.",
+        "I need to buy food.",
+        "I need buying food."
+      ],
+      "correct_index": 1,
+      "explanation": "Модель need + to-infinitive."
+    }
+  },
+  {
+    "id": "verb_018_can_be_able_to",
+    "order": 18,
+    "level": "A1",
+    "category": "Ability",
+    "title_en": "can / be able to",
+    "title_ru": "мочь; быть в состоянии",
+    "rule": "Can выражает способность или возможность в настоящем. После can используется начальная форма без to. Be able to удобно для других времён.",
+    "forms": [
+      "can + base verb",
+      "could + base verb",
+      "be able to + base verb"
+    ],
+    "meanings": [
+      "уметь",
+      "иметь возможность",
+      "be able to позволяет менять время"
+    ],
+    "contrast": "После can нельзя ставить to и нельзя добавлять окончание -s.",
+    "examples": [
+      {
+        "en": "I can swim.",
+        "ru": "Я умею плавать."
+      },
+      {
+        "en": "She can speak French.",
+        "ru": "Она умеет говорить по-французски."
+      },
+      {
+        "en": "We will be able to help tomorrow.",
+        "ru": "Мы сможем помочь завтра."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He can to drive.",
+      "right": "He can drive.",
+      "note": "После can используется глагол без to."
+    },
+    "quiz": {
+      "prompt": "Complete: Maria can ___ very fast.",
+      "options": [
+        "runs",
+        "run",
+        "to run"
+      ],
+      "correct_index": 1,
+      "explanation": "После модального can используется базовая форма."
+    }
+  },
+  {
+    "id": "verb_019_must_have_to",
+    "order": 19,
+    "level": "A1",
+    "category": "Obligation",
+    "title_en": "must vs have to",
+    "title_ru": "должен; необходимо",
+    "rule": "Must часто выражает сильное личное требование или правило говорящего. Have to подчёркивает внешнюю необходимость и изменяется по временам.",
+    "forms": [
+      "must + base verb",
+      "have/has to + base verb",
+      "had to / will have to"
+    ],
+    "meanings": [
+      "обязанность",
+      "правило",
+      "внешняя необходимость"
+    ],
+    "contrast": "Mustn’t означает запрет, а don’t have to — отсутствие необходимости.",
+    "examples": [
+      {
+        "en": "You must wear a seat belt.",
+        "ru": "Ты должен пристегнуться."
+      },
+      {
+        "en": "I have to work tomorrow.",
+        "ru": "Мне нужно работать завтра."
+      },
+      {
+        "en": "You don’t have to come early.",
+        "ru": "Тебе необязательно приходить рано."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "You mustn’t come if you are busy.",
+      "right": "You don’t have to come if you are busy.",
+      "note": "Здесь нет запрета: речь об отсутствии необходимости."
+    },
+    "quiz": {
+      "prompt": "Which means “это необязательно”?",
+      "options": [
+        "You mustn’t do it.",
+        "You don’t have to do it.",
+        "You must do it."
+      ],
+      "correct_index": 1,
+      "explanation": "Don’t have to означает, что действие не является обязательным."
+    }
+  },
+  {
+    "id": "verb_020_buy_pay_cost",
+    "order": 20,
+    "level": "A1",
+    "category": "Money",
+    "title_en": "buy / pay / cost",
+    "title_ru": "покупать, платить и стоить",
+    "rule": "Buy имеет предмет покупки, pay — человека или сумму, cost описывает цену товара или услуги.",
+    "forms": [
+      "buy — bought — bought",
+      "pay — paid — paid",
+      "cost — cost — cost"
+    ],
+    "meanings": [
+      "buy something",
+      "pay someone / pay for something",
+      "something costs money"
+    ],
+    "contrast": "С pay перед предметом или услугой обычно нужен for.",
+    "examples": [
+      {
+        "en": "I bought a new coat.",
+        "ru": "Я купил новое пальто."
+      },
+      {
+        "en": "We paid for the tickets.",
+        "ru": "Мы заплатили за билеты."
+      },
+      {
+        "en": "The meal cost twenty euros.",
+        "ru": "Еда стоила двадцать евро."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I paid the coffee.",
+      "right": "I paid for the coffee.",
+      "note": "Перед предметом покупки после pay нужен for."
+    },
+    "quiz": {
+      "prompt": "Complete: How much did the hotel ___?",
+      "options": [
+        "pay",
+        "buy",
+        "cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Подлежащее hotel — услуга, цена которой описывается глаголом cost."
+    }
+  },
+  {
+    "id": "verb_021_find_look_for",
+    "order": 21,
+    "level": "A1",
+    "category": "Finding",
+    "title_en": "find vs look for",
+    "title_ru": "находить и искать",
+    "rule": "Look for описывает процесс поиска, find — результат, когда нужный предмет или человек найден.",
+    "forms": [
+      "find — found — found",
+      "look for — looked for — looked for"
+    ],
+    "meanings": [
+      "искать",
+      "находить",
+      "find out — узнавать информацию, но это отдельный фразовый глагол"
+    ],
+    "contrast": "Нельзя говорить find, если поиск ещё продолжается.",
+    "examples": [
+      {
+        "en": "I’m looking for my keys.",
+        "ru": "Я ищу ключи."
+      },
+      {
+        "en": "I found them under the sofa.",
+        "ru": "Я нашёл их под диваном."
+      },
+      {
+        "en": "Can you help me look for my phone?",
+        "ru": "Поможешь мне поискать телефон?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I find my keys now.",
+      "right": "I’m looking for my keys now.",
+      "note": "Сейчас описывается процесс поиска."
+    },
+    "quiz": {
+      "prompt": "Complete: I finally ___ my glasses in the kitchen.",
+      "options": [
+        "looked for",
+        "found",
+        "finded"
+      ],
+      "correct_index": 1,
+      "explanation": "Результат завершённого поиска выражается found."
+    }
+  },
+  {
+    "id": "verb_022_wear_carry",
+    "order": 22,
+    "level": "A1",
+    "category": "Clothes and objects",
+    "title_en": "wear vs carry",
+    "title_ru": "носить на себе и нести с собой",
+    "rule": "Wear относится к одежде, обуви и аксессуарам на человеке. Carry означает держать или переносить предмет.",
+    "forms": [
+      "wear — wore — worn",
+      "carry — carried — carried"
+    ],
+    "meanings": [
+      "wear clothes/glasses",
+      "carry a bag/box",
+      "carry может означать иметь при себе"
+    ],
+    "contrast": "По-русски оба глагола могут переводиться «носить», но в английском они не взаимозаменяемы.",
+    "examples": [
+      {
+        "en": "She is wearing a blue dress.",
+        "ru": "На ней синее платье."
+      },
+      {
+        "en": "He carried the suitcase upstairs.",
+        "ru": "Он отнёс чемодан наверх."
+      },
+      {
+        "en": "I always carry an umbrella.",
+        "ru": "Я всегда ношу с собой зонт."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He carries a black jacket today.",
+      "right": "He is wearing a black jacket today.",
+      "note": "Одежда находится на человеке, поэтому wear."
+    },
+    "quiz": {
+      "prompt": "Choose the correct verb: She ___ glasses.",
+      "options": [
+        "wears",
+        "carries",
+        "brings"
+      ],
+      "correct_index": 0,
+      "explanation": "Очки носят на себе: wear glasses."
+    }
+  },
+  {
+    "id": "verb_023_live_stay",
+    "order": 23,
+    "level": "A1",
+    "category": "Places",
+    "title_en": "live vs stay",
+    "title_ru": "жить постоянно и временно останавливаться",
+    "rule": "Live описывает постоянное или длительное место жительства, stay — временное пребывание.",
+    "forms": [
+      "live — lived — lived",
+      "stay — stayed — stayed"
+    ],
+    "meanings": [
+      "live in a city/country",
+      "stay at a hotel/with friends",
+      "stay также означает оставаться"
+    ],
+    "contrast": "Для гостиницы и короткой поездки обычно используется stay, а не live.",
+    "examples": [
+      {
+        "en": "I live in Warsaw.",
+        "ru": "Я живу в Варшаве."
+      },
+      {
+        "en": "We stayed at a small hotel.",
+        "ru": "Мы остановились в небольшом отеле."
+      },
+      {
+        "en": "Stay here, please.",
+        "ru": "Останься здесь, пожалуйста."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We lived at a hotel for two nights.",
+      "right": "We stayed at a hotel for two nights.",
+      "note": "Короткое временное проживание выражается stay."
+    },
+    "quiz": {
+      "prompt": "Complete: Where are you ___ during your holiday?",
+      "options": [
+        "living forever",
+        "staying",
+        "stayed to"
+      ],
+      "correct_index": 1,
+      "explanation": "Временное место проживания во время отпуска — staying."
+    }
+  },
+  {
+    "id": "verb_024_start_begin",
+    "order": 24,
+    "level": "A1",
+    "category": "Beginning",
+    "title_en": "start vs begin",
+    "title_ru": "начинать",
+    "rule": "Start и begin часто взаимозаменяемы. Start немного чаще встречается в повседневной речи и также употребляется с машинами и бизнесом.",
+    "forms": [
+      "start — started — started",
+      "begin — began — begun",
+      "start/begin + noun, to-infinitive or verb-ing"
+    ],
+    "meanings": [
+      "начинать действие",
+      "начинаться",
+      "start a car/business"
+    ],
+    "contrast": "После start и begin возможны как to-infinitive, так и -ing без существенной разницы в большинстве простых случаев.",
+    "examples": [
+      {
+        "en": "The lesson starts at nine.",
+        "ru": "Урок начинается в девять."
+      },
+      {
+        "en": "It began to rain.",
+        "ru": "Начался дождь."
+      },
+      {
+        "en": "She started working here in May.",
+        "ru": "Она начала работать здесь в мае."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The film start at eight.",
+      "right": "The film starts at eight.",
+      "note": "С подлежащим film в Present Simple нужен -s."
+    },
+    "quiz": {
+      "prompt": "Complete: The meeting ___ at ten yesterday.",
+      "options": [
+        "began",
+        "begun",
+        "begin"
+      ],
+      "correct_index": 0,
+      "explanation": "Past Simple от begin — began."
+    }
+  },
+  {
+    "id": "verb_025_stop_finish",
+    "order": 25,
+    "level": "A1",
+    "category": "Completion",
+    "title_en": "stop vs finish",
+    "title_ru": "останавливаться и заканчивать",
+    "rule": "Stop означает прекратить действие или движение, finish — довести дело до конца.",
+    "forms": [
+      "stop — stopped — stopped",
+      "finish — finished — finished",
+      "stop/finish + verb-ing"
+    ],
+    "meanings": [
+      "stop doing: прекратить действие",
+      "finish doing: закончить выполнение",
+      "stop to do: остановиться, чтобы сделать другое"
+    ],
+    "contrast": "После finish перед следующим глаголом используется форма -ing, не to-infinitive.",
+    "examples": [
+      {
+        "en": "The bus stopped near the station.",
+        "ru": "Автобус остановился у станции."
+      },
+      {
+        "en": "I finished writing the report.",
+        "ru": "Я закончил писать отчёт."
+      },
+      {
+        "en": "Please stop talking.",
+        "ru": "Пожалуйста, перестаньте разговаривать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I finished to clean the room.",
+      "right": "I finished cleaning the room.",
+      "note": "После finish нужен герундий."
+    },
+    "quiz": {
+      "prompt": "Choose the correct form: She finished ___ at six.",
+      "options": [
+        "work",
+        "to work",
+        "working"
+      ],
+      "correct_index": 2,
+      "explanation": "После finish употребляется -ing."
+    }
+  }
+]

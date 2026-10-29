@@ -1,0 +1,737 @@
+[
+  {
+    "id": "a2_36_comparatives",
+    "order": 36,
+    "level": "A2",
+    "category": "Comparison",
+    "title_en": "Comparative adjectives",
+    "title_ru": "Сравнительная степень прилагательных",
+    "rule": "Сравнительная степень используется для сопоставления двух людей, предметов или ситуаций. Короткие прилагательные получают -er, длинные — more. Есть неправильные формы.",
+    "forms": ["cheap → cheaper", "interesting → more interesting", "good → better; bad → worse", "... than ..."],
+    "examples": [
+      {"en": "This task is easier than the last one.", "ru": "Это задание легче предыдущего."},
+      {"en": "The second film is more exciting.", "ru": "Второй фильм интереснее."},
+      {"en": "Today I feel better.", "ru": "Сегодня я чувствую себя лучше."}
+    ],
+    "common_mistake": {"wrong": "more cheaper", "right": "cheaper", "note": "Нельзя одновременно использовать more и окончание -er."},
+    "quizzes": [
+      {"prompt": "My new phone is ___ than my old one.", "options": ["more fast", "faster", "fastest"], "correct_index": 1, "explanation": "Короткое fast образует форму faster."},
+      {"prompt": "This book is ___ than the film.", "options": ["more interesting", "interestinger", "most interesting"], "correct_index": 0, "explanation": "Длинное прилагательное: more interesting."},
+      {"prompt": "The weather is ___ today than yesterday.", "options": ["badder", "worse", "the worst"], "correct_index": 1, "explanation": "Неправильная форма bad → worse."}
+    ]
+  },
+  {
+    "id": "a2_37_superlatives",
+    "order": 37,
+    "level": "A2",
+    "category": "Comparison",
+    "title_en": "Superlative adjectives",
+    "title_ru": "Превосходная степень прилагательных",
+    "rule": "Превосходная степень выделяет один объект из группы. Короткие прилагательные получают -est, длинные — most; обычно перед формой ставится the. Неправильные формы: best, worst, furthest/farthest.",
+    "forms": ["the oldest", "the most useful", "the best", "in the class / of the three"],
+    "examples": [
+      {"en": "She is the youngest in the family.", "ru": "Она самая младшая в семье."},
+      {"en": "It was the most difficult question.", "ru": "Это был самый трудный вопрос."},
+      {"en": "This is the best day of my life.", "ru": "Это лучший день в моей жизни."}
+    ],
+    "common_mistake": {"wrong": "the most easiest", "right": "the easiest", "note": "Используется либо most, либо -est, но не оба сразу."},
+    "quizzes": [
+      {"prompt": "Mount Everest is ___ mountain in the world.", "options": ["the highest", "higher", "the most high"], "correct_index": 0, "explanation": "Один объект выделяется из всей группы: the highest."},
+      {"prompt": "That was ___ meal on the menu.", "options": ["the more expensive", "the most expensive", "most expensive"], "correct_index": 1, "explanation": "Длинное прилагательное требует the most."},
+      {"prompt": "Who is ___ student in your class?", "options": ["the goodest", "the best", "better"], "correct_index": 1, "explanation": "Неправильная форма good → the best."}
+    ]
+  },
+  {
+    "id": "a2_38_as_as",
+    "order": 38,
+    "level": "A2",
+    "category": "Comparison",
+    "title_en": "As ... as and not as ... as",
+    "title_ru": "Конструкции as ... as и not as ... as",
+    "rule": "As + прилагательное + as показывает равенство. Not as/so + прилагательное + as означает, что один объект обладает качеством в меньшей степени.",
+    "forms": ["as tall as", "not as expensive as", "not so difficult as"],
+    "examples": [
+      {"en": "My bag is as heavy as yours.", "ru": "Моя сумка такая же тяжёлая, как твоя."},
+      {"en": "This café isn’t as crowded as the other one.", "ru": "Это кафе не такое многолюдное, как другое."},
+      {"en": "The test was not as hard as I expected.", "ru": "Тест был не таким трудным, как я ожидал."}
+    ],
+    "common_mistake": {"wrong": "as taller as", "right": "as tall as", "note": "Внутри конструкции используется обычная форма прилагательного."},
+    "quizzes": [
+      {"prompt": "Anna is ___ her sister. They are both 170 cm.", "options": ["as tall as", "taller as", "as taller than"], "correct_index": 0, "explanation": "Равенство выражается as tall as."},
+      {"prompt": "The blue car is not ___ the red one.", "options": ["as expensive as", "more expensive as", "expensiver than"], "correct_index": 0, "explanation": "После not используется as + adjective + as."},
+      {"prompt": "This exercise is ___ the first one.", "options": ["as easy as", "as easier as", "so easy than"], "correct_index": 0, "explanation": "В конструкции as ... as степень не меняется."}
+    ]
+  },
+  {
+    "id": "a2_39_going_to",
+    "order": 39,
+    "level": "A2",
+    "category": "Future forms",
+    "title_en": "Be going to",
+    "title_ru": "Be going to: планы и прогнозы по ситуации",
+    "rule": "Be going to используется для заранее принятых планов и намерений, а также для прогнозов, основанных на видимых признаках. Форма be меняется по подлежащему.",
+    "forms": ["I am going to travel.", "She is going to study.", "They are going to move."],
+    "examples": [
+      {"en": "We are going to paint the kitchen.", "ru": "Мы собираемся покрасить кухню."},
+      {"en": "Look at those clouds! It is going to rain.", "ru": "Посмотри на облака! Сейчас пойдёт дождь."},
+      {"en": "Are you going to apply for the job?", "ru": "Ты собираешься подать заявку на работу?"}
+    ],
+    "common_mistake": {"wrong": "I going to call him.", "right": "I am going to call him.", "note": "Перед going to нужна форма be."},
+    "quizzes": [
+      {"prompt": "She ___ visit her grandparents this weekend.", "options": ["is going to", "going to", "will to"], "correct_index": 0, "explanation": "С she используется is going to."},
+      {"prompt": "Look! That glass ___ fall.", "options": ["is going to", "goes to", "will going"], "correct_index": 0, "explanation": "Есть видимый признак, поэтому be going to."},
+      {"prompt": "___ they going to buy a house?", "options": ["Do", "Are", "Will"], "correct_index": 1, "explanation": "Вопрос начинается с формы be: Are."}
+    ]
+  },
+  {
+    "id": "a2_40_will",
+    "order": 40,
+    "level": "A2",
+    "category": "Future forms",
+    "title_en": "Will: predictions and instant decisions",
+    "title_ru": "Will: прогнозы и решения в момент речи",
+    "rule": "Will используется для нейтральных прогнозов, обещаний, предложений помощи и решений, принятых в момент речи. После will употребляется базовая форма глагола.",
+    "forms": ["I will / I’ll help.", "I will not / won’t go.", "Will you come?"],
+    "examples": [
+      {"en": "I think prices will rise.", "ru": "Думаю, цены вырастут."},
+      {"en": "The phone is ringing. I’ll answer it.", "ru": "Телефон звонит. Я отвечу."},
+      {"en": "Don’t worry, I won’t tell anyone.", "ru": "Не волнуйся, я никому не скажу."}
+    ],
+    "common_mistake": {"wrong": "I will to call you.", "right": "I will call you.", "note": "После will частица to не употребляется."},
+    "quizzes": [
+      {"prompt": "I’m cold. — I ___ close the window.", "options": ["am going", "will", "will to"], "correct_index": 1, "explanation": "Решение принято сейчас: will."},
+      {"prompt": "Do you think people ___ live on Mars?", "options": ["will", "are", "will to"], "correct_index": 0, "explanation": "Прогноз: will + базовая форма."},
+      {"prompt": "I promise I ___ be late.", "options": ["won’t", "don’t", "am not"], "correct_index": 0, "explanation": "Обещание о будущем: won’t."}
+    ]
+  },
+  {
+    "id": "a2_41_present_continuous_future",
+    "order": 41,
+    "level": "A2",
+    "category": "Future forms",
+    "title_en": "Present continuous for arrangements",
+    "title_ru": "Present Continuous для договорённостей",
+    "rule": "Present Continuous может описывать конкретную личную договорённость в будущем, особенно когда уже известны время, место или участники. Обычно присутствует указатель будущего времени.",
+    "forms": ["I’m meeting Sam at six.", "We’re flying on Friday."],
+    "examples": [
+      {"en": "I’m seeing the dentist tomorrow.", "ru": "Завтра я иду к стоматологу."},
+      {"en": "They are having dinner with us tonight.", "ru": "Сегодня вечером они ужинают с нами."},
+      {"en": "What are you doing this weekend?", "ru": "Что ты делаешь на выходных?"}
+    ],
+    "common_mistake": {"wrong": "I meet Anna tomorrow at six.", "right": "I’m meeting Anna tomorrow at six.", "note": "Для конкретной договорённости естественно Present Continuous."},
+    "quizzes": [
+      {"prompt": "We ___ our clients at ten tomorrow.", "options": ["meet every day", "are meeting", "will meeting"], "correct_index": 1, "explanation": "Конкретная договорённость на завтра: are meeting."},
+      {"prompt": "She ___ to Paris next Monday; the tickets are booked.", "options": ["is flying", "flies now", "will to fly"], "correct_index": 0, "explanation": "Билеты куплены, есть договорённость: is flying."},
+      {"prompt": "What ___ you doing tonight?", "options": ["do", "are", "will"], "correct_index": 1, "explanation": "Вопрос о договорённостях: What are you doing?"}
+    ]
+  },
+  {
+    "id": "a2_42_would_like",
+    "order": 42,
+    "level": "A2",
+    "category": "Requests and preferences",
+    "title_en": "Would like",
+    "title_ru": "Would like: желания и вежливые предложения",
+    "rule": "Would like — вежливый способ выразить желание или сделать предложение. После would like употребляется существительное или to + глагол. В вопросе would ставится перед подлежащим.",
+    "forms": ["I’d like some tea.", "I’d like to leave.", "Would you like ...?"],
+    "examples": [
+      {"en": "I’d like a glass of water.", "ru": "Я хотел бы стакан воды."},
+      {"en": "Would you like to join us?", "ru": "Хотите присоединиться к нам?"},
+      {"en": "She would like to study abroad.", "ru": "Она хотела бы учиться за границей."}
+    ],
+    "common_mistake": {"wrong": "I would like go.", "right": "I would like to go.", "note": "Перед глаголом после would like нужна частица to."},
+    "quizzes": [
+      {"prompt": "I’d like ___ a table for two.", "options": ["book", "to book", "booking"], "correct_index": 1, "explanation": "После would like + действие используется to-infinitive."},
+      {"prompt": "___ you like some coffee?", "options": ["Do", "Would", "Are"], "correct_index": 1, "explanation": "Вежливое предложение начинается с Would."},
+      {"prompt": "She ___ to speak to the manager.", "options": ["would likes", "would like", "likes would"], "correct_index": 1, "explanation": "После would форма like не меняется."}
+    ]
+  },
+  {
+    "id": "a2_43_have_to",
+    "order": 43,
+    "level": "A2",
+    "category": "Modal verbs",
+    "title_en": "Have to and don’t have to",
+    "title_ru": "Have to и don’t have to",
+    "rule": "Have to выражает необходимость, часто связанную с правилами или обстоятельствами. Don’t/doesn’t have to означает отсутствие необходимости, а не запрет.",
+    "forms": ["I/you/we/they have to", "he/she/it has to", "don’t/doesn’t have to", "Do/Does ... have to?"],
+    "examples": [
+      {"en": "I have to wear a uniform.", "ru": "Я должен носить форму."},
+      {"en": "She doesn’t have to work on Sundays.", "ru": "Ей не нужно работать по воскресеньям."},
+      {"en": "Do we have to book in advance?", "ru": "Нам нужно бронировать заранее?"}
+    ],
+    "common_mistake": {"wrong": "He doesn’t has to come.", "right": "He doesn’t have to come.", "note": "После doesn’t используется have, а не has."},
+    "quizzes": [
+      {"prompt": "Employees ___ show their ID cards.", "options": ["have to", "has to", "must to"], "correct_index": 0, "explanation": "Employees = they, поэтому have to."},
+      {"prompt": "You ___ pay today; tomorrow is fine.", "options": ["mustn’t", "don’t have to", "haven’t to"], "correct_index": 1, "explanation": "Отсутствие необходимости: don’t have to."},
+      {"prompt": "___ she have to take a taxi?", "options": ["Does", "Has", "Is"], "correct_index": 0, "explanation": "Вопрос строится с Does + have to."}
+    ]
+  },
+  {
+    "id": "a2_44_must_mustnt",
+    "order": 44,
+    "level": "A2",
+    "category": "Modal verbs",
+    "title_en": "Must and mustn’t",
+    "title_ru": "Must и mustn’t",
+    "rule": "Must выражает сильную необходимость или правило, которое говорящий считает важным. Mustn’t означает строгий запрет. После must используется базовая форма без to.",
+    "forms": ["You must stop.", "You mustn’t smoke here.", "Must I ...?"],
+    "examples": [
+      {"en": "You must wear a seat belt.", "ru": "Вы должны пристегнуть ремень."},
+      {"en": "Visitors mustn’t touch the paintings.", "ru": "Посетителям нельзя трогать картины."},
+      {"en": "I must remember to call her.", "ru": "Я должен не забыть ей позвонить."}
+    ],
+    "common_mistake": {"wrong": "You mustn’t be late = You don’t have to be late.", "right": "Mustn’t means “нельзя”; don’t have to means “необязательно”.", "note": "Запрет и отсутствие необходимости — разные значения."},
+    "quizzes": [
+      {"prompt": "You ___ use your phone during the exam. It is forbidden.", "options": ["don’t have to", "mustn’t", "shouldn’t to"], "correct_index": 1, "explanation": "Строгий запрет выражается mustn’t."},
+      {"prompt": "I ___ finish this report today. It is urgent.", "options": ["must", "must to", "am must"], "correct_index": 0, "explanation": "После must сразу базовая форма finish."},
+      {"prompt": "You ___ bring food; we have enough.", "options": ["mustn’t", "don’t have to", "must"], "correct_index": 1, "explanation": "Еду приносить необязательно: don’t have to."}
+    ]
+  },
+  {
+    "id": "a2_45_should",
+    "order": 45,
+    "level": "A2",
+    "category": "Modal verbs",
+    "title_en": "Should and shouldn’t",
+    "title_ru": "Should и shouldn’t",
+    "rule": "Should используется для совета, рекомендации или мнения о правильном действии. Shouldn’t советует чего-то не делать. После should употребляется базовая форма.",
+    "forms": ["You should rest.", "You shouldn’t worry.", "Should I call?"],
+    "examples": [
+      {"en": "You should see a doctor.", "ru": "Тебе стоит обратиться к врачу."},
+      {"en": "We shouldn’t spend so much money.", "ru": "Нам не следует тратить столько денег."},
+      {"en": "What should I do?", "ru": "Что мне делать?"}
+    ],
+    "common_mistake": {"wrong": "You should to sleep more.", "right": "You should sleep more.", "note": "После should частица to не употребляется."},
+    "quizzes": [
+      {"prompt": "You look tired. You ___ go to bed early.", "options": ["should", "mustn’t", "should to"], "correct_index": 0, "explanation": "Это рекомендация: should."},
+      {"prompt": "People ___ drive when they are very tired.", "options": ["should", "shouldn’t", "don’t should"], "correct_index": 1, "explanation": "Совет не делать: shouldn’t."},
+      {"prompt": "___ I apologise to her?", "options": ["Do should", "Should", "Am"], "correct_index": 1, "explanation": "Вопрос начинается с Should."}
+    ]
+  },
+  {
+    "id": "a2_46_could",
+    "order": 46,
+    "level": "A2",
+    "category": "Modal verbs",
+    "title_en": "Could: past ability and polite requests",
+    "title_ru": "Could: способность в прошлом и вежливые просьбы",
+    "rule": "Could может выражать общую способность в прошлом и использоваться в вежливых просьбах. После could употребляется базовая форма глагола.",
+    "forms": ["I could swim at five.", "Could you help me?", "I couldn’t understand."],
+    "examples": [
+      {"en": "She could read before she started school.", "ru": "Она умела читать до школы."},
+      {"en": "Could you open the window, please?", "ru": "Не могли бы вы открыть окно?"},
+      {"en": "We couldn’t find the address.", "ru": "Мы не смогли найти адрес."}
+    ],
+    "common_mistake": {"wrong": "Could you to repeat that?", "right": "Could you repeat that?", "note": "После could частица to не ставится."},
+    "quizzes": [
+      {"prompt": "When I was ten, I ___ run very fast.", "options": ["can", "could", "could to"], "correct_index": 1, "explanation": "Способность в прошлом: could."},
+      {"prompt": "___ you pass me the salt, please?", "options": ["Could", "Do could", "Are"], "correct_index": 0, "explanation": "Вежливая просьба начинается с Could."},
+      {"prompt": "They ___ speak English then.", "options": ["couldn’t", "didn’t could", "weren’t can"], "correct_index": 0, "explanation": "Правильная отрицательная форма — couldn’t."}
+    ]
+  },
+  {
+    "id": "a2_47_may_might",
+    "order": 47,
+    "level": "A2",
+    "category": "Modal verbs",
+    "title_en": "May and might: possibility",
+    "title_ru": "May и might: возможность",
+    "rule": "May и might выражают возможность в настоящем или будущем. Might обычно звучит немного менее уверенно, но на уровне A2 их часто можно считать близкими по значению. После них используется базовая форма.",
+    "forms": ["It may rain.", "She might come later.", "He may not know."],
+    "examples": [
+      {"en": "We might be late.", "ru": "Возможно, мы опоздаем."},
+      {"en": "It may snow tonight.", "ru": "Возможно, ночью пойдёт снег."},
+      {"en": "She might not agree.", "ru": "Возможно, она не согласится."}
+    ],
+    "common_mistake": {"wrong": "He might to come.", "right": "He might come.", "note": "После may/might частица to не употребляется."},
+    "quizzes": [
+      {"prompt": "Take an umbrella. It ___ rain later.", "options": ["might", "must to", "is might"], "correct_index": 0, "explanation": "Возможность выражается might."},
+      {"prompt": "Sara ___ be at home, but I’m not sure.", "options": ["may", "has to", "can to"], "correct_index": 0, "explanation": "Неуверенное предположение: may."},
+      {"prompt": "They might ___ the meeting.", "options": ["miss", "to miss", "missed"], "correct_index": 0, "explanation": "После might используется базовая форма miss."}
+    ]
+  },
+  {
+    "id": "a2_48_past_continuous",
+    "order": 48,
+    "level": "A2",
+    "category": "Past forms",
+    "title_en": "Past continuous",
+    "title_ru": "Past Continuous",
+    "rule": "Past Continuous описывает действие, которое происходило в определённый момент в прошлом. Он образуется с was/were + глагол-ing.",
+    "forms": ["I/he/she/it was working", "you/we/they were working"],
+    "examples": [
+      {"en": "At eight, I was having dinner.", "ru": "В восемь я ужинал."},
+      {"en": "They were waiting outside.", "ru": "Они ждали снаружи."},
+      {"en": "What were you doing at midnight?", "ru": "Что ты делал в полночь?"}
+    ],
+    "common_mistake": {"wrong": "We was watching TV.", "right": "We were watching TV.", "note": "С we используется were."},
+    "quizzes": [
+      {"prompt": "At 6 p.m. she ___ home.", "options": ["was driving", "drove every day", "were driving"], "correct_index": 0, "explanation": "Действие было в процессе в конкретный момент."},
+      {"prompt": "They ___ sleeping when I arrived.", "options": ["was", "were", "did"], "correct_index": 1, "explanation": "С they используется were + sleeping."},
+      {"prompt": "What ___ he doing at ten?", "options": ["was", "were", "did"], "correct_index": 0, "explanation": "С he вопрос начинается с was."}
+    ]
+  },
+  {
+    "id": "a2_49_past_continuous_vs_simple",
+    "order": 49,
+    "level": "A2",
+    "category": "Past forms",
+    "title_en": "Past continuous and past simple",
+    "title_ru": "Past Continuous и Past Simple",
+    "rule": "Past Continuous часто описывает длительный фон, а Past Simple — короткое завершённое событие, которое произошло на этом фоне. В таких предложениях часто используются when и while.",
+    "forms": ["I was walking when it started to rain.", "While she was cooking, he called."],
+    "examples": [
+      {"en": "I was sleeping when the alarm rang.", "ru": "Я спал, когда прозвенел будильник."},
+      {"en": "While we were driving, we saw a deer.", "ru": "Пока мы ехали, мы увидели оленя."},
+      {"en": "She broke a cup while she was washing it.", "ru": "Она разбила чашку, когда мыла её."}
+    ],
+    "common_mistake": {"wrong": "When I was seeing him, he ran.", "right": "When I saw him, he was running.", "note": "Короткое событие обычно ставится в Past Simple."},
+    "quizzes": [
+      {"prompt": "I ___ dinner when the lights went out.", "options": ["cooked", "was cooking", "am cooking"], "correct_index": 1, "explanation": "Длительное действие-фон: was cooking."},
+      {"prompt": "While they were walking, they ___ an old friend.", "options": ["met", "were meeting", "meet"], "correct_index": 0, "explanation": "Короткое завершённое событие: met."},
+      {"prompt": "The phone rang while she ___.", "options": ["worked", "was working", "is working"], "correct_index": 1, "explanation": "Действие уже было в процессе: was working."}
+    ]
+  },
+  {
+    "id": "a2_50_present_perfect_ever_never",
+    "order": 50,
+    "level": "A2",
+    "category": "Present perfect",
+    "title_en": "Present perfect: ever and never",
+    "title_ru": "Present Perfect с ever и never",
+    "rule": "Present Perfect связывает прошлый опыт с настоящим без указания законченного времени. Он образуется have/has + третья форма глагола. Ever значит «когда-либо», never — «никогда».",
+    "forms": ["Have you ever been ...?", "I have never tried ...", "he/she/it has + V3"],
+    "examples": [
+      {"en": "Have you ever visited London?", "ru": "Ты когда-нибудь был в Лондоне?"},
+      {"en": "I have never eaten sushi.", "ru": "Я никогда не ел суши."},
+      {"en": "She has seen this film twice.", "ru": "Она смотрела этот фильм дважды."}
+    ],
+    "common_mistake": {"wrong": "I have never went there.", "right": "I have never been there.", "note": "После have/has нужна третья форма глагола."},
+    "quizzes": [
+      {"prompt": "Have you ever ___ a horse?", "options": ["ride", "rode", "ridden"], "correct_index": 2, "explanation": "После have используется V3: ridden."},
+      {"prompt": "He has ___ travelled abroad.", "options": ["never", "ever did", "not never"], "correct_index": 0, "explanation": "Never ставится между has и V3."},
+      {"prompt": "___ she ever met a famous person?", "options": ["Did", "Has", "Is"], "correct_index": 1, "explanation": "Present Perfect вопрос: Has + subject + V3?"}
+    ]
+  },
+  {
+    "id": "a2_51_present_perfect_just_already_yet",
+    "order": 51,
+    "level": "A2",
+    "category": "Present perfect",
+    "title_en": "Present perfect: just, already, yet",
+    "title_ru": "Present Perfect с just, already и yet",
+    "rule": "Just сообщает о совсем недавнем действии, already — о действии раньше ожидаемого, yet — о действии, ожидаемом к настоящему моменту. Just и already обычно стоят перед V3, yet — в конце вопроса или отрицания.",
+    "forms": ["have just finished", "has already left", "Have you finished yet?", "haven’t finished yet"],
+    "examples": [
+      {"en": "I’ve just sent the email.", "ru": "Я только что отправил письмо."},
+      {"en": "She has already eaten.", "ru": "Она уже поела."},
+      {"en": "We haven’t decided yet.", "ru": "Мы ещё не решили."}
+    ],
+    "common_mistake": {"wrong": "I have finished yet.", "right": "I have already finished.", "note": "Yet обычно употребляется в вопросах и отрицаниях."},
+    "quizzes": [
+      {"prompt": "Tom has ___ arrived, so you can call him now.", "options": ["just", "yet", "ever"], "correct_index": 0, "explanation": "Совсем недавнее действие: just."},
+      {"prompt": "Have you done your homework ___?", "options": ["already not", "yet", "never"], "correct_index": 1, "explanation": "Вопрос заканчивается yet."},
+      {"prompt": "We have ___ booked the tickets.", "options": ["already", "yet", "last week"], "correct_index": 0, "explanation": "Already ставится перед V3."}
+    ]
+  },
+  {
+    "id": "a2_52_present_perfect_for_since",
+    "order": 52,
+    "level": "A2",
+    "category": "Present perfect",
+    "title_en": "Present perfect: for and since",
+    "title_ru": "Present Perfect с for и since",
+    "rule": "For показывает продолжительность, since — начальную точку. Обычно конструкция описывает ситуацию, которая началась в прошлом и продолжается сейчас.",
+    "forms": ["for two hours", "for a long time", "since Monday", "since 2020"],
+    "examples": [
+      {"en": "I have lived here for five years.", "ru": "Я живу здесь пять лет."},
+      {"en": "She has known him since school.", "ru": "Она знает его со школы."},
+      {"en": "We haven’t seen them for months.", "ru": "Мы не видели их несколько месяцев."}
+    ],
+    "common_mistake": {"wrong": "since three years", "right": "for three years", "note": "Продолжительность выражается for; since указывает точку начала."},
+    "quizzes": [
+      {"prompt": "They have been married ___ 2018.", "options": ["for", "since", "from"], "correct_index": 1, "explanation": "2018 — начальная точка, поэтому since."},
+      {"prompt": "I haven’t eaten ___ six hours.", "options": ["since", "for", "during"], "correct_index": 1, "explanation": "Six hours — продолжительность, поэтому for."},
+      {"prompt": "She has worked here ___ last May.", "options": ["for", "since", "at"], "correct_index": 1, "explanation": "Last May — точка начала, поэтому since."}
+    ]
+  },
+  {
+    "id": "a2_53_present_perfect_vs_past",
+    "order": 53,
+    "level": "A2",
+    "category": "Present perfect",
+    "title_en": "Present perfect or past simple",
+    "title_ru": "Present Perfect и Past Simple",
+    "rule": "Past Simple употребляется с законченным временем в прошлом: yesterday, last year, in 2020. Present Perfect говорит об опыте или результате, связанном с настоящим, без законченного указателя времени.",
+    "forms": ["I saw it yesterday.", "I have seen it before."],
+    "examples": [
+      {"en": "She went to Spain last summer.", "ru": "Прошлым летом она ездила в Испанию."},
+      {"en": "She has been to Spain three times.", "ru": "Она была в Испании три раза."},
+      {"en": "I’ve lost my keys, so I can’t get in.", "ru": "Я потерял ключи, поэтому не могу войти."}
+    ],
+    "common_mistake": {"wrong": "I have seen him yesterday.", "right": "I saw him yesterday.", "note": "С законченным временем yesterday нужен Past Simple."},
+    "quizzes": [
+      {"prompt": "We ___ this film last Friday.", "options": ["have watched", "watched", "have watch"], "correct_index": 1, "explanation": "Last Friday — законченное время, Past Simple."},
+      {"prompt": "I ___ my wallet. Can you help me look for it?", "options": ["lost yesterday", "have lost", "did lose"], "correct_index": 1, "explanation": "Важен настоящий результат: кошелька сейчас нет."},
+      {"prompt": "___ you ever ___ to Italy?", "options": ["Did / go", "Have / been", "Have / went"], "correct_index": 1, "explanation": "Опыт без даты: Have you ever been ...?"}
+    ]
+  },
+  {
+    "id": "a2_54_zero_conditional",
+    "order": 54,
+    "level": "A2",
+    "category": "Conditionals",
+    "title_en": "Zero conditional",
+    "title_ru": "Нулевой тип условных предложений",
+    "rule": "Zero Conditional описывает факты, закономерности и привычные результаты. В обеих частях обычно используется Present Simple. If можно переводить как «если» или «когда».",
+    "forms": ["If + Present Simple, Present Simple"],
+    "examples": [
+      {"en": "If you heat ice, it melts.", "ru": "Если нагреть лёд, он тает."},
+      {"en": "If I drink coffee late, I can’t sleep.", "ru": "Если я поздно пью кофе, я не могу уснуть."},
+      {"en": "Plants die if they don’t get water.", "ru": "Растения погибают, если не получают воду."}
+    ],
+    "common_mistake": {"wrong": "If water will reach 100°C, it boils.", "right": "If water reaches 100°C, it boils.", "note": "Для общей закономерности will не требуется."},
+    "quizzes": [
+      {"prompt": "If you mix blue and yellow, you ___ green.", "options": ["get", "will get", "got"], "correct_index": 0, "explanation": "Общий факт: Present Simple в обеих частях."},
+      {"prompt": "Ice ___ if the temperature is above zero.", "options": ["melts", "will melt always", "melted"], "correct_index": 0, "explanation": "Закономерность выражается Present Simple."},
+      {"prompt": "If I am tired, I usually ___ early.", "options": ["go to bed", "will go to bed", "went to bed"], "correct_index": 0, "explanation": "Привычный результат: Present Simple."}
+    ]
+  },
+  {
+    "id": "a2_55_first_conditional",
+    "order": 55,
+    "level": "A2",
+    "category": "Conditionals",
+    "title_en": "First conditional",
+    "title_ru": "Первый тип условных предложений",
+    "rule": "First Conditional говорит о реальной или возможной ситуации в будущем. В части с if используется Present Simple, а в главной части часто will + глагол.",
+    "forms": ["If + Present Simple, will + base verb"],
+    "examples": [
+      {"en": "If it rains, we’ll stay home.", "ru": "Если пойдёт дождь, мы останемся дома."},
+      {"en": "I’ll call you if I finish early.", "ru": "Я позвоню, если закончу рано."},
+      {"en": "If you don’t hurry, you’ll miss the bus.", "ru": "Если не поторопишься, опоздаешь на автобус."}
+    ],
+    "common_mistake": {"wrong": "If I will see her, I will tell her.", "right": "If I see her, I will tell her.", "note": "После if в первом условном предложении will обычно не ставится."},
+    "quizzes": [
+      {"prompt": "If you study, you ___ the exam.", "options": ["pass", "will pass", "passed"], "correct_index": 1, "explanation": "В главной части возможного будущего используется will pass."},
+      {"prompt": "We will go for a walk if it ___.", "options": ["doesn’t rain", "won’t rain", "not rains"], "correct_index": 0, "explanation": "После if нужен Present Simple."},
+      {"prompt": "If she ___ late, we’ll start without her.", "options": ["will be", "is", "was"], "correct_index": 1, "explanation": "В if-clause используется is."}
+    ]
+  },
+  {
+    "id": "a2_56_infinitive_purpose",
+    "order": 56,
+    "level": "A2",
+    "category": "Verb patterns",
+    "title_en": "Infinitive of purpose",
+    "title_ru": "Инфинитив цели",
+    "rule": "To + глагол может объяснять цель действия: зачем человек что-то делает. Такая конструкция часто переводится «чтобы».",
+    "forms": ["I went out to buy milk.", "She called to ask a question."],
+    "examples": [
+      {"en": "We stopped to have lunch.", "ru": "Мы остановились, чтобы пообедать."},
+      {"en": "He went online to check the timetable.", "ru": "Он зашёл в интернет, чтобы проверить расписание."},
+      {"en": "I’m saving money to travel.", "ru": "Я коплю деньги, чтобы путешествовать."}
+    ],
+    "common_mistake": {"wrong": "I went to the shop for buy bread.", "right": "I went to the shop to buy bread.", "note": "Цель действия выражается to + базовая форма."},
+    "quizzes": [
+      {"prompt": "She opened the window ___ some fresh air in.", "options": ["let", "to let", "for letting"], "correct_index": 1, "explanation": "Цель: to let."},
+      {"prompt": "I phoned the hotel ___ a room.", "options": ["to book", "booked", "for book"], "correct_index": 0, "explanation": "Зачем позвонил? To book."},
+      {"prompt": "They left early ___ the first train.", "options": ["catch", "to catch", "for catching to"], "correct_index": 1, "explanation": "Цель ухода — to catch."}
+    ]
+  },
+  {
+    "id": "a2_57_verb_to_infinitive",
+    "order": 57,
+    "level": "A2",
+    "category": "Verb patterns",
+    "title_en": "Verb + to-infinitive",
+    "title_ru": "Глаголы с to-инфинитивом",
+    "rule": "После ряда глаголов используется to + глагол: want, need, hope, plan, decide, promise, learn, try. Форму нужно запоминать вместе с главным глаголом.",
+    "forms": ["want to go", "decide to stay", "hope to see", "need to work"],
+    "examples": [
+      {"en": "I want to learn Italian.", "ru": "Я хочу выучить итальянский."},
+      {"en": "They decided to leave early.", "ru": "Они решили уйти рано."},
+      {"en": "She hopes to find a new job.", "ru": "Она надеется найти новую работу."}
+    ],
+    "common_mistake": {"wrong": "I want going home.", "right": "I want to go home.", "note": "После want обычно употребляется to-инфинитив."},
+    "quizzes": [
+      {"prompt": "We decided ___ a taxi.", "options": ["take", "to take", "taking"], "correct_index": 1, "explanation": "После decide используется to-infinitive."},
+      {"prompt": "He hopes ___ university next year.", "options": ["entering", "to enter", "enter"], "correct_index": 1, "explanation": "После hope используется to enter."},
+      {"prompt": "I need ___ this email today.", "options": ["to answer", "answering", "answered"], "correct_index": 0, "explanation": "После need + действие используется to-infinitive."}
+    ]
+  },
+  {
+    "id": "a2_58_verb_ing",
+    "order": 58,
+    "level": "A2",
+    "category": "Verb patterns",
+    "title_en": "Verb + -ing",
+    "title_ru": "Глаголы с формой -ing",
+    "rule": "После некоторых глаголов употребляется форма -ing: enjoy, finish, avoid, mind, suggest, keep. Эти модели нужно запоминать как устойчивые сочетания.",
+    "forms": ["enjoy reading", "finish working", "avoid driving", "don’t mind waiting"],
+    "examples": [
+      {"en": "I enjoy cooking.", "ru": "Мне нравится готовить."},
+      {"en": "She finished writing the report.", "ru": "Она закончила писать отчёт."},
+      {"en": "Do you mind opening the window?", "ru": "Вы не возражаете открыть окно?"}
+    ],
+    "common_mistake": {"wrong": "I enjoy to swim.", "right": "I enjoy swimming.", "note": "После enjoy используется -ing."},
+    "quizzes": [
+      {"prompt": "He finished ___ the kitchen.", "options": ["to clean", "cleaning", "clean"], "correct_index": 1, "explanation": "После finish используется -ing."},
+      {"prompt": "We enjoy ___ together.", "options": ["to travel", "travelling", "travelled"], "correct_index": 1, "explanation": "После enjoy употребляется travelling."},
+      {"prompt": "Would you mind ___ a little quieter?", "options": ["speaking", "to speak", "speak"], "correct_index": 0, "explanation": "После mind используется форма -ing."}
+    ]
+  },
+  {
+    "id": "a2_59_gerund_after_prepositions",
+    "order": 59,
+    "level": "A2",
+    "category": "Verb patterns",
+    "title_en": "-ing after prepositions",
+    "title_ru": "Форма -ing после предлогов",
+    "rule": "Если после предлога следует действие, глагол обычно получает форму -ing. Это касается обычных предлогов и устойчивых сочетаний: good at, interested in, before, after, without.",
+    "forms": ["good at cooking", "after finishing", "without saying", "interested in learning"],
+    "examples": [
+      {"en": "Thank you for helping me.", "ru": "Спасибо, что помогли мне."},
+      {"en": "She left without saying goodbye.", "ru": "Она ушла, не попрощавшись."},
+      {"en": "I’m interested in learning Japanese.", "ru": "Мне интересно изучать японский."}
+    ],
+    "common_mistake": {"wrong": "He is good at to draw.", "right": "He is good at drawing.", "note": "После предлога at используется форма -ing."},
+    "quizzes": [
+      {"prompt": "Before ___, turn off the lights.", "options": ["leave", "leaving", "to leaving"], "correct_index": 1, "explanation": "После before + действие используется -ing."},
+      {"prompt": "She is afraid of ___.", "options": ["fly", "flying", "to flew"], "correct_index": 1, "explanation": "После of используется flying."},
+      {"prompt": "Thanks for ___ me.", "options": ["call", "calling", "to call"], "correct_index": 1, "explanation": "После for используется calling."}
+    ]
+  },
+  {
+    "id": "a2_60_too_enough",
+    "order": 60,
+    "level": "A2",
+    "category": "Adjectives and adverbs",
+    "title_en": "Too and enough",
+    "title_ru": "Too и enough",
+    "rule": "Too означает «слишком» и ставится перед прилагательным или наречием. Enough означает «достаточно»: после прилагательного, но перед существительным.",
+    "forms": ["too expensive", "old enough", "enough time", "not warm enough"],
+    "examples": [
+      {"en": "This bag is too heavy.", "ru": "Эта сумка слишком тяжёлая."},
+      {"en": "She is old enough to drive.", "ru": "Она достаточно взрослая, чтобы водить."},
+      {"en": "We don’t have enough chairs.", "ru": "У нас недостаточно стульев."}
+    ],
+    "common_mistake": {"wrong": "enough big", "right": "big enough", "note": "После прилагательного enough ставится после него."},
+    "quizzes": [
+      {"prompt": "The coffee is ___ hot to drink.", "options": ["enough", "too", "many"], "correct_index": 1, "explanation": "Слишком горячий: too hot."},
+      {"prompt": "Do we have ___ food for everyone?", "options": ["food enough", "enough", "too"], "correct_index": 1, "explanation": "Перед существительным food ставится enough."},
+      {"prompt": "He isn’t strong ___ to lift it.", "options": ["too", "enough", "much"], "correct_index": 1, "explanation": "После прилагательного strong используется enough."}
+    ]
+  },
+  {
+    "id": "a2_61_adverbs_manner",
+    "order": 61,
+    "level": "A2",
+    "category": "Adjectives and adverbs",
+    "title_en": "Adverbs of manner",
+    "title_ru": "Наречия образа действия",
+    "rule": "Наречия образа действия описывают, как выполняется действие. Многие образуются от прилагательных с -ly, но есть исключения: good → well, fast → fast, hard → hard.",
+    "forms": ["careful → carefully", "quiet → quietly", "good → well", "fast → fast"],
+    "examples": [
+      {"en": "She speaks clearly.", "ru": "Она говорит ясно."},
+      {"en": "He drives very carefully.", "ru": "Он водит очень осторожно."},
+      {"en": "They played well.", "ru": "Они хорошо сыграли."}
+    ],
+    "common_mistake": {"wrong": "He speaks English good.", "right": "He speaks English well.", "note": "После глагола для описания действия нужна форма well."},
+    "quizzes": [
+      {"prompt": "Please speak ___. The baby is sleeping.", "options": ["quiet", "quietly", "quieter"], "correct_index": 1, "explanation": "Глагол speak описывается наречием quietly."},
+      {"prompt": "She can run very ___.", "options": ["fastly", "fast", "fasterly"], "correct_index": 1, "explanation": "Fast имеет одинаковую форму как прилагательное и наречие."},
+      {"prompt": "He answered the question ___.", "options": ["correct", "correctly", "correction"], "correct_index": 1, "explanation": "Наречие от correct — correctly."}
+    ]
+  },
+  {
+    "id": "a2_62_few_little",
+    "order": 62,
+    "level": "A2",
+    "category": "Quantifiers",
+    "title_en": "A few, a little, few, little",
+    "title_ru": "A few, a little, few и little",
+    "rule": "A few употребляется с исчисляемыми существительными, a little — с неисчисляемыми; обе формы означают «немного, но достаточно». Few и little без a подчёркивают, что количества почти нет.",
+    "forms": ["a few friends", "few opportunities", "a little water", "little time"],
+    "examples": [
+      {"en": "I have a few questions.", "ru": "У меня есть несколько вопросов."},
+      {"en": "There is a little milk left.", "ru": "Осталось немного молока."},
+      {"en": "We have very little time.", "ru": "У нас очень мало времени."}
+    ],
+    "common_mistake": {"wrong": "a little books", "right": "a few books", "note": "Books — исчисляемое множественное число."},
+    "quizzes": [
+      {"prompt": "I need ___ minutes to finish.", "options": ["a little", "a few", "much"], "correct_index": 1, "explanation": "Minutes — исчисляемое множественное число."},
+      {"prompt": "Add ___ sugar, please.", "options": ["a little", "a few", "few"], "correct_index": 0, "explanation": "Sugar неисчисляемое, и нужно небольшое количество."},
+      {"prompt": "He has ___ close friends, so he often feels lonely.", "options": ["a few", "few", "a little"], "correct_index": 1, "explanation": "Few подчёркивает недостаток друзей."}
+    ]
+  },
+  {
+    "id": "a2_63_indefinite_pronouns",
+    "order": 63,
+    "level": "A2",
+    "category": "Pronouns and determiners",
+    "title_en": "Indefinite pronouns",
+    "title_ru": "Неопределённые местоимения",
+    "rule": "Someone/something/somewhere обычно используются в утвердительных предложениях; anyone/anything/anywhere — в вопросах и отрицаниях; no one/nothing/nowhere уже содержат отрицание; everyone/everything/everywhere охватывают всех или всё.",
+    "forms": ["someone / anyone / no one / everyone", "something / anything / nothing / everything", "somewhere / anywhere / nowhere / everywhere"],
+    "examples": [
+      {"en": "Someone is at the door.", "ru": "Кто-то у двери."},
+      {"en": "I didn’t see anyone.", "ru": "Я никого не видел."},
+      {"en": "Everything is ready.", "ru": "Всё готово."}
+    ],
+    "common_mistake": {"wrong": "I didn’t see nobody.", "right": "I didn’t see anybody.", "note": "В стандартном английском не используется двойное отрицание."},
+    "quizzes": [
+      {"prompt": "There is ___ in my bag. It is empty.", "options": ["anything", "nothing", "something"], "correct_index": 1, "explanation": "Пустая сумка: nothing."},
+      {"prompt": "Did ___ call me?", "options": ["anyone", "no one", "someone did"], "correct_index": 0, "explanation": "В вопросе обычно используется anyone."},
+      {"prompt": "___ knows the answer; it is very easy.", "options": ["Everyone", "Nothing", "Anywhere"], "correct_index": 0, "explanation": "О людях в значении «все» — everyone."}
+    ]
+  },
+  {
+    "id": "a2_64_relative_clauses",
+    "order": 64,
+    "level": "A2",
+    "category": "Clauses",
+    "title_en": "Relative clauses: who, which, that",
+    "title_ru": "Определительные придаточные с who, which, that",
+    "rule": "Относительное придаточное даёт информацию о существительном. Who относится к людям, which — к предметам и животным, that может заменять who или which в определительных придаточных.",
+    "forms": ["a person who ...", "a thing which ...", "a book that ..."],
+    "examples": [
+      {"en": "The woman who lives next door is a doctor.", "ru": "Женщина, которая живёт по соседству, — врач."},
+      {"en": "This is the phone which I bought.", "ru": "Это телефон, который я купил."},
+      {"en": "I like films that make me laugh.", "ru": "Мне нравятся фильмы, которые заставляют меня смеяться."}
+    ],
+    "common_mistake": {"wrong": "The man which called me", "right": "The man who called me", "note": "Для людей обычно используется who."},
+    "quizzes": [
+      {"prompt": "A mechanic is a person ___ repairs cars.", "options": ["which", "who", "where"], "correct_index": 1, "explanation": "Для человека используется who."},
+      {"prompt": "This is the cake ___ Anna made.", "options": ["who", "which", "when"], "correct_index": 1, "explanation": "Cake — предмет, поэтому which."},
+      {"prompt": "I need a laptop ___ is light and fast.", "options": ["that", "who", "where"], "correct_index": 0, "explanation": "Для предмета можно использовать that."}
+    ]
+  },
+  {
+    "id": "a2_65_basic_linkers",
+    "order": 65,
+    "level": "A2",
+    "category": "Linking words",
+    "title_en": "And, but, or, because, so",
+    "title_ru": "Союзы and, but, or, because, so",
+    "rule": "Союзы связывают идеи. And добавляет информацию, but противопоставляет, or предлагает выбор, because вводит причину, so — результат.",
+    "forms": ["A and B", "A but B", "A or B", "result because reason", "reason, so result"],
+    "examples": [
+      {"en": "I was tired, so I went home.", "ru": "Я устал, поэтому пошёл домой."},
+      {"en": "She stayed home because she was ill.", "ru": "Она осталась дома, потому что заболела."},
+      {"en": "Would you like tea or coffee?", "ru": "Хотите чай или кофе?"}
+    ],
+    "common_mistake": {"wrong": "Because I was tired, so I went home.", "right": "I was tired, so I went home.", "note": "В простом предложении обычно выбирают because или so, а не оба одновременно."},
+    "quizzes": [
+      {"prompt": "I opened the window ___ it was hot.", "options": ["because", "so", "or"], "correct_index": 0, "explanation": "После because указывается причина."},
+      {"prompt": "The shop was closed, ___ we came back later.", "options": ["but", "so", "because"], "correct_index": 1, "explanation": "Вторая часть — результат, поэтому so."},
+      {"prompt": "He is friendly ___ sometimes very quiet.", "options": ["but", "because", "so"], "correct_index": 0, "explanation": "Контраст выражается but."}
+    ]
+  },
+  {
+    "id": "a2_66_time_clauses",
+    "order": 66,
+    "level": "A2",
+    "category": "Clauses",
+    "title_en": "Time clauses: when, before, after, while, until",
+    "title_ru": "Придаточные времени",
+    "rule": "When, before, after, while и until связывают события во времени. Когда речь о будущем, после этих союзов обычно используется Present Simple, а не will.",
+    "forms": ["when I arrive", "before you leave", "after she finishes", "while we wait", "until it stops"],
+    "examples": [
+      {"en": "Call me when you get home.", "ru": "Позвони мне, когда доберёшься домой."},
+      {"en": "Wash your hands before you eat.", "ru": "Вымой руки перед едой."},
+      {"en": "We waited until the rain stopped.", "ru": "Мы ждали, пока дождь не закончился."}
+    ],
+    "common_mistake": {"wrong": "When I will arrive, I will call.", "right": "When I arrive, I will call.", "note": "После when в придаточном будущего используется Present Simple."},
+    "quizzes": [
+      {"prompt": "I’ll text you after the meeting ___.", "options": ["will finish", "finishes", "finished yesterday"], "correct_index": 1, "explanation": "После after о будущем используется Present Simple."},
+      {"prompt": "Please wait here ___ I come back.", "options": ["until", "because", "so"], "correct_index": 0, "explanation": "Until означает «до тех пор, пока»."},
+      {"prompt": "He listened to music ___ he was cooking.", "options": ["while", "after will", "because of"], "correct_index": 0, "explanation": "Два одновременных действия связывает while."}
+    ]
+  },
+  {
+    "id": "a2_67_used_to",
+    "order": 67,
+    "level": "A2",
+    "category": "Past habits",
+    "title_en": "Used to",
+    "title_ru": "Used to: привычки и состояния в прошлом",
+    "rule": "Used to + глагол описывает регулярные действия или состояния в прошлом, которых сейчас уже нет. В вопросах и отрицаниях обычно используется did: didn’t use to, Did ... use to?",
+    "forms": ["I used to live there.", "I didn’t use to like coffee.", "Did you use to play?"],
+    "examples": [
+      {"en": "We used to visit them every summer.", "ru": "Раньше мы навещали их каждое лето."},
+      {"en": "She didn’t use to wear glasses.", "ru": "Раньше она не носила очки."},
+      {"en": "Did he use to work here?", "ru": "Он раньше здесь работал?"}
+    ],
+    "common_mistake": {"wrong": "I use to live there when I was a child.", "right": "I used to live there when I was a child.", "note": "В утвердительной форме прошлого используется used to."},
+    "quizzes": [
+      {"prompt": "My grandfather ___ walk to work every day.", "options": ["used to", "use to", "was used"], "correct_index": 0, "explanation": "Прошлая привычка: used to."},
+      {"prompt": "I didn’t ___ vegetables as a child.", "options": ["used to like", "use to like", "used like"], "correct_index": 1, "explanation": "После didn’t пишется use to."},
+      {"prompt": "___ you use to have long hair?", "options": ["Did", "Were", "Do"], "correct_index": 0, "explanation": "Вопрос строится с Did + use to."}
+    ]
+  },
+  {
+    "id": "a2_68_present_simple_passive",
+    "order": 68,
+    "level": "A2",
+    "category": "Passive voice",
+    "title_en": "Present simple passive",
+    "title_ru": "Пассивный залог в Present Simple",
+    "rule": "Пассив используется, когда важнее действие или его результат, а не исполнитель. Present Simple Passive образуется am/is/are + V3.",
+    "forms": ["am/is/are + past participle", "English is spoken here.", "These cars are made in Japan."],
+    "examples": [
+      {"en": "The rooms are cleaned every day.", "ru": "Комнаты убирают каждый день."},
+      {"en": "Coffee is grown in many countries.", "ru": "Кофе выращивают во многих странах."},
+      {"en": "This app is used by millions of people.", "ru": "Этим приложением пользуются миллионы людей."}
+    ],
+    "common_mistake": {"wrong": "The rooms clean every day.", "right": "The rooms are cleaned every day.", "note": "Пассив требует формы be + V3."},
+    "quizzes": [
+      {"prompt": "Bread ___ in this bakery every morning.", "options": ["is baked", "bakes", "is bake"], "correct_index": 0, "explanation": "Present Simple Passive: is + baked."},
+      {"prompt": "These phones ___ in China.", "options": ["are made", "make", "are make"], "correct_index": 0, "explanation": "Множественное число: are made."},
+      {"prompt": "The museum ___ on Mondays.", "options": ["is closed", "closes by people", "is close"], "correct_index": 0, "explanation": "Состояние/правило выражено пассивом is closed."}
+    ]
+  },
+  {
+    "id": "a2_69_past_simple_passive",
+    "order": 69,
+    "level": "A2",
+    "category": "Passive voice",
+    "title_en": "Past simple passive",
+    "title_ru": "Пассивный залог в Past Simple",
+    "rule": "Past Simple Passive описывает действие, выполненное над объектом в прошлом. Он образуется was/were + V3.",
+    "forms": ["was/were + past participle", "The bridge was built in 1990.", "The letters were sent yesterday."],
+    "examples": [
+      {"en": "The window was broken last night.", "ru": "Окно разбили прошлой ночью."},
+      {"en": "These photos were taken in Italy.", "ru": "Эти фотографии были сделаны в Италии."},
+      {"en": "The book was written by Orwell.", "ru": "Книга была написана Оруэллом."}
+    ],
+    "common_mistake": {"wrong": "The house was build in 1900.", "right": "The house was built in 1900.", "note": "После was/were нужна третья форма built."},
+    "quizzes": [
+      {"prompt": "The emails ___ yesterday.", "options": ["were sent", "sent", "were send"], "correct_index": 0, "explanation": "Past Passive во множественном числе: were sent."},
+      {"prompt": "This painting ___ by my grandmother.", "options": ["was painted", "painted was", "was paint"], "correct_index": 0, "explanation": "Единственное число: was + V3."},
+      {"prompt": "The match ___ because of the rain.", "options": ["was cancelled", "cancelled", "was cancel"], "correct_index": 0, "explanation": "Правильная пассивная форма was cancelled."}
+    ]
+  },
+  {
+    "id": "a2_70_question_tags",
+    "order": 70,
+    "level": "A2",
+    "category": "Questions",
+    "title_en": "Question tags",
+    "title_ru": "Разделительные вопросы",
+    "rule": "Разделительный вопрос состоит из утверждения и короткого «хвостика». После утвердительной части обычно идёт отрицательный хвостик, после отрицательной — утвердительный. В хвостике повторяется вспомогательный или модальный глагол.",
+    "forms": ["You are ready, aren’t you?", "She doesn’t drive, does she?", "They can swim, can’t they?"],
+    "examples": [
+      {"en": "It’s cold today, isn’t it?", "ru": "Сегодня холодно, правда?"},
+      {"en": "You saw him, didn’t you?", "ru": "Ты видел его, не так ли?"},
+      {"en": "He can’t come, can he?", "ru": "Он не может прийти, верно?"}
+    ],
+    "common_mistake": {"wrong": "She is a doctor, doesn’t she?", "right": "She is a doctor, isn’t she?", "note": "В хвостике повторяется глагол be: is → isn’t."},
+    "quizzes": [
+      {"prompt": "You live here, ___?", "options": ["don’t you", "aren’t you", "didn’t you"], "correct_index": 0, "explanation": "Present Simple с live требует don’t you."},
+      {"prompt": "She was late, ___?", "options": ["was she", "wasn’t she", "didn’t she"], "correct_index": 1, "explanation": "Утвердительная часть с was → отрицательный хвостик wasn’t she."},
+      {"prompt": "They can’t hear us, ___?", "options": ["can’t they", "do they", "can they"], "correct_index": 2, "explanation": "После отрицательной части нужен утвердительный хвостик can they."}
+    ]
+  }
+]

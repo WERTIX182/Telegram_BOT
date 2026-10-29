@@ -1,0 +1,394 @@
+[
+  {
+    "order": 1,
+    "id": "idiom_adv_01",
+    "category": "DAILY",
+    "idiom": "by and large",
+    "translation": "в целом; в общем и целом"
+  },
+  {
+    "order": 2,
+    "id": "idiom_adv_02",
+    "category": "DAILY",
+    "idiom": "at the drop of a hat",
+    "translation": "мгновенно и без подготовки"
+  },
+  {
+    "order": 3,
+    "id": "idiom_adv_03",
+    "category": "DAILY",
+    "idiom": "go against the grain",
+    "translation": "противоречить своим убеждениям или привычкам"
+  },
+  {
+    "order": 4,
+    "id": "idiom_adv_04",
+    "category": "DAILY",
+    "idiom": "take something in your stride",
+    "translation": "спокойно справиться с трудностью"
+  },
+  {
+    "order": 5,
+    "id": "idiom_adv_05",
+    "category": "DAILY",
+    "idiom": "catch someone off guard",
+    "translation": "застать кого-либо врасплох"
+  },
+  {
+    "order": 6,
+    "id": "idiom_adv_06",
+    "category": "DAILY",
+    "idiom": "keep something at bay",
+    "translation": "не подпускать; сдерживать"
+  },
+  {
+    "order": 7,
+    "id": "idiom_adv_07",
+    "category": "DAILY",
+    "idiom": "be on the brink of something",
+    "translation": "быть на грани чего-либо"
+  },
+  {
+    "order": 8,
+    "id": "idiom_adv_08",
+    "category": "DAILY",
+    "idiom": "a far cry from something",
+    "translation": "совсем не то; сильно отличаться от чего-либо"
+  },
+  {
+    "order": 9,
+    "id": "idiom_adv_09",
+    "category": "WORK_STUDY",
+    "idiom": "move the goalposts",
+    "translation": "менять правила по ходу дела"
+  },
+  {
+    "order": 10,
+    "id": "idiom_adv_10",
+    "category": "WORK_STUDY",
+    "idiom": "cut corners",
+    "translation": "экономить на качестве; делать кое-как ради скорости или дешевизны"
+  },
+  {
+    "order": 11,
+    "id": "idiom_adv_11",
+    "category": "WORK_STUDY",
+    "idiom": "raise the bar",
+    "translation": "повысить требования или стандарт"
+  },
+  {
+    "order": 12,
+    "id": "idiom_adv_12",
+    "category": "WORK_STUDY",
+    "idiom": "get down to brass tacks",
+    "translation": "перейти к конкретным практическим деталям"
+  },
+  {
+    "order": 13,
+    "id": "idiom_adv_13",
+    "category": "WORK_STUDY",
+    "idiom": "be ahead of the curve",
+    "translation": "опережать тенденции или конкурентов"
+  },
+  {
+    "order": 14,
+    "id": "idiom_adv_14",
+    "category": "WORK_STUDY",
+    "idiom": "have your work cut out",
+    "translation": "иметь впереди очень трудную задачу"
+  },
+  {
+    "order": 15,
+    "id": "idiom_adv_15",
+    "category": "WORK_STUDY",
+    "idiom": "hit the ground running",
+    "translation": "сразу активно и эффективно приступить к делу"
+  },
+  {
+    "order": 16,
+    "id": "idiom_adv_16",
+    "category": "WORK_STUDY",
+    "idiom": "burn the candle at both ends",
+    "translation": "изнурять себя, работая с утра до ночи"
+  },
+  {
+    "order": 17,
+    "id": "idiom_adv_17",
+    "category": "COMMUNICATION",
+    "idiom": "read the room",
+    "translation": "учитывать настроение и реакцию присутствующих"
+  },
+  {
+    "order": 18,
+    "id": "idiom_adv_18",
+    "category": "COMMUNICATION",
+    "idiom": "get your wires crossed",
+    "translation": "неправильно понять друг друга"
+  },
+  {
+    "order": 19,
+    "id": "idiom_adv_19",
+    "category": "COMMUNICATION",
+    "idiom": "put words in someone's mouth",
+    "translation": "приписывать человеку то, чего он не говорил"
+  },
+  {
+    "order": 20,
+    "id": "idiom_adv_20",
+    "category": "COMMUNICATION",
+    "idiom": "speak volumes",
+    "translation": "говорить о многом без прямых слов"
+  },
+  {
+    "order": 21,
+    "id": "idiom_adv_21",
+    "category": "COMMUNICATION",
+    "idiom": "not mince your words",
+    "translation": "говорить прямо, не смягчая формулировок"
+  },
+  {
+    "order": 22,
+    "id": "idiom_adv_22",
+    "category": "COMMUNICATION",
+    "idiom": "talk at cross purposes",
+    "translation": "говорить о разном, не осознавая недопонимания"
+  },
+  {
+    "order": 23,
+    "id": "idiom_adv_23",
+    "category": "COMMUNICATION",
+    "idiom": "lay your cards on the table",
+    "translation": "открыто изложить свои намерения или позицию"
+  },
+  {
+    "order": 24,
+    "id": "idiom_adv_24",
+    "category": "COMMUNICATION",
+    "idiom": "split hairs",
+    "translation": "спорить о несущественных различиях"
+  },
+  {
+    "order": 25,
+    "id": "idiom_adv_25",
+    "category": "EMOTIONS",
+    "idiom": "fly off the handle",
+    "translation": "внезапно выйти из себя"
+  },
+  {
+    "order": 26,
+    "id": "idiom_adv_26",
+    "category": "EMOTIONS",
+    "idiom": "have a chip on your shoulder",
+    "translation": "быть постоянно обиженным и болезненно воспринимать неуважение"
+  },
+  {
+    "order": 27,
+    "id": "idiom_adv_27",
+    "category": "EMOTIONS",
+    "idiom": "wear your heart on your sleeve",
+    "translation": "открыто показывать свои чувства"
+  },
+  {
+    "order": 28,
+    "id": "idiom_adv_28",
+    "category": "EMOTIONS",
+    "idiom": "be beside yourself",
+    "translation": "быть вне себя от сильной эмоции"
+  },
+  {
+    "order": 29,
+    "id": "idiom_adv_29",
+    "category": "EMOTIONS",
+    "idiom": "get something out of your system",
+    "translation": "дать выход чувству или желанию и освободиться от него"
+  },
+  {
+    "order": 30,
+    "id": "idiom_adv_30",
+    "category": "EMOTIONS",
+    "idiom": "be at the end of your tether",
+    "translation": "быть на пределе сил или терпения"
+  },
+  {
+    "order": 31,
+    "id": "idiom_adv_31",
+    "category": "EMOTIONS",
+    "idiom": "take something to heart",
+    "translation": "слишком близко принять что-либо к сердцу"
+  },
+  {
+    "order": 32,
+    "id": "idiom_adv_32",
+    "category": "EMOTIONS",
+    "idiom": "keep a stiff upper lip",
+    "translation": "не показывать сильных эмоций в трудной ситуации"
+  },
+  {
+    "order": 33,
+    "id": "idiom_adv_33",
+    "category": "RELATIONSHIPS",
+    "idiom": "throw someone under the bus",
+    "translation": "предать или подставить кого-либо ради собственной выгоды"
+  },
+  {
+    "order": 34,
+    "id": "idiom_adv_34",
+    "category": "RELATIONSHIPS",
+    "idiom": "leave someone in the lurch",
+    "translation": "бросить кого-либо в трудной ситуации"
+  },
+  {
+    "order": 35,
+    "id": "idiom_adv_35",
+    "category": "RELATIONSHIPS",
+    "idiom": "keep someone at arm's length",
+    "translation": "держать кого-либо на расстоянии и не допускать близости"
+  },
+  {
+    "order": 36,
+    "id": "idiom_adv_36",
+    "category": "RELATIONSHIPS",
+    "idiom": "rub someone up the wrong way",
+    "translation": "раздражать кого-либо своей манерой поведения"
+  },
+  {
+    "order": 37,
+    "id": "idiom_adv_37",
+    "category": "RELATIONSHIPS",
+    "idiom": "be joined at the hip",
+    "translation": "быть неразлучными"
+  },
+  {
+    "order": 38,
+    "id": "idiom_adv_38",
+    "category": "RELATIONSHIPS",
+    "idiom": "get on like a house on fire",
+    "translation": "сразу прекрасно поладить"
+  },
+  {
+    "order": 39,
+    "id": "idiom_adv_39",
+    "category": "RELATIONSHIPS",
+    "idiom": "through thick and thin",
+    "translation": "и в хорошие, и в плохие времена"
+  },
+  {
+    "order": 40,
+    "id": "idiom_adv_40",
+    "category": "RELATIONSHIPS",
+    "idiom": "be on speaking terms",
+    "translation": "поддерживать хотя бы минимальное общение"
+  },
+  {
+    "order": 41,
+    "id": "idiom_adv_41",
+    "category": "MONEY",
+    "idiom": "have deep pockets",
+    "translation": "располагать большими финансовыми ресурсами"
+  },
+  {
+    "order": 42,
+    "id": "idiom_adv_42",
+    "category": "MONEY",
+    "idiom": "foot the bill",
+    "translation": "оплатить счёт или расходы"
+  },
+  {
+    "order": 43,
+    "id": "idiom_adv_43",
+    "category": "MONEY",
+    "idiom": "pay through the nose",
+    "translation": "заплатить непомерно высокую цену"
+  },
+  {
+    "order": 44,
+    "id": "idiom_adv_44",
+    "category": "MONEY",
+    "idiom": "the lion's share",
+    "translation": "львиная доля; самая большая часть"
+  },
+  {
+    "order": 45,
+    "id": "idiom_adv_45",
+    "category": "MONEY",
+    "idiom": "call the shots",
+    "translation": "принимать основные решения и контролировать ситуацию"
+  },
+  {
+    "order": 46,
+    "id": "idiom_adv_46",
+    "category": "MONEY",
+    "idiom": "pull strings",
+    "translation": "использовать связи для получения преимущества"
+  },
+  {
+    "order": 47,
+    "id": "idiom_adv_47",
+    "category": "MONEY",
+    "idiom": "hold all the cards",
+    "translation": "иметь решающее преимущество и контроль"
+  },
+  {
+    "order": 48,
+    "id": "idiom_adv_48",
+    "category": "MONEY",
+    "idiom": "line your pockets",
+    "translation": "нечестно обогащаться"
+  },
+  {
+    "order": 49,
+    "id": "idiom_adv_49",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "open a can of worms",
+    "translation": "создать множество новых сложных проблем"
+  },
+  {
+    "order": 50,
+    "id": "idiom_adv_50",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "be between a rock and a hard place",
+    "translation": "оказаться между двумя одинаково плохими вариантами"
+  },
+  {
+    "order": 51,
+    "id": "idiom_adv_51",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "play devil's advocate",
+    "translation": "намеренно отстаивать противоположную позицию ради проверки аргументов"
+  },
+  {
+    "order": 52,
+    "id": "idiom_adv_52",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "draw the line",
+    "translation": "установить предел допустимого"
+  },
+  {
+    "order": 53,
+    "id": "idiom_adv_53",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "leave no stone unturned",
+    "translation": "использовать все возможные способы"
+  },
+  {
+    "order": 54,
+    "id": "idiom_adv_54",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "sweep something under the carpet",
+    "translation": "скрыть проблему вместо её решения"
+  },
+  {
+    "order": 55,
+    "id": "idiom_adv_55",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "put the cart before the horse",
+    "translation": "делать всё в неправильном порядке"
+  },
+  {
+    "order": 56,
+    "id": "idiom_adv_56",
+    "category": "PROBLEMS_DECISIONS",
+    "idiom": "a double-edged sword",
+    "translation": "нечто одновременно полезное и вредное"
+  }
+]

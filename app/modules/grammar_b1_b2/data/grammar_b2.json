@@ -1,0 +1,1857 @@
+[
+  {
+    "id": "b2_36_future_perfect_simple",
+    "order": 36,
+    "level": "B2",
+    "category": "Future forms",
+    "title_en": "Future perfect simple",
+    "title_ru": "Future Perfect Simple",
+    "rule": "Future Perfect показывает, что действие завершится к определённому моменту в будущем. Часто используется с by, by the time и before.",
+    "forms": [
+      "will have + past participle",
+      "by + future point",
+      "by the time + Present Simple"
+    ],
+    "examples": [
+      {
+        "en": "By Friday, we will have completed the audit.",
+        "ru": "К пятнице мы завершим аудит."
+      },
+      {
+        "en": "She'll have left before you arrive.",
+        "ru": "Она уже уйдёт до твоего приезда."
+      },
+      {
+        "en": "How many chapters will you have read by then?",
+        "ru": "Сколько глав ты прочитаешь к тому моменту?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "By next week I will finish the course already.",
+      "right": "By next week I will have finished the course.",
+      "note": "Для завершения к будущему сроку нужен Future Perfect."
+    },
+    "quizzes": [
+      {
+        "prompt": "By 2030, the company ___ three new offices.",
+        "options": ["will open", "will have opened", "opens yesterday"],
+        "correct_index": 1,
+        "explanation": "Офисы будут открыты к будущему сроку."
+      },
+      {
+        "prompt": "They ___ the bridge by the time winter begins.",
+        "options": ["will have repaired", "will be repair", "have repaired tomorrow"],
+        "correct_index": 0,
+        "explanation": "By the time задаёт будущую границу завершения."
+      },
+      {
+        "prompt": "How much ___ you ___ by the end of the month?",
+        "options": ["will / have saved", "do / save", "will / saving"],
+        "correct_index": 0,
+        "explanation": "Вопрос в Future Perfect: will + subject + have + V3."
+      }
+    ]
+  },
+  {
+    "id": "b2_37_future_continuous_or_future_perfect",
+    "order": 37,
+    "level": "B2",
+    "category": "Future forms",
+    "title_en": "Future continuous or future perfect",
+    "title_ru": "Future Continuous или Future Perfect",
+    "rule": "Future Continuous фокусируется на процессе в будущий момент, а Future Perfect — на завершённом результате к этому моменту.",
+    "forms": [
+      "will be + -ing — in progress",
+      "will have + V3 — completed by then",
+      "at this time vs by this time"
+    ],
+    "examples": [
+      {
+        "en": "At ten, I'll be interviewing candidates.",
+        "ru": "В десять я буду проводить собеседования."
+      },
+      {
+        "en": "By ten, I'll have interviewed three candidates.",
+        "ru": "К десяти я уже проведу три собеседования."
+      },
+      {
+        "en": "This time next month, we'll be travelling.",
+        "ru": "В следующем месяце в это время мы будем путешествовать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "By six, I will be finishing all the work.",
+      "right": "By six, I will have finished all the work.",
+      "note": "By six и all the work указывают на завершённый результат."
+    },
+    "quizzes": [
+      {
+        "prompt": "At noon tomorrow, she ___ her exam.",
+        "options": ["will be taking", "will have taken by noon", "takes yesterday"],
+        "correct_index": 0,
+        "explanation": "В указанный момент экзамен будет в процессе."
+      },
+      {
+        "prompt": "By noon tomorrow, she ___ her exam.",
+        "options": ["will be taking at", "will have taken", "has take"],
+        "correct_index": 1,
+        "explanation": "К полудню экзамен будет завершён."
+      },
+      {
+        "prompt": "By the time you return, we ___ dinner.",
+        "options": ["will have cooked", "will be cook", "cook yesterday"],
+        "correct_index": 0,
+        "explanation": "Результат должен быть готов к возвращению."
+      }
+    ]
+  },
+  {
+    "id": "b2_38_future_in_the_past",
+    "order": 38,
+    "level": "B2",
+    "category": "Future forms",
+    "title_en": "Future in the past",
+    "title_ru": "Будущее с точки зрения прошлого",
+    "rule": "Future in the past описывает действие, которое было будущим относительно прошлого момента. Обычно используются would, was/were going to, was/were about to и was/were due to.",
+    "forms": [
+      "would + base verb",
+      "was/were going to + base verb",
+      "was/were about to / due to + base verb"
+    ],
+    "examples": [
+      {
+        "en": "I knew she would understand.",
+        "ru": "Я знал, что она поймёт."
+      },
+      {
+        "en": "We were going to leave, but the storm began.",
+        "ru": "Мы собирались уйти, но началась буря."
+      },
+      {
+        "en": "The train was due to depart at six.",
+        "ru": "Поезд должен был отправиться в шесть."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He said he will call later.",
+      "right": "He said he would call later.",
+      "note": "После прошедшей точки отсчёта will обычно меняется на would."
+    },
+    "quizzes": [
+      {
+        "prompt": "They promised they ___ the money the next day.",
+        "options": ["would return", "will return", "returned tomorrow"],
+        "correct_index": 0,
+        "explanation": "Будущее относительно прошедшего обещания выражается would."
+      },
+      {
+        "prompt": "I was ___ send the message when my phone died.",
+        "options": ["about to", "will", "due yesterday"],
+        "correct_index": 0,
+        "explanation": "Was about to означает «уже собирался»."
+      },
+      {
+        "prompt": "The event was ___ start at eight, but it was delayed.",
+        "options": ["due to", "would to", "going"],
+        "correct_index": 0,
+        "explanation": "Be due to обозначает запланированное действие."
+      }
+    ]
+  },
+  {
+    "id": "b2_39_third_conditional",
+    "order": 39,
+    "level": "B2",
+    "category": "Conditionals",
+    "title_en": "Third conditional",
+    "title_ru": "Third Conditional",
+    "rule": "Third Conditional описывает нереальное условие в прошлом и его воображаемый результат. Ситуацию уже нельзя изменить.",
+    "forms": [
+      "if + had + V3, would have + V3",
+      "could/might have + V3 возможны в результате",
+      "оба действия относятся к прошлому"
+    ],
+    "examples": [
+      {
+        "en": "If we had left earlier, we would have caught the train.",
+        "ru": "Если бы мы вышли раньше, то успели бы на поезд."
+      },
+      {
+        "en": "She might have passed if she had revised more.",
+        "ru": "Она могла бы сдать, если бы больше повторяла."
+      },
+      {
+        "en": "What would you have done if they had refused?",
+        "ru": "Что бы ты сделал, если бы они отказали?"
+      }
+    ],
+    "common_mistake": {
+      "wrong": "If I would have known, I had helped.",
+      "right": "If I had known, I would have helped.",
+      "note": "В if-clause используется had + V3, в результате — would have + V3."
+    },
+    "quizzes": [
+      {
+        "prompt": "If you ___ me, I would have come.",
+        "options": ["had invited", "invited tomorrow", "would invite"],
+        "correct_index": 0,
+        "explanation": "Нереальное прошлое условие требует Past Perfect."
+      },
+      {
+        "prompt": "They ___ the deadline if the server hadn't failed.",
+        "options": ["would have met", "would meet now", "had met tomorrow"],
+        "correct_index": 0,
+        "explanation": "Воображаемый результат прошлого: would have + V3."
+      },
+      {
+        "prompt": "If she had taken the map, she ___ lost.",
+        "options": ["wouldn't have got", "didn't get", "won't get"],
+        "correct_index": 0,
+        "explanation": "Отрицательный результат оформляется wouldn't have + V3."
+      }
+    ]
+  },
+  {
+    "id": "b2_40_mixed_conditionals",
+    "order": 40,
+    "level": "B2",
+    "category": "Conditionals",
+    "title_en": "Mixed conditionals",
+    "title_ru": "Смешанные условные предложения",
+    "rule": "Mixed conditionals связывают разные времена. Прошлое условие может иметь результат сейчас; нереальное настоящее состояние может объяснять прошлый результат.",
+    "forms": [
+      "if + Past Perfect, would + base verb — past cause, present result",
+      "if + Past Simple, would have + V3 — present condition, past result",
+      "выбор формы зависит от времени условия и результата"
+    ],
+    "examples": [
+      {
+        "en": "If I had accepted that job, I would live in Berlin now.",
+        "ru": "Если бы я принял ту работу, сейчас жил бы в Берлине."
+      },
+      {
+        "en": "If she were more organised, she wouldn't have missed the deadline.",
+        "ru": "Если бы она была организованнее, она бы не пропустила срок."
+      },
+      {
+        "en": "We would know the answer now if we had checked the data.",
+        "ru": "Мы бы сейчас знали ответ, если бы проверили данные."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "If I had slept more, I would have more energy yesterday.",
+      "right": "If I had slept more, I would have more energy now.",
+      "note": "Форма результата должна соответствовать настоящему значению now."
+    },
+    "quizzes": [
+      {
+        "prompt": "If he had studied medicine, he ___ a doctor now.",
+        "options": ["would be", "would have been yesterday", "is"],
+        "correct_index": 0,
+        "explanation": "Прошлое решение имеет настоящий результат."
+      },
+      {
+        "prompt": "If I weren't afraid of flying, I ___ that job abroad last year.",
+        "options": ["would have taken", "would take tomorrow", "had taken"],
+        "correct_index": 0,
+        "explanation": "Текущее качество объясняет несостоявшийся прошлый выбор."
+      },
+      {
+        "prompt": "She would be here now if the train ___ delayed.",
+        "options": ["hadn't been", "wasn't tomorrow", "wouldn't be"],
+        "correct_index": 0,
+        "explanation": "Прошлая задержка влияет на настоящее."
+      }
+    ]
+  },
+  {
+    "id": "b2_41_past_deduction",
+    "order": 41,
+    "level": "B2",
+    "category": "Modal verbs",
+    "title_en": "Past deduction",
+    "title_ru": "Логические выводы о прошлом",
+    "rule": "Для выводов о прошлом используются modal + have + past participle: must have — почти уверенный вывод, might/may/could have — возможность, can't/couldn't have — невозможность.",
+    "forms": [
+      "must have + V3",
+      "might/may/could have + V3",
+      "can't/couldn't have + V3"
+    ],
+    "examples": [
+      {
+        "en": "She must have forgotten the appointment.",
+        "ru": "Она, должно быть, забыла о встрече."
+      },
+      {
+        "en": "They might have taken a different route.",
+        "ru": "Возможно, они выбрали другой маршрут."
+      },
+      {
+        "en": "He can't have seen us; he was facing away.",
+        "ru": "Он не мог нас видеть: он стоял спиной."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He must forgot the key.",
+      "right": "He must have forgotten the key.",
+      "note": "Вывод о прошлом требует have + V3."
+    },
+    "quizzes": [
+      {
+        "prompt": "The ground is wet. It ___ during the night.",
+        "options": ["must have rained", "must rain", "has to rain tomorrow"],
+        "correct_index": 0,
+        "explanation": "Наблюдаемый результат позволяет сделать сильный вывод о прошлом."
+      },
+      {
+        "prompt": "I'm not certain, but she ___ the email.",
+        "options": ["may have missed", "must miss", "can't missing"],
+        "correct_index": 0,
+        "explanation": "May have выражает возможное прошлое объяснение."
+      },
+      {
+        "prompt": "They ___ the door; they didn't have a key.",
+        "options": ["can't have opened", "must have opened", "should open"],
+        "correct_index": 0,
+        "explanation": "Факт делает действие невозможным."
+      }
+    ]
+  },
+  {
+    "id": "b2_42_past_criticism_and_regret",
+    "order": 42,
+    "level": "B2",
+    "category": "Modal verbs",
+    "title_en": "Past criticism and regret",
+    "title_ru": "Критика и сожаление о прошлом",
+    "rule": "Should have и ought to have выражают невыполненное правильное действие; shouldn't have — действие, которое было ошибкой. Could have указывает на неиспользованную возможность.",
+    "forms": [
+      "should/ought to have + V3",
+      "shouldn't have + V3",
+      "could have + V3"
+    ],
+    "examples": [
+      {
+        "en": "You should have checked the address.",
+        "ru": "Тебе следовало проверить адрес."
+      },
+      {
+        "en": "I shouldn't have spoken so sharply.",
+        "ru": "Мне не следовало говорить так резко."
+      },
+      {
+        "en": "We could have taken a taxi.",
+        "ru": "Мы могли бы взять такси, но не взяли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "You should checked the figures.",
+      "right": "You should have checked the figures.",
+      "note": "Оценка прошлого действия требует have + V3."
+    },
+    "quizzes": [
+      {
+        "prompt": "I ___ more carefully; the error was obvious.",
+        "options": ["should have read", "should read tomorrow", "must reading"],
+        "correct_index": 0,
+        "explanation": "Говорящий критикует прошлое действие."
+      },
+      {
+        "prompt": "They ___ us earlier, but they chose not to.",
+        "options": ["could have warned", "can warn yesterday", "must warn"],
+        "correct_index": 0,
+        "explanation": "Could have показывает неиспользованную возможность."
+      },
+      {
+        "prompt": "You ___ that password with anyone.",
+        "options": ["shouldn't have shared", "shouldn't share yesterday have", "don't have"],
+        "correct_index": 0,
+        "explanation": "Речь о совершённой ошибке в прошлом."
+      }
+    ]
+  },
+  {
+    "id": "b2_43_needn_t_have_and_didn_t_need_to",
+    "order": 43,
+    "level": "B2",
+    "category": "Modal verbs",
+    "title_en": "Needn't have and didn't need to",
+    "title_ru": "Needn't have и didn't need to",
+    "rule": "Needn't have done означает, что действие было выполнено, но оказалось ненужным. Didn't need to означает отсутствие необходимости; из формы не всегда ясно, было действие выполнено или нет.",
+    "forms": [
+      "needn't have + V3 — did it, but unnecessary",
+      "didn't need to + base verb — no necessity",
+      "didn't have to + base verb — no obligation"
+    ],
+    "examples": [
+      {
+        "en": "We needn't have brought food; there was plenty.",
+        "ru": "Мы зря принесли еду: её было достаточно."
+      },
+      {
+        "en": "I didn't need to print the ticket, so I used my phone.",
+        "ru": "Мне не нужно было печатать билет, поэтому я показал телефон."
+      },
+      {
+        "en": "She didn't have to work on Friday.",
+        "ru": "Ей не требовалось работать в пятницу."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I needn't bring an umbrella yesterday, but I did.",
+      "right": "I needn't have brought an umbrella, but I did.",
+      "note": "Для совершённого ненужного действия нужна форма needn't have + V3."
+    },
+    "quizzes": [
+      {
+        "prompt": "You ___ all those copies; we only needed one.",
+        "options": ["needn't have made", "didn't need make and did", "mustn't make"],
+        "correct_index": 0,
+        "explanation": "Копии были сделаны, но зря."
+      },
+      {
+        "prompt": "The form was online, so I ___ go to the office.",
+        "options": ["didn't need to", "needn't have gone necessarily", "mustn't"],
+        "correct_index": 0,
+        "explanation": "Необходимости идти не было, и контекст указывает, что человек не пошёл."
+      },
+      {
+        "prompt": "We ___ so early; the flight was delayed.",
+        "options": ["needn't have arrived", "didn't need arriving", "can't arrive"],
+        "correct_index": 0,
+        "explanation": "Мы приехали рано, но это оказалось ненужным."
+      }
+    ]
+  },
+  {
+    "id": "b2_44_have_and_get_something_done",
+    "order": 44,
+    "level": "B2",
+    "category": "Causatives",
+    "title_en": "Have and get something done",
+    "title_ru": "Have/Get something done",
+    "rule": "Have/get something done означает, что действие выполняет другой человек по нашей просьбе или как услуга. Эта конструкция также может описывать неприятное событие, случившееся с человеком.",
+    "forms": [
+      "have + object + V3",
+      "get + object + V3 — более разговорно",
+      "have something stolen/damaged — неприятное событие"
+    ],
+    "examples": [
+      {
+        "en": "I'm having my laptop repaired.",
+        "ru": "Мне ремонтируют ноутбук."
+      },
+      {
+        "en": "We got the kitchen painted last month.",
+        "ru": "В прошлом месяце нам покрасили кухню."
+      },
+      {
+        "en": "She had her bag stolen on the train.",
+        "ru": "У неё украли сумку в поезде."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I repaired my car at the garage, but a mechanic did it.",
+      "right": "I had my car repaired at the garage.",
+      "note": "Если работу выполнил специалист, используется causative form."
+    },
+    "quizzes": [
+      {
+        "prompt": "We're going to ___ the windows replaced.",
+        "options": ["have", "make", "do"],
+        "correct_index": 0,
+        "explanation": "Have + object + V3 показывает заказанную услугу."
+      },
+      {
+        "prompt": "He got his photo ___ professionally.",
+        "options": ["take", "taken", "taking"],
+        "correct_index": 1,
+        "explanation": "После object нужна форма V3."
+      },
+      {
+        "prompt": "She ___ her phone stolen while travelling.",
+        "options": ["had", "made", "did"],
+        "correct_index": 0,
+        "explanation": "Have + object + V3 может описывать неприятное событие."
+      }
+    ]
+  },
+  {
+    "id": "b2_45_make__let__have__get_and_help",
+    "order": 45,
+    "level": "B2",
+    "category": "Causatives",
+    "title_en": "Make, let, have, get and help",
+    "title_ru": "Каузативные глаголы make, let, have, get и help",
+    "rule": "Make означает заставить, let — позволить, have — поручить, get — уговорить/организовать. После make/let/have + object обычно используется базовая форма; get требует to-infinitive; help допускает оба варианта.",
+    "forms": [
+      "make/let/have + object + base verb",
+      "get + object + to-infinitive",
+      "help + object + (to) verb"
+    ],
+    "examples": [
+      {
+        "en": "The coach made us run five kilometres.",
+        "ru": "Тренер заставил нас пробежать пять километров."
+      },
+      {
+        "en": "I'll have my assistant send the file.",
+        "ru": "Я поручу помощнику отправить файл."
+      },
+      {
+        "en": "She got him to reconsider the offer.",
+        "ru": "Она убедила его пересмотреть предложение."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "They got me sign the form.",
+      "right": "They got me to sign the form.",
+      "note": "После get + object используется to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "The manager had the team ___ the figures again.",
+        "options": ["check", "to check", "checking"],
+        "correct_index": 0,
+        "explanation": "Have + object + base verb."
+      },
+      {
+        "prompt": "Her parents wouldn't let her ___ alone.",
+        "options": ["travel", "to travel", "travelling to"],
+        "correct_index": 0,
+        "explanation": "После let используется глагол без to."
+      },
+      {
+        "prompt": "We finally got the supplier ___ the price.",
+        "options": ["reduce", "to reduce", "reducing"],
+        "correct_index": 1,
+        "explanation": "Get + object требует to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "b2_46_reporting_passives",
+    "order": 46,
+    "level": "B2",
+    "category": "Passive voice",
+    "title_en": "Reporting passives",
+    "title_ru": "Пассивные конструкции передачи мнения",
+    "rule": "Формальные сообщения и общие мнения часто выражаются через It is said that ... или subject + is said to ... . Для более раннего действия используется perfect infinitive: is believed to have done.",
+    "forms": [
+      "It is said/believed that + clause",
+      "subject + is said/believed to + verb",
+      "subject + is said to have + V3"
+    ],
+    "examples": [
+      {
+        "en": "It is believed that the painting is authentic.",
+        "ru": "Считается, что картина подлинная."
+      },
+      {
+        "en": "The company is expected to announce changes.",
+        "ru": "Ожидается, что компания объявит изменения."
+      },
+      {
+        "en": "He is thought to have left the country.",
+        "ru": "Считается, что он покинул страну."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He is believed that he lives abroad.",
+      "right": "He is believed to live abroad.",
+      "note": "После подлежащего используется пассив + to-infinitive, а не that-clause."
+    },
+    "quizzes": [
+      {
+        "prompt": "The minister is expected ___ later today.",
+        "options": ["to speak", "speaking", "that speak"],
+        "correct_index": 0,
+        "explanation": "Subject + passive reporting verb + to-infinitive."
+      },
+      {
+        "prompt": "It ___ that prices will rise.",
+        "options": ["is believed", "believes", "is believing by"],
+        "correct_index": 0,
+        "explanation": "Безличная пассивная модель: It is believed that."
+      },
+      {
+        "prompt": "The documents are thought ___ during the move.",
+        "options": ["to have been lost", "to lose yesterday", "that lost"],
+        "correct_index": 0,
+        "explanation": "Потеря произошла раньше, поэтому perfect passive infinitive."
+      }
+    ]
+  },
+  {
+    "id": "b2_47_passive_with_two_objects",
+    "order": 47,
+    "level": "B2",
+    "category": "Passive voice",
+    "title_en": "Passive with two objects",
+    "title_ru": "Пассив с двумя дополнениями",
+    "rule": "Глаголы give, send, offer, tell, show и подобные могут иметь два дополнения. В пассиве подлежащим может стать человек или предмет; вариант с человеком часто звучит естественнее.",
+    "forms": [
+      "They gave me a key → I was given a key",
+      "A key was given to me",
+      "person as subject is often preferred"
+    ],
+    "examples": [
+      {
+        "en": "We were offered a refund.",
+        "ru": "Нам предложили возврат денег."
+      },
+      {
+        "en": "A copy was sent to every participant.",
+        "ru": "Копию отправили каждому участнику."
+      },
+      {
+        "en": "She was told the truth.",
+        "ru": "Ей сказали правду."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I was explained the problem.",
+      "right": "The problem was explained to me.",
+      "note": "Explain обычно не образует пассив с человеком как прямым подлежащим."
+    },
+    "quizzes": [
+      {
+        "prompt": "Each guest ___ a welcome pack.",
+        "options": ["was given", "gave", "was explained"],
+        "correct_index": 0,
+        "explanation": "Человек может стать подлежащим с give."
+      },
+      {
+        "prompt": "The final decision was communicated ___ the staff.",
+        "options": ["to", "—", "for"],
+        "correct_index": 0,
+        "explanation": "При пассиве с предметом нужен предлог to перед получателем."
+      },
+      {
+        "prompt": "He ___ a place on the course.",
+        "options": ["was offered", "offered him", "was offer"],
+        "correct_index": 0,
+        "explanation": "Offer допускает пассив с человеком как подлежащим."
+      }
+    ]
+  },
+  {
+    "id": "b2_48_flexible_tense_changes_in_reported_speech",
+    "order": 48,
+    "level": "B2",
+    "category": "Reported speech",
+    "title_en": "Flexible tense changes in reported speech",
+    "title_ru": "Гибкий выбор времён в косвенной речи",
+    "rule": "Сдвиг времени не обязателен, если сообщаемый факт всё ещё актуален, является общей истиной или передаётся почти сразу. Выбор зависит от точки зрения говорящего и контекста.",
+    "forms": [
+      "backshift for past viewpoint",
+      "no backshift for still-true facts",
+      "pronouns/time expressions change as needed"
+    ],
+    "examples": [
+      {
+        "en": "The teacher said that water boils at 100°C.",
+        "ru": "Учитель сказал, что вода кипит при 100°C."
+      },
+      {
+        "en": "Maya said she lives in Bristol.",
+        "ru": "Майя сказала, что живёт в Бристоле — это всё ещё актуально."
+      },
+      {
+        "en": "He told me he was feeling unwell.",
+        "ru": "Он сказал мне, что плохо себя чувствует."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She said the Earth went around the Sun.",
+      "right": "She said the Earth goes around the Sun.",
+      "note": "Общую истину обычно не сдвигают в прошлое."
+    },
+    "quizzes": [
+      {
+        "prompt": "Leo said he ___ from home now; the situation is still current.",
+        "options": ["works", "worked only yesterday", "had worked before birth"],
+        "correct_index": 0,
+        "explanation": "Актуальный факт можно оставить в Present Simple."
+      },
+      {
+        "prompt": "The witness said she ___ the car the previous night.",
+        "options": ["had seen", "sees", "will see"],
+        "correct_index": 0,
+        "explanation": "Конкретное более раннее событие требует backshift."
+      },
+      {
+        "prompt": "Our guide explained that the museum ___ on Mondays.",
+        "options": ["is closed", "was closing forever", "had close"],
+        "correct_index": 0,
+        "explanation": "Постоянное расписание можно передать без сдвига."
+      }
+    ]
+  },
+  {
+    "id": "b2_49_reporting_verbs_and_their_patterns",
+    "order": 49,
+    "level": "B2",
+    "category": "Reported speech",
+    "title_en": "Reporting verbs and their patterns",
+    "title_ru": "Reporting verbs и модели управления",
+    "rule": "Reporting verbs передают не только слова, но и намерение: admit, deny, suggest, recommend + -ing/that-clause; promise, refuse, agree + to-infinitive; warn, remind, advise + object + to-infinitive.",
+    "forms": [
+      "admit/deny/suggest + -ing",
+      "promise/refuse/agree + to-infinitive",
+      "warn/remind/advise + object + to-infinitive"
+    ],
+    "examples": [
+      {
+        "en": "He admitted copying the file.",
+        "ru": "Он признался, что скопировал файл."
+      },
+      {
+        "en": "She promised to call later.",
+        "ru": "Она пообещала позвонить позже."
+      },
+      {
+        "en": "They warned us not to touch the cable.",
+        "ru": "Они предупредили нас не трогать кабель."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She suggested us to leave early.",
+      "right": "She suggested leaving early.",
+      "note": "Suggest обычно не используется по модели object + to-infinitive."
+    },
+    "quizzes": [
+      {
+        "prompt": "The company denied ___ customer data.",
+        "options": ["sharing", "to share", "share"],
+        "correct_index": 0,
+        "explanation": "Deny требует -ing."
+      },
+      {
+        "prompt": "He reminded me ___ the receipt.",
+        "options": ["to keep", "keeping without object", "keeped"],
+        "correct_index": 0,
+        "explanation": "Remind + object + to-infinitive."
+      },
+      {
+        "prompt": "They agreed ___ the deadline.",
+        "options": ["to extend", "extending only", "extend"],
+        "correct_index": 0,
+        "explanation": "Agree обычно требует to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "b2_50_gerund_or_infinitive_with_a_change_of_meaning",
+    "order": 50,
+    "level": "B2",
+    "category": "Verb patterns",
+    "title_en": "Gerund or infinitive with a change of meaning",
+    "title_ru": "Герундий или инфинитив с изменением значения",
+    "rule": "После remember, forget, stop, try, regret и go on выбор -ing или to-infinitive меняет смысл. -ing обычно относится к опыту/действию, а to-infinitive — к цели или следующему действию.",
+    "forms": [
+      "remember doing = помнить прошлое; remember to do = не забыть",
+      "stop doing = прекратить; stop to do = остановиться, чтобы",
+      "try doing = эксперимент; try to do = попытка"
+    ],
+    "examples": [
+      {
+        "en": "I remember meeting her years ago.",
+        "ru": "Я помню, как встретил её много лет назад."
+      },
+      {
+        "en": "Remember to lock the door.",
+        "ru": "Не забудь закрыть дверь."
+      },
+      {
+        "en": "We stopped to buy some water.",
+        "ru": "Мы остановились, чтобы купить воды."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He stopped to smoke because it was unhealthy.",
+      "right": "He stopped smoking because it was unhealthy.",
+      "note": "Прекращение привычки выражается stop + -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "I tried ___ the router, but it still didn't work.",
+        "options": ["restarting", "to restart once and failed to attempt", "restarted"],
+        "correct_index": 0,
+        "explanation": "Try + -ing означает попробовать способ."
+      },
+      {
+        "prompt": "She forgot ___ the attachment, so the email was incomplete.",
+        "options": ["to include", "including and remembers it", "include"],
+        "correct_index": 0,
+        "explanation": "Действие не было выполнено, потому что она забыла."
+      },
+      {
+        "prompt": "I'll never forget ___ the northern lights.",
+        "options": ["seeing", "to see tomorrow", "see"],
+        "correct_index": 0,
+        "explanation": "Речь о воспоминании прошлого опыта."
+      }
+    ]
+  },
+  {
+    "id": "b2_51_perfect_infinitives_and_perfect_gerunds",
+    "order": 51,
+    "level": "B2",
+    "category": "Verb patterns",
+    "title_en": "Perfect infinitives and perfect gerunds",
+    "title_ru": "Совершенный инфинитив и совершенный герундий",
+    "rule": "Perfect infinitive to have done и perfect gerund having done показывают, что действие произошло раньше основного глагола. Пассивные формы: to have been done, having been done.",
+    "forms": [
+      "to have + V3",
+      "having + V3",
+      "to have been / having been + V3"
+    ],
+    "examples": [
+      {
+        "en": "She seems to have misunderstood the question.",
+        "ru": "Похоже, она неправильно поняла вопрос."
+      },
+      {
+        "en": "He denied having taken the money.",
+        "ru": "Он отрицал, что взял деньги."
+      },
+      {
+        "en": "The files appear to have been deleted.",
+        "ru": "Похоже, файлы были удалены."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He admitted to steal the document earlier.",
+      "right": "He admitted having stolen the document earlier.",
+      "note": "Более раннее действие после admit можно выразить perfect gerund."
+    },
+    "quizzes": [
+      {
+        "prompt": "The actor is believed ___ the country.",
+        "options": ["to have left", "having leave", "to left"],
+        "correct_index": 0,
+        "explanation": "Действие произошло раньше текущего мнения."
+      },
+      {
+        "prompt": "She apologised for ___ us sooner.",
+        "options": ["not having told", "not to told", "not tell"],
+        "correct_index": 0,
+        "explanation": "После предлога for нужен герундий; perfect form показывает более раннее действие."
+      },
+      {
+        "prompt": "The painting seems ___ several times.",
+        "options": ["to have been restored", "having restore", "to be restore yesterday"],
+        "correct_index": 0,
+        "explanation": "Нужен perfect passive infinitive."
+      }
+    ]
+  },
+  {
+    "id": "b2_52_present_participle_clauses",
+    "order": 52,
+    "level": "B2",
+    "category": "Participle clauses",
+    "title_en": "Present participle clauses",
+    "title_ru": "Причастные обороты с формой -ing",
+    "rule": "Present participle clause сокращает придаточное, когда действия имеют одного исполнителя. Она может выражать одновременность, причину или результат.",
+    "forms": [
+      "Walking down the street, ...",
+      "Knowing the risks, ...",
+      "..., causing a delay"
+    ],
+    "examples": [
+      {
+        "en": "Walking to work, I noticed a new café.",
+        "ru": "Идя на работу, я заметил новое кафе."
+      },
+      {
+        "en": "Knowing the deadline was close, we worked late.",
+        "ru": "Зная, что срок близок, мы работали допоздна."
+      },
+      {
+        "en": "The server crashed, causing a major delay.",
+        "ru": "Сервер вышел из строя, вызвав серьёзную задержку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Driving home, the rain started.",
+      "right": "Driving home, I noticed that the rain had started.",
+      "note": "Подразумеваемый исполнитель причастного оборота должен совпадать с подлежащим главной части."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ the instructions carefully, she avoided mistakes.",
+        "options": ["Following", "Followed by", "To followed"],
+        "correct_index": 0,
+        "explanation": "Одновременное активное действие выражается -ing clause."
+      },
+      {
+        "prompt": "The pipe burst, ___ the basement to flood.",
+        "options": ["causing", "caused", "having cause"],
+        "correct_index": 0,
+        "explanation": "-ing clause показывает результат."
+      },
+      {
+        "prompt": "___ that no one was listening, he stopped speaking.",
+        "options": ["Realising", "Realised by", "To realised"],
+        "correct_index": 0,
+        "explanation": "Причина выражается активным причастным оборотом."
+      }
+    ]
+  },
+  {
+    "id": "b2_53_past_and_perfect_participle_clauses",
+    "order": 53,
+    "level": "B2",
+    "category": "Participle clauses",
+    "title_en": "Past and perfect participle clauses",
+    "title_ru": "Обороты с V3 и having + V3",
+    "rule": "Past participle clause имеет пассивное значение. Perfect participle clause having done показывает, что действие завершилось раньше действия главной части; having been done — его пассивный вариант.",
+    "forms": [
+      "V3 clause — passive meaning",
+      "having + V3 — earlier active action",
+      "having been + V3 — earlier passive action"
+    ],
+    "examples": [
+      {
+        "en": "Built in the 1800s, the house needs repairs.",
+        "ru": "Дом, построенный в XIX веке, нуждается в ремонте."
+      },
+      {
+        "en": "Having finished the report, she went home.",
+        "ru": "Закончив отчёт, она пошла домой."
+      },
+      {
+        "en": "Having been warned about the traffic, we left early.",
+        "ru": "Поскольку нас предупредили о пробках, мы выехали рано."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Having finished by Maria, the report was sent.",
+      "right": "Having finished the report, Maria sent it.",
+      "note": "Исполнитель perfect participle должен совпадать с подлежащим главной части."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ all the evidence, the jury reached a decision.",
+        "options": ["Having considered", "Considered by", "Having consider"],
+        "correct_index": 0,
+        "explanation": "Рассмотрение завершилось до решения."
+      },
+      {
+        "prompt": "___ during the storm, the roof had to be replaced.",
+        "options": ["Damaged", "Damaging", "Having damage"],
+        "correct_index": 0,
+        "explanation": "Крыша подверглась действию, поэтому V3."
+      },
+      {
+        "prompt": "___ twice before, the proposal was finally approved.",
+        "options": ["Having been rejected", "Having rejected", "Rejecting by"],
+        "correct_index": 0,
+        "explanation": "Нужна более ранняя пассивная форма."
+      }
+    ]
+  },
+  {
+    "id": "b2_54_reduced_relative_clauses",
+    "order": 54,
+    "level": "B2",
+    "category": "Relative clauses",
+    "title_en": "Reduced relative clauses",
+    "title_ru": "Сокращённые относительные придаточные",
+    "rule": "Относительное придаточное можно сократить: active who/which + be + -ing → -ing; passive who/which + be + V3 → V3; выражение цели/порядка иногда сокращается до to-infinitive.",
+    "forms": [
+      "people who work → people working",
+      "documents that were submitted → documents submitted",
+      "the first person who arrived → the first person to arrive"
+    ],
+    "examples": [
+      {
+        "en": "Students applying for the course need references.",
+        "ru": "Студентам, подающим заявку, нужны рекомендации."
+      },
+      {
+        "en": "The data collected yesterday is incomplete.",
+        "ru": "Данные, собранные вчера, неполны."
+      },
+      {
+        "en": "Maya was the first person to notice the error.",
+        "ru": "Майя первой заметила ошибку."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The people worked here must register.",
+      "right": "The people working here must register.",
+      "note": "Для активного действия, происходящего сейчас/обычно, нужна форма -ing."
+    },
+    "quizzes": [
+      {
+        "prompt": "The products ___ in this factory are exported.",
+        "options": ["made", "making", "make"],
+        "correct_index": 0,
+        "explanation": "Пассивное значение сокращается до V3."
+      },
+      {
+        "prompt": "Anyone ___ to attend should email us.",
+        "options": ["wishing", "wished by", "wish"],
+        "correct_index": 0,
+        "explanation": "Active reduced relative clause использует -ing."
+      },
+      {
+        "prompt": "He was the only applicant ___ all the requirements.",
+        "options": ["to meet", "meeting yesterday only", "met by"],
+        "correct_index": 0,
+        "explanation": "После the only/first/last часто используется to-infinitive."
+      }
+    ]
+  },
+  {
+    "id": "b2_55_prepositions_and_quantifiers_in_relative_clau",
+    "order": 55,
+    "level": "B2",
+    "category": "Relative clauses",
+    "title_en": "Prepositions and quantifiers in relative clauses",
+    "title_ru": "Предлоги и количественные слова в relative clauses",
+    "rule": "В формальном стиле предлог может стоять перед whom/which. После all, some, many, none, both используется of whom/of which. В разговорной речи предлог часто переносится в конец.",
+    "forms": [
+      "the person to whom ...",
+      "the issue about which ...",
+      "many of whom / some of which"
+    ],
+    "examples": [
+      {
+        "en": "The colleague to whom I spoke was helpful.",
+        "ru": "Коллега, с которым я говорил, помог."
+      },
+      {
+        "en": "This is the issue we need to talk about.",
+        "ru": "Это вопрос, который нам нужно обсудить."
+      },
+      {
+        "en": "She has three brothers, all of whom live abroad.",
+        "ru": "У неё три брата, и все живут за границей."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The project, many of them were delayed, was expensive.",
+      "right": "The projects, many of which were delayed, were expensive.",
+      "note": "После quantifier требуется of which/whom, согласованное с существительным."
+    },
+    "quizzes": [
+      {
+        "prompt": "The client ___ whom we sent the invoice has paid.",
+        "options": ["to", "at", "— who"],
+        "correct_index": 0,
+        "explanation": "Формальная конструкция: to whom."
+      },
+      {
+        "prompt": "We interviewed twelve candidates, two of ___ had excellent experience.",
+        "options": ["whom", "which", "that"],
+        "correct_index": 0,
+        "explanation": "Для людей после of используется whom."
+      },
+      {
+        "prompt": "That's the topic which I was referring ___.",
+        "options": ["to", "at", "—"],
+        "correct_index": 0,
+        "explanation": "В разговорном варианте предлог остаётся в конце."
+      }
+    ]
+  },
+  {
+    "id": "b2_56_cleft_sentences",
+    "order": 56,
+    "level": "B2",
+    "category": "Emphasis",
+    "title_en": "Cleft sentences",
+    "title_ru": "Расщеплённые предложения для эмфазы",
+    "rule": "Cleft sentence выделяет нужную часть информации. It-cleft имеет форму It is/was X that/who ...; what-cleft начинается с What ... is/was ... .",
+    "forms": [
+      "It was X that/who ...",
+      "What + clause + is/was ...",
+      "The reason why ... is/was ..."
+    ],
+    "examples": [
+      {
+        "en": "It was Lena who found the solution.",
+        "ru": "Именно Лена нашла решение."
+      },
+      {
+        "en": "What I need is a quiet place to work.",
+        "ru": "Что мне нужно, так это тихое место для работы."
+      },
+      {
+        "en": "The reason why we left was the noise.",
+        "ru": "Причиной нашего ухода был шум."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It was yesterday when I sent it.",
+      "right": "It was yesterday that I sent it.",
+      "note": "В стандартном it-cleft после выделяемого обстоятельства используется that."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ I value most is honest feedback.",
+        "options": ["What", "It", "That what"],
+        "correct_index": 0,
+        "explanation": "What-cleft начинается с What + clause."
+      },
+      {
+        "prompt": "It was the final question ___ caused confusion.",
+        "options": ["that", "what", "where"],
+        "correct_index": 0,
+        "explanation": "It-cleft требует that/who."
+      },
+      {
+        "prompt": "The reason ___ she resigned was the workload.",
+        "options": ["why", "what", "which of"],
+        "correct_index": 0,
+        "explanation": "Устойчивая структура: the reason why ... was ... ."
+      }
+    ]
+  },
+  {
+    "id": "b2_57_emphatic_do_and_reflexive_emphasis",
+    "order": 57,
+    "level": "B2",
+    "category": "Emphasis",
+    "title_en": "Emphatic do and reflexive emphasis",
+    "title_ru": "Эмфатическое do и усилительные местоимения",
+    "rule": "Do/does/did перед смысловым глаголом усиливает утверждение или исправляет предположение. Reflexive pronoun после существительного или в конце предложения подчёркивает, что действие выполнено лично.",
+    "forms": [
+      "I do agree / She does understand",
+      "He did call yesterday",
+      "I made it myself"
+    ],
+    "examples": [
+      {
+        "en": "I do appreciate your help.",
+        "ru": "Я действительно ценю вашу помощь."
+      },
+      {
+        "en": "She did send the file; check your spam folder.",
+        "ru": "Она действительно отправила файл."
+      },
+      {
+        "en": "The director herself answered the complaint.",
+        "ru": "На жалобу ответила сама директор."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He does works hard.",
+      "right": "He does work hard.",
+      "note": "После эмфатического does используется базовая форма глагола."
+    },
+    "quizzes": [
+      {
+        "prompt": "I ___ understand your concern, but the rule is clear.",
+        "options": ["do", "am", "have"],
+        "correct_index": 0,
+        "explanation": "Do усиливает Present Simple."
+      },
+      {
+        "prompt": "They ___ warn us about the delay.",
+        "options": ["did", "did warned", "were"],
+        "correct_index": 0,
+        "explanation": "После did используется базовая форма warn."
+      },
+      {
+        "prompt": "We designed the website ___.",
+        "options": ["ourselves", "ourself", "us"],
+        "correct_index": 0,
+        "explanation": "Reflexive pronoun показывает, что работа выполнена лично нами."
+      }
+    ]
+  },
+  {
+    "id": "b2_58_noun_clauses",
+    "order": 58,
+    "level": "B2",
+    "category": "Clause structure",
+    "title_en": "Noun clauses",
+    "title_ru": "Придаточные в функции существительного",
+    "rule": "Noun clause может быть подлежащим, дополнением или именной частью сказуемого. Она вводится that, what, whether/if, wh-словами и имеет прямой порядок слов.",
+    "forms": [
+      "I know (that) she left",
+      "What he said surprised me",
+      "The question is whether we can afford it"
+    ],
+    "examples": [
+      {
+        "en": "What you decide is entirely up to you.",
+        "ru": "То, что ты решишь, полностью зависит от тебя."
+      },
+      {
+        "en": "We don't know whether the data is reliable.",
+        "ru": "Мы не знаем, надёжны ли данные."
+      },
+      {
+        "en": "The problem is that nobody checked the figures.",
+        "ru": "Проблема в том, что никто не проверил цифры."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I don't know what does she want.",
+      "right": "I don't know what she wants.",
+      "note": "В noun clause используется прямой порядок слов."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ he said caused a lot of confusion.",
+        "options": ["What", "That what", "Which he"],
+        "correct_index": 0,
+        "explanation": "What-clause может быть подлежащим."
+      },
+      {
+        "prompt": "The issue is ___ we have enough funding.",
+        "options": ["whether", "what do", "that whether"],
+        "correct_index": 0,
+        "explanation": "Whether вводит альтернативный вопрос внутри clause."
+      },
+      {
+        "prompt": "I wonder why the system ___.",
+        "options": ["failed", "did the system fail", "has fail"],
+        "correct_index": 0,
+        "explanation": "Внутри noun clause нет инверсии."
+      }
+    ]
+  },
+  {
+    "id": "b2_59_advanced_it_and_there_structures",
+    "order": 59,
+    "level": "B2",
+    "category": "Clause structure",
+    "title_en": "Advanced it and there structures",
+    "title_ru": "Продвинутые конструкции с it и there",
+    "rule": "Dummy it используется для погоды, времени, оценки и отложенного подлежащего. Existential there вводит новую информацию о существовании; согласование зависит от следующего существительного в формальном стиле.",
+    "forms": [
+      "It is + adjective + to/that ...",
+      "It takes + time + to ...",
+      "There seems/appears/happens to be ..."
+    ],
+    "examples": [
+      {
+        "en": "It is essential that everyone be informed.",
+        "ru": "Необходимо, чтобы все были проинформированы."
+      },
+      {
+        "en": "It took us two hours to solve the problem.",
+        "ru": "Нам потребовалось два часа, чтобы решить проблему."
+      },
+      {
+        "en": "There appears to be a mistake in the total.",
+        "ru": "Похоже, в итоговой сумме есть ошибка."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "There has many reasons to wait.",
+      "right": "There are many reasons to wait.",
+      "note": "После there нужна подходящая форма be."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ seems to be no simple solution.",
+        "options": ["There", "It", "That"],
+        "correct_index": 0,
+        "explanation": "Existential there вводит существование решения."
+      },
+      {
+        "prompt": "___ was generous of you to help.",
+        "options": ["It", "There", "What"],
+        "correct_index": 0,
+        "explanation": "Оценка действия выражается dummy it."
+      },
+      {
+        "prompt": "There ___ to have been several complaints.",
+        "options": ["appear", "appears", "is appearing them"],
+        "correct_index": 0,
+        "explanation": "С plural noun several complaints в формальном стандартном английском используется appear."
+      }
+    ]
+  },
+  {
+    "id": "b2_60_substitution_with_one__do__so_and_not",
+    "order": 60,
+    "level": "B2",
+    "category": "Substitution",
+    "title_en": "Substitution with one, do, so and not",
+    "title_ru": "Замещение с one, do, so и not",
+    "rule": "Чтобы избежать повторения, существительное заменяют one/ones, глагольную группу — do/does/did, а целое утверждение после think, hope, suppose — so или not.",
+    "forms": [
+      "the red one / the cheaper ones",
+      "I liked it and so did she / I did too",
+      "I think so / I hope not"
+    ],
+    "examples": [
+      {
+        "en": "My phone is old, so I need a new one.",
+        "ru": "Мой телефон старый, поэтому нужен новый."
+      },
+      {
+        "en": "I enjoyed the workshop, and so did Marta.",
+        "ru": "Мне понравился семинар, и Марте тоже."
+      },
+      {
+        "en": "Will it rain? I hope not.",
+        "ru": "Пойдёт дождь? Надеюсь, что нет."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I prefer the blue, not the red one phone.",
+      "right": "I prefer the blue one, not the red one.",
+      "note": "One заменяет уже названное исчисляемое существительное целиком."
+    },
+    "quizzes": [
+      {
+        "prompt": "These chairs are uncomfortable; let's use the wooden ___.",
+        "options": ["ones", "one", "do"],
+        "correct_index": 0,
+        "explanation": "Plural noun chairs заменяется ones."
+      },
+      {
+        "prompt": "I didn't understand the instructions, and neither ___ Alex.",
+        "options": ["did", "does", "was"],
+        "correct_index": 0,
+        "explanation": "После neither повторяется вспомогательный did."
+      },
+      {
+        "prompt": "Do you think they'll agree? — I suppose ___.",
+        "options": ["so", "one", "do it"],
+        "correct_index": 0,
+        "explanation": "So заменяет целое утвердительное предложение."
+      }
+    ]
+  },
+  {
+    "id": "b2_61_all__whole__each__every__either_and_neither",
+    "order": 61,
+    "level": "B2",
+    "category": "Determiners",
+    "title_en": "All, whole, each, every, either and neither",
+    "title_ru": "All, whole, each, every, either и neither",
+    "rule": "All обычно относится к множеству или неисчисляемому; whole — к одному целому объекту. Each подчёркивает отдельные элементы, every — всю группу. Either/neither относятся к двум вариантам.",
+    "forms": [
+      "all (the) students / all the time",
+      "the whole day / a whole week",
+      "each/every + singular; either/neither of + plural pronoun/noun"
+    ],
+    "examples": [
+      {
+        "en": "All the information was useful.",
+        "ru": "Вся информация была полезной."
+      },
+      {
+        "en": "I spent the whole afternoon editing.",
+        "ru": "Я потратил весь день после обеда на редактирование."
+      },
+      {
+        "en": "Neither of the answers is convincing.",
+        "ru": "Ни один из двух ответов не убедителен."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "Every of the students received a certificate.",
+      "right": "Every student received a certificate.",
+      "note": "Every ставится прямо перед существительным в единственном числе; every one of — другая структура."
+    },
+    "quizzes": [
+      {
+        "prompt": "We checked ___ document separately.",
+        "options": ["each", "all", "whole"],
+        "correct_index": 0,
+        "explanation": "Each подчёркивает отдельную проверку каждого документа."
+      },
+      {
+        "prompt": "She was away for the ___ week.",
+        "options": ["whole", "all of", "every of"],
+        "correct_index": 0,
+        "explanation": "Перед одним целым периодом используется the whole."
+      },
+      {
+        "prompt": "___ of these two routes is particularly fast.",
+        "options": ["Neither", "Every", "All"],
+        "correct_index": 0,
+        "explanation": "Neither относится к двум отрицательным вариантам."
+      }
+    ]
+  },
+  {
+    "id": "b2_62_articles_with_institutions__places_and_geogra",
+    "order": 62,
+    "level": "B2",
+    "category": "Articles",
+    "title_en": "Articles with institutions, places and geography",
+    "title_ru": "Артикли с учреждениями, местами и географическими названиями",
+    "rule": "Нулевой артикль с school, prison, bed, hospital и др. указывает на их основную функцию; the — на конкретное здание. The используется с реками, морями, группами островов и странами во множественном числе.",
+    "forms": [
+      "go to school / be in prison — function",
+      "go to the school / visit the prison — building",
+      "the Thames, the Alps, the Netherlands; Mount Everest, Lake Baikal"
+    ],
+    "examples": [
+      {
+        "en": "The children are at school.",
+        "ru": "Дети находятся в школе как ученики."
+      },
+      {
+        "en": "I went to the school to meet the head teacher.",
+        "ru": "Я пошёл в здание школы встретиться с директором."
+      },
+      {
+        "en": "They sailed across the Mediterranean.",
+        "ru": "Они пересекли Средиземное море."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We climbed the Mount Etna.",
+      "right": "We climbed Mount Etna.",
+      "note": "Перед отдельной горой с Mount обычно артикль не используется."
+    },
+    "quizzes": [
+      {
+        "prompt": "Her son is still at ___ university.",
+        "options": ["—", "the", "a specific"],
+        "correct_index": 0,
+        "explanation": "Речь об обучении как функции учреждения."
+      },
+      {
+        "prompt": "We visited ___ university where she studies.",
+        "options": ["the", "—", "an"],
+        "correct_index": 0,
+        "explanation": "Имеется в виду конкретное здание/учреждение."
+      },
+      {
+        "prompt": "They travelled through ___ United States by train.",
+        "options": ["the", "—", "a"],
+        "correct_index": 0,
+        "explanation": "Названия стран во множественном числе требуют the."
+      }
+    ]
+  },
+  {
+    "id": "b2_63_countability_shifts",
+    "order": 63,
+    "level": "B2",
+    "category": "Nouns",
+    "title_en": "Countability shifts",
+    "title_ru": "Изменение исчисляемости существительных",
+    "rule": "Некоторые существительные меняют значение в исчисляемом и неисчисляемом употреблении: experience, time, room, paper, work, business, glass. Артикль и форма зависят от конкретного смысла.",
+    "forms": [
+      "experience — опыт; an experience — событие",
+      "paper — материал; a paper — статья/доклад",
+      "room — пространство; a room — помещение"
+    ],
+    "examples": [
+      {
+        "en": "She has extensive teaching experience.",
+        "ru": "У неё большой опыт преподавания."
+      },
+      {
+        "en": "The trip was an unforgettable experience.",
+        "ru": "Поездка была незабываемым событием."
+      },
+      {
+        "en": "There isn't enough room in the car.",
+        "ru": "В машине недостаточно места."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "I need an advice about my application.",
+      "right": "I need some advice about my application.",
+      "note": "Advice остаётся неисчисляемым в стандартном английском."
+    },
+    "quizzes": [
+      {
+        "prompt": "The conference gave me several valuable ___.",
+        "options": ["experiences", "experience informations", "an advice"],
+        "correct_index": 0,
+        "explanation": "Здесь имеются в виду отдельные события/впечатления."
+      },
+      {
+        "prompt": "Could I have two ___ of water?",
+        "options": ["glasses", "glass material", "waterses"],
+        "correct_index": 0,
+        "explanation": "Glass как сосуд исчисляемо."
+      },
+      {
+        "prompt": "She published ___ on language learning.",
+        "options": ["a paper", "paper material", "an information"],
+        "correct_index": 0,
+        "explanation": "A paper означает научную статью/доклад."
+      }
+    ]
+  },
+  {
+    "id": "b2_64_complex_comparison_patterns",
+    "order": 64,
+    "level": "B2",
+    "category": "Comparison",
+    "title_en": "Complex comparison patterns",
+    "title_ru": "Сложные сравнительные конструкции",
+    "rule": "Для пропорциональных изменений используется the + comparative, the + comparative. As ... as выражает равенство; not nearly/nowhere near as — сильное неравенство; twice/three times as ... as — кратность.",
+    "forms": [
+      "the more ..., the more ...",
+      "not nearly/nowhere near as + adjective + as",
+      "twice/three times as + adjective + as"
+    ],
+    "examples": [
+      {
+        "en": "The more you practise, the more confident you become.",
+        "ru": "Чем больше практикуешься, тем увереннее становишься."
+      },
+      {
+        "en": "The sequel is nowhere near as good as the original.",
+        "ru": "Продолжение и близко не так хорошо, как оригинал."
+      },
+      {
+        "en": "This screen is twice as large as mine.",
+        "ru": "Этот экран вдвое больше моего."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "The more faster we work, the sooner we finish.",
+      "right": "The faster we work, the sooner we finish.",
+      "note": "После the не добавляется more к уже сравнительной форме faster."
+    },
+    "quizzes": [
+      {
+        "prompt": "The less you rush, ___ mistakes you make.",
+        "options": ["the fewer", "fewer", "the less of"],
+        "correct_index": 0,
+        "explanation": "Парная модель: the less ..., the fewer ... ."
+      },
+      {
+        "prompt": "The new system is not nearly ___ reliable as promised.",
+        "options": ["as", "so much", "more"],
+        "correct_index": 0,
+        "explanation": "Структура not nearly as + adjective + as."
+      },
+      {
+        "prompt": "Their office is three times ___ ours.",
+        "options": ["as large as", "larger as", "as larger than"],
+        "correct_index": 0,
+        "explanation": "Кратность выражается times as ... as."
+      }
+    ]
+  },
+  {
+    "id": "b2_65_adjective_and_adverb_position",
+    "order": 65,
+    "level": "B2",
+    "category": "Adjectives and adverbs",
+    "title_en": "Adjective and adverb position",
+    "title_ru": "Позиция прилагательных и наречий",
+    "rule": "Некоторые прилагательные употребляются главным образом после linking verbs (afraid, alive, asleep), другие меняют значение в зависимости от позиции. Наречия частотности, оценки и степени занимают разные позиции.",
+    "forms": [
+      "linking verb + adjective: seem tired",
+      "a concerned parent vs the people concerned",
+      "sentence adverb: Fortunately, ...; mid-position: probably has ..."
+    ],
+    "examples": [
+      {
+        "en": "The child was fast asleep.",
+        "ru": "Ребёнок крепко спал."
+      },
+      {
+        "en": "We contacted everyone concerned.",
+        "ru": "Мы связались со всеми заинтересованными/имеющими отношение."
+      },
+      {
+        "en": "She has probably forgotten the meeting.",
+        "ru": "Вероятно, она забыла о встрече."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "An afraid child hid behind the door.",
+      "right": "A frightened child hid behind the door.",
+      "note": "Afraid обычно употребляется после linking verb, а перед существительным лучше frightened."
+    },
+    "quizzes": [
+      {
+        "prompt": "The people ___ will receive an email.",
+        "options": ["involved", "involving", "are involve"],
+        "correct_index": 0,
+        "explanation": "Postpositive involved означает «имеющие отношение»."
+      },
+      {
+        "prompt": "He ___ has enough experience to lead the team.",
+        "options": ["probably", "has probably after experience", "probable"],
+        "correct_index": 0,
+        "explanation": "Наречие вероятности обычно стоит перед смысловым глаголом/после первого вспомогательного."
+      },
+      {
+        "prompt": "The animal is still ___.",
+        "options": ["alive", "an alive animal", "lively alive noun"],
+        "correct_index": 0,
+        "explanation": "Alive естественно употребляется после be."
+      }
+    ]
+  },
+  {
+    "id": "b2_66_clauses_of_purpose_and_result",
+    "order": 66,
+    "level": "B2",
+    "category": "Linking ideas",
+    "title_en": "Clauses of purpose and result",
+    "title_ru": "Придаточные цели и результата",
+    "rule": "Цель выражают to/in order to/so as to или so that + clause. Результат выражают so ... that, such ... that и therefore/as a result. Отрицательная цель: so as not to/in order not to.",
+    "forms": [
+      "to/in order to/so as to + verb",
+      "so that + subject + can/could/will/would",
+      "so + adjective + that; such + noun + that"
+    ],
+    "examples": [
+      {
+        "en": "We left early in order to avoid traffic.",
+        "ru": "Мы выехали рано, чтобы избежать пробок."
+      },
+      {
+        "en": "I wrote it down so that I wouldn't forget.",
+        "ru": "Я записал это, чтобы не забыть."
+      },
+      {
+        "en": "The demand was so high that the site crashed.",
+        "ru": "Спрос был настолько высоким, что сайт перестал работать."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "We whispered for not to wake the baby.",
+      "right": "We whispered so as not to wake the baby.",
+      "note": "Отрицательная цель оформляется in order/so as not to."
+    },
+    "quizzes": [
+      {
+        "prompt": "She saved the document twice ___ losing it.",
+        "options": ["to avoid", "for avoid", "so that avoid"],
+        "correct_index": 0,
+        "explanation": "Цель одного и того же субъекта выражается to-infinitive."
+      },
+      {
+        "prompt": "He spoke slowly so that everyone ___ understand.",
+        "options": ["could", "to", "understanding"],
+        "correct_index": 0,
+        "explanation": "После so that требуется полноценное придаточное."
+      },
+      {
+        "prompt": "It was ___ a complex issue that we needed more time.",
+        "options": ["such", "so", "too"],
+        "correct_index": 0,
+        "explanation": "Перед adjective + noun используется such."
+      }
+    ]
+  },
+  {
+    "id": "b2_67_as__like__as_if_and_as_though",
+    "order": 67,
+    "level": "B2",
+    "category": "Comparison and manner",
+    "title_en": "As, like, as if and as though",
+    "title_ru": "As, like, as if и as though",
+    "rule": "Like обычно является предлогом перед существительным; as вводит роль или придаточное. As if/as though описывают впечатление; Past Simple/Past Perfect могут показывать нереальность.",
+    "forms": [
+      "like + noun/pronoun",
+      "as + role/clause",
+      "as if/as though + clause"
+    ],
+    "examples": [
+      {
+        "en": "He works as a consultant.",
+        "ru": "Он работает консультантом."
+      },
+      {
+        "en": "She sings like a professional.",
+        "ru": "Она поёт как профессионал."
+      },
+      {
+        "en": "He talks as if he knew everything.",
+        "ru": "Он говорит так, будто знает всё."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "As my brother, he loves hiking.",
+      "right": "Like my brother, he loves hiking.",
+      "note": "При сравнении с человеком используется like; as означало бы «в роли брата»."
+    },
+    "quizzes": [
+      {
+        "prompt": "___ your adviser, I recommend waiting.",
+        "options": ["As", "Like", "As if"],
+        "correct_index": 0,
+        "explanation": "As вводит реальную роль говорящего."
+      },
+      {
+        "prompt": "The engine sounds ___ something is loose.",
+        "options": ["as if", "like it noun only", "as a mechanic"],
+        "correct_index": 0,
+        "explanation": "As if вводит придаточное впечатления."
+      },
+      {
+        "prompt": "She looks very much ___ her mother.",
+        "options": ["like", "as", "as though is"],
+        "correct_index": 0,
+        "explanation": "Перед существительным при сравнении используется like."
+      }
+    ]
+  },
+  {
+    "id": "b2_68_dependent_prepositions",
+    "order": 68,
+    "level": "B2",
+    "category": "Prepositions",
+    "title_en": "Dependent prepositions",
+    "title_ru": "Зависимые предлоги после глаголов, прилагательных и существительных",
+    "rule": "Многие слова требуют устойчивого предлога: depend on, insist on, apologise for, responsible for, interested in, solution to. Такие сочетания нужно учить целиком.",
+    "forms": [
+      "verb + preposition",
+      "adjective + preposition",
+      "noun + preposition"
+    ],
+    "examples": [
+      {
+        "en": "Success depends on careful planning.",
+        "ru": "Успех зависит от тщательного планирования."
+      },
+      {
+        "en": "She apologised for being late.",
+        "ru": "Она извинилась за опоздание."
+      },
+      {
+        "en": "We need a solution to this problem.",
+        "ru": "Нам нужно решение этой проблемы."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "He is responsible of the budget.",
+      "right": "He is responsible for the budget.",
+      "note": "Прилагательное responsible требует предлог for."
+    },
+    "quizzes": [
+      {
+        "prompt": "They insisted ___ paying the full amount.",
+        "options": ["on", "in", "to"],
+        "correct_index": 0,
+        "explanation": "Insist сочетается с on + -ing."
+      },
+      {
+        "prompt": "I'm not familiar ___ this software.",
+        "options": ["with", "to", "for"],
+        "correct_index": 0,
+        "explanation": "Familiar требует with."
+      },
+      {
+        "prompt": "There has been a sharp increase ___ demand.",
+        "options": ["in", "of", "at"],
+        "correct_index": 0,
+        "explanation": "Существительное increase обычно требует in перед изменяемым показателем."
+      }
+    ]
+  },
+  {
+    "id": "b2_69_wish__if_only__would_rather_and_it_s_time",
+    "order": 69,
+    "level": "B2",
+    "category": "Unreal meaning",
+    "title_en": "Wish, if only, would rather and it's time",
+    "title_ru": "Wish, if only, would rather и it's time",
+    "rule": "Wish/if only + Past Perfect выражают сожаление о прошлом; wish + would — желание изменить раздражающее поведение или ситуацию. Would rather + subject + Past Simple и it's time + Past Simple имеют нереальное настоящее значение.",
+    "forms": [
+      "wish/if only + Past Perfect",
+      "wish + would + verb",
+      "would rather + subject + Past Simple; it's time + Past Simple"
+    ],
+    "examples": [
+      {
+        "en": "I wish I had accepted the offer.",
+        "ru": "Жаль, что я не принял предложение."
+      },
+      {
+        "en": "I wish the neighbours would turn the music down.",
+        "ru": "Хотелось бы, чтобы соседи сделали музыку тише."
+      },
+      {
+        "en": "I'd rather you didn't mention this yet.",
+        "ru": "Я бы предпочёл, чтобы ты пока это не упоминал."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "It's time we leave.",
+      "right": "It's time we left.",
+      "note": "После it's time для значения «уже пора» используется форма Past Simple."
+    },
+    "quizzes": [
+      {
+        "prompt": "If only we ___ the map before leaving.",
+        "options": ["had checked", "checked tomorrow", "would check then"],
+        "correct_index": 0,
+        "explanation": "Сожаление о прошлом требует Past Perfect."
+      },
+      {
+        "prompt": "I'd rather you ___ me before making a decision.",
+        "options": ["consulted", "will consult", "have consult"],
+        "correct_index": 0,
+        "explanation": "После would rather + subject используется Past Simple."
+      },
+      {
+        "prompt": "I wish he ___ interrupting everyone.",
+        "options": ["would stop", "stops yesterday", "had stop now"],
+        "correct_index": 0,
+        "explanation": "Wish + would выражает желание изменить повторяющееся поведение."
+      }
+    ]
+  },
+  {
+    "id": "b2_70_ellipsis_in_coordinated_clauses",
+    "order": 70,
+    "level": "B2",
+    "category": "Ellipsis",
+    "title_en": "Ellipsis in coordinated clauses",
+    "title_ru": "Эллипсис в сложносочинённых конструкциях",
+    "rule": "Повторяющиеся элементы можно опускать, если смысл остаётся ясным. В ответах и параллельных структурах сохраняют вспомогательный глагол, а основную глагольную группу не повторяют.",
+    "forms": [
+      "She can play the violin and he can too",
+      "I ordered the soup, and Maria the salad",
+      "Some agreed; others didn't"
+    ],
+    "examples": [
+      {
+        "en": "I haven't seen the film, but Tom has.",
+        "ru": "Я не видел фильм, а Том видел."
+      },
+      {
+        "en": "Nora chose the morning train, and Ben the evening one.",
+        "ru": "Нора выбрала утренний поезд, а Бен — вечерний."
+      },
+      {
+        "en": "Some participants stayed; others left.",
+        "ru": "Некоторые участники остались, другие ушли."
+      }
+    ],
+    "common_mistake": {
+      "wrong": "She said she would call, and she would call.",
+      "right": "She said she would call, and she did.",
+      "note": "Для замещения всей глагольной группы используется подходящий вспомогательный глагол."
+    },
+    "quizzes": [
+      {
+        "prompt": "I thought the task would be difficult, but it ___.",
+        "options": ["wasn't", "didn't be", "not"],
+        "correct_index": 0,
+        "explanation": "Вместо повторения difficult используется be в нужной форме."
+      },
+      {
+        "prompt": "Sam can work remotely, and Nina can ___.",
+        "options": ["too", "work remotely too necessary", "does"],
+        "correct_index": 0,
+        "explanation": "После modal can основная группа может быть опущена; too завершает согласие."
+      },
+      {
+        "prompt": "Some people supported the proposal; others ___.",
+        "options": ["didn't", "weren't support", "not did"],
+        "correct_index": 0,
+        "explanation": "Did not заменяет повторяемый глагол supported."
+      }
+    ]
+  }
+]
