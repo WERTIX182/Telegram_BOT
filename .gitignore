@@ -1,12 +1,26 @@
+# Secrets and local configuration
 .env
+
+# Runtime databases and backups
 *.db
-__pycache__/
-*.py[cod]
+*.db-shm
+*.db-wal
+backups/
+
+# Python environments and caches
 .venv/
 venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and editor files
+*.log
 .idea/
 .vscode/
-.DS_Store
+
+
+# Docker volume with runtime data
 data/
-.ruff_cache/
-.pytest_cache/
